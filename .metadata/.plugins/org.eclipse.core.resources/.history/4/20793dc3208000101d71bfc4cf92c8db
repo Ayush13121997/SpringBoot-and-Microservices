@@ -1,0 +1,51 @@
+package in.SprinLearning.repo;
+
+import java.util.List;
+
+import org.springframework.data.jpa.repository.JpaRepository;
+import org.springframework.data.jpa.repository.Modifying;
+import org.springframework.data.jpa.repository.Query;
+import org.springframework.stereotype.Repository;
+import org.springframework.transaction.annotation.Transactional;
+
+import in.SprinLearning.entity.User;
+
+@Repository
+public interface UserRepo extends JpaRepository<User, Integer> {
+
+	//Working with findByXXX methods
+	public List<User> findByGender(String gender);
+	
+	public List<User> findByAge(Integer Age);
+	
+	public List<User> findByGenderAndCountry(String gender , String country);
+	
+	public List<User> findByAgeGreaterThanEqual(Integer age);
+	
+	//Working with Custom Queries
+	
+	@Query(value = "Select * from User" ,nativeQuery = true)
+	public List<User>  getAllUserRows();
+	
+	@Query(value = "Select * from User where country = :1 " ,nativeQuery = true)
+	public List<User> getAllUsersBasedOnCountry(String country);
+	
+	@Query(value = "From User")
+	public List<User> getAllUserRowsUsingHQL();
+	
+	
+	@Query(value = "Delete from User where user_id = :userId" ,nativeQuery = true)
+	@Modifying
+	@Transactional
+	public void deleteUserUsingQuery(Integer userId);
+	
+	@Query(value = "Update User SET country = :country where user_id = :userId", nativeQuery = true)
+	@Modifying
+	@Transactional
+	public void updateUserCountryUsingQuery(Integer userId ,String country);
+	
+	@Query(value = "Insert into User(uname ,country ,gender ,age) values (:uname ,:country,:gender,:age)")
+	@Modifying
+	@Transactional
+	public void insertUserDataUsingQuery(String uname , String country , String gender ,Integer age);
+}

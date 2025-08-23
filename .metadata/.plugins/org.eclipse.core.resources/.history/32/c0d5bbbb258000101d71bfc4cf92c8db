@@ -1,0 +1,274 @@
+package in.SprinLearning.service;
+
+import java.util.Arrays;
+import java.util.List;
+import java.util.Optional;
+
+import org.springframework.beans.factory.annotation.Autowired;
+import org.springframework.data.domain.Page;
+import org.springframework.data.domain.PageRequest;
+import org.springframework.data.domain.Pageable;
+import org.springframework.data.domain.Sort;
+import org.springframework.data.domain.Sort.Order;
+import org.springframework.stereotype.Service;
+
+import in.SprinLearning.entity.User;
+import in.SprinLearning.repo.UserRepo;
+
+@Service
+public class UserService {
+
+	private UserRepo userRepo;
+
+	@Autowired
+	public UserService(UserRepo userRepo) {
+		this.userRepo = userRepo;
+	}
+
+	// preDefined Methods Of JPARepository
+	public void saveUser() {
+		User user = new User();
+		user.setUname("Ayush");
+		user.setGender("M");
+		user.setCountry("India");
+		user.setAge(26);
+		User save = userRepo.save(user);
+
+		System.out.println(save);
+
+		System.out.println("User Data Saved Successfully");
+	}
+
+	public void saveAllUser() {
+		User u1 = new User();
+		u1.setUname("Ayush");
+		u1.setGender("M");
+		u1.setCountry("India");
+		u1.setAge(26);
+
+		User u2 = new User();
+		u2.setUname("Shivam");
+		u2.setGender("M");
+		u2.setCountry("India");
+		u2.setAge(27);
+
+		User u3 = new User();
+		u3.setUname("Kaushik");
+		u3.setGender("M");
+		u3.setCountry("India");
+		u3.setAge(24);
+
+		User u4 = new User();
+		u4.setUname("Pari");
+		u4.setGender("F");
+		u4.setCountry("India");
+		u4.setAge(21);
+
+		User u5 = new User();
+		u5.setUname("Khushi");
+		u5.setGender("F");
+		u5.setCountry("India");
+		u5.setAge(19);
+
+		User u6 = new User();
+		u6.setUname("Smith");
+		u6.setGender("M");
+		u6.setCountry("US");
+		u6.setAge(29);
+
+		List<User> asUserList = Arrays.asList(u1, u2, u3, u4, u5, u6);
+
+		List<User> saveAll = userRepo.saveAll(asUserList);
+
+		saveAll.forEach(System.out::println);
+
+		System.out.println("Users Data Saved Successfully");
+	}
+
+	public void getUserById(Integer id) {
+		Optional<User> byId = userRepo.findById(id);
+
+		if (byId.isPresent()) {
+			System.out.println(byId);
+		} else {
+			System.out.println("User Not Found");
+		}
+	}
+
+	public void getAllUser() {
+		Iterable<User> allUser = userRepo.findAll();
+
+		allUser.forEach(System.out::println);
+
+	}
+
+	public void getAllUserById(Iterable<Integer> id) {
+		Iterable<User> allUserById = userRepo.findAllById(id);
+
+		allUserById.forEach(System.out::println);
+
+	}
+
+	public void isUserExists(Integer id) {
+		if (userRepo.existsById(id)) {
+			System.out.println("User Exist");
+		} else {
+			System.out.println("User does not Exists");
+		}
+	}
+
+	public void countUsers() {
+		long count = userRepo.count();
+
+		System.out.println("Total Users is " + count);
+	}
+
+	public void deleteUser(User user) {
+		userRepo.delete(user);
+
+		System.out.println("User Deleted Successfully");
+
+	}
+
+	public void deleteUserById(Integer id) {
+
+		userRepo.deleteById(id);
+		System.out.println("User Deleted Successfully");
+
+	}
+
+	public void deleteAllUserById(List<Integer> id) {
+
+		userRepo.deleteAllById(id);
+
+		System.out.println("Users Deleted Successfully");
+
+	}
+
+	public void deleteAllUser() {
+
+		userRepo.deleteAll();
+
+		System.out.println("Users Deleted Successfully");
+
+	}
+
+	public void deleteAllUser(Iterable<User> user) {
+
+		userRepo.deleteAll(user);
+
+		System.out.println("Users Deleted Successfully");
+
+	}
+
+	// Working with findByXXX methods
+
+	public void findByGender(String gender) {
+		List<User> byGender = userRepo.findByGender(gender);
+
+		byGender.forEach(System.out::println);
+
+	}
+
+	public void findByAge(Integer age) {
+		Iterable<User> byAge = userRepo.findByAge(age);
+
+		byAge.forEach(System.out::println);
+	}
+
+	public void findByGenderAndCountry(String gender, String country) {
+		Iterable<User> byGenderAndCountry = userRepo.findByGenderAndCountry(gender, country);
+
+		byGenderAndCountry.forEach(System.out::println);
+	}
+
+	public void findByAgeGreaterThanEqual(Integer age) {
+		Iterable<User> byAgeGreaterThanEqual = userRepo.findByAgeGreaterThanEqual(age);
+
+		byAgeGreaterThanEqual.forEach(System.out::println);
+
+	}
+
+	// Working with Custom Queries
+
+	// Working with Custom Queries
+
+	public void getAllUserRows() {
+		Iterable<User> allUserRows = userRepo.getAllUserRows();
+
+		allUserRows.forEach(System.out::println);
+
+	}
+
+	public void getAllUsersBasedOnCountry(String country) {
+		Iterable<User> usersBasedOnCountry = userRepo.getAllUsersBasedOnCountry(country);
+
+		usersBasedOnCountry.forEach(System.out::println);
+	}
+
+	public void getAllUserRowsUsingHQL() {
+		Iterable<User> getAllUserRowsUsingHQL = userRepo.getAllUserRowsUsingHQL();
+
+		getAllUserRowsUsingHQL.forEach(System.out::println);
+	}
+
+	public void deleteUserUsingQuery(Integer userId) {
+		if (userRepo.existsById(userId)) {
+			userRepo.deleteUserUsingQuery(userId);
+			System.out.println("User Deleted Successfully");
+		} else {
+			System.out.println("User does not Exists");
+		}
+
+	}
+
+	public void updateUserCountryUsingQuery(Integer userId, String country) {
+		userRepo.updateUserCountryUsingQuery(userId, country);
+
+		System.out.println("User Updated Successfully");
+
+	}
+
+	public void insertUserDataUsingQuery(String uname, String country, String gender, Integer Age) {
+
+		userRepo.insertUserDataUsingQuery(uname, country, gender, Age);
+
+		System.out.println("User Inserted Successfully");
+
+	}
+	
+	// Sorting
+	public void getUserWithSorting()
+	{
+		
+//		Sort sort = Sort.by("gender").descending();
+		
+//		List<User> all = userRepo.findAll(Sort.by("age").and(Sort.by("uname").descending()));
+		
+		Iterable<Order> byGender = userRepo.findByGender("M", Sort.by("age").and(Sort.by("uname").descending()));
+		
+		byGender.forEach(System.out::println);
+		
+		//List<User> all = userRepo.findAll(sort); // select * from user order by age
+		
+		//Iterable<User> all = userRepo.findAll(Sort.by(Sort.Direction.ASC, "age"));
+
+		//all.forEach(System.out::println);
+
+	}
+	
+	//pagination
+	
+	public void getUserByPageNum(Integer pageNum , Integer pageSize)
+	{
+		 Pageable pageable = PageRequest.of(pageNum, pageSize);
+		 
+		 Page<User> pageData = userRepo.findAll(pageable);
+		 
+		 Iterable<User> userData = pageData.getContent();
+		 
+		 userData.forEach(System.out::println);
+	}
+	
+
+}

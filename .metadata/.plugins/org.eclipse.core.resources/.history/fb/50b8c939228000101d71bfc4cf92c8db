@@ -1,0 +1,79 @@
+package in.SprinLearning;
+
+import org.springframework.boot.SpringApplication;
+import org.springframework.boot.autoconfigure.SpringBootApplication;
+import org.springframework.context.ConfigurableApplicationContext;
+
+import in.SprinLearning.entity.User;
+import in.SprinLearning.service.UserService;
+
+@SpringBootApplication
+public class Application {
+
+	public static void main(String[] args) {
+		ConfigurableApplicationContext context = SpringApplication.run(Application.class, args);
+
+		UserService userService = context.getBean(UserService.class);
+
+//	    userService.saveUser();
+
+//		 userService.saveAllUser();
+
+//		 userService.getUserById(7);
+
+		// userService.getAllUser();
+
+		// userService.getAllUserById(Arrays.asList(2,4,5,7));
+
+		// userService.isUserExists(3);
+
+		// userService.countUsers();
+
+		User user = new User();
+
+		user.setUserId(2);
+
+		// userService.deleteUser(user);
+
+		// userService.deleteUserById(7);
+
+		// userService.deleteAllUserById(Arrays.asList(4,5));
+
+		// userService.deleteAllUser();
+
+		User u1 = new User();
+
+		u1.setUserId(2);
+
+		User u2 = new User();
+
+		u2.setUserId(2);
+		
+//		userService.deleteAllUser(Arrays.asList(u1, u2));
+		
+//		userService.findByGender("M");
+		
+//		userService.findByAge(24);
+		
+//		userService.findByGenderAndCountry("F", "INDIA");
+		
+//		userService.findByAgeGreaterThanEqual(26);
+
+//		userService.getAllUserRows();
+		
+		userService.getAllUsersBasedOnCountry("US");
+		
+		//userService.getAllUserRowsUsingHQL();
+		
+		//userService.updateUserCountryUsingQuery(9, "UK");
+		
+		//userService.deleteUserUsingQuery(14);
+		
+		//userService.insertUserDataUsingQuery("Amurt", "US", "M", 24);
+		
+		//userService.getUserWithSorting();
+		
+		//userService.getUserByPageNum(0, 3);
+	}
+
+}
