@@ -1,0 +1,63 @@
+package in.SpringLearning.generator;
+
+import java.io.Serializable;
+import java.sql.PreparedStatement;
+import java.sql.ResultSet;
+
+import org.hibernate.Session;
+import org.hibernate.engine.spi.SharedSessionContractImplementor;
+import org.hibernate.id.IdentifierGenerator;
+
+public class OrderIdGenerator implements IdentifierGenerator{
+
+	private static final long serialVersionUID = 1L;
+
+	private final static String PREFIX = "OD";
+	
+	private static String SUFFIX = "";
+	
+	String query = "SELECT lastvalue FROM id_generator WHERE id = 'order_id'" ;
+	
+	@Override
+	public Serializable generate(SharedSessionContractImplementor session, Object object) {
+		
+		Session hibernateSession = (Session)session;
+		
+		hibernateSession.doReturningWork(connection -> {
+			
+			try(PreparedStatement ps = connection.prepareStatement(query)) {
+				
+				ResultSet rs = ps.executeQuery();
+				
+				if(rs.next()) {
+					
+					int lastValue = rs.getInt(1);
+					
+					int newValue = lastValue + 1 ;
+					
+					try(PreparedStatement updatePs =connection.prepareStatement("UPDATE id_generator SET lastvalue = ? WHERE id = 'order_id'")){
+						
+						updatePs.setInt(1,newValue);
+						
+						updatePs.executeUpdate();
+						
+					}
+					SUFFIX = String.valueOf(lastValue);
+				}
+				
+			}
+			catch(Exception e) {
+				
+				e.getStackTrace();
+				
+			}
+			
+			
+			
+			return PREFIX + SUFFIX ;
+		});
+		
+		return null;
+	}
+
+}

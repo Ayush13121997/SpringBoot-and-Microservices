@@ -1,0 +1,56 @@
+package in.SpringLearning.geneartor;
+
+import java.io.Serializable;
+import java.sql.Connection;
+import java.sql.ResultSet;
+import java.sql.SQLException;
+import java.sql.Statement;
+
+import org.hibernate.engine.jdbc.connections.spi.JdbcConnectionAccess;
+import org.hibernate.engine.spi.SharedSessionContractImplementor;
+import org.hibernate.id.IdentifierGenerator;
+
+/**
+ * Custom ID Generator that generates IDs in the format "OD1", "OD2", "OD3",
+ * etc.
+ */
+
+public class OrderIdGenerator implements IdentifierGenerator {
+
+	private static final String PREFIX = "OD";
+
+	@Override
+	public Serializable generate(SharedSessionContractImplementor session, Object object) {
+
+		String SUFFIX = "";
+
+		JdbcConnectionAccess jdbcConnectionAccess = session.getJdbcConnectionAccess();
+
+		String query = "SELECT MAX(ORDR_SEQ_ID) + 1 FROM ORDR_SEQUENCE";
+		String updateQuery = "UPDATE ORDR_SEQUENCE SET ORDR_SEQ_ID = ORDR_SEQ_ID + 1";
+
+		try (Connection connection = jdbcConnectionAccess.obtainConnection();
+				Statement statement = connection.createStatement();
+				ResultSet resultSet = statement.executeQuery(query)
+
+		) 
+		{
+			
+			if (resultSet.next()) {
+				int id = resultSet.getInt(1);
+
+				SUFFIX = String.valueOf(id);
+				
+				statement.executeUpdate(updateQuery);
+				
+				return PREFIX + SUFFIX;
+
+			}
+		} catch (SQLException e) {
+			e.printStackTrace();
+		}
+		
+		return null;
+		
+	}
+}

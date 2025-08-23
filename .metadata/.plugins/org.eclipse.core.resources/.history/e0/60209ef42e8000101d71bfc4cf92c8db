@@ -1,0 +1,73 @@
+package in.SpringLearning.geneartor;
+
+import java.io.Serializable;
+
+import org.hibernate.Session;
+import org.hibernate.engine.spi.SharedSessionContractImplementor;
+import org.hibernate.id.IdentifierGenerator;
+
+/**
+ * Custom ID Generator that generates IDs in the format "OD1", "OD2", "OD3",
+ * etc.
+ */
+
+public class OrderIdGenerator implements IdentifierGenerator {
+
+	private static final String PREFIX = "OD";
+	
+	private static String SUFFIX = "";
+
+	@Override
+	public Serializable generate(SharedSessionContractImplementor session, Object object) {
+
+		
+		
+		Session hibernateSession = (Session) session;
+		
+		hibernateSession.doWork(connection -> {
+			try (var statement = connection.createStatement()) {
+				var resultSet = statement.executeQuery("SELECT MAX(ORDR_SEQ_ID) + 1 FROM ORDR_SEQUENCE");
+				if (resultSet.next()) {
+					int id = resultSet.getInt(1);
+					SUFFIX = String.valueOf(id);
+					statement.executeUpdate("UPDATE ORDR_SEQUENCE SET ORDR_SEQ_ID = ORDR_SEQ_ID + 1");
+				}
+			} catch (Exception e) {
+				e.printStackTrace();
+			}
+		});
+		
+		return PREFIX + SUFFIX;
+		
+		
+
+//		JdbcConnectionAccess jdbcConnectionAccess = session.getJdbcConnectionAccess();
+//
+//		String query = "SELECT MAX(ORDR_SEQ_ID) + 1 FROM ORDR_SEQUENCE";
+//		String updateQuery = "UPDATE ORDR_SEQUENCE SET ORDR_SEQ_ID = ORDR_SEQ_ID + 1";
+//
+//		try (Connection connection = jdbcConnectionAccess.obtainConnection();
+//				Statement statement = connection.createStatement();
+//				ResultSet resultSet = statement.executeQuery(query)
+//
+//		) 
+//		{
+//			
+//			if (resultSet.next()) {
+//				int id = resultSet.getInt(1);
+//
+//				SUFFIX = String.valueOf(id);
+//				
+//				statement.executeUpdate(updateQuery);
+//				
+//				return PREFIX + SUFFIX;
+//
+//			}
+//		} catch (SQLException e) {
+//			e.printStackTrace();
+//		}
+//		
+//		return null;
+		
+	}
+}
