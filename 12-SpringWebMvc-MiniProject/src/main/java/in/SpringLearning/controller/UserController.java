@@ -38,7 +38,7 @@ public class UserController {
 	}
 	
 	@GetMapping("/loadUserById")
-	public String loadUserById(@RequestParam("uid")   Integer uid, Model model) {
+	public String loadUserById(@RequestParam("uid") Integer uid, Model model) {
 		User user = userService.getUserById(uid);
 		if (user != null) {
 			model.addAttribute("user", user);
@@ -61,7 +61,7 @@ public class UserController {
 	}
 	
 	@PostMapping("/saveUser")
-	public String saveUser(@Valid  User user, BindingResult binding , Model model) {
+	public String saveUser(@Valid User user, BindingResult binding , Model model) {
 		
 		
 		if (binding.hasErrors()) {

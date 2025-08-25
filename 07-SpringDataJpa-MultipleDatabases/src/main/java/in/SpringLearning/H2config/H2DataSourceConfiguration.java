@@ -1,5 +1,7 @@
 package in.SpringLearning.H2config;
 
+import java.util.HashMap;
+
 import javax.sql.DataSource;
 
 import org.springframework.beans.factory.annotation.Qualifier;
@@ -39,9 +41,13 @@ public class H2DataSourceConfiguration {
     @Bean
     LocalContainerEntityManagerFactoryBean h2EntityManagerFactoryBean(
             @Qualifier("h2DataSource") DataSource dataSource) {
+    	
+    	HashMap<String, Object> properties = new HashMap<>();
+		properties.put("hibernate.hbm2ddl.auto", "update");
 
 		LocalContainerEntityManagerFactoryBean em = new LocalContainerEntityManagerFactoryBean();
 		em.setDataSource(dataSource);
+		em.setJpaPropertyMap(properties);
 		em.setPackagesToScan("in.SpringLearning.productentity"); // Set your entity package
 		em.setJpaVendorAdapter(new HibernateJpaVendorAdapter());
 
