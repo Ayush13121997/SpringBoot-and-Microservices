@@ -2,6 +2,7 @@
 <section name="Workbench">
 	<section name="MavenProjectWizardLocationPage">
 		<list key="location">
+			<item value="/Users/Ayush/Documents/SBMS/15-JacksonAPI"/>
 			<item value="/Users/Ayush/Documents/SBMS/02-SpringCore-App"/>
 		</list>
 		<list key="projectNameTemplate">
@@ -49,6 +50,8 @@
 		<list key="name">
 		</list>
 		<list key="artifactId">
+			<item value="16-GsonAPI"/>
+			<item value="15-JacksonAPI"/>
 			<item value="03-SpringCore-Annotations"/>
 			<item value="02-SpringCore-App"/>
 		</list>
@@ -65,6 +68,14 @@
 		</list>
 	</section>
 	<section name="org.eclipse.m2e.core.pom.overview">
+		<list key="ciManagementUrl">
+		</list>
+		<list key="ciManagementSystem">
+		</list>
+		<list key="issueManagementSystem">
+		</list>
+		<list key="issueManagementUrl">
+		</list>
 	</section>
 	<section name="org.eclipse.m2e.core.pom.dependencies">
 	</section>

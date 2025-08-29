@@ -1,0 +1,11 @@
+spring:
+  application:
+    name: 22-RESTAPI-ConsumerDevWebClient
+quotes:
+  random:
+    api:
+      url: https://dummyjson.com/quotes/random
+  api:
+    url: https://dummyjson.com/quotes
+server:
+  port: 8080

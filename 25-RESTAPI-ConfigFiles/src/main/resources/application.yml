@@ -1,0 +1,10 @@
+spring:
+  application:
+    name: 25-RESTAPI-ConfigFiles
+app:
+  messages:
+    greet: Good Morning..!!
+    welcome: Welcome to Spring Boot Application
+    inValidLogin: Invalid Credentials
+    regSuccess: Registration Successful
+    invalidEmail: Please provide valid email
