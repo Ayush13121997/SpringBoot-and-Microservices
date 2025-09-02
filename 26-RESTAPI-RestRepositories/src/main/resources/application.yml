@@ -1,0 +1,11 @@
+spring:
+  application:
+    name: 26-RESTAPI-RestRepositories
+  datasource:
+    url: jdbc:mysql://localhost:3306/SPRINGBOOT
+    username: root
+    password: Ayush123@
+  jpa:
+    hibernate:
+      ddl-auto: update
+    show-sql: true
