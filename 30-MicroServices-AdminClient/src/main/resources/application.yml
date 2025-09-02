@@ -1,0 +1,5 @@
+spring:
+  application:
+    name: 30-MicroServices-AdminClient
+server:
+      port: 1111

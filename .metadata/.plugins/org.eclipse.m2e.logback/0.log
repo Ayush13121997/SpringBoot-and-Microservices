@@ -7591,3 +7591,605 @@ org.eclipse.core.runtime.CoreException: Could not resolve artifact org.webjars:s
 2025-08-31 21:24:00,320 [Stop Help Server] INFO  o.e.jetty.server.AbstractConnector - Stopped ServerConnector@394ad4a3{HTTP/1.1, (http/1.1)}{127.0.0.1:0}
 2025-09-02 08:32:08,274 [Worker-2: Loading available Gradle versions] INFO  o.e.b.c.i.u.g.PublishedGradleVersions - Gradle version information cache is out-of-date. Trying to update.
 2025-09-02 08:47:08,438 [Worker-9: Loading available Gradle versions] INFO  o.e.b.c.i.u.g.PublishedGradleVersions - Gradle version information cache is up-to-date. Trying to read.
+2025-09-02 08:57:13,662 [Worker-1: Import Getting Started Content] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: in.SpringLearning:29-MicroServices-EurekaServer:0.0.1-SNAPSHOT @ /Users/Ayush/Documents/SBMS/29-MicroServices-EurekaServer/pom.xml.
+2025-09-02 08:57:15,064 [Worker-1: Import Getting Started Content] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/springframework/security/spring-security-crypto/6.5.3/spring-security-crypto-6.5.3.pom
+2025-09-02 08:57:15,075 [Worker-1: Import Getting Started Content] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/springframework/security/spring-security-crypto/6.5.3/spring-security-crypto-6.5.3.pom
+2025-09-02 08:57:15,337 [Worker-1: Import Getting Started Content] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/springframework/boot/spring-boot-starter-freemarker/3.5.5/spring-boot-starter-freemarker-3.5.5.pom
+2025-09-02 08:57:15,345 [Worker-1: Import Getting Started Content] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/springframework/boot/spring-boot-starter-freemarker/3.5.5/spring-boot-starter-freemarker-3.5.5.pom
+2025-09-02 08:57:15,802 [Worker-1: Import Getting Started Content] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/glassfish/jersey/core/jersey-client/3.1.11/jersey-client-3.1.11.pom
+2025-09-02 08:57:15,816 [Worker-1: Import Getting Started Content] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/glassfish/jersey/core/jersey-client/3.1.11/jersey-client-3.1.11.pom
+2025-09-02 08:57:15,874 [Worker-1: Import Getting Started Content] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/glassfish/jersey/project/3.1.11/project-3.1.11.pom
+2025-09-02 08:57:15,951 [Worker-1: Import Getting Started Content] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/glassfish/jersey/project/3.1.11/project-3.1.11.pom
+2025-09-02 08:57:16,003 [Worker-1: Import Getting Started Content] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/glassfish/jersey/core/jersey-common/3.1.11/jersey-common-3.1.11.pom
+2025-09-02 08:57:16,011 [Worker-1: Import Getting Started Content] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/glassfish/jersey/core/jersey-common/3.1.11/jersey-common-3.1.11.pom
+2025-09-02 08:57:16,081 [Worker-1: Import Getting Started Content] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/glassfish/jersey/inject/jersey-hk2/3.1.11/jersey-hk2-3.1.11.pom
+2025-09-02 08:57:16,085 [Worker-1: Import Getting Started Content] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/glassfish/jersey/inject/jersey-hk2/3.1.11/jersey-hk2-3.1.11.pom
+2025-09-02 08:57:16,131 [Worker-1: Import Getting Started Content] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/glassfish/jersey/inject/project/3.1.11/project-3.1.11.pom
+2025-09-02 08:57:16,134 [Worker-1: Import Getting Started Content] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/glassfish/jersey/inject/project/3.1.11/project-3.1.11.pom
+2025-09-02 08:57:16,234 [Worker-1: Import Getting Started Content] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/glassfish/jersey/connectors/jersey-apache-connector/3.1.11/jersey-apache-connector-3.1.11.pom
+2025-09-02 08:57:16,238 [Worker-1: Import Getting Started Content] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/glassfish/jersey/connectors/jersey-apache-connector/3.1.11/jersey-apache-connector-3.1.11.pom
+2025-09-02 08:57:16,295 [Worker-1: Import Getting Started Content] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/glassfish/jersey/connectors/project/3.1.11/project-3.1.11.pom
+2025-09-02 08:57:16,299 [Worker-1: Import Getting Started Content] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/glassfish/jersey/connectors/project/3.1.11/project-3.1.11.pom
+2025-09-02 08:57:16,436 [Worker-1: Import Getting Started Content] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/commons-logging/commons-logging/1.3.5/commons-logging-1.3.5.pom
+2025-09-02 08:57:16,449 [Worker-1: Import Getting Started Content] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/commons-logging/commons-logging/1.3.5/commons-logging-1.3.5.pom
+2025-09-02 08:57:16,513 [Worker-1: Import Getting Started Content] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/glassfish/jersey/containers/jersey-container-servlet/3.1.11/jersey-container-servlet-3.1.11.pom
+2025-09-02 08:57:16,518 [Worker-1: Import Getting Started Content] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/glassfish/jersey/containers/jersey-container-servlet/3.1.11/jersey-container-servlet-3.1.11.pom
+2025-09-02 08:57:16,561 [Worker-1: Import Getting Started Content] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/glassfish/jersey/containers/project/3.1.11/project-3.1.11.pom
+2025-09-02 08:57:16,567 [Worker-1: Import Getting Started Content] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/glassfish/jersey/containers/project/3.1.11/project-3.1.11.pom
+2025-09-02 08:57:16,621 [Worker-1: Import Getting Started Content] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/glassfish/jersey/containers/jersey-container-servlet-core/3.1.11/jersey-container-servlet-core-3.1.11.pom
+2025-09-02 08:57:16,625 [Worker-1: Import Getting Started Content] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/glassfish/jersey/containers/jersey-container-servlet-core/3.1.11/jersey-container-servlet-core-3.1.11.pom
+2025-09-02 08:57:16,671 [Worker-1: Import Getting Started Content] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/glassfish/jersey/core/jersey-server/3.1.11/jersey-server-3.1.11.pom
+2025-09-02 08:57:16,679 [Worker-1: Import Getting Started Content] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/glassfish/jersey/core/jersey-server/3.1.11/jersey-server-3.1.11.pom
+2025-09-02 08:57:16,807 [Worker-1: Import Getting Started Content] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/springframework/boot/spring-boot-starter-cache/3.5.5/spring-boot-starter-cache-3.5.5.pom
+2025-09-02 08:57:16,811 [Worker-1: Import Getting Started Content] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/springframework/boot/spring-boot-starter-cache/3.5.5/spring-boot-starter-cache-3.5.5.pom
+2025-09-02 08:57:17,171 [Worker-1: Import Getting Started Content] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/springframework/security/spring-security-crypto/6.5.3/spring-security-crypto-6.5.3.jar
+2025-09-02 08:57:17,195 [Worker-1: Import Getting Started Content] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/springframework/security/spring-security-crypto/6.5.3/spring-security-crypto-6.5.3.jar
+2025-09-02 08:57:17,244 [BasicRepositoryConnector-repo.maven.apache.org-0-1] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/glassfish/jersey/connectors/jersey-apache-connector/3.1.11/jersey-apache-connector-3.1.11.jar
+2025-09-02 08:57:17,256 [BasicRepositoryConnector-repo.maven.apache.org-0-1] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/glassfish/jersey/connectors/jersey-apache-connector/3.1.11/jersey-apache-connector-3.1.11.jar
+2025-09-02 08:57:17,288 [BasicRepositoryConnector-repo.maven.apache.org-0-1] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/glassfish/jersey/core/jersey-server/3.1.11/jersey-server-3.1.11.jar
+2025-09-02 08:57:17,326 [BasicRepositoryConnector-repo.maven.apache.org-0-3] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/glassfish/jersey/containers/jersey-container-servlet-core/3.1.11/jersey-container-servlet-core-3.1.11.jar
+2025-09-02 08:57:17,337 [BasicRepositoryConnector-repo.maven.apache.org-0-4] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/glassfish/jersey/core/jersey-common/3.1.11/jersey-common-3.1.11.jar
+2025-09-02 08:57:17,339 [BasicRepositoryConnector-repo.maven.apache.org-0-0] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/springframework/boot/spring-boot-starter-freemarker/3.5.5/spring-boot-starter-freemarker-3.5.5.jar
+2025-09-02 08:57:17,339 [BasicRepositoryConnector-repo.maven.apache.org-0-2] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/glassfish/jersey/containers/jersey-container-servlet/3.1.11/jersey-container-servlet-3.1.11.jar
+2025-09-02 08:57:17,350 [BasicRepositoryConnector-repo.maven.apache.org-0-0] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/springframework/boot/spring-boot-starter-freemarker/3.5.5/spring-boot-starter-freemarker-3.5.5.jar
+2025-09-02 08:57:17,369 [BasicRepositoryConnector-repo.maven.apache.org-0-2] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/glassfish/jersey/containers/jersey-container-servlet/3.1.11/jersey-container-servlet-3.1.11.jar
+2025-09-02 08:57:17,383 [BasicRepositoryConnector-repo.maven.apache.org-0-3] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/glassfish/jersey/containers/jersey-container-servlet-core/3.1.11/jersey-container-servlet-core-3.1.11.jar
+2025-09-02 08:57:17,391 [BasicRepositoryConnector-repo.maven.apache.org-0-0] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/glassfish/jersey/core/jersey-client/3.1.11/jersey-client-3.1.11.jar
+2025-09-02 08:57:17,413 [BasicRepositoryConnector-repo.maven.apache.org-0-2] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/glassfish/jersey/inject/jersey-hk2/3.1.11/jersey-hk2-3.1.11.jar
+2025-09-02 08:57:17,437 [BasicRepositoryConnector-repo.maven.apache.org-0-3] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/springframework/boot/spring-boot-starter-cache/3.5.5/spring-boot-starter-cache-3.5.5.jar
+2025-09-02 08:57:17,441 [BasicRepositoryConnector-repo.maven.apache.org-0-3] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/springframework/boot/spring-boot-starter-cache/3.5.5/spring-boot-starter-cache-3.5.5.jar
+2025-09-02 08:57:17,449 [BasicRepositoryConnector-repo.maven.apache.org-0-2] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/glassfish/jersey/inject/jersey-hk2/3.1.11/jersey-hk2-3.1.11.jar
+2025-09-02 08:57:17,490 [BasicRepositoryConnector-repo.maven.apache.org-0-1] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/glassfish/jersey/core/jersey-server/3.1.11/jersey-server-3.1.11.jar
+2025-09-02 08:57:17,504 [BasicRepositoryConnector-repo.maven.apache.org-0-0] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/glassfish/jersey/core/jersey-client/3.1.11/jersey-client-3.1.11.jar
+2025-09-02 08:57:17,537 [BasicRepositoryConnector-repo.maven.apache.org-0-4] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/glassfish/jersey/core/jersey-common/3.1.11/jersey-common-3.1.11.jar
+2025-09-02 08:57:19,164 [Worker-1: Import Getting Started Content] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /29-MicroServices-EurekaServer/src/main/java
+2025-09-02 08:57:19,176 [Worker-1: Import Getting Started Content] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /29-MicroServices-EurekaServer/src/main/resources
+2025-09-02 08:57:19,186 [Worker-1: Import Getting Started Content] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /29-MicroServices-EurekaServer/src/main/resources
+2025-09-02 08:57:19,193 [Worker-1: Import Getting Started Content] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /29-MicroServices-EurekaServer/src/test/java
+2025-09-02 08:57:19,194 [Worker-1: Import Getting Started Content] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /29-MicroServices-EurekaServer/src/test/resources
+2025-09-02 08:57:19,798 [Worker-16: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/springframework/security/spring-security-crypto/6.5.3/spring-security-crypto-6.5.3-sources.jar
+2025-09-02 08:57:19,852 [Worker-16: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/springframework/security/spring-security-crypto/6.5.3/spring-security-crypto-6.5.3-sources.jar
+2025-09-02 08:57:19,856 [Worker-16: Download sources and javadoc] INFO  o.e.m.j.internal.DownloadSourcesJob - Downloaded sources for org.springframework.security:spring-security-crypto:6.5.3
+2025-09-02 08:57:19,984 [Worker-16: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/springframework/boot/spring-boot-starter-freemarker/3.5.5/spring-boot-starter-freemarker-3.5.5-sources.jar
+2025-09-02 08:57:19,990 [Worker-16: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/springframework/boot/spring-boot-starter-freemarker/3.5.5/spring-boot-starter-freemarker-3.5.5-sources.jar
+2025-09-02 08:57:19,994 [Worker-16: Download sources and javadoc] INFO  o.e.m.j.internal.DownloadSourcesJob - Downloaded sources for org.springframework.boot:spring-boot-starter-freemarker:3.5.5
+2025-09-02 08:57:20,133 [Worker-16: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/glassfish/jersey/connectors/jersey-apache-connector/3.1.11/jersey-apache-connector-3.1.11-sources.jar
+2025-09-02 08:57:20,151 [Worker-16: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/glassfish/jersey/connectors/jersey-apache-connector/3.1.11/jersey-apache-connector-3.1.11-sources.jar
+2025-09-02 08:57:20,154 [Worker-16: Download sources and javadoc] INFO  o.e.m.j.internal.DownloadSourcesJob - Downloaded sources for org.glassfish.jersey.connectors:jersey-apache-connector:3.1.11
+2025-09-02 08:57:20,282 [Worker-16: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/glassfish/jersey/containers/jersey-container-servlet/3.1.11/jersey-container-servlet-3.1.11-sources.jar
+2025-09-02 08:57:20,314 [Worker-16: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/glassfish/jersey/containers/jersey-container-servlet/3.1.11/jersey-container-servlet-3.1.11-sources.jar
+2025-09-02 08:57:20,317 [Worker-16: Download sources and javadoc] INFO  o.e.m.j.internal.DownloadSourcesJob - Downloaded sources for org.glassfish.jersey.containers:jersey-container-servlet:3.1.11
+2025-09-02 08:57:20,450 [Worker-16: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/glassfish/jersey/containers/jersey-container-servlet-core/3.1.11/jersey-container-servlet-core-3.1.11-sources.jar
+2025-09-02 08:57:20,502 [Worker-16: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/glassfish/jersey/containers/jersey-container-servlet-core/3.1.11/jersey-container-servlet-core-3.1.11-sources.jar
+2025-09-02 08:57:20,505 [Worker-16: Download sources and javadoc] INFO  o.e.m.j.internal.DownloadSourcesJob - Downloaded sources for org.glassfish.jersey.containers:jersey-container-servlet-core:3.1.11
+2025-09-02 08:57:20,669 [Worker-16: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/glassfish/jersey/core/jersey-common/3.1.11/jersey-common-3.1.11-sources.jar
+2025-09-02 08:57:20,848 [Worker-16: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/glassfish/jersey/core/jersey-common/3.1.11/jersey-common-3.1.11-sources.jar
+2025-09-02 08:57:20,858 [Worker-16: Download sources and javadoc] INFO  o.e.m.j.internal.DownloadSourcesJob - Downloaded sources for org.glassfish.jersey.core:jersey-common:3.1.11
+2025-09-02 08:57:20,983 [Worker-16: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/glassfish/jersey/core/jersey-server/3.1.11/jersey-server-3.1.11-sources.jar
+2025-09-02 08:57:21,168 [Worker-16: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/glassfish/jersey/core/jersey-server/3.1.11/jersey-server-3.1.11-sources.jar
+2025-09-02 08:57:21,171 [Worker-16: Download sources and javadoc] INFO  o.e.m.j.internal.DownloadSourcesJob - Downloaded sources for org.glassfish.jersey.core:jersey-server:3.1.11
+2025-09-02 08:57:21,548 [Worker-16: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/glassfish/jersey/core/jersey-client/3.1.11/jersey-client-3.1.11-sources.jar
+2025-09-02 08:57:21,641 [Worker-16: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/glassfish/jersey/core/jersey-client/3.1.11/jersey-client-3.1.11-sources.jar
+2025-09-02 08:57:21,645 [Worker-16: Download sources and javadoc] INFO  o.e.m.j.internal.DownloadSourcesJob - Downloaded sources for org.glassfish.jersey.core:jersey-client:3.1.11
+2025-09-02 08:57:21,771 [Worker-1: Import Getting Started Content] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Imported and configured 1 project(s) in 10 sec
+2025-09-02 08:57:21,785 [Worker-1: Import Getting Started Content] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Update started
+2025-09-02 08:57:21,828 [Worker-16: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/glassfish/jersey/inject/jersey-hk2/3.1.11/jersey-hk2-3.1.11-sources.jar
+2025-09-02 08:57:21,866 [Worker-16: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/glassfish/jersey/inject/jersey-hk2/3.1.11/jersey-hk2-3.1.11-sources.jar
+2025-09-02 08:57:21,869 [Worker-16: Download sources and javadoc] INFO  o.e.m.j.internal.DownloadSourcesJob - Downloaded sources for org.glassfish.jersey.inject:jersey-hk2:3.1.11
+2025-09-02 08:57:24,070 [Worker-1: Import Getting Started Content] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: in.SpringLearning:29-MicroServices-EurekaServer:0.0.1-SNAPSHOT @ /Users/Ayush/Documents/SBMS/29-MicroServices-EurekaServer/pom.xml.
+2025-09-02 08:57:24,148 [Worker-16: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/springframework/boot/spring-boot-starter-cache/3.5.5/spring-boot-starter-cache-3.5.5-sources.jar
+2025-09-02 08:57:24,152 [Worker-16: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/springframework/boot/spring-boot-starter-cache/3.5.5/spring-boot-starter-cache-3.5.5-sources.jar
+2025-09-02 08:57:24,157 [Worker-16: Download sources and javadoc] INFO  o.e.m.j.internal.DownloadSourcesJob - Downloaded sources for org.springframework.boot:spring-boot-starter-cache:3.5.5
+2025-09-02 08:57:25,932 [Worker-1: Import Getting Started Content] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /29-MicroServices-EurekaServer/src/main/java
+2025-09-02 08:57:25,933 [Worker-1: Import Getting Started Content] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /29-MicroServices-EurekaServer/src/main/resources
+2025-09-02 08:57:25,935 [Worker-1: Import Getting Started Content] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /29-MicroServices-EurekaServer/src/main/resources
+2025-09-02 08:57:25,935 [Worker-1: Import Getting Started Content] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /29-MicroServices-EurekaServer/src/test/java
+2025-09-02 08:57:25,936 [Worker-1: Import Getting Started Content] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /29-MicroServices-EurekaServer/src/test/resources
+2025-09-02 08:57:27,043 [Worker-1: Import Getting Started Content] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Update completed for 1 poms: local refresh takes 0.00 sec, refresh facades takes 4.00 sec, update config takes 0.00 sec 
+2025-09-02 08:57:29,440 [Worker-16: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src/main/resources to target/classes
+2025-09-02 08:57:29,480 [Worker-16: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src/main/resources to target/classes
+2025-09-02 08:57:29,494 [Worker-16: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory /Users/Ayush/Documents/SBMS/29-MicroServices-EurekaServer/src/test/resources
+2025-09-02 09:30:02,946 [Worker-21: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src/main/resources to target/classes
+2025-09-02 09:30:03,072 [Worker-21: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src/main/resources to target/classes
+2025-09-02 09:30:03,083 [Worker-21: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory /Users/Ayush/Documents/SBMS/29-MicroServices-EurekaServer/src/test/resources
+2025-09-02 09:31:57,294 [Worker-32: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src/main/resources to target/classes
+2025-09-02 09:31:57,308 [Worker-32: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src/main/resources to target/classes
+2025-09-02 09:31:57,323 [Worker-32: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory /Users/Ayush/Documents/SBMS/29-MicroServices-EurekaServer/src/test/resources
+2025-09-02 09:32:04,582 [Worker-33: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src/main/resources to target/classes
+2025-09-02 09:32:04,584 [Worker-33: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src/main/resources to target/classes
+2025-09-02 09:32:04,590 [Worker-33: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory /Users/Ayush/Documents/SBMS/29-MicroServices-EurekaServer/src/test/resources
+2025-09-02 09:34:35,121 [Worker-34: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src/main/resources to target/classes
+2025-09-02 09:34:35,133 [Worker-34: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src/main/resources to target/classes
+2025-09-02 09:34:35,138 [Worker-34: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory /Users/Ayush/Documents/SBMS/29-MicroServices-EurekaServer/src/test/resources
+2025-09-02 09:39:22,128 [Worker-36: Import Getting Started Content] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: in.SpringLearning:30-MicroServices-AdminClient:0.0.1-SNAPSHOT @ /Users/Ayush/Documents/SBMS/30-MicroServices-AdminClient/pom.xml.
+2025-09-02 09:39:23,871 [Worker-36: Import Getting Started Content] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /30-MicroServices-AdminClient/src/main/java
+2025-09-02 09:39:23,872 [Worker-36: Import Getting Started Content] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /30-MicroServices-AdminClient/src/main/resources
+2025-09-02 09:39:23,876 [Worker-36: Import Getting Started Content] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /30-MicroServices-AdminClient/src/main/resources
+2025-09-02 09:39:23,881 [Worker-36: Import Getting Started Content] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /30-MicroServices-AdminClient/src/test/java
+2025-09-02 09:39:23,882 [Worker-36: Import Getting Started Content] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /30-MicroServices-AdminClient/src/test/resources
+2025-09-02 09:39:24,228 [Worker-36: Import Getting Started Content] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Imported and configured 1 project(s) in 3 sec
+2025-09-02 09:39:24,232 [Worker-36: Import Getting Started Content] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Update started
+2025-09-02 09:39:24,651 [Worker-36: Import Getting Started Content] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: in.SpringLearning:30-MicroServices-AdminClient:0.0.1-SNAPSHOT @ /Users/Ayush/Documents/SBMS/30-MicroServices-AdminClient/pom.xml.
+2025-09-02 09:39:25,745 [Worker-36: Import Getting Started Content] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /30-MicroServices-AdminClient/src/main/java
+2025-09-02 09:39:25,748 [Worker-36: Import Getting Started Content] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /30-MicroServices-AdminClient/src/main/resources
+2025-09-02 09:39:25,749 [Worker-36: Import Getting Started Content] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /30-MicroServices-AdminClient/src/main/resources
+2025-09-02 09:39:25,751 [Worker-36: Import Getting Started Content] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /30-MicroServices-AdminClient/src/test/java
+2025-09-02 09:39:25,752 [Worker-36: Import Getting Started Content] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /30-MicroServices-AdminClient/src/test/resources
+2025-09-02 09:39:26,205 [Worker-36: Import Getting Started Content] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Update completed for 1 poms: local refresh takes 0.00 sec, refresh facades takes 1.00 sec, update config takes 0.00 sec 
+2025-09-02 09:39:26,811 [Worker-26: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src/main/resources to target/classes
+2025-09-02 09:39:26,859 [Worker-26: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src/main/resources to target/classes
+2025-09-02 09:39:26,870 [Worker-26: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory /Users/Ayush/Documents/SBMS/30-MicroServices-AdminClient/src/test/resources
+2025-09-02 09:48:28,726 [Worker-41: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src/main/resources to target/classes
+2025-09-02 09:48:28,730 [Worker-41: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src/main/resources to target/classes
+2025-09-02 09:48:28,736 [Worker-41: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory /Users/Ayush/Documents/SBMS/30-MicroServices-AdminClient/src/test/resources
+2025-09-02 09:48:35,357 [Worker-35: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src/main/resources to target/classes
+2025-09-02 09:48:35,362 [Worker-35: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src/main/resources to target/classes
+2025-09-02 09:48:35,370 [Worker-35: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory /Users/Ayush/Documents/SBMS/30-MicroServices-AdminClient/src/test/resources
+2025-09-02 09:49:09,295 [Worker-37: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src/main/resources to target/classes
+2025-09-02 09:49:09,307 [Worker-37: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src/main/resources to target/classes
+2025-09-02 09:49:09,312 [Worker-37: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory /Users/Ayush/Documents/SBMS/30-MicroServices-AdminClient/src/test/resources
+2025-09-02 09:49:13,185 [Worker-42: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src/main/resources to target/classes
+2025-09-02 09:49:13,193 [Worker-42: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src/main/resources to target/classes
+2025-09-02 09:49:13,202 [Worker-42: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory /Users/Ayush/Documents/SBMS/30-MicroServices-AdminClient/src/test/resources
+2025-09-02 09:49:57,056 [Worker-39: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src/main/resources to target/classes
+2025-09-02 09:49:57,065 [Worker-39: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src/main/resources to target/classes
+2025-09-02 09:49:57,068 [Worker-39: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory /Users/Ayush/Documents/SBMS/30-MicroServices-AdminClient/src/test/resources
+2025-09-02 14:34:28,905 [Worker-26: Import Getting Started Content] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: in.SpringLearning:31-Microservices-WelcomeAPI:0.0.1-SNAPSHOT @ /Users/Ayush/Documents/SBMS/31-Microservices-WelcomeAPI/pom.xml.
+2025-09-02 14:34:29,823 [Worker-26: Import Getting Started Content] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/io/micrometer/micrometer-tracing-bridge-brave/1.5.3/micrometer-tracing-bridge-brave-1.5.3.pom
+2025-09-02 14:34:29,838 [Worker-26: Import Getting Started Content] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/io/micrometer/micrometer-tracing-bridge-brave/1.5.3/micrometer-tracing-bridge-brave-1.5.3.pom
+2025-09-02 14:34:29,899 [Worker-26: Import Getting Started Content] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/io/micrometer/micrometer-tracing/1.5.3/micrometer-tracing-1.5.3.pom
+2025-09-02 14:34:29,908 [Worker-26: Import Getting Started Content] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/io/micrometer/micrometer-tracing/1.5.3/micrometer-tracing-1.5.3.pom
+2025-09-02 14:34:30,782 [Worker-26: Import Getting Started Content] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/io/micrometer/micrometer-tracing-bridge-brave/1.5.3/micrometer-tracing-bridge-brave-1.5.3.jar
+2025-09-02 14:34:30,821 [Worker-26: Import Getting Started Content] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/io/micrometer/micrometer-tracing-bridge-brave/1.5.3/micrometer-tracing-bridge-brave-1.5.3.jar
+2025-09-02 14:34:30,859 [BasicRepositoryConnector-repo.maven.apache.org-1-0] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/io/micrometer/micrometer-tracing/1.5.3/micrometer-tracing-1.5.3.jar
+2025-09-02 14:34:30,889 [BasicRepositoryConnector-repo.maven.apache.org-1-0] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/io/micrometer/micrometer-tracing/1.5.3/micrometer-tracing-1.5.3.jar
+2025-09-02 14:34:31,257 [Worker-26: Import Getting Started Content] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /31-Microservices-WelcomeAPI/src/main/java
+2025-09-02 14:34:31,257 [Worker-26: Import Getting Started Content] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /31-Microservices-WelcomeAPI/src/main/resources
+2025-09-02 14:34:31,261 [Worker-26: Import Getting Started Content] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /31-Microservices-WelcomeAPI/src/main/resources
+2025-09-02 14:34:31,265 [Worker-26: Import Getting Started Content] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /31-Microservices-WelcomeAPI/src/test/java
+2025-09-02 14:34:31,266 [Worker-26: Import Getting Started Content] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /31-Microservices-WelcomeAPI/src/test/resources
+2025-09-02 14:34:31,763 [Worker-26: Import Getting Started Content] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Imported and configured 1 project(s) in 3 sec
+2025-09-02 14:34:31,765 [Worker-26: Import Getting Started Content] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Update started
+2025-09-02 14:34:32,059 [Worker-26: Import Getting Started Content] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: in.SpringLearning:31-Microservices-WelcomeAPI:0.0.1-SNAPSHOT @ /Users/Ayush/Documents/SBMS/31-Microservices-WelcomeAPI/pom.xml.
+2025-09-02 14:34:32,212 [Worker-35: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/io/micrometer/micrometer-tracing-bridge-brave/1.5.3/micrometer-tracing-bridge-brave-1.5.3-sources.jar
+2025-09-02 14:34:32,227 [Worker-35: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/io/micrometer/micrometer-tracing-bridge-brave/1.5.3/micrometer-tracing-bridge-brave-1.5.3-sources.jar
+2025-09-02 14:34:32,230 [Worker-35: Download sources and javadoc] INFO  o.e.m.j.internal.DownloadSourcesJob - Downloaded sources for io.micrometer:micrometer-tracing-bridge-brave:1.5.3
+2025-09-02 14:34:32,348 [Worker-35: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/io/micrometer/micrometer-tracing/1.5.3/micrometer-tracing-1.5.3-sources.jar
+2025-09-02 14:34:32,410 [Worker-35: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/io/micrometer/micrometer-tracing/1.5.3/micrometer-tracing-1.5.3-sources.jar
+2025-09-02 14:34:32,412 [Worker-35: Download sources and javadoc] INFO  o.e.m.j.internal.DownloadSourcesJob - Downloaded sources for io.micrometer:micrometer-tracing:1.5.3
+2025-09-02 14:34:32,846 [Worker-26: Import Getting Started Content] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /31-Microservices-WelcomeAPI/src/main/java
+2025-09-02 14:34:32,847 [Worker-26: Import Getting Started Content] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /31-Microservices-WelcomeAPI/src/main/resources
+2025-09-02 14:34:32,847 [Worker-26: Import Getting Started Content] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /31-Microservices-WelcomeAPI/src/main/resources
+2025-09-02 14:34:32,849 [Worker-26: Import Getting Started Content] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /31-Microservices-WelcomeAPI/src/test/java
+2025-09-02 14:34:32,850 [Worker-26: Import Getting Started Content] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /31-Microservices-WelcomeAPI/src/test/resources
+2025-09-02 14:34:33,332 [Worker-26: Import Getting Started Content] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Update completed for 1 poms: local refresh takes 0.00 sec, refresh facades takes 1.00 sec, update config takes 0.00 sec 
+2025-09-02 14:34:34,161 [Worker-38: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src/main/resources to target/classes
+2025-09-02 14:34:34,200 [Worker-38: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src/main/resources to target/classes
+2025-09-02 14:34:34,209 [Worker-38: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory /Users/Ayush/Documents/SBMS/31-Microservices-WelcomeAPI/src/test/resources
+2025-09-02 14:37:53,439 [Worker-42: Building] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: in.SpringLearning:31-Microservices-WelcomeAPI:0.0.1-SNAPSHOT @ /Users/Ayush/Documents/SBMS/31-Microservices-WelcomeAPI/pom.xml.
+2025-09-02 14:37:54,608 [Worker-42: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src/main/resources to target/classes
+2025-09-02 14:37:54,609 [Worker-42: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src/main/resources to target/classes
+2025-09-02 14:37:54,615 [Worker-42: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory /Users/Ayush/Documents/SBMS/31-Microservices-WelcomeAPI/src/test/resources
+2025-09-02 14:38:27,734 [Worker-39: Building] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: in.SpringLearning:31-Microservices-WelcomeAPI:0.0.1-SNAPSHOT @ /Users/Ayush/Documents/SBMS/31-Microservices-WelcomeAPI/pom.xml.
+2025-09-02 14:38:28,897 [Worker-39: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src/main/resources to target/classes
+2025-09-02 14:38:28,897 [Worker-39: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src/main/resources to target/classes
+2025-09-02 14:38:28,903 [Worker-39: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory /Users/Ayush/Documents/SBMS/31-Microservices-WelcomeAPI/src/test/resources
+2025-09-02 14:39:05,977 [Worker-36: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src/main/resources to target/classes
+2025-09-02 14:39:06,014 [Worker-36: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src/main/resources to target/classes
+2025-09-02 14:39:06,022 [Worker-36: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory /Users/Ayush/Documents/SBMS/31-Microservices-WelcomeAPI/src/test/resources
+2025-09-02 14:39:51,171 [Worker-41: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src/main/resources to target/classes
+2025-09-02 14:39:51,186 [Worker-41: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src/main/resources to target/classes
+2025-09-02 14:39:51,191 [Worker-41: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory /Users/Ayush/Documents/SBMS/31-Microservices-WelcomeAPI/src/test/resources
+2025-09-02 14:40:30,868 [Worker-35: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src/main/resources to target/classes
+2025-09-02 14:40:30,886 [Worker-35: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src/main/resources to target/classes
+2025-09-02 14:40:30,892 [Worker-35: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory /Users/Ayush/Documents/SBMS/31-Microservices-WelcomeAPI/src/test/resources
+2025-09-02 14:40:55,781 [Worker-35: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src/main/resources to target/classes
+2025-09-02 14:40:55,846 [Worker-35: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src/main/resources to target/classes
+2025-09-02 14:40:55,854 [Worker-35: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory /Users/Ayush/Documents/SBMS/31-Microservices-WelcomeAPI/src/test/resources
+2025-09-02 14:41:01,531 [Worker-26: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src/main/resources to target/classes
+2025-09-02 14:41:01,535 [Worker-26: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src/main/resources to target/classes
+2025-09-02 14:41:01,540 [Worker-26: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory /Users/Ayush/Documents/SBMS/31-Microservices-WelcomeAPI/src/test/resources
+2025-09-02 14:41:29,639 [Worker-26: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src/main/resources to target/classes
+2025-09-02 14:41:29,645 [Worker-26: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src/main/resources to target/classes
+2025-09-02 14:41:29,648 [Worker-26: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory /Users/Ayush/Documents/SBMS/31-Microservices-WelcomeAPI/src/test/resources
+2025-09-02 14:41:56,201 [Worker-42: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src/main/resources to target/classes
+2025-09-02 14:41:56,207 [Worker-42: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src/main/resources to target/classes
+2025-09-02 14:41:56,210 [Worker-42: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory /Users/Ayush/Documents/SBMS/31-Microservices-WelcomeAPI/src/test/resources
+2025-09-02 14:42:39,569 [Worker-40: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src/main/resources to target/classes
+2025-09-02 14:42:39,573 [Worker-40: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src/main/resources to target/classes
+2025-09-02 14:42:39,576 [Worker-40: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory /Users/Ayush/Documents/SBMS/31-Microservices-WelcomeAPI/src/test/resources
+2025-09-02 14:43:05,054 [Worker-41: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src/main/resources to target/classes
+2025-09-02 14:43:05,070 [Worker-41: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src/main/resources to target/classes
+2025-09-02 14:43:05,076 [Worker-41: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory /Users/Ayush/Documents/SBMS/31-Microservices-WelcomeAPI/src/test/resources
+2025-09-02 14:58:50,849 [Worker-42: Import Getting Started Content] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: in.SpringLearning:32-MicroServices-GreetAPI:0.0.1-SNAPSHOT @ /Users/Ayush/Documents/SBMS/32-MicroServices-GreetAPI/pom.xml.
+2025-09-02 14:58:52,533 [Worker-42: Import Getting Started Content] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /32-MicroServices-GreetAPI/src/main/java
+2025-09-02 14:58:52,533 [Worker-42: Import Getting Started Content] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /32-MicroServices-GreetAPI/src/main/resources
+2025-09-02 14:58:52,538 [Worker-42: Import Getting Started Content] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /32-MicroServices-GreetAPI/src/main/resources
+2025-09-02 14:58:52,542 [Worker-42: Import Getting Started Content] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /32-MicroServices-GreetAPI/src/test/java
+2025-09-02 14:58:52,543 [Worker-42: Import Getting Started Content] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /32-MicroServices-GreetAPI/src/test/resources
+2025-09-02 14:58:52,833 [Worker-42: Import Getting Started Content] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Imported and configured 1 project(s) in 2 sec
+2025-09-02 14:58:52,834 [Worker-42: Import Getting Started Content] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Update started
+2025-09-02 14:58:53,248 [Worker-42: Import Getting Started Content] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: in.SpringLearning:32-MicroServices-GreetAPI:0.0.1-SNAPSHOT @ /Users/Ayush/Documents/SBMS/32-MicroServices-GreetAPI/pom.xml.
+2025-09-02 14:58:54,378 [Worker-42: Import Getting Started Content] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /32-MicroServices-GreetAPI/src/main/java
+2025-09-02 14:58:54,379 [Worker-42: Import Getting Started Content] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /32-MicroServices-GreetAPI/src/main/resources
+2025-09-02 14:58:54,379 [Worker-42: Import Getting Started Content] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /32-MicroServices-GreetAPI/src/main/resources
+2025-09-02 14:58:54,379 [Worker-42: Import Getting Started Content] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /32-MicroServices-GreetAPI/src/test/java
+2025-09-02 14:58:54,380 [Worker-42: Import Getting Started Content] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /32-MicroServices-GreetAPI/src/test/resources
+2025-09-02 14:58:54,799 [Worker-42: Import Getting Started Content] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Update completed for 1 poms: local refresh takes 0.00 sec, refresh facades takes 1.00 sec, update config takes 0.00 sec 
+2025-09-02 14:58:55,248 [Worker-26: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src/main/resources to target/classes
+2025-09-02 14:58:55,302 [Worker-26: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src/main/resources to target/classes
+2025-09-02 14:58:55,309 [Worker-26: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory /Users/Ayush/Documents/SBMS/32-MicroServices-GreetAPI/src/test/resources
+2025-09-02 15:00:11,849 [Worker-39: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src/main/resources to target/classes
+2025-09-02 15:00:11,859 [Worker-39: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src/main/resources to target/classes
+2025-09-02 15:00:11,865 [Worker-39: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory /Users/Ayush/Documents/SBMS/32-MicroServices-GreetAPI/src/test/resources
+2025-09-02 15:00:25,041 [Worker-43: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src/main/resources to target/classes
+2025-09-02 15:00:25,046 [Worker-43: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src/main/resources to target/classes
+2025-09-02 15:00:25,051 [Worker-43: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory /Users/Ayush/Documents/SBMS/32-MicroServices-GreetAPI/src/test/resources
+2025-09-02 15:01:25,567 [Worker-43: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src/main/resources to target/classes
+2025-09-02 15:01:25,578 [Worker-43: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src/main/resources to target/classes
+2025-09-02 15:01:25,581 [Worker-43: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory /Users/Ayush/Documents/SBMS/32-MicroServices-GreetAPI/src/test/resources
+2025-09-02 15:01:38,626 [Worker-39: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src/main/resources to target/classes
+2025-09-02 15:01:38,630 [Worker-39: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src/main/resources to target/classes
+2025-09-02 15:01:38,636 [Worker-39: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory /Users/Ayush/Documents/SBMS/32-MicroServices-GreetAPI/src/test/resources
+2025-09-02 15:02:43,427 [Worker-26: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src/main/resources to target/classes
+2025-09-02 15:02:43,437 [Worker-26: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src/main/resources to target/classes
+2025-09-02 15:02:43,442 [Worker-26: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory /Users/Ayush/Documents/SBMS/32-MicroServices-GreetAPI/src/test/resources
+2025-09-02 15:03:14,593 [Worker-42: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src/main/resources to target/classes
+2025-09-02 15:03:14,598 [Worker-42: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src/main/resources to target/classes
+2025-09-02 15:03:14,602 [Worker-42: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory /Users/Ayush/Documents/SBMS/32-MicroServices-GreetAPI/src/test/resources
+2025-09-02 15:03:32,602 [Worker-38: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src/main/resources to target/classes
+2025-09-02 15:03:32,607 [Worker-38: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src/main/resources to target/classes
+2025-09-02 15:03:32,616 [Worker-38: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory /Users/Ayush/Documents/SBMS/32-MicroServices-GreetAPI/src/test/resources
+2025-09-02 15:04:04,949 [Worker-26: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src/main/resources to target/classes
+2025-09-02 15:04:04,954 [Worker-26: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src/main/resources to target/classes
+2025-09-02 15:04:04,958 [Worker-26: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory /Users/Ayush/Documents/SBMS/32-MicroServices-GreetAPI/src/test/resources
+2025-09-02 15:05:36,203 [Worker-42: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src/main/resources to target/classes
+2025-09-02 15:05:36,211 [Worker-42: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src/main/resources to target/classes
+2025-09-02 15:05:36,214 [Worker-42: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory /Users/Ayush/Documents/SBMS/32-MicroServices-GreetAPI/src/test/resources
+2025-09-02 15:08:59,449 [Worker-36: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src/main/resources to target/classes
+2025-09-02 15:08:59,514 [Worker-36: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src/main/resources to target/classes
+2025-09-02 15:08:59,528 [Worker-36: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory /Users/Ayush/Documents/SBMS/32-MicroServices-GreetAPI/src/test/resources
+2025-09-02 15:09:12,994 [Worker-36: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src/main/resources to target/classes
+2025-09-02 15:09:13,021 [Worker-36: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src/main/resources to target/classes
+2025-09-02 15:09:13,025 [Worker-36: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory /Users/Ayush/Documents/SBMS/32-MicroServices-GreetAPI/src/test/resources
+2025-09-02 15:11:50,833 [Worker-38: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src/main/resources to target/classes
+2025-09-02 15:11:50,883 [Worker-38: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src/main/resources to target/classes
+2025-09-02 15:11:50,887 [Worker-38: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory /Users/Ayush/Documents/SBMS/32-MicroServices-GreetAPI/src/test/resources
+2025-09-02 15:13:09,666 [Worker-42: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src/main/resources to target/classes
+2025-09-02 15:13:09,676 [Worker-42: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src/main/resources to target/classes
+2025-09-02 15:13:09,680 [Worker-42: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory /Users/Ayush/Documents/SBMS/32-MicroServices-GreetAPI/src/test/resources
+2025-09-02 15:14:42,146 [Worker-36: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src/main/resources to target/classes
+2025-09-02 15:14:42,227 [Worker-36: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src/main/resources to target/classes
+2025-09-02 15:14:42,230 [Worker-36: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory /Users/Ayush/Documents/SBMS/32-MicroServices-GreetAPI/src/test/resources
+2025-09-02 15:14:52,457 [Worker-26: Launching 32-MicroServices-GreetAPI - Application] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src/main/resources to target/classes
+2025-09-02 15:14:52,552 [Worker-26: Launching 32-MicroServices-GreetAPI - Application] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src/main/resources to target/classes
+2025-09-02 15:14:52,558 [Worker-26: Launching 32-MicroServices-GreetAPI - Application] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory /Users/Ayush/Documents/SBMS/32-MicroServices-GreetAPI/src/test/resources
+2025-09-02 15:17:57,948 [Worker-54: Updating Maven Project] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Update started
+2025-09-02 15:17:59,996 [Worker-54: Updating Maven Project] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: in.SpringLearning:29-MicroServices-EurekaServer:0.0.1-SNAPSHOT @ /Users/Ayush/Documents/SBMS/29-MicroServices-EurekaServer/pom.xml.
+2025-09-02 15:18:01,250 [Worker-54: Updating Maven Project] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: in.SpringLearning:30-MicroServices-AdminClient:0.0.1-SNAPSHOT @ /Users/Ayush/Documents/SBMS/30-MicroServices-AdminClient/pom.xml.
+2025-09-02 15:18:01,600 [Worker-54: Updating Maven Project] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: in.SpringLearning:31-Microservices-WelcomeAPI:0.0.1-SNAPSHOT @ /Users/Ayush/Documents/SBMS/31-Microservices-WelcomeAPI/pom.xml.
+2025-09-02 15:18:01,811 [Worker-54: Updating Maven Project] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: in.SpringLearning:32-MicroServices-GreetAPI:0.0.1-SNAPSHOT @ /Users/Ayush/Documents/SBMS/32-MicroServices-GreetAPI/pom.xml.
+2025-09-02 15:18:03,244 [Worker-54: Updating Maven Project] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /29-MicroServices-EurekaServer/src/main/java
+2025-09-02 15:18:03,245 [Worker-54: Updating Maven Project] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /29-MicroServices-EurekaServer/src/main/resources
+2025-09-02 15:18:03,245 [Worker-54: Updating Maven Project] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /29-MicroServices-EurekaServer/src/main/resources
+2025-09-02 15:18:03,246 [Worker-54: Updating Maven Project] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /29-MicroServices-EurekaServer/src/test/java
+2025-09-02 15:18:03,246 [Worker-54: Updating Maven Project] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /29-MicroServices-EurekaServer/src/test/resources
+2025-09-02 15:18:03,530 [Worker-54: Updating Maven Project] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /30-MicroServices-AdminClient/src/main/java
+2025-09-02 15:18:03,530 [Worker-54: Updating Maven Project] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /30-MicroServices-AdminClient/src/main/resources
+2025-09-02 15:18:03,531 [Worker-54: Updating Maven Project] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /30-MicroServices-AdminClient/src/main/resources
+2025-09-02 15:18:03,531 [Worker-54: Updating Maven Project] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /30-MicroServices-AdminClient/src/test/java
+2025-09-02 15:18:03,532 [Worker-54: Updating Maven Project] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /30-MicroServices-AdminClient/src/test/resources
+2025-09-02 15:18:03,705 [Worker-54: Updating Maven Project] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /31-Microservices-WelcomeAPI/src/main/java
+2025-09-02 15:18:03,706 [Worker-54: Updating Maven Project] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /31-Microservices-WelcomeAPI/src/main/resources
+2025-09-02 15:18:03,706 [Worker-54: Updating Maven Project] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /31-Microservices-WelcomeAPI/src/main/resources
+2025-09-02 15:18:03,707 [Worker-54: Updating Maven Project] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /31-Microservices-WelcomeAPI/src/test/java
+2025-09-02 15:18:03,707 [Worker-54: Updating Maven Project] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /31-Microservices-WelcomeAPI/src/test/resources
+2025-09-02 15:18:04,059 [Worker-54: Updating Maven Project] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /32-MicroServices-GreetAPI/src/main/java
+2025-09-02 15:18:04,060 [Worker-54: Updating Maven Project] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /32-MicroServices-GreetAPI/src/main/resources
+2025-09-02 15:18:04,060 [Worker-54: Updating Maven Project] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /32-MicroServices-GreetAPI/src/main/resources
+2025-09-02 15:18:04,061 [Worker-54: Updating Maven Project] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /32-MicroServices-GreetAPI/src/test/java
+2025-09-02 15:18:04,061 [Worker-54: Updating Maven Project] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /32-MicroServices-GreetAPI/src/test/resources
+2025-09-02 15:18:04,630 [Worker-54: Updating Maven Project] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Update completed for 4 poms: local refresh takes 0.00 sec, refresh facades takes 5.00 sec, update config takes 1.00 sec 
+2025-09-02 15:18:05,046 [Worker-47: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src/main/resources to target/classes
+2025-09-02 15:18:05,085 [Worker-47: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src/main/resources to target/classes
+2025-09-02 15:18:05,094 [Worker-47: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory /Users/Ayush/Documents/SBMS/29-MicroServices-EurekaServer/src/test/resources
+2025-09-02 15:18:05,396 [Worker-47: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src/main/resources to target/classes
+2025-09-02 15:18:05,445 [Worker-47: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src/main/resources to target/classes
+2025-09-02 15:18:05,450 [Worker-47: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory /Users/Ayush/Documents/SBMS/30-MicroServices-AdminClient/src/test/resources
+2025-09-02 15:18:05,788 [Worker-47: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src/main/resources to target/classes
+2025-09-02 15:18:05,815 [Worker-47: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src/main/resources to target/classes
+2025-09-02 15:18:05,820 [Worker-47: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory /Users/Ayush/Documents/SBMS/31-Microservices-WelcomeAPI/src/test/resources
+2025-09-02 15:18:06,097 [Worker-47: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src/main/resources to target/classes
+2025-09-02 15:18:06,146 [Worker-47: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src/main/resources to target/classes
+2025-09-02 15:18:06,152 [Worker-47: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory /Users/Ayush/Documents/SBMS/32-MicroServices-GreetAPI/src/test/resources
+2025-09-02 15:22:29,935 [Worker-49: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src/main/resources to target/classes
+2025-09-02 15:22:30,099 [Worker-49: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src/main/resources to target/classes
+2025-09-02 15:22:30,107 [Worker-49: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory /Users/Ayush/Documents/SBMS/32-MicroServices-GreetAPI/src/test/resources
+2025-09-02 15:25:28,324 [Worker-53: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src/main/resources to target/classes
+2025-09-02 15:25:28,373 [Worker-53: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src/main/resources to target/classes
+2025-09-02 15:25:28,378 [Worker-53: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory /Users/Ayush/Documents/SBMS/31-Microservices-WelcomeAPI/src/test/resources
+2025-09-02 15:25:34,769 [Worker-46: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src/main/resources to target/classes
+2025-09-02 15:25:34,780 [Worker-46: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src/main/resources to target/classes
+2025-09-02 15:25:34,790 [Worker-46: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory /Users/Ayush/Documents/SBMS/31-Microservices-WelcomeAPI/src/test/resources
+2025-09-02 15:25:39,757 [Worker-138: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src/main/resources to target/classes
+2025-09-02 15:25:39,790 [Worker-138: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src/main/resources to target/classes
+2025-09-02 15:25:39,794 [Worker-138: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory /Users/Ayush/Documents/SBMS/32-MicroServices-GreetAPI/src/test/resources
+2025-09-02 17:53:26,067 [Worker-278: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src/main/resources to target/classes
+2025-09-02 17:53:26,126 [Worker-278: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src/main/resources to target/classes
+2025-09-02 17:53:26,132 [Worker-278: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory /Users/Ayush/Documents/SBMS/32-MicroServices-GreetAPI/src/test/resources
+2025-09-02 17:53:38,247 [Worker-277: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src/main/resources to target/classes
+2025-09-02 17:53:38,293 [Worker-277: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src/main/resources to target/classes
+2025-09-02 17:53:38,296 [Worker-277: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory /Users/Ayush/Documents/SBMS/32-MicroServices-GreetAPI/src/test/resources
+2025-09-02 17:53:43,966 [Worker-271: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src/main/resources to target/classes
+2025-09-02 17:53:44,068 [Worker-271: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src/main/resources to target/classes
+2025-09-02 17:53:44,071 [Worker-271: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory /Users/Ayush/Documents/SBMS/31-Microservices-WelcomeAPI/src/test/resources
+2025-09-02 17:54:35,927 [Worker-272: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src/main/resources to target/classes
+2025-09-02 17:54:35,998 [Worker-272: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src/main/resources to target/classes
+2025-09-02 17:54:36,003 [Worker-272: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory /Users/Ayush/Documents/SBMS/31-Microservices-WelcomeAPI/src/test/resources
+2025-09-02 17:56:04,541 [Worker-276: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src/main/resources to target/classes
+2025-09-02 17:56:04,546 [Worker-276: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src/main/resources to target/classes
+2025-09-02 17:56:04,548 [Worker-276: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory /Users/Ayush/Documents/SBMS/31-Microservices-WelcomeAPI/src/test/resources
+2025-09-02 17:56:53,125 [Worker-276: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src/main/resources to target/classes
+2025-09-02 17:56:53,136 [Worker-276: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src/main/resources to target/classes
+2025-09-02 17:56:53,139 [Worker-276: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory /Users/Ayush/Documents/SBMS/31-Microservices-WelcomeAPI/src/test/resources
+2025-09-02 17:57:19,315 [Worker-278: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src/main/resources to target/classes
+2025-09-02 17:57:19,317 [Worker-278: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src/main/resources to target/classes
+2025-09-02 17:57:19,319 [Worker-278: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory /Users/Ayush/Documents/SBMS/31-Microservices-WelcomeAPI/src/test/resources
+2025-09-02 17:57:59,853 [Worker-277: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src/main/resources to target/classes
+2025-09-02 17:57:59,861 [Worker-277: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src/main/resources to target/classes
+2025-09-02 17:57:59,866 [Worker-277: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory /Users/Ayush/Documents/SBMS/31-Microservices-WelcomeAPI/src/test/resources
+2025-09-02 17:59:22,721 [Worker-276: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src/main/resources to target/classes
+2025-09-02 17:59:22,723 [Worker-276: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src/main/resources to target/classes
+2025-09-02 17:59:22,725 [Worker-276: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory /Users/Ayush/Documents/SBMS/30-MicroServices-AdminClient/src/test/resources
+2025-09-02 17:59:28,604 [Worker-276: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src/main/resources to target/classes
+2025-09-02 17:59:28,605 [Worker-276: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src/main/resources to target/classes
+2025-09-02 17:59:28,620 [Worker-276: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory /Users/Ayush/Documents/SBMS/30-MicroServices-AdminClient/src/test/resources
+2025-09-02 17:59:28,790 [Worker-272: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src/main/resources to target/classes
+2025-09-02 17:59:28,791 [Worker-272: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src/main/resources to target/classes
+2025-09-02 17:59:28,794 [Worker-272: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory /Users/Ayush/Documents/SBMS/31-Microservices-WelcomeAPI/src/test/resources
+2025-09-02 17:59:46,159 [Worker-274: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src/main/resources to target/classes
+2025-09-02 17:59:46,160 [Worker-274: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src/main/resources to target/classes
+2025-09-02 17:59:46,163 [Worker-274: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory /Users/Ayush/Documents/SBMS/31-Microservices-WelcomeAPI/src/test/resources
+2025-09-02 18:00:21,972 [Worker-278: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src/main/resources to target/classes
+2025-09-02 18:00:21,974 [Worker-278: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src/main/resources to target/classes
+2025-09-02 18:00:21,977 [Worker-278: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory /Users/Ayush/Documents/SBMS/31-Microservices-WelcomeAPI/src/test/resources
+2025-09-02 18:00:29,274 [Worker-279: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src/main/resources to target/classes
+2025-09-02 18:00:29,275 [Worker-279: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src/main/resources to target/classes
+2025-09-02 18:00:29,278 [Worker-279: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory /Users/Ayush/Documents/SBMS/31-Microservices-WelcomeAPI/src/test/resources
+2025-09-02 18:00:59,976 [Worker-280: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src/main/resources to target/classes
+2025-09-02 18:00:59,978 [Worker-280: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src/main/resources to target/classes
+2025-09-02 18:00:59,980 [Worker-280: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory /Users/Ayush/Documents/SBMS/31-Microservices-WelcomeAPI/src/test/resources
+2025-09-02 18:01:09,210 [Worker-280: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src/main/resources to target/classes
+2025-09-02 18:01:09,211 [Worker-280: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src/main/resources to target/classes
+2025-09-02 18:01:09,214 [Worker-280: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory /Users/Ayush/Documents/SBMS/31-Microservices-WelcomeAPI/src/test/resources
+2025-09-02 18:03:40,000 [Worker-281: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src/main/resources to target/classes
+2025-09-02 18:03:40,020 [Worker-281: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src/main/resources to target/classes
+2025-09-02 18:03:40,031 [Worker-281: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory /Users/Ayush/Documents/SBMS/32-MicroServices-GreetAPI/src/test/resources
+2025-09-02 18:07:35,094 [Worker-276: Import Getting Started Content] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: in.SpringLearning:33-MicroServices-APIGateWay:0.0.1-SNAPSHOT @ /Users/Ayush/Documents/SBMS/33-MicroServices-APIGateWay/pom.xml.
+2025-09-02 18:07:36,310 [Worker-276: Import Getting Started Content] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/springframework/boot/spring-boot-properties-migrator/3.5.5/spring-boot-properties-migrator-3.5.5.pom
+2025-09-02 18:07:36,317 [Worker-276: Import Getting Started Content] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/springframework/boot/spring-boot-properties-migrator/3.5.5/spring-boot-properties-migrator-3.5.5.pom
+2025-09-02 18:07:36,379 [Worker-276: Import Getting Started Content] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/springframework/boot/spring-boot-configuration-metadata/3.5.5/spring-boot-configuration-metadata-3.5.5.pom
+2025-09-02 18:07:36,383 [Worker-276: Import Getting Started Content] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/springframework/boot/spring-boot-configuration-metadata/3.5.5/spring-boot-configuration-metadata-3.5.5.pom
+2025-09-02 18:07:37,019 [Worker-276: Import Getting Started Content] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/springframework/boot/spring-boot-properties-migrator/3.5.5/spring-boot-properties-migrator-3.5.5.jar
+2025-09-02 18:07:37,038 [Worker-276: Import Getting Started Content] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/springframework/boot/spring-boot-properties-migrator/3.5.5/spring-boot-properties-migrator-3.5.5.jar
+2025-09-02 18:07:37,088 [BasicRepositoryConnector-repo.maven.apache.org-2-0] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/springframework/boot/spring-boot-configuration-metadata/3.5.5/spring-boot-configuration-metadata-3.5.5.jar
+2025-09-02 18:07:37,102 [BasicRepositoryConnector-repo.maven.apache.org-2-0] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/springframework/boot/spring-boot-configuration-metadata/3.5.5/spring-boot-configuration-metadata-3.5.5.jar
+2025-09-02 18:07:37,592 [Worker-276: Import Getting Started Content] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /33-MicroServices-APIGateWay/src/main/java
+2025-09-02 18:07:37,593 [Worker-276: Import Getting Started Content] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /33-MicroServices-APIGateWay/src/main/resources
+2025-09-02 18:07:37,597 [Worker-276: Import Getting Started Content] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /33-MicroServices-APIGateWay/src/main/resources
+2025-09-02 18:07:37,601 [Worker-276: Import Getting Started Content] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /33-MicroServices-APIGateWay/src/test/java
+2025-09-02 18:07:37,602 [Worker-276: Import Getting Started Content] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /33-MicroServices-APIGateWay/src/test/resources
+2025-09-02 18:07:38,003 [Worker-276: Import Getting Started Content] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Imported and configured 1 project(s) in 3 sec
+2025-09-02 18:07:38,005 [Worker-276: Import Getting Started Content] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Update started
+2025-09-02 18:07:39,128 [Worker-276: Import Getting Started Content] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: in.SpringLearning:33-MicroServices-APIGateWay:0.0.1-SNAPSHOT @ /Users/Ayush/Documents/SBMS/33-MicroServices-APIGateWay/pom.xml.
+2025-09-02 18:07:39,240 [Worker-281: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/springframework/boot/spring-boot-properties-migrator/3.5.5/spring-boot-properties-migrator-3.5.5-sources.jar
+2025-09-02 18:07:39,250 [Worker-281: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/springframework/boot/spring-boot-properties-migrator/3.5.5/spring-boot-properties-migrator-3.5.5-sources.jar
+2025-09-02 18:07:39,253 [Worker-281: Download sources and javadoc] INFO  o.e.m.j.internal.DownloadSourcesJob - Downloaded sources for org.springframework.boot:spring-boot-properties-migrator:3.5.5
+2025-09-02 18:07:39,509 [Worker-281: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/springframework/boot/spring-boot-configuration-metadata/3.5.5/spring-boot-configuration-metadata-3.5.5-sources.jar
+2025-09-02 18:07:39,522 [Worker-281: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/springframework/boot/spring-boot-configuration-metadata/3.5.5/spring-boot-configuration-metadata-3.5.5-sources.jar
+2025-09-02 18:07:39,526 [Worker-281: Download sources and javadoc] INFO  o.e.m.j.internal.DownloadSourcesJob - Downloaded sources for org.springframework.boot:spring-boot-configuration-metadata:3.5.5
+2025-09-02 18:07:40,419 [Worker-276: Import Getting Started Content] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /33-MicroServices-APIGateWay/src/main/java
+2025-09-02 18:07:40,420 [Worker-276: Import Getting Started Content] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /33-MicroServices-APIGateWay/src/main/resources
+2025-09-02 18:07:40,420 [Worker-276: Import Getting Started Content] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /33-MicroServices-APIGateWay/src/main/resources
+2025-09-02 18:07:40,420 [Worker-276: Import Getting Started Content] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /33-MicroServices-APIGateWay/src/test/java
+2025-09-02 18:07:40,421 [Worker-276: Import Getting Started Content] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /33-MicroServices-APIGateWay/src/test/resources
+2025-09-02 18:07:40,777 [Worker-276: Import Getting Started Content] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Update completed for 1 poms: local refresh takes 0.00 sec, refresh facades takes 2.00 sec, update config takes 0.00 sec 
+2025-09-02 18:07:41,431 [Worker-284: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src/main/resources to target/classes
+2025-09-02 18:07:41,455 [Worker-284: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src/main/resources to target/classes
+2025-09-02 18:07:41,460 [Worker-284: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory /Users/Ayush/Documents/SBMS/33-MicroServices-APIGateWay/src/test/resources
+2025-09-02 18:08:14,013 [Worker-288: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src/main/resources to target/classes
+2025-09-02 18:08:14,025 [Worker-288: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src/main/resources to target/classes
+2025-09-02 18:08:14,029 [Worker-288: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory /Users/Ayush/Documents/SBMS/33-MicroServices-APIGateWay/src/test/resources
+2025-09-02 18:09:51,451 [Worker-284: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src/main/resources to target/classes
+2025-09-02 18:09:51,456 [Worker-284: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src/main/resources to target/classes
+2025-09-02 18:09:51,460 [Worker-284: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory /Users/Ayush/Documents/SBMS/33-MicroServices-APIGateWay/src/test/resources
+2025-09-02 18:10:04,108 [Worker-281: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src/main/resources to target/classes
+2025-09-02 18:10:04,114 [Worker-281: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src/main/resources to target/classes
+2025-09-02 18:10:04,117 [Worker-281: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory /Users/Ayush/Documents/SBMS/33-MicroServices-APIGateWay/src/test/resources
+2025-09-02 18:12:24,632 [Worker-282: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src/main/resources to target/classes
+2025-09-02 18:12:24,654 [Worker-282: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src/main/resources to target/classes
+2025-09-02 18:12:24,663 [Worker-282: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory /Users/Ayush/Documents/SBMS/33-MicroServices-APIGateWay/src/test/resources
+2025-09-02 18:13:02,630 [Worker-276: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src/main/resources to target/classes
+2025-09-02 18:13:02,656 [Worker-276: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src/main/resources to target/classes
+2025-09-02 18:13:02,660 [Worker-276: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory /Users/Ayush/Documents/SBMS/33-MicroServices-APIGateWay/src/test/resources
+2025-09-02 18:14:02,861 [Worker-283: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src/main/resources to target/classes
+2025-09-02 18:14:03,055 [Worker-283: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src/main/resources to target/classes
+2025-09-02 18:14:03,061 [Worker-283: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory /Users/Ayush/Documents/SBMS/33-MicroServices-APIGateWay/src/test/resources
+2025-09-02 18:14:04,095 [Worker-291: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src/main/resources to target/classes
+2025-09-02 18:14:04,164 [Worker-291: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src/main/resources to target/classes
+2025-09-02 18:14:04,167 [Worker-291: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory /Users/Ayush/Documents/SBMS/33-MicroServices-APIGateWay/src/test/resources
+2025-09-02 18:14:42,425 [Worker-286: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src/main/resources to target/classes
+2025-09-02 18:14:42,433 [Worker-286: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src/main/resources to target/classes
+2025-09-02 18:14:42,435 [Worker-286: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory /Users/Ayush/Documents/SBMS/33-MicroServices-APIGateWay/src/test/resources
+2025-09-02 18:15:38,176 [Worker-284: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src/main/resources to target/classes
+2025-09-02 18:15:38,185 [Worker-284: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src/main/resources to target/classes
+2025-09-02 18:15:38,189 [Worker-284: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory /Users/Ayush/Documents/SBMS/33-MicroServices-APIGateWay/src/test/resources
+2025-09-02 18:16:02,801 [Worker-283: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src/main/resources to target/classes
+2025-09-02 18:16:02,816 [Worker-283: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src/main/resources to target/classes
+2025-09-02 18:16:02,822 [Worker-283: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory /Users/Ayush/Documents/SBMS/33-MicroServices-APIGateWay/src/test/resources
+2025-09-02 18:16:15,769 [Worker-285: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src/main/resources to target/classes
+2025-09-02 18:16:15,776 [Worker-285: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src/main/resources to target/classes
+2025-09-02 18:16:15,788 [Worker-285: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory /Users/Ayush/Documents/SBMS/33-MicroServices-APIGateWay/src/test/resources
+2025-09-02 18:17:22,352 [Worker-285: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src/main/resources to target/classes
+2025-09-02 18:17:22,363 [Worker-285: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src/main/resources to target/classes
+2025-09-02 18:17:22,366 [Worker-285: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory /Users/Ayush/Documents/SBMS/33-MicroServices-APIGateWay/src/test/resources
+2025-09-02 18:22:06,091 [Worker-284: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src/main/resources to target/classes
+2025-09-02 18:22:06,141 [Worker-284: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src/main/resources to target/classes
+2025-09-02 18:22:06,146 [Worker-284: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory /Users/Ayush/Documents/SBMS/33-MicroServices-APIGateWay/src/test/resources
+2025-09-02 18:22:19,799 [Worker-295: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src/main/resources to target/classes
+2025-09-02 18:22:19,838 [Worker-295: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src/main/resources to target/classes
+2025-09-02 18:22:19,840 [Worker-295: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory /Users/Ayush/Documents/SBMS/33-MicroServices-APIGateWay/src/test/resources
+2025-09-02 18:44:39,453 [Worker-289: Import Getting Started Content] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: in.SpringLearning:34-MicroServices-ConfigServer:0.0.1-SNAPSHOT @ /Users/Ayush/Documents/SBMS/34-MicroServices-ConfigServer/pom.xml.
+2025-09-02 18:44:41,193 [Worker-289: Import Getting Started Content] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /34-MicroServices-ConfigServer/src/main/java
+2025-09-02 18:44:41,194 [Worker-289: Import Getting Started Content] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /34-MicroServices-ConfigServer/src/main/resources
+2025-09-02 18:44:41,198 [Worker-289: Import Getting Started Content] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /34-MicroServices-ConfigServer/src/main/resources
+2025-09-02 18:44:41,202 [Worker-289: Import Getting Started Content] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /34-MicroServices-ConfigServer/src/test/java
+2025-09-02 18:44:41,203 [Worker-289: Import Getting Started Content] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /34-MicroServices-ConfigServer/src/test/resources
+2025-09-02 18:44:41,557 [Worker-289: Import Getting Started Content] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Imported and configured 1 project(s) in 3 sec
+2025-09-02 18:44:41,560 [Worker-289: Import Getting Started Content] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Update started
+2025-09-02 18:44:42,800 [Worker-289: Import Getting Started Content] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: in.SpringLearning:34-MicroServices-ConfigServer:0.0.1-SNAPSHOT @ /Users/Ayush/Documents/SBMS/34-MicroServices-ConfigServer/pom.xml.
+2025-09-02 18:44:44,489 [Worker-289: Import Getting Started Content] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /34-MicroServices-ConfigServer/src/main/java
+2025-09-02 18:44:44,490 [Worker-289: Import Getting Started Content] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /34-MicroServices-ConfigServer/src/main/resources
+2025-09-02 18:44:44,490 [Worker-289: Import Getting Started Content] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /34-MicroServices-ConfigServer/src/main/resources
+2025-09-02 18:44:44,491 [Worker-289: Import Getting Started Content] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /34-MicroServices-ConfigServer/src/test/java
+2025-09-02 18:44:44,491 [Worker-289: Import Getting Started Content] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /34-MicroServices-ConfigServer/src/test/resources
+2025-09-02 18:44:45,010 [Worker-289: Import Getting Started Content] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Update completed for 1 poms: local refresh takes 0.00 sec, refresh facades takes 2.00 sec, update config takes 0.00 sec 
+2025-09-02 18:44:45,492 [Worker-287: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src/main/resources to target/classes
+2025-09-02 18:44:45,523 [Worker-287: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src/main/resources to target/classes
+2025-09-02 18:44:45,528 [Worker-287: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory /Users/Ayush/Documents/SBMS/34-MicroServices-ConfigServer/src/test/resources
+2025-09-02 18:45:55,066 [Worker-289: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src/main/resources to target/classes
+2025-09-02 18:45:55,226 [Worker-289: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src/main/resources to target/classes
+2025-09-02 18:45:55,238 [Worker-289: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory /Users/Ayush/Documents/SBMS/34-MicroServices-ConfigServer/src/test/resources
+2025-09-02 18:46:22,496 [Worker-290: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src/main/resources to target/classes
+2025-09-02 18:46:22,503 [Worker-290: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src/main/resources to target/classes
+2025-09-02 18:46:22,507 [Worker-290: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory /Users/Ayush/Documents/SBMS/34-MicroServices-ConfigServer/src/test/resources
+2025-09-02 18:46:30,369 [Worker-283: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src/main/resources to target/classes
+2025-09-02 18:46:30,373 [Worker-283: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src/main/resources to target/classes
+2025-09-02 18:46:30,380 [Worker-283: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory /Users/Ayush/Documents/SBMS/34-MicroServices-ConfigServer/src/test/resources
+2025-09-02 18:49:44,473 [Worker-292: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src/main/resources to target/classes
+2025-09-02 18:49:44,499 [Worker-292: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src/main/resources to target/classes
+2025-09-02 18:49:44,503 [Worker-292: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory /Users/Ayush/Documents/SBMS/34-MicroServices-ConfigServer/src/test/resources
+2025-09-02 18:49:47,594 [Worker-293: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src/main/resources to target/classes
+2025-09-02 18:49:47,618 [Worker-293: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src/main/resources to target/classes
+2025-09-02 18:49:47,621 [Worker-293: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory /Users/Ayush/Documents/SBMS/34-MicroServices-ConfigServer/src/test/resources
+2025-09-02 18:55:32,419 [Worker-293: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src/main/resources to target/classes
+2025-09-02 18:55:32,507 [Worker-293: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src/main/resources to target/classes
+2025-09-02 18:55:32,512 [Worker-293: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory /Users/Ayush/Documents/SBMS/32-MicroServices-GreetAPI/src/test/resources
+2025-09-02 18:55:34,605 [Worker-287: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src/main/resources to target/classes
+2025-09-02 18:55:34,636 [Worker-287: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src/main/resources to target/classes
+2025-09-02 18:55:34,642 [Worker-287: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory /Users/Ayush/Documents/SBMS/32-MicroServices-GreetAPI/src/test/resources
+2025-09-02 18:56:10,047 [Worker-285: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src/main/resources to target/classes
+2025-09-02 18:56:10,109 [Worker-285: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src/main/resources to target/classes
+2025-09-02 18:56:10,112 [Worker-285: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory /Users/Ayush/Documents/SBMS/31-Microservices-WelcomeAPI/src/test/resources
+2025-09-02 18:58:54,279 [Worker-298: Building] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: in.SpringLearning:31-Microservices-WelcomeAPI:0.0.1-SNAPSHOT @ /Users/Ayush/Documents/SBMS/31-Microservices-WelcomeAPI/pom.xml.
+2025-09-02 18:58:55,222 [Worker-298: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src/main/resources to target/classes
+2025-09-02 18:58:55,223 [Worker-298: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src/main/resources to target/classes
+2025-09-02 18:58:55,232 [Worker-298: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory /Users/Ayush/Documents/SBMS/31-Microservices-WelcomeAPI/src/test/resources
+2025-09-02 18:58:56,555 [Worker-299: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src/main/resources to target/classes
+2025-09-02 18:58:56,596 [Worker-299: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src/main/resources to target/classes
+2025-09-02 18:58:56,599 [Worker-299: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory /Users/Ayush/Documents/SBMS/31-Microservices-WelcomeAPI/src/test/resources
+2025-09-02 18:59:14,267 [Worker-286: Building] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: in.SpringLearning:32-MicroServices-GreetAPI:0.0.1-SNAPSHOT @ /Users/Ayush/Documents/SBMS/32-MicroServices-GreetAPI/pom.xml.
+2025-09-02 18:59:15,593 [Worker-286: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src/main/resources to target/classes
+2025-09-02 18:59:15,594 [Worker-286: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src/main/resources to target/classes
+2025-09-02 18:59:15,607 [Worker-286: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory /Users/Ayush/Documents/SBMS/32-MicroServices-GreetAPI/src/test/resources
+2025-09-02 18:59:16,815 [Worker-286: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src/main/resources to target/classes
+2025-09-02 18:59:16,854 [Worker-286: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src/main/resources to target/classes
+2025-09-02 18:59:16,857 [Worker-286: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory /Users/Ayush/Documents/SBMS/32-MicroServices-GreetAPI/src/test/resources
+2025-09-02 19:00:44,090 [Worker-301: Updating Maven Project] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Update started
+2025-09-02 19:00:44,819 [Worker-301: Updating Maven Project] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: in.SpringLearning:31-Microservices-WelcomeAPI:0.0.1-SNAPSHOT @ /Users/Ayush/Documents/SBMS/31-Microservices-WelcomeAPI/pom.xml.
+2025-09-02 19:00:45,531 [Worker-301: Updating Maven Project] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: in.SpringLearning:32-MicroServices-GreetAPI:0.0.1-SNAPSHOT @ /Users/Ayush/Documents/SBMS/32-MicroServices-GreetAPI/pom.xml.
+2025-09-02 19:00:46,264 [Worker-301: Updating Maven Project] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /31-Microservices-WelcomeAPI/src/main/java
+2025-09-02 19:00:46,265 [Worker-301: Updating Maven Project] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /31-Microservices-WelcomeAPI/src/main/resources
+2025-09-02 19:00:46,265 [Worker-301: Updating Maven Project] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /31-Microservices-WelcomeAPI/src/main/resources
+2025-09-02 19:00:46,265 [Worker-301: Updating Maven Project] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /31-Microservices-WelcomeAPI/src/test/java
+2025-09-02 19:00:46,266 [Worker-301: Updating Maven Project] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /31-Microservices-WelcomeAPI/src/test/resources
+2025-09-02 19:00:46,501 [Worker-301: Updating Maven Project] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /32-MicroServices-GreetAPI/src/main/java
+2025-09-02 19:00:46,510 [Worker-301: Updating Maven Project] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /32-MicroServices-GreetAPI/src/main/resources
+2025-09-02 19:00:46,512 [Worker-301: Updating Maven Project] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /32-MicroServices-GreetAPI/src/main/resources
+2025-09-02 19:00:46,512 [Worker-301: Updating Maven Project] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /32-MicroServices-GreetAPI/src/test/java
+2025-09-02 19:00:46,513 [Worker-301: Updating Maven Project] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /32-MicroServices-GreetAPI/src/test/resources
+2025-09-02 19:00:47,040 [Worker-301: Updating Maven Project] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Update completed for 2 poms: local refresh takes 0.00 sec, refresh facades takes 2.00 sec, update config takes 0.00 sec 
+2025-09-02 19:00:47,466 [Worker-302: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src/main/resources to target/classes
+2025-09-02 19:00:47,497 [Worker-302: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src/main/resources to target/classes
+2025-09-02 19:00:47,504 [Worker-302: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory /Users/Ayush/Documents/SBMS/31-Microservices-WelcomeAPI/src/test/resources
+2025-09-02 19:00:47,867 [Worker-302: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src/main/resources to target/classes
+2025-09-02 19:00:47,924 [Worker-302: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src/main/resources to target/classes
+2025-09-02 19:00:47,931 [Worker-302: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory /Users/Ayush/Documents/SBMS/32-MicroServices-GreetAPI/src/test/resources
+2025-09-02 19:03:32,074 [Worker-306: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src/main/resources to target/classes
+2025-09-02 19:03:32,076 [Worker-306: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src/main/resources to target/classes
+2025-09-02 19:03:32,078 [Worker-306: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory /Users/Ayush/Documents/SBMS/34-MicroServices-ConfigServer/src/test/resources
+2025-09-02 19:04:05,661 [Worker-306: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src/main/resources to target/classes
+2025-09-02 19:04:05,663 [Worker-306: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src/main/resources to target/classes
+2025-09-02 19:04:05,666 [Worker-306: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory /Users/Ayush/Documents/SBMS/34-MicroServices-ConfigServer/src/test/resources
+2025-09-02 19:05:02,500 [Worker-302: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src/main/resources to target/classes
+2025-09-02 19:05:02,501 [Worker-302: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src/main/resources to target/classes
+2025-09-02 19:05:02,505 [Worker-302: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory /Users/Ayush/Documents/SBMS/34-MicroServices-ConfigServer/src/test/resources
+2025-09-02 19:05:07,343 [Worker-305: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src/main/resources to target/classes
+2025-09-02 19:05:07,344 [Worker-305: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src/main/resources to target/classes
+2025-09-02 19:05:07,351 [Worker-305: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory /Users/Ayush/Documents/SBMS/34-MicroServices-ConfigServer/src/test/resources
+2025-09-02 19:13:49,408 [Worker-315: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src/main/resources to target/classes
+2025-09-02 19:13:49,419 [Worker-315: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src/main/resources to target/classes
+2025-09-02 19:13:49,422 [Worker-315: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory /Users/Ayush/Documents/SBMS/34-MicroServices-ConfigServer/src/test/resources
+2025-09-02 19:14:36,457 [Worker-321: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src/main/resources to target/classes
+2025-09-02 19:14:36,460 [Worker-321: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src/main/resources to target/classes
+2025-09-02 19:14:36,466 [Worker-321: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory /Users/Ayush/Documents/SBMS/34-MicroServices-ConfigServer/src/test/resources
+2025-09-02 19:16:07,576 [Worker-311: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src/main/resources to target/classes
+2025-09-02 19:16:07,627 [Worker-311: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src/main/resources to target/classes
+2025-09-02 19:16:07,630 [Worker-311: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory /Users/Ayush/Documents/SBMS/31-Microservices-WelcomeAPI/src/test/resources
+2025-09-02 19:16:29,312 [Worker-303: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src/main/resources to target/classes
+2025-09-02 19:16:29,349 [Worker-303: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src/main/resources to target/classes
+2025-09-02 19:16:29,352 [Worker-303: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory /Users/Ayush/Documents/SBMS/32-MicroServices-GreetAPI/src/test/resources
+2025-09-02 19:19:39,861 [Worker-323: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src/main/resources to target/classes
+2025-09-02 19:19:39,863 [Worker-323: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src/main/resources to target/classes
+2025-09-02 19:19:39,865 [Worker-323: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory /Users/Ayush/Documents/SBMS/34-MicroServices-ConfigServer/src/test/resources
+2025-09-02 19:19:52,158 [Worker-327: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src/main/resources to target/classes
+2025-09-02 19:19:52,159 [Worker-327: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src/main/resources to target/classes
+2025-09-02 19:19:52,162 [Worker-327: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory /Users/Ayush/Documents/SBMS/34-MicroServices-ConfigServer/src/test/resources
+2025-09-02 19:21:57,787 [Worker-307: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src/main/resources to target/classes
+2025-09-02 19:21:57,789 [Worker-307: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src/main/resources to target/classes
+2025-09-02 19:21:57,793 [Worker-307: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory /Users/Ayush/Documents/SBMS/30-MicroServices-AdminClient/src/test/resources
+2025-09-02 19:22:01,699 [Worker-306: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src/main/resources to target/classes
+2025-09-02 19:22:01,699 [Worker-306: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src/main/resources to target/classes
+2025-09-02 19:22:01,702 [Worker-306: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory /Users/Ayush/Documents/SBMS/30-MicroServices-AdminClient/src/test/resources
+2025-09-02 19:22:02,739 [Worker-304: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src/main/resources to target/classes
+2025-09-02 19:22:02,739 [Worker-304: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src/main/resources to target/classes
+2025-09-02 19:22:02,741 [Worker-304: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory /Users/Ayush/Documents/SBMS/31-Microservices-WelcomeAPI/src/test/resources
+2025-09-02 19:22:13,935 [Worker-304: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src/main/resources to target/classes
+2025-09-02 19:22:13,935 [Worker-304: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src/main/resources to target/classes
+2025-09-02 19:22:13,938 [Worker-304: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory /Users/Ayush/Documents/SBMS/31-Microservices-WelcomeAPI/src/test/resources
+2025-09-02 19:22:47,964 [Worker-302: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src/main/resources to target/classes
+2025-09-02 19:22:47,971 [Worker-302: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src/main/resources to target/classes
+2025-09-02 19:22:47,983 [Worker-302: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory /Users/Ayush/Documents/SBMS/31-Microservices-WelcomeAPI/src/test/resources
+2025-09-02 19:22:55,218 [Worker-332: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src/main/resources to target/classes
+2025-09-02 19:22:55,219 [Worker-332: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src/main/resources to target/classes
+2025-09-02 19:22:55,224 [Worker-332: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory /Users/Ayush/Documents/SBMS/31-Microservices-WelcomeAPI/src/test/resources
+2025-09-02 19:23:06,717 [Worker-304: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src/main/resources to target/classes
+2025-09-02 19:23:06,721 [Worker-304: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src/main/resources to target/classes
+2025-09-02 19:23:06,726 [Worker-304: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory /Users/Ayush/Documents/SBMS/31-Microservices-WelcomeAPI/src/test/resources
+2025-09-02 19:23:16,896 [Worker-314: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src/main/resources to target/classes
+2025-09-02 19:23:16,898 [Worker-314: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src/main/resources to target/classes
+2025-09-02 19:23:16,905 [Worker-314: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory /Users/Ayush/Documents/SBMS/31-Microservices-WelcomeAPI/src/test/resources
+2025-09-02 19:23:51,129 [Worker-315: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src/main/resources to target/classes
+2025-09-02 19:23:51,131 [Worker-315: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src/main/resources to target/classes
+2025-09-02 19:23:51,134 [Worker-315: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory /Users/Ayush/Documents/SBMS/31-Microservices-WelcomeAPI/src/test/resources
+2025-09-02 19:23:53,415 [Worker-335: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src/main/resources to target/classes
+2025-09-02 19:23:53,416 [Worker-335: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src/main/resources to target/classes
+2025-09-02 19:23:53,419 [Worker-335: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory /Users/Ayush/Documents/SBMS/31-Microservices-WelcomeAPI/src/test/resources
+2025-09-02 19:23:54,453 [Worker-302: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src/main/resources to target/classes
+2025-09-02 19:23:54,454 [Worker-302: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src/main/resources to target/classes
+2025-09-02 19:23:54,457 [Worker-302: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory /Users/Ayush/Documents/SBMS/32-MicroServices-GreetAPI/src/test/resources
+2025-09-02 19:25:16,182 [Worker-305: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src/main/resources to target/classes
+2025-09-02 19:25:16,184 [Worker-305: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src/main/resources to target/classes
+2025-09-02 19:25:16,189 [Worker-305: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory /Users/Ayush/Documents/SBMS/32-MicroServices-GreetAPI/src/test/resources
+2025-09-02 19:25:41,242 [Worker-332: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src/main/resources to target/classes
+2025-09-02 19:25:41,246 [Worker-332: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src/main/resources to target/classes
+2025-09-02 19:25:41,251 [Worker-332: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory /Users/Ayush/Documents/SBMS/32-MicroServices-GreetAPI/src/test/resources
+2025-09-02 19:25:47,326 [Worker-315: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src/main/resources to target/classes
+2025-09-02 19:25:47,327 [Worker-315: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src/main/resources to target/classes
+2025-09-02 19:25:47,329 [Worker-315: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory /Users/Ayush/Documents/SBMS/32-MicroServices-GreetAPI/src/test/resources
+2025-09-02 19:26:00,062 [Worker-327: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src/main/resources to target/classes
+2025-09-02 19:26:00,065 [Worker-327: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src/main/resources to target/classes
+2025-09-02 19:26:00,069 [Worker-327: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory /Users/Ayush/Documents/SBMS/32-MicroServices-GreetAPI/src/test/resources
+2025-09-02 19:26:16,693 [Worker-304: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src/main/resources to target/classes
+2025-09-02 19:26:16,695 [Worker-304: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src/main/resources to target/classes
+2025-09-02 19:26:16,701 [Worker-304: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory /Users/Ayush/Documents/SBMS/32-MicroServices-GreetAPI/src/test/resources

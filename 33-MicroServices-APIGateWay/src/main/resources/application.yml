@@ -1,0 +1,18 @@
+spring:
+  application:
+    name: 33-MicroServices-APIGateWay
+  cloud:
+    gateway:
+      server:
+        webflux:
+          routes:
+            - id: welcome-service
+              uri: lb://31-MicroServices-WelcomeAPI
+              predicates:
+              - Path=/welcome/**
+            - id: greet-service
+              uri: lb://32-MicroServices-GreetAPI
+              predicates:
+              - Path=/greet/**
+server:
+  port: 3333

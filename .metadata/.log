@@ -1,462 +1,3 @@
-!SESSION 2025-08-31 08:43:32.970 -----------------------------------------------
-eclipse.buildId=4.35.0.202504180233
-java.version=21.0.6
-java.vendor=Eclipse Adoptium
-BootLoader constants: OS=macosx, ARCH=x86_64, WS=cocoa, NL=en_IN
-Framework arguments:  -product org.springframework.boot.ide.branding.sts4 -keyring /Users/Ayush/.eclipse_keyring
-Command-line arguments:  -os macosx -ws cocoa -arch x86_64 -product org.springframework.boot.ide.branding.sts4 -keyring /Users/Ayush/.eclipse_keyring
-
-This is a continuation of log file /Users/Ayush/Documents/SBMS/.metadata/.bak_1.log
-Created Time: 2025-08-31 19:47:43.112
-
-!ENTRY org.eclipse.lsp4e 4 0 2025-08-31 19:47:43.113
-!MESSAGE [Error]	[streamChoices] Request id invalid, should have "completionId" and "created": {
-  headerRequestId: '394fec4f-8e04-402f-a579-699b5ae4a27b',
-  completionId: '',
-  created: 0,
-  serverExperiments: '',
-  deploymentId: ''
-}
-
-!ENTRY org.eclipse.lsp4e 4 0 2025-08-31 19:47:43.114
-!MESSAGE [Error]	[streamChoices] Request id invalid, should have "completionId" and "created": {
-  headerRequestId: '394fec4f-8e04-402f-a579-699b5ae4a27b',
-  completionId: '',
-  created: 0,
-  serverExperiments: '',
-  deploymentId: ''
-}
-
-!ENTRY org.eclipse.lsp4e 4 0 2025-08-31 19:47:43.114
-!MESSAGE [Error]	[streamChoices] Request id invalid, should have "completionId" and "created": {
-  headerRequestId: '394fec4f-8e04-402f-a579-699b5ae4a27b',
-  completionId: '',
-  created: 0,
-  serverExperiments: '',
-  deploymentId: ''
-}
-
-!ENTRY org.eclipse.lsp4e 4 0 2025-08-31 19:47:43.114
-!MESSAGE [Error]	[streamChoices] Request id invalid, should have "completionId" and "created": {
-  headerRequestId: '394fec4f-8e04-402f-a579-699b5ae4a27b',
-  completionId: '',
-  created: 0,
-  serverExperiments: '',
-  deploymentId: ''
-}
-
-!ENTRY org.eclipse.lsp4e 4 0 2025-08-31 19:47:43.114
-!MESSAGE [Error]	[streamChoices] Request id invalid, should have "completionId" and "created": {
-  headerRequestId: '394fec4f-8e04-402f-a579-699b5ae4a27b',
-  completionId: '',
-  created: 0,
-  serverExperiments: '',
-  deploymentId: ''
-}
-
-!ENTRY org.eclipse.lsp4e 4 0 2025-08-31 19:47:43.114
-!MESSAGE [Error]	[streamChoices] Request id invalid, should have "completionId" and "created": {
-  headerRequestId: '394fec4f-8e04-402f-a579-699b5ae4a27b',
-  completionId: '',
-  created: 0,
-  serverExperiments: '',
-  deploymentId: ''
-}
-
-!ENTRY org.eclipse.lsp4e 4 0 2025-08-31 19:47:43.114
-!MESSAGE [Error]	[streamChoices] Request id invalid, should have "completionId" and "created": {
-  headerRequestId: '394fec4f-8e04-402f-a579-699b5ae4a27b',
-  completionId: '',
-  created: 0,
-  serverExperiments: '',
-  deploymentId: ''
-}
-
-!ENTRY org.eclipse.lsp4e 4 0 2025-08-31 19:47:43.115
-!MESSAGE [Error]	[streamChoices] Request id invalid, should have "completionId" and "created": {
-  headerRequestId: '394fec4f-8e04-402f-a579-699b5ae4a27b',
-  completionId: '',
-  created: 0,
-  serverExperiments: '',
-  deploymentId: ''
-}
-
-!ENTRY org.eclipse.lsp4e 4 0 2025-08-31 19:47:43.115
-!MESSAGE [Error]	[streamChoices] Request id invalid, should have "completionId" and "created": {
-  headerRequestId: '394fec4f-8e04-402f-a579-699b5ae4a27b',
-  completionId: '',
-  created: 0,
-  serverExperiments: '',
-  deploymentId: ''
-}
-
-!ENTRY org.eclipse.lsp4e 4 0 2025-08-31 19:47:43.115
-!MESSAGE [Error]	[streamChoices] Request id invalid, should have "completionId" and "created": {
-  headerRequestId: '394fec4f-8e04-402f-a579-699b5ae4a27b',
-  completionId: '',
-  created: 0,
-  serverExperiments: '',
-  deploymentId: ''
-}
-
-!ENTRY org.eclipse.lsp4e 4 0 2025-08-31 19:47:43.115
-!MESSAGE [Error]	[streamChoices] Request id invalid, should have "completionId" and "created": {
-  headerRequestId: '394fec4f-8e04-402f-a579-699b5ae4a27b',
-  completionId: '',
-  created: 0,
-  serverExperiments: '',
-  deploymentId: ''
-}
-
-!ENTRY org.eclipse.lsp4e 4 0 2025-08-31 19:47:43.115
-!MESSAGE [Error]	[streamChoices] Request id invalid, should have "completionId" and "created": {
-  headerRequestId: '394fec4f-8e04-402f-a579-699b5ae4a27b',
-  completionId: '',
-  created: 0,
-  serverExperiments: '',
-  deploymentId: ''
-}
-
-!ENTRY org.eclipse.lsp4e 4 0 2025-08-31 19:47:43.115
-!MESSAGE [Error]	[streamChoices] Request id invalid, should have "completionId" and "created": {
-  headerRequestId: '394fec4f-8e04-402f-a579-699b5ae4a27b',
-  completionId: '',
-  created: 0,
-  serverExperiments: '',
-  deploymentId: ''
-}
-
-!ENTRY org.eclipse.lsp4e 4 0 2025-08-31 19:47:43.116
-!MESSAGE [Error]	[streamChoices] Request id invalid, should have "completionId" and "created": {
-  headerRequestId: '394fec4f-8e04-402f-a579-699b5ae4a27b',
-  completionId: '',
-  created: 0,
-  serverExperiments: '',
-  deploymentId: ''
-}
-
-!ENTRY org.eclipse.lsp4e 4 0 2025-08-31 19:47:43.116
-!MESSAGE [Error]	[streamChoices] Request id invalid, should have "completionId" and "created": {
-  headerRequestId: '394fec4f-8e04-402f-a579-699b5ae4a27b',
-  completionId: '',
-  created: 0,
-  serverExperiments: '',
-  deploymentId: ''
-}
-
-!ENTRY org.eclipse.lsp4e 4 0 2025-08-31 19:47:43.116
-!MESSAGE [Error]	[streamChoices] Request id invalid, should have "completionId" and "created": {
-  headerRequestId: '394fec4f-8e04-402f-a579-699b5ae4a27b',
-  completionId: '',
-  created: 0,
-  serverExperiments: '',
-  deploymentId: ''
-}
-
-!ENTRY org.eclipse.lsp4e 4 0 2025-08-31 19:47:43.116
-!MESSAGE [Error]	[streamChoices] Request id invalid, should have "completionId" and "created": {
-  headerRequestId: '394fec4f-8e04-402f-a579-699b5ae4a27b',
-  completionId: '',
-  created: 0,
-  serverExperiments: '',
-  deploymentId: ''
-}
-
-!ENTRY org.eclipse.lsp4e 4 0 2025-08-31 19:47:43.116
-!MESSAGE [Error]	[streamChoices] Request id invalid, should have "completionId" and "created": {
-  headerRequestId: '394fec4f-8e04-402f-a579-699b5ae4a27b',
-  completionId: '',
-  created: 0,
-  serverExperiments: '',
-  deploymentId: ''
-}
-
-!ENTRY org.eclipse.lsp4e 4 0 2025-08-31 19:47:43.116
-!MESSAGE [Error]	[streamChoices] Request id invalid, should have "completionId" and "created": {
-  headerRequestId: '394fec4f-8e04-402f-a579-699b5ae4a27b',
-  completionId: '',
-  created: 0,
-  serverExperiments: '',
-  deploymentId: ''
-}
-
-!ENTRY org.eclipse.lsp4e 4 0 2025-08-31 19:47:43.116
-!MESSAGE [Error]	[streamChoices] Request id invalid, should have "completionId" and "created": {
-  headerRequestId: '394fec4f-8e04-402f-a579-699b5ae4a27b',
-  completionId: '',
-  created: 0,
-  serverExperiments: '',
-  deploymentId: ''
-}
-
-!ENTRY org.eclipse.lsp4e 4 0 2025-08-31 19:47:43.117
-!MESSAGE [Error]	[streamChoices] Request id invalid, should have "completionId" and "created": {
-  headerRequestId: '394fec4f-8e04-402f-a579-699b5ae4a27b',
-  completionId: '',
-  created: 0,
-  serverExperiments: '',
-  deploymentId: ''
-}
-
-!ENTRY org.eclipse.lsp4e 4 0 2025-08-31 19:47:43.117
-!MESSAGE [Error]	[streamChoices] Request id invalid, should have "completionId" and "created": {
-  headerRequestId: '394fec4f-8e04-402f-a579-699b5ae4a27b',
-  completionId: '',
-  created: 0,
-  serverExperiments: '',
-  deploymentId: ''
-}
-
-!ENTRY org.eclipse.lsp4e 4 0 2025-08-31 19:47:43.117
-!MESSAGE [Error]	[streamChoices] Request id invalid, should have "completionId" and "created": {
-  headerRequestId: '394fec4f-8e04-402f-a579-699b5ae4a27b',
-  completionId: '',
-  created: 0,
-  serverExperiments: '',
-  deploymentId: ''
-}
-
-!ENTRY org.eclipse.lsp4e 4 0 2025-08-31 19:47:43.117
-!MESSAGE [Error]	[streamChoices] Request id invalid, should have "completionId" and "created": {
-  headerRequestId: '394fec4f-8e04-402f-a579-699b5ae4a27b',
-  completionId: '',
-  created: 0,
-  serverExperiments: '',
-  deploymentId: ''
-}
-
-!ENTRY org.eclipse.lsp4e 4 0 2025-08-31 19:47:43.117
-!MESSAGE [Error]	[streamChoices] Request id invalid, should have "completionId" and "created": {
-  headerRequestId: '394fec4f-8e04-402f-a579-699b5ae4a27b',
-  completionId: '',
-  created: 0,
-  serverExperiments: '',
-  deploymentId: ''
-}
-
-!ENTRY org.eclipse.lsp4e 4 0 2025-08-31 19:47:43.117
-!MESSAGE [Error]	[streamChoices] Request id invalid, should have "completionId" and "created": {
-  headerRequestId: '394fec4f-8e04-402f-a579-699b5ae4a27b',
-  completionId: '',
-  created: 0,
-  serverExperiments: '',
-  deploymentId: ''
-}
-
-!ENTRY org.eclipse.lsp4e 1 0 2025-08-31 19:47:43.118
-!MESSAGE [Info]	[streamChoices] solution 0 returned. finish reason: [stop]
-
-!ENTRY org.eclipse.lsp4e 4 0 2025-08-31 19:47:43.118
-!MESSAGE [Error]	[streamChoices] Request id invalid, should have "completionId" and "created": {
-  headerRequestId: '394fec4f-8e04-402f-a579-699b5ae4a27b',
-  completionId: '',
-  created: 0,
-  serverExperiments: '',
-  deploymentId: ''
-}
-
-!ENTRY org.eclipse.lsp4e 1 0 2025-08-31 19:47:43.421
-!MESSAGE [Info]	[fetchCompletions] Request e85aabd2-a2b7-4774-8b87-c1c0ac073beb at <https://proxy.individual.githubcopilot.com/v1/engines/gpt-41-copilot/completions> finished with 200 status after 265.84709499776363ms
-
-!ENTRY org.eclipse.lsp4e 4 0 2025-08-31 19:47:43.428
-!MESSAGE [Error]	[streamChoices] Request id invalid, should have "completionId" and "created": {
-  headerRequestId: 'e85aabd2-a2b7-4774-8b87-c1c0ac073beb',
-  completionId: '',
-  created: 0,
-  serverExperiments: '',
-  deploymentId: ''
-}
-
-!ENTRY org.eclipse.lsp4e 4 0 2025-08-31 19:47:43.429
-!MESSAGE [Error]	[streamChoices] Request id invalid, should have "completionId" and "created": {
-  headerRequestId: 'e85aabd2-a2b7-4774-8b87-c1c0ac073beb',
-  completionId: '',
-  created: 0,
-  serverExperiments: '',
-  deploymentId: ''
-}
-
-!ENTRY org.eclipse.lsp4e 1 0 2025-08-31 19:47:43.430
-!MESSAGE [Info]	[streamChoices] solution 0 returned. finish reason: [stop]
-
-!ENTRY org.eclipse.lsp4e 2 0 2025-08-31 19:47:52.225
-!MESSAGE Timed out after waiting for 300ms for semantic tokens from Language Servers
-!STACK 0
-java.util.concurrent.TimeoutException
-	at java.base/java.util.concurrent.CompletableFuture.timedGet(CompletableFuture.java:1960)
-	at java.base/java.util.concurrent.CompletableFuture.get(CompletableFuture.java:2095)
-	at org.eclipse.lsp4e.jdt.LSJavaSemanticTokensProvider.computeSemanticTokens(LSJavaSemanticTokensProvider.java:68)
-	at org.eclipse.jdt.internal.ui.javaeditor.SemanticHighlightingReconciler.getContributedSemanticTokens(SemanticHighlightingReconciler.java:423)
-	at org.eclipse.jdt.internal.ui.javaeditor.SemanticHighlightingReconciler.reconciled(SemanticHighlightingReconciler.java:470)
-	at org.eclipse.jdt.internal.ui.javaeditor.CompilationUnitEditor.reconciled(CompilationUnitEditor.java:1674)
-	at org.eclipse.jdt.internal.ui.text.java.JavaReconcilingStrategy.reconciled(JavaReconcilingStrategy.java:228)
-	at org.eclipse.jdt.internal.ui.text.JavaCompositeReconcilingStrategy.reconciled(JavaCompositeReconcilingStrategy.java:171)
-	at org.eclipse.jdt.internal.ui.text.JavaCompositeReconcilingStrategy.reconcile(JavaCompositeReconcilingStrategy.java:115)
-	at org.eclipse.jface.text.reconciler.MonoReconciler.process(MonoReconciler.java:78)
-	at org.eclipse.jface.text.reconciler.AbstractReconciler$BackgroundThread.run(AbstractReconciler.java:207)
-
-!ENTRY org.eclipse.lsp4e 2 0 2025-08-31 19:50:49.414
-!MESSAGE Timed out after waiting for 300ms for semantic tokens from Language Servers
-!STACK 0
-java.util.concurrent.TimeoutException
-	at java.base/java.util.concurrent.CompletableFuture.timedGet(CompletableFuture.java:1960)
-	at java.base/java.util.concurrent.CompletableFuture.get(CompletableFuture.java:2095)
-	at org.eclipse.lsp4e.jdt.LSJavaSemanticTokensProvider.computeSemanticTokens(LSJavaSemanticTokensProvider.java:68)
-	at org.eclipse.jdt.internal.ui.javaeditor.SemanticHighlightingReconciler.getContributedSemanticTokens(SemanticHighlightingReconciler.java:423)
-	at org.eclipse.jdt.internal.ui.javaeditor.SemanticHighlightingReconciler.reconciled(SemanticHighlightingReconciler.java:470)
-	at org.eclipse.jdt.internal.ui.javaeditor.CompilationUnitEditor.reconciled(CompilationUnitEditor.java:1674)
-	at org.eclipse.jdt.internal.ui.text.java.JavaReconcilingStrategy.reconciled(JavaReconcilingStrategy.java:228)
-	at org.eclipse.jdt.internal.ui.text.JavaCompositeReconcilingStrategy.reconciled(JavaCompositeReconcilingStrategy.java:171)
-	at org.eclipse.jdt.internal.ui.text.JavaCompositeReconcilingStrategy.reconcile(JavaCompositeReconcilingStrategy.java:115)
-	at org.eclipse.jface.text.reconciler.MonoReconciler.process(MonoReconciler.java:78)
-	at org.eclipse.jface.text.reconciler.AbstractReconciler$BackgroundThread.run(AbstractReconciler.java:207)
-
-!ENTRY org.eclipse.lsp4e 2 0 2025-08-31 19:50:49.575
-!MESSAGE Timed out after waiting for 300ms for semantic tokens from Language Servers
-!STACK 0
-java.util.concurrent.TimeoutException
-	at java.base/java.util.concurrent.CompletableFuture.timedGet(CompletableFuture.java:1960)
-	at java.base/java.util.concurrent.CompletableFuture.get(CompletableFuture.java:2095)
-	at org.eclipse.lsp4e.jdt.LSJavaSemanticTokensProvider.computeSemanticTokens(LSJavaSemanticTokensProvider.java:68)
-	at org.eclipse.jdt.internal.ui.javaeditor.SemanticHighlightingReconciler.getContributedSemanticTokens(SemanticHighlightingReconciler.java:423)
-	at org.eclipse.jdt.internal.ui.javaeditor.SemanticHighlightingReconciler.reconciled(SemanticHighlightingReconciler.java:470)
-	at org.eclipse.jdt.internal.ui.javaeditor.CompilationUnitEditor.reconciled(CompilationUnitEditor.java:1674)
-	at org.eclipse.jdt.internal.ui.text.java.JavaReconcilingStrategy.reconciled(JavaReconcilingStrategy.java:228)
-	at org.eclipse.jdt.internal.ui.text.JavaCompositeReconcilingStrategy.reconciled(JavaCompositeReconcilingStrategy.java:171)
-	at org.eclipse.jdt.internal.ui.text.JavaCompositeReconcilingStrategy.reconcile(JavaCompositeReconcilingStrategy.java:115)
-	at org.eclipse.jface.text.reconciler.MonoReconciler.process(MonoReconciler.java:78)
-	at org.eclipse.jface.text.reconciler.AbstractReconciler$BackgroundThread.run(AbstractReconciler.java:207)
-
-!ENTRY org.eclipse.lsp4e 1 0 2025-08-31 19:50:55.303
-!MESSAGE [Info]	[fetchCompletions] Request bf346bce-d670-49e2-9ce8-0335136f3885 at <https://proxy.individual.githubcopilot.com/v1/engines/gpt-41-copilot/completions> finished with 200 status after 787.6763559952378ms
-
-!ENTRY org.eclipse.lsp4e 4 0 2025-08-31 19:50:55.304
-!MESSAGE [Error]	[streamChoices] Request id invalid, should have "completionId" and "created": {
-  headerRequestId: 'bf346bce-d670-49e2-9ce8-0335136f3885',
-  completionId: '',
-  created: 0,
-  serverExperiments: '',
-  deploymentId: ''
-}
-
-!ENTRY org.eclipse.lsp4e 1 0 2025-08-31 19:50:55.307
-!MESSAGE [Info]	[streamChoices] solution 0 returned. finish reason: [stop]
-
-!ENTRY org.eclipse.lsp4e 4 0 2025-08-31 19:50:55.308
-!MESSAGE [Error]	[streamChoices] Request id invalid, should have "completionId" and "created": {
-  headerRequestId: 'bf346bce-d670-49e2-9ce8-0335136f3885',
-  completionId: '',
-  created: 0,
-  serverExperiments: '',
-  deploymentId: ''
-}
-
-!ENTRY org.eclipse.lsp4e 1 0 2025-08-31 19:50:55.988
-!MESSAGE [Info]	[fetchCompletions] Request b3843a94-557e-4777-b144-123c33e59f37 at <https://proxy.individual.githubcopilot.com/v1/engines/gpt-41-copilot/completions> finished with 200 status after 622.9682829976082ms
-
-!ENTRY org.eclipse.lsp4e 4 0 2025-08-31 19:50:55.989
-!MESSAGE [Error]	[streamChoices] Request id invalid, should have "completionId" and "created": {
-  headerRequestId: 'b3843a94-557e-4777-b144-123c33e59f37',
-  completionId: '',
-  created: 0,
-  serverExperiments: '',
-  deploymentId: ''
-}
-
-!ENTRY org.eclipse.lsp4e 1 0 2025-08-31 19:50:55.990
-!MESSAGE [Info]	[streamChoices] solution 0 returned. finish reason: [stop]
-
-!ENTRY org.eclipse.lsp4e 4 0 2025-08-31 19:50:55.990
-!MESSAGE [Error]	[streamChoices] Request id invalid, should have "completionId" and "created": {
-  headerRequestId: 'b3843a94-557e-4777-b144-123c33e59f37',
-  completionId: '',
-  created: 0,
-  serverExperiments: '',
-  deploymentId: ''
-}
-
-!ENTRY org.eclipse.lsp4e 4 0 2025-08-31 19:54:14.661
-!MESSAGE Unexpected null value present!
-!STACK 0
-java.lang.IllegalStateException: Unexpected null value present!
-	at org.eclipse.lsp4e.internal.NullSafetyHelper.castNonNull(NullSafetyHelper.java:36)
-	at org.eclipse.lsp4e.operations.semanticTokens.SemanticTokensClient.requestFullSemanticTokens(SemanticTokensClient.java:45)
-	at org.eclipse.lsp4e.operations.semanticTokens.SemanticHighlightReconcilerStrategy.fullReconcile(SemanticHighlightReconcilerStrategy.java:239)
-	at org.eclipse.lsp4e.operations.semanticTokens.SemanticHighlightReconcilerStrategy.initialReconcile(SemanticHighlightReconcilerStrategy.java:258)
-	at org.eclipse.ui.internal.genericeditor.CompositeReconcilerStrategy.initialReconcile(CompositeReconcilerStrategy.java:48)
-	at org.eclipse.jface.text.reconciler.Reconciler.initialProcess(Reconciler.java:223)
-	at org.eclipse.jface.text.reconciler.AbstractReconciler$BackgroundThread.run(AbstractReconciler.java:177)
-!SESSION 2025-09-02 08:31:40.060 -----------------------------------------------
-eclipse.buildId=4.35.0.202504180233
-java.version=21.0.6
-java.vendor=Eclipse Adoptium
-BootLoader constants: OS=macosx, ARCH=x86_64, WS=cocoa, NL=en_IN
-Framework arguments:  -product org.springframework.boot.ide.branding.sts4 -keyring /Users/Ayush/.eclipse_keyring
-Command-line arguments:  -os macosx -ws cocoa -arch x86_64 -product org.springframework.boot.ide.branding.sts4 -keyring /Users/Ayush/.eclipse_keyring
-
-!ENTRY ch.qos.logback.classic 1 0 2025-09-02 08:31:45.193
-!MESSAGE Activated before the state location was initialized. Retry after the state location is initialized.
-
-!ENTRY org.eclipse.lemminx.uber-jar 4 0 2025-09-02 08:31:45.689
-!MESSAGE bundle org.eclipse.lemminx.uber-jar:0.29.0 (326) Component descriptor entry 'OSGI-INF/*.xml' not found
-
-!ENTRY ch.qos.logback.classic 1 0 2025-09-02 08:31:53.280
-!MESSAGE Logback config file: /Users/Ayush/Documents/SBMS/.metadata/.plugins/org.eclipse.m2e.logback/logback.2.7.0.20241001-1350.xml
-
-!ENTRY org.eclipse.ui 2 0 2025-09-02 08:31:54.196
-!MESSAGE Warnings while parsing the commands from the 'org.eclipse.ui.commands' and 'org.eclipse.ui.actionDefinitions' extension points.
-!SUBENTRY 1 org.eclipse.ui 2 0 2025-09-02 08:31:54.196
-!MESSAGE Commands should really have a category: plug-in='org.springframework.tooling.boot.ls', id='spring.initializr.addStarters', categoryId='org.eclipse.lsp4e.commandCategory'
-
-!ENTRY org.eclipse.ui 2 0 2025-09-02 08:31:54.904
-!MESSAGE Warnings while parsing the commands from the 'org.eclipse.ui.commands' and 'org.eclipse.ui.actionDefinitions' extension points.
-!SUBENTRY 1 org.eclipse.ui 2 0 2025-09-02 08:31:54.904
-!MESSAGE Commands should really have a category: plug-in='org.springframework.tooling.boot.ls', id='spring.initializr.addStarters', categoryId='org.eclipse.lsp4e.commandCategory'
-
-!ENTRY org.eclipse.lsp4e 4 0 2025-09-02 08:32:05.164
-!MESSAGE Unexpected null value present!
-!STACK 0
-java.lang.IllegalStateException: Unexpected null value present!
-	at org.eclipse.lsp4e.internal.NullSafetyHelper.castNonNull(NullSafetyHelper.java:36)
-	at org.eclipse.lsp4e.operations.semanticTokens.SemanticTokensClient.requestFullSemanticTokens(SemanticTokensClient.java:45)
-	at org.eclipse.lsp4e.operations.semanticTokens.SemanticHighlightReconcilerStrategy.fullReconcile(SemanticHighlightReconcilerStrategy.java:239)
-	at org.eclipse.lsp4e.operations.semanticTokens.SemanticHighlightReconcilerStrategy.initialReconcile(SemanticHighlightReconcilerStrategy.java:258)
-	at org.eclipse.ui.internal.genericeditor.CompositeReconcilerStrategy.initialReconcile(CompositeReconcilerStrategy.java:48)
-	at org.eclipse.jface.text.reconciler.Reconciler.initialProcess(Reconciler.java:223)
-	at org.eclipse.jface.text.reconciler.AbstractReconciler$BackgroundThread.run(AbstractReconciler.java:177)
-
-!ENTRY com.microsoft.copilot.eclipse 1 0 2025-09-02 08:32:08.288
-!MESSAGE [Info] Starting language server with binary lsp agent.
-
-!ENTRY com.microsoft.copilot.eclipse 1 0 2025-09-02 08:32:08.690
-!MESSAGE [Info] Lsp agent started successfully.
-
-!ENTRY org.eclipse.lsp4e 1 0 2025-09-02 08:32:19.665
-!MESSAGE [Info]	[lsp] GitHub Copilot Language Server 1.335.0 initialized
-
-!ENTRY org.eclipse.lsp4e 1 0 2025-09-02 08:32:24.698
-!MESSAGE [Info]	[certificates] Removed 15 expired certificates
-
-!ENTRY org.eclipse.jface 2 0 2025-09-02 08:35:45.703
-!MESSAGE Keybinding conflicts occurred.  They may interfere with normal accelerator operation.
-!SUBENTRY 1 org.eclipse.jface 2 0 2025-09-02 08:35:45.703
-!MESSAGE A conflict occurred for COMMAND+SHIFT+T:
-Binding(COMMAND+SHIFT+T,
-	ParameterizedCommand(Command(org.eclipse.jdt.ui.navigate.open.type,Open Type,
-		Open a type in a Java editor,
-		Category(org.eclipse.ui.category.navigate,Navigate,null,true),
-		WorkbenchHandlerServiceHandler("org.eclipse.jdt.ui.navigate.open.type"),
-		,,true),null),
-	org.eclipse.ui.defaultAcceleratorConfiguration,
-	org.eclipse.ui.contexts.window,,,system)
-Binding(COMMAND+SHIFT+T,
-	ParameterizedCommand(Command(org.eclipse.lsp4e.symbolInWorkspace,Go to Symbol in Workspace,
-		,
-		Category(org.eclipse.lsp4e.category,Language Servers,null,true),
-		WorkbenchHandlerServiceHandler("org.eclipse.lsp4e.symbolInWorkspace"),
-		,,true),null),
-	org.eclipse.ui.defaultAcceleratorConfiguration,
-	org.eclipse.ui.contexts.window,,,system)
 !SESSION 2025-09-02 08:46:44.717 -----------------------------------------------
 eclipse.buildId=4.35.0.202504180233
 java.version=21.0.6
@@ -465,33 +6,3918 @@ BootLoader constants: OS=macosx, ARCH=x86_64, WS=cocoa, NL=en_IN
 Framework arguments:  -product org.springframework.boot.ide.branding.sts4 -keyring /Users/Ayush/.eclipse_keyring
 Command-line arguments:  -os macosx -ws cocoa -arch x86_64 -product org.springframework.boot.ide.branding.sts4 -keyring /Users/Ayush/.eclipse_keyring
 
-!ENTRY ch.qos.logback.classic 1 0 2025-09-02 08:46:49.791
-!MESSAGE Activated before the state location was initialized. Retry after the state location is initialized.
+This is a continuation of log file /Users/Ayush/Documents/SBMS/.metadata/.bak_0.log
+Created Time: 2025-09-02 18:20:21.657
 
-!ENTRY org.eclipse.lemminx.uber-jar 4 0 2025-09-02 08:46:50.295
-!MESSAGE bundle org.eclipse.lemminx.uber-jar:0.29.0 (326) Component descriptor entry 'OSGI-INF/*.xml' not found
+!ENTRY org.eclipse.lsp4e 4 0 2025-09-02 18:20:21.657
+!MESSAGE [Error]	[streamChoices] Request id invalid, should have "completionId" and "created": {
+  headerRequestId: '5af0d2e4-4829-4b87-b848-9e02ee3cb937',
+  completionId: '',
+  created: 0,
+  serverExperiments: '',
+  deploymentId: ''
+}
 
-!ENTRY ch.qos.logback.classic 1 0 2025-09-02 08:47:00.008
-!MESSAGE Logback config file: /Users/Ayush/Documents/SBMS/.metadata/.plugins/org.eclipse.m2e.logback/logback.2.7.0.20241001-1350.xml
+!ENTRY org.eclipse.lsp4e 4 0 2025-09-02 18:20:21.658
+!MESSAGE [Error]	[streamChoices] Request id invalid, should have "completionId" and "created": {
+  headerRequestId: '5af0d2e4-4829-4b87-b848-9e02ee3cb937',
+  completionId: '',
+  created: 0,
+  serverExperiments: '',
+  deploymentId: ''
+}
 
-!ENTRY org.eclipse.ui 2 0 2025-09-02 08:47:00.970
-!MESSAGE Warnings while parsing the commands from the 'org.eclipse.ui.commands' and 'org.eclipse.ui.actionDefinitions' extension points.
-!SUBENTRY 1 org.eclipse.ui 2 0 2025-09-02 08:47:00.970
-!MESSAGE Commands should really have a category: plug-in='org.springframework.tooling.boot.ls', id='spring.initializr.addStarters', categoryId='org.eclipse.lsp4e.commandCategory'
+!ENTRY org.eclipse.lsp4e 4 0 2025-09-02 18:20:21.659
+!MESSAGE [Error]	[streamChoices] Request id invalid, should have "completionId" and "created": {
+  headerRequestId: '5af0d2e4-4829-4b87-b848-9e02ee3cb937',
+  completionId: '',
+  created: 0,
+  serverExperiments: '',
+  deploymentId: ''
+}
 
-!ENTRY org.eclipse.ui 2 0 2025-09-02 08:47:01.813
-!MESSAGE Warnings while parsing the commands from the 'org.eclipse.ui.commands' and 'org.eclipse.ui.actionDefinitions' extension points.
-!SUBENTRY 1 org.eclipse.ui 2 0 2025-09-02 08:47:01.813
-!MESSAGE Commands should really have a category: plug-in='org.springframework.tooling.boot.ls', id='spring.initializr.addStarters', categoryId='org.eclipse.lsp4e.commandCategory'
+!ENTRY org.eclipse.lsp4e 4 0 2025-09-02 18:20:21.659
+!MESSAGE [Error]	[streamChoices] Request id invalid, should have "completionId" and "created": {
+  headerRequestId: '5af0d2e4-4829-4b87-b848-9e02ee3cb937',
+  completionId: '',
+  created: 0,
+  serverExperiments: '',
+  deploymentId: ''
+}
 
-!ENTRY com.microsoft.copilot.eclipse 1 0 2025-09-02 08:47:08.804
-!MESSAGE [Info] Starting language server with binary lsp agent.
+!ENTRY org.eclipse.lsp4e 1 0 2025-09-02 18:20:21.659
+!MESSAGE [Info]	[streamChoices] solution 0 returned. finish reason: [stop]
 
-!ENTRY com.microsoft.copilot.eclipse 1 0 2025-09-02 08:47:09.033
-!MESSAGE [Info] Lsp agent started successfully.
+!ENTRY org.eclipse.lsp4e 1 0 2025-09-02 18:20:28.644
+!MESSAGE [Info]	[fetchCompletions] Request 7131d160-33ba-48a8-bc0d-162b42fcb19d at <https://proxy.individual.githubcopilot.com/v1/engines/gpt-41-copilot/completions> finished with 200 status after 395.9752459973097ms
 
-!ENTRY org.eclipse.lsp4e 1 0 2025-09-02 08:47:14.464
-!MESSAGE [Info]	[lsp] GitHub Copilot Language Server 1.335.0 initialized
+!ENTRY org.eclipse.lsp4e 4 0 2025-09-02 18:20:28.647
+!MESSAGE [Error]	[streamChoices] Request id invalid, should have "completionId" and "created": {
+  headerRequestId: '7131d160-33ba-48a8-bc0d-162b42fcb19d',
+  completionId: '',
+  created: 0,
+  serverExperiments: '',
+  deploymentId: ''
+}
 
-!ENTRY org.eclipse.lsp4e 1 0 2025-09-02 08:47:15.969
-!MESSAGE [Info]	[certificates] Removed 15 expired certificates
+!ENTRY org.eclipse.lsp4e 4 0 2025-09-02 18:20:29.264
+!MESSAGE [Error]	[streamChoices] Request id invalid, should have "completionId" and "created": {
+  headerRequestId: '7131d160-33ba-48a8-bc0d-162b42fcb19d',
+  completionId: '',
+  created: 0,
+  serverExperiments: '',
+  deploymentId: ''
+}
+
+!ENTRY org.eclipse.lsp4e 4 0 2025-09-02 18:20:29.264
+!MESSAGE [Error]	[streamChoices] Request id invalid, should have "completionId" and "created": {
+  headerRequestId: '7131d160-33ba-48a8-bc0d-162b42fcb19d',
+  completionId: '',
+  created: 0,
+  serverExperiments: '',
+  deploymentId: ''
+}
+
+!ENTRY org.eclipse.lsp4e 4 0 2025-09-02 18:20:29.265
+!MESSAGE [Error]	[streamChoices] Request id invalid, should have "completionId" and "created": {
+  headerRequestId: '7131d160-33ba-48a8-bc0d-162b42fcb19d',
+  completionId: '',
+  created: 0,
+  serverExperiments: '',
+  deploymentId: ''
+}
+
+!ENTRY org.eclipse.lsp4e 4 0 2025-09-02 18:20:29.265
+!MESSAGE [Error]	[streamChoices] Request id invalid, should have "completionId" and "created": {
+  headerRequestId: '7131d160-33ba-48a8-bc0d-162b42fcb19d',
+  completionId: '',
+  created: 0,
+  serverExperiments: '',
+  deploymentId: ''
+}
+
+!ENTRY org.eclipse.lsp4e 4 0 2025-09-02 18:20:29.265
+!MESSAGE [Error]	[streamChoices] Request id invalid, should have "completionId" and "created": {
+  headerRequestId: '7131d160-33ba-48a8-bc0d-162b42fcb19d',
+  completionId: '',
+  created: 0,
+  serverExperiments: '',
+  deploymentId: ''
+}
+
+!ENTRY org.eclipse.lsp4e 4 0 2025-09-02 18:20:29.265
+!MESSAGE [Error]	[streamChoices] Request id invalid, should have "completionId" and "created": {
+  headerRequestId: '7131d160-33ba-48a8-bc0d-162b42fcb19d',
+  completionId: '',
+  created: 0,
+  serverExperiments: '',
+  deploymentId: ''
+}
+
+!ENTRY org.eclipse.lsp4e 4 0 2025-09-02 18:20:29.266
+!MESSAGE [Error]	[streamChoices] Request id invalid, should have "completionId" and "created": {
+  headerRequestId: '7131d160-33ba-48a8-bc0d-162b42fcb19d',
+  completionId: '',
+  created: 0,
+  serverExperiments: '',
+  deploymentId: ''
+}
+
+!ENTRY org.eclipse.lsp4e 4 0 2025-09-02 18:20:29.267
+!MESSAGE [Error]	[streamChoices] Request id invalid, should have "completionId" and "created": {
+  headerRequestId: '7131d160-33ba-48a8-bc0d-162b42fcb19d',
+  completionId: '',
+  created: 0,
+  serverExperiments: '',
+  deploymentId: ''
+}
+
+!ENTRY org.eclipse.lsp4e 4 0 2025-09-02 18:20:29.267
+!MESSAGE [Error]	[streamChoices] Request id invalid, should have "completionId" and "created": {
+  headerRequestId: '7131d160-33ba-48a8-bc0d-162b42fcb19d',
+  completionId: '',
+  created: 0,
+  serverExperiments: '',
+  deploymentId: ''
+}
+
+!ENTRY org.eclipse.lsp4e 4 0 2025-09-02 18:20:29.267
+!MESSAGE [Error]	[streamChoices] Request id invalid, should have "completionId" and "created": {
+  headerRequestId: '7131d160-33ba-48a8-bc0d-162b42fcb19d',
+  completionId: '',
+  created: 0,
+  serverExperiments: '',
+  deploymentId: ''
+}
+
+!ENTRY org.eclipse.lsp4e 4 0 2025-09-02 18:20:29.267
+!MESSAGE [Error]	[streamChoices] Request id invalid, should have "completionId" and "created": {
+  headerRequestId: '7131d160-33ba-48a8-bc0d-162b42fcb19d',
+  completionId: '',
+  created: 0,
+  serverExperiments: '',
+  deploymentId: ''
+}
+
+!ENTRY org.eclipse.lsp4e 4 0 2025-09-02 18:20:29.267
+!MESSAGE [Error]	[streamChoices] Request id invalid, should have "completionId" and "created": {
+  headerRequestId: '7131d160-33ba-48a8-bc0d-162b42fcb19d',
+  completionId: '',
+  created: 0,
+  serverExperiments: '',
+  deploymentId: ''
+}
+
+!ENTRY org.eclipse.lsp4e 4 0 2025-09-02 18:20:29.267
+!MESSAGE [Error]	[streamChoices] Request id invalid, should have "completionId" and "created": {
+  headerRequestId: '7131d160-33ba-48a8-bc0d-162b42fcb19d',
+  completionId: '',
+  created: 0,
+  serverExperiments: '',
+  deploymentId: ''
+}
+
+!ENTRY org.eclipse.lsp4e 4 0 2025-09-02 18:20:29.268
+!MESSAGE [Error]	[streamChoices] Request id invalid, should have "completionId" and "created": {
+  headerRequestId: '7131d160-33ba-48a8-bc0d-162b42fcb19d',
+  completionId: '',
+  created: 0,
+  serverExperiments: '',
+  deploymentId: ''
+}
+
+!ENTRY org.eclipse.lsp4e 4 0 2025-09-02 18:20:29.268
+!MESSAGE [Error]	[streamChoices] Request id invalid, should have "completionId" and "created": {
+  headerRequestId: '7131d160-33ba-48a8-bc0d-162b42fcb19d',
+  completionId: '',
+  created: 0,
+  serverExperiments: '',
+  deploymentId: ''
+}
+
+!ENTRY org.eclipse.lsp4e 4 0 2025-09-02 18:20:29.268
+!MESSAGE [Error]	[streamChoices] Request id invalid, should have "completionId" and "created": {
+  headerRequestId: '7131d160-33ba-48a8-bc0d-162b42fcb19d',
+  completionId: '',
+  created: 0,
+  serverExperiments: '',
+  deploymentId: ''
+}
+
+!ENTRY org.eclipse.lsp4e 4 0 2025-09-02 18:20:29.268
+!MESSAGE [Error]	[streamChoices] Request id invalid, should have "completionId" and "created": {
+  headerRequestId: '7131d160-33ba-48a8-bc0d-162b42fcb19d',
+  completionId: '',
+  created: 0,
+  serverExperiments: '',
+  deploymentId: ''
+}
+
+!ENTRY org.eclipse.lsp4e 4 0 2025-09-02 18:20:29.268
+!MESSAGE [Error]	[streamChoices] Request id invalid, should have "completionId" and "created": {
+  headerRequestId: '7131d160-33ba-48a8-bc0d-162b42fcb19d',
+  completionId: '',
+  created: 0,
+  serverExperiments: '',
+  deploymentId: ''
+}
+
+!ENTRY org.eclipse.lsp4e 4 0 2025-09-02 18:20:29.268
+!MESSAGE [Error]	[streamChoices] Request id invalid, should have "completionId" and "created": {
+  headerRequestId: '7131d160-33ba-48a8-bc0d-162b42fcb19d',
+  completionId: '',
+  created: 0,
+  serverExperiments: '',
+  deploymentId: ''
+}
+
+!ENTRY org.eclipse.lsp4e 4 0 2025-09-02 18:20:29.269
+!MESSAGE [Error]	[streamChoices] Request id invalid, should have "completionId" and "created": {
+  headerRequestId: '7131d160-33ba-48a8-bc0d-162b42fcb19d',
+  completionId: '',
+  created: 0,
+  serverExperiments: '',
+  deploymentId: ''
+}
+
+!ENTRY org.eclipse.lsp4e 4 0 2025-09-02 18:20:29.269
+!MESSAGE [Error]	[streamChoices] Request id invalid, should have "completionId" and "created": {
+  headerRequestId: '7131d160-33ba-48a8-bc0d-162b42fcb19d',
+  completionId: '',
+  created: 0,
+  serverExperiments: '',
+  deploymentId: ''
+}
+
+!ENTRY org.eclipse.lsp4e 4 0 2025-09-02 18:20:29.269
+!MESSAGE [Error]	[streamChoices] Request id invalid, should have "completionId" and "created": {
+  headerRequestId: '7131d160-33ba-48a8-bc0d-162b42fcb19d',
+  completionId: '',
+  created: 0,
+  serverExperiments: '',
+  deploymentId: ''
+}
+
+!ENTRY org.eclipse.lsp4e 1 0 2025-09-02 18:20:29.269
+!MESSAGE [Info]	[streamChoices] solution 0 returned. finish reason: [stop]
+
+!ENTRY org.eclipse.lsp4e 4 0 2025-09-02 18:20:29.272
+!MESSAGE [Error]	[streamChoices] Request id invalid, should have "completionId" and "created": {
+  headerRequestId: '7131d160-33ba-48a8-bc0d-162b42fcb19d',
+  completionId: '',
+  created: 0,
+  serverExperiments: '',
+  deploymentId: ''
+}
+
+!ENTRY org.eclipse.lsp4e 1 0 2025-09-02 18:20:30.958
+!MESSAGE [Info]	[fetchCompletions] Request 2fd74f24-e129-4ee9-bce1-b4635760c9f4 at <https://proxy.individual.githubcopilot.com/v1/engines/gpt-41-copilot/completions> finished with 200 status after 610.8953399956226ms
+
+!ENTRY org.eclipse.lsp4e 4 0 2025-09-02 18:20:30.958
+!MESSAGE [Error]	[streamChoices] Request id invalid, should have "completionId" and "created": {
+  headerRequestId: '2fd74f24-e129-4ee9-bce1-b4635760c9f4',
+  completionId: '',
+  created: 0,
+  serverExperiments: '',
+  deploymentId: ''
+}
+
+!ENTRY org.eclipse.lsp4e 4 0 2025-09-02 18:20:32.167
+!MESSAGE [Error]	[streamChoices] Request id invalid, should have "completionId" and "created": {
+  headerRequestId: '2fd74f24-e129-4ee9-bce1-b4635760c9f4',
+  completionId: '',
+  created: 0,
+  serverExperiments: '',
+  deploymentId: ''
+}
+
+!ENTRY org.eclipse.lsp4e 4 0 2025-09-02 18:20:32.167
+!MESSAGE [Error]	[streamChoices] Request id invalid, should have "completionId" and "created": {
+  headerRequestId: '2fd74f24-e129-4ee9-bce1-b4635760c9f4',
+  completionId: '',
+  created: 0,
+  serverExperiments: '',
+  deploymentId: ''
+}
+
+!ENTRY org.eclipse.lsp4e 4 0 2025-09-02 18:20:32.168
+!MESSAGE [Error]	[streamChoices] Request id invalid, should have "completionId" and "created": {
+  headerRequestId: '2fd74f24-e129-4ee9-bce1-b4635760c9f4',
+  completionId: '',
+  created: 0,
+  serverExperiments: '',
+  deploymentId: ''
+}
+
+!ENTRY org.eclipse.lsp4e 4 0 2025-09-02 18:20:32.169
+!MESSAGE [Error]	[streamChoices] Request id invalid, should have "completionId" and "created": {
+  headerRequestId: '2fd74f24-e129-4ee9-bce1-b4635760c9f4',
+  completionId: '',
+  created: 0,
+  serverExperiments: '',
+  deploymentId: ''
+}
+
+!ENTRY org.eclipse.lsp4e 4 0 2025-09-02 18:20:32.169
+!MESSAGE [Error]	[streamChoices] Request id invalid, should have "completionId" and "created": {
+  headerRequestId: '2fd74f24-e129-4ee9-bce1-b4635760c9f4',
+  completionId: '',
+  created: 0,
+  serverExperiments: '',
+  deploymentId: ''
+}
+
+!ENTRY org.eclipse.lsp4e 4 0 2025-09-02 18:20:32.170
+!MESSAGE [Error]	[streamChoices] Request id invalid, should have "completionId" and "created": {
+  headerRequestId: '2fd74f24-e129-4ee9-bce1-b4635760c9f4',
+  completionId: '',
+  created: 0,
+  serverExperiments: '',
+  deploymentId: ''
+}
+
+!ENTRY org.eclipse.lsp4e 4 0 2025-09-02 18:20:32.171
+!MESSAGE [Error]	[streamChoices] Request id invalid, should have "completionId" and "created": {
+  headerRequestId: '2fd74f24-e129-4ee9-bce1-b4635760c9f4',
+  completionId: '',
+  created: 0,
+  serverExperiments: '',
+  deploymentId: ''
+}
+
+!ENTRY org.eclipse.lsp4e 4 0 2025-09-02 18:20:32.172
+!MESSAGE [Error]	[streamChoices] Request id invalid, should have "completionId" and "created": {
+  headerRequestId: '2fd74f24-e129-4ee9-bce1-b4635760c9f4',
+  completionId: '',
+  created: 0,
+  serverExperiments: '',
+  deploymentId: ''
+}
+
+!ENTRY org.eclipse.lsp4e 4 0 2025-09-02 18:20:32.172
+!MESSAGE [Error]	[streamChoices] Request id invalid, should have "completionId" and "created": {
+  headerRequestId: '2fd74f24-e129-4ee9-bce1-b4635760c9f4',
+  completionId: '',
+  created: 0,
+  serverExperiments: '',
+  deploymentId: ''
+}
+
+!ENTRY org.eclipse.lsp4e 4 0 2025-09-02 18:20:32.174
+!MESSAGE [Error]	[streamChoices] Request id invalid, should have "completionId" and "created": {
+  headerRequestId: '2fd74f24-e129-4ee9-bce1-b4635760c9f4',
+  completionId: '',
+  created: 0,
+  serverExperiments: '',
+  deploymentId: ''
+}
+
+!ENTRY org.eclipse.lsp4e 4 0 2025-09-02 18:20:32.175
+!MESSAGE [Error]	[streamChoices] Request id invalid, should have "completionId" and "created": {
+  headerRequestId: '2fd74f24-e129-4ee9-bce1-b4635760c9f4',
+  completionId: '',
+  created: 0,
+  serverExperiments: '',
+  deploymentId: ''
+}
+
+!ENTRY org.eclipse.lsp4e 4 0 2025-09-02 18:20:32.175
+!MESSAGE [Error]	[streamChoices] Request id invalid, should have "completionId" and "created": {
+  headerRequestId: '2fd74f24-e129-4ee9-bce1-b4635760c9f4',
+  completionId: '',
+  created: 0,
+  serverExperiments: '',
+  deploymentId: ''
+}
+
+!ENTRY org.eclipse.lsp4e 4 0 2025-09-02 18:20:32.175
+!MESSAGE [Error]	[streamChoices] Request id invalid, should have "completionId" and "created": {
+  headerRequestId: '2fd74f24-e129-4ee9-bce1-b4635760c9f4',
+  completionId: '',
+  created: 0,
+  serverExperiments: '',
+  deploymentId: ''
+}
+
+!ENTRY org.eclipse.lsp4e 4 0 2025-09-02 18:20:32.175
+!MESSAGE [Error]	[streamChoices] Request id invalid, should have "completionId" and "created": {
+  headerRequestId: '2fd74f24-e129-4ee9-bce1-b4635760c9f4',
+  completionId: '',
+  created: 0,
+  serverExperiments: '',
+  deploymentId: ''
+}
+
+!ENTRY org.eclipse.lsp4e 4 0 2025-09-02 18:20:32.175
+!MESSAGE [Error]	[streamChoices] Request id invalid, should have "completionId" and "created": {
+  headerRequestId: '2fd74f24-e129-4ee9-bce1-b4635760c9f4',
+  completionId: '',
+  created: 0,
+  serverExperiments: '',
+  deploymentId: ''
+}
+
+!ENTRY org.eclipse.lsp4e 4 0 2025-09-02 18:20:32.175
+!MESSAGE [Error]	[streamChoices] Request id invalid, should have "completionId" and "created": {
+  headerRequestId: '2fd74f24-e129-4ee9-bce1-b4635760c9f4',
+  completionId: '',
+  created: 0,
+  serverExperiments: '',
+  deploymentId: ''
+}
+
+!ENTRY org.eclipse.lsp4e 4 0 2025-09-02 18:20:32.176
+!MESSAGE [Error]	[streamChoices] Request id invalid, should have "completionId" and "created": {
+  headerRequestId: '2fd74f24-e129-4ee9-bce1-b4635760c9f4',
+  completionId: '',
+  created: 0,
+  serverExperiments: '',
+  deploymentId: ''
+}
+
+!ENTRY org.eclipse.lsp4e 4 0 2025-09-02 18:20:32.176
+!MESSAGE [Error]	[streamChoices] Request id invalid, should have "completionId" and "created": {
+  headerRequestId: '2fd74f24-e129-4ee9-bce1-b4635760c9f4',
+  completionId: '',
+  created: 0,
+  serverExperiments: '',
+  deploymentId: ''
+}
+
+!ENTRY org.eclipse.lsp4e 4 0 2025-09-02 18:20:32.176
+!MESSAGE [Error]	[streamChoices] Request id invalid, should have "completionId" and "created": {
+  headerRequestId: '2fd74f24-e129-4ee9-bce1-b4635760c9f4',
+  completionId: '',
+  created: 0,
+  serverExperiments: '',
+  deploymentId: ''
+}
+
+!ENTRY org.eclipse.lsp4e 4 0 2025-09-02 18:20:32.176
+!MESSAGE [Error]	[streamChoices] Request id invalid, should have "completionId" and "created": {
+  headerRequestId: '2fd74f24-e129-4ee9-bce1-b4635760c9f4',
+  completionId: '',
+  created: 0,
+  serverExperiments: '',
+  deploymentId: ''
+}
+
+!ENTRY org.eclipse.lsp4e 4 0 2025-09-02 18:20:32.176
+!MESSAGE [Error]	[streamChoices] Request id invalid, should have "completionId" and "created": {
+  headerRequestId: '2fd74f24-e129-4ee9-bce1-b4635760c9f4',
+  completionId: '',
+  created: 0,
+  serverExperiments: '',
+  deploymentId: ''
+}
+
+!ENTRY org.eclipse.lsp4e 4 0 2025-09-02 18:20:32.176
+!MESSAGE [Error]	[streamChoices] Request id invalid, should have "completionId" and "created": {
+  headerRequestId: '2fd74f24-e129-4ee9-bce1-b4635760c9f4',
+  completionId: '',
+  created: 0,
+  serverExperiments: '',
+  deploymentId: ''
+}
+
+!ENTRY org.eclipse.lsp4e 4 0 2025-09-02 18:20:32.176
+!MESSAGE [Error]	[streamChoices] Request id invalid, should have "completionId" and "created": {
+  headerRequestId: '2fd74f24-e129-4ee9-bce1-b4635760c9f4',
+  completionId: '',
+  created: 0,
+  serverExperiments: '',
+  deploymentId: ''
+}
+
+!ENTRY org.eclipse.lsp4e 4 0 2025-09-02 18:20:32.177
+!MESSAGE [Error]	[streamChoices] Request id invalid, should have "completionId" and "created": {
+  headerRequestId: '2fd74f24-e129-4ee9-bce1-b4635760c9f4',
+  completionId: '',
+  created: 0,
+  serverExperiments: '',
+  deploymentId: ''
+}
+
+!ENTRY org.eclipse.lsp4e 4 0 2025-09-02 18:20:32.177
+!MESSAGE [Error]	[streamChoices] Request id invalid, should have "completionId" and "created": {
+  headerRequestId: '2fd74f24-e129-4ee9-bce1-b4635760c9f4',
+  completionId: '',
+  created: 0,
+  serverExperiments: '',
+  deploymentId: ''
+}
+
+!ENTRY org.eclipse.lsp4e 4 0 2025-09-02 18:20:32.177
+!MESSAGE [Error]	[streamChoices] Request id invalid, should have "completionId" and "created": {
+  headerRequestId: '2fd74f24-e129-4ee9-bce1-b4635760c9f4',
+  completionId: '',
+  created: 0,
+  serverExperiments: '',
+  deploymentId: ''
+}
+
+!ENTRY org.eclipse.lsp4e 4 0 2025-09-02 18:20:32.177
+!MESSAGE [Error]	[streamChoices] Request id invalid, should have "completionId" and "created": {
+  headerRequestId: '2fd74f24-e129-4ee9-bce1-b4635760c9f4',
+  completionId: '',
+  created: 0,
+  serverExperiments: '',
+  deploymentId: ''
+}
+
+!ENTRY org.eclipse.lsp4e 4 0 2025-09-02 18:20:32.177
+!MESSAGE [Error]	[streamChoices] Request id invalid, should have "completionId" and "created": {
+  headerRequestId: '2fd74f24-e129-4ee9-bce1-b4635760c9f4',
+  completionId: '',
+  created: 0,
+  serverExperiments: '',
+  deploymentId: ''
+}
+
+!ENTRY org.eclipse.lsp4e 4 0 2025-09-02 18:20:32.177
+!MESSAGE [Error]	[streamChoices] Request id invalid, should have "completionId" and "created": {
+  headerRequestId: '2fd74f24-e129-4ee9-bce1-b4635760c9f4',
+  completionId: '',
+  created: 0,
+  serverExperiments: '',
+  deploymentId: ''
+}
+
+!ENTRY org.eclipse.lsp4e 4 0 2025-09-02 18:20:32.178
+!MESSAGE [Error]	[streamChoices] Request id invalid, should have "completionId" and "created": {
+  headerRequestId: '2fd74f24-e129-4ee9-bce1-b4635760c9f4',
+  completionId: '',
+  created: 0,
+  serverExperiments: '',
+  deploymentId: ''
+}
+
+!ENTRY org.eclipse.lsp4e 4 0 2025-09-02 18:20:32.178
+!MESSAGE [Error]	[streamChoices] Request id invalid, should have "completionId" and "created": {
+  headerRequestId: '2fd74f24-e129-4ee9-bce1-b4635760c9f4',
+  completionId: '',
+  created: 0,
+  serverExperiments: '',
+  deploymentId: ''
+}
+
+!ENTRY org.eclipse.lsp4e 4 0 2025-09-02 18:20:32.178
+!MESSAGE [Error]	[streamChoices] Request id invalid, should have "completionId" and "created": {
+  headerRequestId: '2fd74f24-e129-4ee9-bce1-b4635760c9f4',
+  completionId: '',
+  created: 0,
+  serverExperiments: '',
+  deploymentId: ''
+}
+
+!ENTRY org.eclipse.lsp4e 4 0 2025-09-02 18:20:32.178
+!MESSAGE [Error]	[streamChoices] Request id invalid, should have "completionId" and "created": {
+  headerRequestId: '2fd74f24-e129-4ee9-bce1-b4635760c9f4',
+  completionId: '',
+  created: 0,
+  serverExperiments: '',
+  deploymentId: ''
+}
+
+!ENTRY org.eclipse.lsp4e 4 0 2025-09-02 18:20:32.178
+!MESSAGE [Error]	[streamChoices] Request id invalid, should have "completionId" and "created": {
+  headerRequestId: '2fd74f24-e129-4ee9-bce1-b4635760c9f4',
+  completionId: '',
+  created: 0,
+  serverExperiments: '',
+  deploymentId: ''
+}
+
+!ENTRY org.eclipse.lsp4e 4 0 2025-09-02 18:20:32.178
+!MESSAGE [Error]	[streamChoices] Request id invalid, should have "completionId" and "created": {
+  headerRequestId: '2fd74f24-e129-4ee9-bce1-b4635760c9f4',
+  completionId: '',
+  created: 0,
+  serverExperiments: '',
+  deploymentId: ''
+}
+
+!ENTRY org.eclipse.lsp4e 4 0 2025-09-02 18:20:32.179
+!MESSAGE [Error]	[streamChoices] Request id invalid, should have "completionId" and "created": {
+  headerRequestId: '2fd74f24-e129-4ee9-bce1-b4635760c9f4',
+  completionId: '',
+  created: 0,
+  serverExperiments: '',
+  deploymentId: ''
+}
+
+!ENTRY org.eclipse.lsp4e 4 0 2025-09-02 18:20:32.179
+!MESSAGE [Error]	[streamChoices] Request id invalid, should have "completionId" and "created": {
+  headerRequestId: '2fd74f24-e129-4ee9-bce1-b4635760c9f4',
+  completionId: '',
+  created: 0,
+  serverExperiments: '',
+  deploymentId: ''
+}
+
+!ENTRY org.eclipse.lsp4e 4 0 2025-09-02 18:20:32.179
+!MESSAGE [Error]	[streamChoices] Request id invalid, should have "completionId" and "created": {
+  headerRequestId: '2fd74f24-e129-4ee9-bce1-b4635760c9f4',
+  completionId: '',
+  created: 0,
+  serverExperiments: '',
+  deploymentId: ''
+}
+
+!ENTRY org.eclipse.lsp4e 1 0 2025-09-02 18:20:32.179
+!MESSAGE [Info]	[streamChoices] solution 0 returned. finish reason: [stop]
+
+!ENTRY org.eclipse.lsp4e 4 0 2025-09-02 18:20:32.179
+!MESSAGE [Error]	[streamChoices] Request id invalid, should have "completionId" and "created": {
+  headerRequestId: '2fd74f24-e129-4ee9-bce1-b4635760c9f4',
+  completionId: '',
+  created: 0,
+  serverExperiments: '',
+  deploymentId: ''
+}
+
+!ENTRY org.eclipse.lsp4e 1 0 2025-09-02 18:20:32.949
+!MESSAGE [Info]	[fetchCompletions] Request a193e539-a9e2-4366-b1cf-bcc7a3a5d736 at <https://proxy.individual.githubcopilot.com/v1/engines/gpt-41-copilot/completions> finished with 200 status after 757.3029449954629ms
+
+!ENTRY org.eclipse.lsp4e 4 0 2025-09-02 18:20:32.950
+!MESSAGE [Error]	[streamChoices] Request id invalid, should have "completionId" and "created": {
+  headerRequestId: 'a193e539-a9e2-4366-b1cf-bcc7a3a5d736',
+  completionId: '',
+  created: 0,
+  serverExperiments: '',
+  deploymentId: ''
+}
+
+!ENTRY org.eclipse.lsp4e 4 0 2025-09-02 18:20:33.698
+!MESSAGE [Error]	[streamChoices] Request id invalid, should have "completionId" and "created": {
+  headerRequestId: 'a193e539-a9e2-4366-b1cf-bcc7a3a5d736',
+  completionId: '',
+  created: 0,
+  serverExperiments: '',
+  deploymentId: ''
+}
+
+!ENTRY org.eclipse.lsp4e 4 0 2025-09-02 18:20:33.698
+!MESSAGE [Error]	[streamChoices] Request id invalid, should have "completionId" and "created": {
+  headerRequestId: 'a193e539-a9e2-4366-b1cf-bcc7a3a5d736',
+  completionId: '',
+  created: 0,
+  serverExperiments: '',
+  deploymentId: ''
+}
+
+!ENTRY org.eclipse.lsp4e 4 0 2025-09-02 18:20:33.699
+!MESSAGE [Error]	[streamChoices] Request id invalid, should have "completionId" and "created": {
+  headerRequestId: 'a193e539-a9e2-4366-b1cf-bcc7a3a5d736',
+  completionId: '',
+  created: 0,
+  serverExperiments: '',
+  deploymentId: ''
+}
+
+!ENTRY org.eclipse.lsp4e 4 0 2025-09-02 18:20:33.699
+!MESSAGE [Error]	[streamChoices] Request id invalid, should have "completionId" and "created": {
+  headerRequestId: 'a193e539-a9e2-4366-b1cf-bcc7a3a5d736',
+  completionId: '',
+  created: 0,
+  serverExperiments: '',
+  deploymentId: ''
+}
+
+!ENTRY org.eclipse.lsp4e 4 0 2025-09-02 18:20:33.699
+!MESSAGE [Error]	[streamChoices] Request id invalid, should have "completionId" and "created": {
+  headerRequestId: 'a193e539-a9e2-4366-b1cf-bcc7a3a5d736',
+  completionId: '',
+  created: 0,
+  serverExperiments: '',
+  deploymentId: ''
+}
+
+!ENTRY org.eclipse.lsp4e 4 0 2025-09-02 18:20:33.700
+!MESSAGE [Error]	[streamChoices] Request id invalid, should have "completionId" and "created": {
+  headerRequestId: 'a193e539-a9e2-4366-b1cf-bcc7a3a5d736',
+  completionId: '',
+  created: 0,
+  serverExperiments: '',
+  deploymentId: ''
+}
+
+!ENTRY org.eclipse.lsp4e 4 0 2025-09-02 18:20:33.700
+!MESSAGE [Error]	[streamChoices] Request id invalid, should have "completionId" and "created": {
+  headerRequestId: 'a193e539-a9e2-4366-b1cf-bcc7a3a5d736',
+  completionId: '',
+  created: 0,
+  serverExperiments: '',
+  deploymentId: ''
+}
+
+!ENTRY org.eclipse.lsp4e 4 0 2025-09-02 18:20:33.700
+!MESSAGE [Error]	[streamChoices] Request id invalid, should have "completionId" and "created": {
+  headerRequestId: 'a193e539-a9e2-4366-b1cf-bcc7a3a5d736',
+  completionId: '',
+  created: 0,
+  serverExperiments: '',
+  deploymentId: ''
+}
+
+!ENTRY org.eclipse.lsp4e 4 0 2025-09-02 18:20:33.700
+!MESSAGE [Error]	[streamChoices] Request id invalid, should have "completionId" and "created": {
+  headerRequestId: 'a193e539-a9e2-4366-b1cf-bcc7a3a5d736',
+  completionId: '',
+  created: 0,
+  serverExperiments: '',
+  deploymentId: ''
+}
+
+!ENTRY org.eclipse.lsp4e 4 0 2025-09-02 18:20:33.700
+!MESSAGE [Error]	[streamChoices] Request id invalid, should have "completionId" and "created": {
+  headerRequestId: 'a193e539-a9e2-4366-b1cf-bcc7a3a5d736',
+  completionId: '',
+  created: 0,
+  serverExperiments: '',
+  deploymentId: ''
+}
+
+!ENTRY org.eclipse.lsp4e 4 0 2025-09-02 18:20:33.701
+!MESSAGE [Error]	[streamChoices] Request id invalid, should have "completionId" and "created": {
+  headerRequestId: 'a193e539-a9e2-4366-b1cf-bcc7a3a5d736',
+  completionId: '',
+  created: 0,
+  serverExperiments: '',
+  deploymentId: ''
+}
+
+!ENTRY org.eclipse.lsp4e 4 0 2025-09-02 18:20:33.701
+!MESSAGE [Error]	[streamChoices] Request id invalid, should have "completionId" and "created": {
+  headerRequestId: 'a193e539-a9e2-4366-b1cf-bcc7a3a5d736',
+  completionId: '',
+  created: 0,
+  serverExperiments: '',
+  deploymentId: ''
+}
+
+!ENTRY org.eclipse.lsp4e 4 0 2025-09-02 18:20:33.701
+!MESSAGE [Error]	[streamChoices] Request id invalid, should have "completionId" and "created": {
+  headerRequestId: 'a193e539-a9e2-4366-b1cf-bcc7a3a5d736',
+  completionId: '',
+  created: 0,
+  serverExperiments: '',
+  deploymentId: ''
+}
+
+!ENTRY org.eclipse.lsp4e 4 0 2025-09-02 18:20:33.701
+!MESSAGE [Error]	[streamChoices] Request id invalid, should have "completionId" and "created": {
+  headerRequestId: 'a193e539-a9e2-4366-b1cf-bcc7a3a5d736',
+  completionId: '',
+  created: 0,
+  serverExperiments: '',
+  deploymentId: ''
+}
+
+!ENTRY org.eclipse.lsp4e 4 0 2025-09-02 18:20:33.701
+!MESSAGE [Error]	[streamChoices] Request id invalid, should have "completionId" and "created": {
+  headerRequestId: 'a193e539-a9e2-4366-b1cf-bcc7a3a5d736',
+  completionId: '',
+  created: 0,
+  serverExperiments: '',
+  deploymentId: ''
+}
+
+!ENTRY org.eclipse.lsp4e 4 0 2025-09-02 18:20:33.701
+!MESSAGE [Error]	[streamChoices] Request id invalid, should have "completionId" and "created": {
+  headerRequestId: 'a193e539-a9e2-4366-b1cf-bcc7a3a5d736',
+  completionId: '',
+  created: 0,
+  serverExperiments: '',
+  deploymentId: ''
+}
+
+!ENTRY org.eclipse.lsp4e 4 0 2025-09-02 18:20:33.702
+!MESSAGE [Error]	[streamChoices] Request id invalid, should have "completionId" and "created": {
+  headerRequestId: 'a193e539-a9e2-4366-b1cf-bcc7a3a5d736',
+  completionId: '',
+  created: 0,
+  serverExperiments: '',
+  deploymentId: ''
+}
+
+!ENTRY org.eclipse.lsp4e 4 0 2025-09-02 18:20:33.702
+!MESSAGE [Error]	[streamChoices] Request id invalid, should have "completionId" and "created": {
+  headerRequestId: 'a193e539-a9e2-4366-b1cf-bcc7a3a5d736',
+  completionId: '',
+  created: 0,
+  serverExperiments: '',
+  deploymentId: ''
+}
+
+!ENTRY org.eclipse.lsp4e 4 0 2025-09-02 18:20:33.702
+!MESSAGE [Error]	[streamChoices] Request id invalid, should have "completionId" and "created": {
+  headerRequestId: 'a193e539-a9e2-4366-b1cf-bcc7a3a5d736',
+  completionId: '',
+  created: 0,
+  serverExperiments: '',
+  deploymentId: ''
+}
+
+!ENTRY org.eclipse.lsp4e 4 0 2025-09-02 18:20:33.702
+!MESSAGE [Error]	[streamChoices] Request id invalid, should have "completionId" and "created": {
+  headerRequestId: 'a193e539-a9e2-4366-b1cf-bcc7a3a5d736',
+  completionId: '',
+  created: 0,
+  serverExperiments: '',
+  deploymentId: ''
+}
+
+!ENTRY org.eclipse.lsp4e 4 0 2025-09-02 18:20:33.702
+!MESSAGE [Error]	[streamChoices] Request id invalid, should have "completionId" and "created": {
+  headerRequestId: 'a193e539-a9e2-4366-b1cf-bcc7a3a5d736',
+  completionId: '',
+  created: 0,
+  serverExperiments: '',
+  deploymentId: ''
+}
+
+!ENTRY org.eclipse.lsp4e 4 0 2025-09-02 18:20:33.702
+!MESSAGE [Error]	[streamChoices] Request id invalid, should have "completionId" and "created": {
+  headerRequestId: 'a193e539-a9e2-4366-b1cf-bcc7a3a5d736',
+  completionId: '',
+  created: 0,
+  serverExperiments: '',
+  deploymentId: ''
+}
+
+!ENTRY org.eclipse.lsp4e 4 0 2025-09-02 18:20:33.703
+!MESSAGE [Error]	[streamChoices] Request id invalid, should have "completionId" and "created": {
+  headerRequestId: 'a193e539-a9e2-4366-b1cf-bcc7a3a5d736',
+  completionId: '',
+  created: 0,
+  serverExperiments: '',
+  deploymentId: ''
+}
+
+!ENTRY org.eclipse.lsp4e 1 0 2025-09-02 18:20:33.703
+!MESSAGE [Info]	[streamChoices] solution 0 returned. finish reason: [stop]
+
+!ENTRY org.eclipse.lsp4e 4 0 2025-09-02 18:20:33.703
+!MESSAGE [Error]	[streamChoices] Request id invalid, should have "completionId" and "created": {
+  headerRequestId: 'a193e539-a9e2-4366-b1cf-bcc7a3a5d736',
+  completionId: '',
+  created: 0,
+  serverExperiments: '',
+  deploymentId: ''
+}
+
+!ENTRY org.eclipse.lsp4e 4 0 2025-09-02 18:20:34.508
+!MESSAGE [Error]	[streamChoices] Request id invalid, should have "completionId" and "created": {
+  headerRequestId: '8c3418eb-72a0-498f-9267-b57e144d8ba0',
+  completionId: '',
+  created: 0,
+  serverExperiments: '',
+  deploymentId: ''
+}
+
+!ENTRY org.eclipse.lsp4e 1 0 2025-09-02 18:20:34.508
+!MESSAGE [Info]	[fetchCompletions] Request 8c3418eb-72a0-498f-9267-b57e144d8ba0 at <https://proxy.individual.githubcopilot.com/v1/engines/gpt-41-copilot/completions> finished with 200 status after 582.853045001626ms
+
+!ENTRY org.eclipse.lsp4e 4 0 2025-09-02 18:20:34.618
+!MESSAGE [Error]	[streamChoices] Request id invalid, should have "completionId" and "created": {
+  headerRequestId: '8c3418eb-72a0-498f-9267-b57e144d8ba0',
+  completionId: '',
+  created: 0,
+  serverExperiments: '',
+  deploymentId: ''
+}
+
+!ENTRY org.eclipse.lsp4e 4 0 2025-09-02 18:20:34.619
+!MESSAGE [Error]	[streamChoices] Request id invalid, should have "completionId" and "created": {
+  headerRequestId: '8c3418eb-72a0-498f-9267-b57e144d8ba0',
+  completionId: '',
+  created: 0,
+  serverExperiments: '',
+  deploymentId: ''
+}
+
+!ENTRY org.eclipse.lsp4e 4 0 2025-09-02 18:20:34.620
+!MESSAGE [Error]	[streamChoices] Request id invalid, should have "completionId" and "created": {
+  headerRequestId: '8c3418eb-72a0-498f-9267-b57e144d8ba0',
+  completionId: '',
+  created: 0,
+  serverExperiments: '',
+  deploymentId: ''
+}
+
+!ENTRY org.eclipse.lsp4e 1 0 2025-09-02 18:20:34.620
+!MESSAGE [Info]	[streamChoices] solution 0 returned. finish reason: [content_filter]
+
+!ENTRY org.eclipse.lsp4e 4 0 2025-09-02 18:20:36.442
+!MESSAGE [Error]	[streamChoices] Request id invalid, should have "completionId" and "created": {
+  headerRequestId: 'feda8dab-dc3d-41a2-9f88-30c10da9dbfe',
+  completionId: '',
+  created: 0,
+  serverExperiments: '',
+  deploymentId: ''
+}
+
+!ENTRY org.eclipse.lsp4e 1 0 2025-09-02 18:20:36.444
+!MESSAGE [Info]	[fetchCompletions] Request feda8dab-dc3d-41a2-9f88-30c10da9dbfe at <https://proxy.individual.githubcopilot.com/v1/engines/gpt-41-copilot/completions> finished with 200 status after 364.4476529955864ms
+
+!ENTRY org.eclipse.lsp4e 4 0 2025-09-02 18:20:37.352
+!MESSAGE [Error]	[streamChoices] Request id invalid, should have "completionId" and "created": {
+  headerRequestId: 'feda8dab-dc3d-41a2-9f88-30c10da9dbfe',
+  completionId: '',
+  created: 0,
+  serverExperiments: '',
+  deploymentId: ''
+}
+
+!ENTRY org.eclipse.lsp4e 4 0 2025-09-02 18:20:37.353
+!MESSAGE [Error]	[streamChoices] Request id invalid, should have "completionId" and "created": {
+  headerRequestId: 'feda8dab-dc3d-41a2-9f88-30c10da9dbfe',
+  completionId: '',
+  created: 0,
+  serverExperiments: '',
+  deploymentId: ''
+}
+
+!ENTRY org.eclipse.lsp4e 4 0 2025-09-02 18:20:37.353
+!MESSAGE [Error]	[streamChoices] Request id invalid, should have "completionId" and "created": {
+  headerRequestId: 'feda8dab-dc3d-41a2-9f88-30c10da9dbfe',
+  completionId: '',
+  created: 0,
+  serverExperiments: '',
+  deploymentId: ''
+}
+
+!ENTRY org.eclipse.lsp4e 4 0 2025-09-02 18:20:37.354
+!MESSAGE [Error]	[streamChoices] Request id invalid, should have "completionId" and "created": {
+  headerRequestId: 'feda8dab-dc3d-41a2-9f88-30c10da9dbfe',
+  completionId: '',
+  created: 0,
+  serverExperiments: '',
+  deploymentId: ''
+}
+
+!ENTRY org.eclipse.lsp4e 4 0 2025-09-02 18:20:37.354
+!MESSAGE [Error]	[streamChoices] Request id invalid, should have "completionId" and "created": {
+  headerRequestId: 'feda8dab-dc3d-41a2-9f88-30c10da9dbfe',
+  completionId: '',
+  created: 0,
+  serverExperiments: '',
+  deploymentId: ''
+}
+
+!ENTRY org.eclipse.lsp4e 4 0 2025-09-02 18:20:37.354
+!MESSAGE [Error]	[streamChoices] Request id invalid, should have "completionId" and "created": {
+  headerRequestId: 'feda8dab-dc3d-41a2-9f88-30c10da9dbfe',
+  completionId: '',
+  created: 0,
+  serverExperiments: '',
+  deploymentId: ''
+}
+
+!ENTRY org.eclipse.lsp4e 4 0 2025-09-02 18:20:37.354
+!MESSAGE [Error]	[streamChoices] Request id invalid, should have "completionId" and "created": {
+  headerRequestId: 'feda8dab-dc3d-41a2-9f88-30c10da9dbfe',
+  completionId: '',
+  created: 0,
+  serverExperiments: '',
+  deploymentId: ''
+}
+
+!ENTRY org.eclipse.lsp4e 4 0 2025-09-02 18:20:37.354
+!MESSAGE [Error]	[streamChoices] Request id invalid, should have "completionId" and "created": {
+  headerRequestId: 'feda8dab-dc3d-41a2-9f88-30c10da9dbfe',
+  completionId: '',
+  created: 0,
+  serverExperiments: '',
+  deploymentId: ''
+}
+
+!ENTRY org.eclipse.lsp4e 4 0 2025-09-02 18:20:37.355
+!MESSAGE [Error]	[streamChoices] Request id invalid, should have "completionId" and "created": {
+  headerRequestId: 'feda8dab-dc3d-41a2-9f88-30c10da9dbfe',
+  completionId: '',
+  created: 0,
+  serverExperiments: '',
+  deploymentId: ''
+}
+
+!ENTRY org.eclipse.lsp4e 4 0 2025-09-02 18:20:37.355
+!MESSAGE [Error]	[streamChoices] Request id invalid, should have "completionId" and "created": {
+  headerRequestId: 'feda8dab-dc3d-41a2-9f88-30c10da9dbfe',
+  completionId: '',
+  created: 0,
+  serverExperiments: '',
+  deploymentId: ''
+}
+
+!ENTRY org.eclipse.lsp4e 4 0 2025-09-02 18:20:37.355
+!MESSAGE [Error]	[streamChoices] Request id invalid, should have "completionId" and "created": {
+  headerRequestId: 'feda8dab-dc3d-41a2-9f88-30c10da9dbfe',
+  completionId: '',
+  created: 0,
+  serverExperiments: '',
+  deploymentId: ''
+}
+
+!ENTRY org.eclipse.lsp4e 4 0 2025-09-02 18:20:37.355
+!MESSAGE [Error]	[streamChoices] Request id invalid, should have "completionId" and "created": {
+  headerRequestId: 'feda8dab-dc3d-41a2-9f88-30c10da9dbfe',
+  completionId: '',
+  created: 0,
+  serverExperiments: '',
+  deploymentId: ''
+}
+
+!ENTRY org.eclipse.lsp4e 4 0 2025-09-02 18:20:37.355
+!MESSAGE [Error]	[streamChoices] Request id invalid, should have "completionId" and "created": {
+  headerRequestId: 'feda8dab-dc3d-41a2-9f88-30c10da9dbfe',
+  completionId: '',
+  created: 0,
+  serverExperiments: '',
+  deploymentId: ''
+}
+
+!ENTRY org.eclipse.lsp4e 4 0 2025-09-02 18:20:37.356
+!MESSAGE [Error]	[streamChoices] Request id invalid, should have "completionId" and "created": {
+  headerRequestId: 'feda8dab-dc3d-41a2-9f88-30c10da9dbfe',
+  completionId: '',
+  created: 0,
+  serverExperiments: '',
+  deploymentId: ''
+}
+
+!ENTRY org.eclipse.lsp4e 4 0 2025-09-02 18:20:37.356
+!MESSAGE [Error]	[streamChoices] Request id invalid, should have "completionId" and "created": {
+  headerRequestId: 'feda8dab-dc3d-41a2-9f88-30c10da9dbfe',
+  completionId: '',
+  created: 0,
+  serverExperiments: '',
+  deploymentId: ''
+}
+
+!ENTRY org.eclipse.lsp4e 4 0 2025-09-02 18:20:37.356
+!MESSAGE [Error]	[streamChoices] Request id invalid, should have "completionId" and "created": {
+  headerRequestId: 'feda8dab-dc3d-41a2-9f88-30c10da9dbfe',
+  completionId: '',
+  created: 0,
+  serverExperiments: '',
+  deploymentId: ''
+}
+
+!ENTRY org.eclipse.lsp4e 4 0 2025-09-02 18:20:37.356
+!MESSAGE [Error]	[streamChoices] Request id invalid, should have "completionId" and "created": {
+  headerRequestId: 'feda8dab-dc3d-41a2-9f88-30c10da9dbfe',
+  completionId: '',
+  created: 0,
+  serverExperiments: '',
+  deploymentId: ''
+}
+
+!ENTRY org.eclipse.lsp4e 4 0 2025-09-02 18:20:37.356
+!MESSAGE [Error]	[streamChoices] Request id invalid, should have "completionId" and "created": {
+  headerRequestId: 'feda8dab-dc3d-41a2-9f88-30c10da9dbfe',
+  completionId: '',
+  created: 0,
+  serverExperiments: '',
+  deploymentId: ''
+}
+
+!ENTRY org.eclipse.lsp4e 4 0 2025-09-02 18:20:37.357
+!MESSAGE [Error]	[streamChoices] Request id invalid, should have "completionId" and "created": {
+  headerRequestId: 'feda8dab-dc3d-41a2-9f88-30c10da9dbfe',
+  completionId: '',
+  created: 0,
+  serverExperiments: '',
+  deploymentId: ''
+}
+
+!ENTRY org.eclipse.lsp4e 4 0 2025-09-02 18:20:37.357
+!MESSAGE [Error]	[streamChoices] Request id invalid, should have "completionId" and "created": {
+  headerRequestId: 'feda8dab-dc3d-41a2-9f88-30c10da9dbfe',
+  completionId: '',
+  created: 0,
+  serverExperiments: '',
+  deploymentId: ''
+}
+
+!ENTRY org.eclipse.lsp4e 4 0 2025-09-02 18:20:37.358
+!MESSAGE [Error]	[streamChoices] Request id invalid, should have "completionId" and "created": {
+  headerRequestId: 'feda8dab-dc3d-41a2-9f88-30c10da9dbfe',
+  completionId: '',
+  created: 0,
+  serverExperiments: '',
+  deploymentId: ''
+}
+
+!ENTRY org.eclipse.lsp4e 4 0 2025-09-02 18:20:37.359
+!MESSAGE [Error]	[streamChoices] Request id invalid, should have "completionId" and "created": {
+  headerRequestId: 'feda8dab-dc3d-41a2-9f88-30c10da9dbfe',
+  completionId: '',
+  created: 0,
+  serverExperiments: '',
+  deploymentId: ''
+}
+
+!ENTRY org.eclipse.lsp4e 4 0 2025-09-02 18:20:37.359
+!MESSAGE [Error]	[streamChoices] Request id invalid, should have "completionId" and "created": {
+  headerRequestId: 'feda8dab-dc3d-41a2-9f88-30c10da9dbfe',
+  completionId: '',
+  created: 0,
+  serverExperiments: '',
+  deploymentId: ''
+}
+
+!ENTRY org.eclipse.lsp4e 4 0 2025-09-02 18:20:37.359
+!MESSAGE [Error]	[streamChoices] Request id invalid, should have "completionId" and "created": {
+  headerRequestId: 'feda8dab-dc3d-41a2-9f88-30c10da9dbfe',
+  completionId: '',
+  created: 0,
+  serverExperiments: '',
+  deploymentId: ''
+}
+
+!ENTRY org.eclipse.lsp4e 4 0 2025-09-02 18:20:37.359
+!MESSAGE [Error]	[streamChoices] Request id invalid, should have "completionId" and "created": {
+  headerRequestId: 'feda8dab-dc3d-41a2-9f88-30c10da9dbfe',
+  completionId: '',
+  created: 0,
+  serverExperiments: '',
+  deploymentId: ''
+}
+
+!ENTRY org.eclipse.lsp4e 4 0 2025-09-02 18:20:37.359
+!MESSAGE [Error]	[streamChoices] Request id invalid, should have "completionId" and "created": {
+  headerRequestId: 'feda8dab-dc3d-41a2-9f88-30c10da9dbfe',
+  completionId: '',
+  created: 0,
+  serverExperiments: '',
+  deploymentId: ''
+}
+
+!ENTRY org.eclipse.lsp4e 4 0 2025-09-02 18:20:37.359
+!MESSAGE [Error]	[streamChoices] Request id invalid, should have "completionId" and "created": {
+  headerRequestId: 'feda8dab-dc3d-41a2-9f88-30c10da9dbfe',
+  completionId: '',
+  created: 0,
+  serverExperiments: '',
+  deploymentId: ''
+}
+
+!ENTRY org.eclipse.lsp4e 4 0 2025-09-02 18:20:37.360
+!MESSAGE [Error]	[streamChoices] Request id invalid, should have "completionId" and "created": {
+  headerRequestId: 'feda8dab-dc3d-41a2-9f88-30c10da9dbfe',
+  completionId: '',
+  created: 0,
+  serverExperiments: '',
+  deploymentId: ''
+}
+
+!ENTRY org.eclipse.lsp4e 4 0 2025-09-02 18:20:37.360
+!MESSAGE [Error]	[streamChoices] Request id invalid, should have "completionId" and "created": {
+  headerRequestId: 'feda8dab-dc3d-41a2-9f88-30c10da9dbfe',
+  completionId: '',
+  created: 0,
+  serverExperiments: '',
+  deploymentId: ''
+}
+
+!ENTRY org.eclipse.lsp4e 4 0 2025-09-02 18:20:37.360
+!MESSAGE [Error]	[streamChoices] Request id invalid, should have "completionId" and "created": {
+  headerRequestId: 'feda8dab-dc3d-41a2-9f88-30c10da9dbfe',
+  completionId: '',
+  created: 0,
+  serverExperiments: '',
+  deploymentId: ''
+}
+
+!ENTRY org.eclipse.lsp4e 4 0 2025-09-02 18:20:37.360
+!MESSAGE [Error]	[streamChoices] Request id invalid, should have "completionId" and "created": {
+  headerRequestId: 'feda8dab-dc3d-41a2-9f88-30c10da9dbfe',
+  completionId: '',
+  created: 0,
+  serverExperiments: '',
+  deploymentId: ''
+}
+
+!ENTRY org.eclipse.lsp4e 4 0 2025-09-02 18:20:37.360
+!MESSAGE [Error]	[streamChoices] Request id invalid, should have "completionId" and "created": {
+  headerRequestId: 'feda8dab-dc3d-41a2-9f88-30c10da9dbfe',
+  completionId: '',
+  created: 0,
+  serverExperiments: '',
+  deploymentId: ''
+}
+
+!ENTRY org.eclipse.lsp4e 4 0 2025-09-02 18:20:37.360
+!MESSAGE [Error]	[streamChoices] Request id invalid, should have "completionId" and "created": {
+  headerRequestId: 'feda8dab-dc3d-41a2-9f88-30c10da9dbfe',
+  completionId: '',
+  created: 0,
+  serverExperiments: '',
+  deploymentId: ''
+}
+
+!ENTRY org.eclipse.lsp4e 4 0 2025-09-02 18:20:37.361
+!MESSAGE [Error]	[streamChoices] Request id invalid, should have "completionId" and "created": {
+  headerRequestId: 'feda8dab-dc3d-41a2-9f88-30c10da9dbfe',
+  completionId: '',
+  created: 0,
+  serverExperiments: '',
+  deploymentId: ''
+}
+
+!ENTRY org.eclipse.lsp4e 4 0 2025-09-02 18:20:37.361
+!MESSAGE [Error]	[streamChoices] Request id invalid, should have "completionId" and "created": {
+  headerRequestId: 'feda8dab-dc3d-41a2-9f88-30c10da9dbfe',
+  completionId: '',
+  created: 0,
+  serverExperiments: '',
+  deploymentId: ''
+}
+
+!ENTRY org.eclipse.lsp4e 1 0 2025-09-02 18:20:37.361
+!MESSAGE [Info]	[streamChoices] solution 0 returned. finish reason: [stop]
+
+!ENTRY org.eclipse.lsp4e 4 0 2025-09-02 18:20:37.361
+!MESSAGE [Error]	[streamChoices] Request id invalid, should have "completionId" and "created": {
+  headerRequestId: 'feda8dab-dc3d-41a2-9f88-30c10da9dbfe',
+  completionId: '',
+  created: 0,
+  serverExperiments: '',
+  deploymentId: ''
+}
+
+!ENTRY org.eclipse.lsp4e 1 0 2025-09-02 18:20:41.883
+!MESSAGE [Info]	[fetchCompletions] Request 1833987e-dcad-4e12-8a93-44a6545f6e88 at <https://proxy.individual.githubcopilot.com/v1/engines/gpt-41-copilot/completions> finished with 200 status after 1368.709722995758ms
+
+!ENTRY org.eclipse.lsp4e 4 0 2025-09-02 18:20:41.883
+!MESSAGE [Error]	[streamChoices] Request id invalid, should have "completionId" and "created": {
+  headerRequestId: '1833987e-dcad-4e12-8a93-44a6545f6e88',
+  completionId: '',
+  created: 0,
+  serverExperiments: '',
+  deploymentId: ''
+}
+
+!ENTRY org.eclipse.lsp4e 4 0 2025-09-02 18:20:41.884
+!MESSAGE [Error]	[streamChoices] Request id invalid, should have "completionId" and "created": {
+  headerRequestId: '1833987e-dcad-4e12-8a93-44a6545f6e88',
+  completionId: '',
+  created: 0,
+  serverExperiments: '',
+  deploymentId: ''
+}
+
+!ENTRY org.eclipse.lsp4e 1 0 2025-09-02 18:20:41.887
+!MESSAGE [Info]	[streamChoices] solution 0 returned. finish reason: [stop]
+
+!ENTRY org.eclipse.lsp4e 1 0 2025-09-02 18:20:43.005
+!MESSAGE [Info]	[fetchCompletions] Request aed1c1b8-6b25-44b8-8e17-791544ca6f74 at <https://proxy.individual.githubcopilot.com/v1/engines/gpt-41-copilot/completions> finished with 200 status after 799.0756889954209ms
+
+!ENTRY org.eclipse.lsp4e 1 0 2025-09-02 18:20:43.005
+!MESSAGE [Info]	[streamChoices] solution 0 returned. finish reason: [stop]
+
+!ENTRY org.eclipse.lsp4e 4 0 2025-09-02 18:20:43.006
+!MESSAGE [Error]	[streamChoices] Request id invalid, should have "completionId" and "created": {
+  headerRequestId: 'aed1c1b8-6b25-44b8-8e17-791544ca6f74',
+  completionId: '',
+  created: 0,
+  serverExperiments: '',
+  deploymentId: ''
+}
+
+!ENTRY org.eclipse.lsp4e 4 0 2025-09-02 18:20:43.006
+!MESSAGE [Error]	[streamChoices] Request id invalid, should have "completionId" and "created": {
+  headerRequestId: 'aed1c1b8-6b25-44b8-8e17-791544ca6f74',
+  completionId: '',
+  created: 0,
+  serverExperiments: '',
+  deploymentId: ''
+}
+
+!ENTRY org.eclipse.lsp4e 1 0 2025-09-02 18:20:43.843
+!MESSAGE [Info]	[fetchCompletions] Request 1b0ab993-590e-46bb-b125-cf3b6c3c98d3 at <https://proxy.individual.githubcopilot.com/v1/engines/gpt-41-copilot/completions> finished with 200 status after 343.8452330008149ms
+
+!ENTRY org.eclipse.lsp4e 4 0 2025-09-02 18:20:43.843
+!MESSAGE [Error]	[streamChoices] Request id invalid, should have "completionId" and "created": {
+  headerRequestId: '1b0ab993-590e-46bb-b125-cf3b6c3c98d3',
+  completionId: '',
+  created: 0,
+  serverExperiments: '',
+  deploymentId: ''
+}
+
+!ENTRY org.eclipse.lsp4e 4 0 2025-09-02 18:20:43.996
+!MESSAGE [Error]	[streamChoices] Request id invalid, should have "completionId" and "created": {
+  headerRequestId: '1b0ab993-590e-46bb-b125-cf3b6c3c98d3',
+  completionId: '',
+  created: 0,
+  serverExperiments: '',
+  deploymentId: ''
+}
+
+!ENTRY org.eclipse.lsp4e 1 0 2025-09-02 18:20:43.997
+!MESSAGE [Info]	[streamChoices] solution 0 returned. finish reason: [stop]
+
+!ENTRY org.eclipse.lsp4e 1 0 2025-09-02 18:20:44.491
+!MESSAGE [Info]	[fetchCompletions] Request 7c4e62f1-09bc-4cea-8c8d-fdfe149b0c80 at <https://proxy.individual.githubcopilot.com/v1/engines/gpt-41-copilot/completions> finished with 200 status after 474.33002499490976ms
+
+!ENTRY org.eclipse.lsp4e 4 0 2025-09-02 18:20:44.491
+!MESSAGE [Error]	[streamChoices] Request id invalid, should have "completionId" and "created": {
+  headerRequestId: '7c4e62f1-09bc-4cea-8c8d-fdfe149b0c80',
+  completionId: '',
+  created: 0,
+  serverExperiments: '',
+  deploymentId: ''
+}
+
+!ENTRY org.eclipse.lsp4e 4 0 2025-09-02 18:20:45.343
+!MESSAGE [Error]	[streamChoices] Request id invalid, should have "completionId" and "created": {
+  headerRequestId: '7c4e62f1-09bc-4cea-8c8d-fdfe149b0c80',
+  completionId: '',
+  created: 0,
+  serverExperiments: '',
+  deploymentId: ''
+}
+
+!ENTRY org.eclipse.lsp4e 4 0 2025-09-02 18:20:45.344
+!MESSAGE [Error]	[streamChoices] Request id invalid, should have "completionId" and "created": {
+  headerRequestId: '7c4e62f1-09bc-4cea-8c8d-fdfe149b0c80',
+  completionId: '',
+  created: 0,
+  serverExperiments: '',
+  deploymentId: ''
+}
+
+!ENTRY org.eclipse.lsp4e 4 0 2025-09-02 18:20:45.345
+!MESSAGE [Error]	[streamChoices] Request id invalid, should have "completionId" and "created": {
+  headerRequestId: '7c4e62f1-09bc-4cea-8c8d-fdfe149b0c80',
+  completionId: '',
+  created: 0,
+  serverExperiments: '',
+  deploymentId: ''
+}
+
+!ENTRY org.eclipse.lsp4e 4 0 2025-09-02 18:20:45.345
+!MESSAGE [Error]	[streamChoices] Request id invalid, should have "completionId" and "created": {
+  headerRequestId: '7c4e62f1-09bc-4cea-8c8d-fdfe149b0c80',
+  completionId: '',
+  created: 0,
+  serverExperiments: '',
+  deploymentId: ''
+}
+
+!ENTRY org.eclipse.lsp4e 4 0 2025-09-02 18:20:45.345
+!MESSAGE [Error]	[streamChoices] Request id invalid, should have "completionId" and "created": {
+  headerRequestId: '7c4e62f1-09bc-4cea-8c8d-fdfe149b0c80',
+  completionId: '',
+  created: 0,
+  serverExperiments: '',
+  deploymentId: ''
+}
+
+!ENTRY org.eclipse.lsp4e 4 0 2025-09-02 18:20:45.345
+!MESSAGE [Error]	[streamChoices] Request id invalid, should have "completionId" and "created": {
+  headerRequestId: '7c4e62f1-09bc-4cea-8c8d-fdfe149b0c80',
+  completionId: '',
+  created: 0,
+  serverExperiments: '',
+  deploymentId: ''
+}
+
+!ENTRY org.eclipse.lsp4e 4 0 2025-09-02 18:20:45.345
+!MESSAGE [Error]	[streamChoices] Request id invalid, should have "completionId" and "created": {
+  headerRequestId: '7c4e62f1-09bc-4cea-8c8d-fdfe149b0c80',
+  completionId: '',
+  created: 0,
+  serverExperiments: '',
+  deploymentId: ''
+}
+
+!ENTRY org.eclipse.lsp4e 4 0 2025-09-02 18:20:45.346
+!MESSAGE [Error]	[streamChoices] Request id invalid, should have "completionId" and "created": {
+  headerRequestId: '7c4e62f1-09bc-4cea-8c8d-fdfe149b0c80',
+  completionId: '',
+  created: 0,
+  serverExperiments: '',
+  deploymentId: ''
+}
+
+!ENTRY org.eclipse.lsp4e 4 0 2025-09-02 18:20:45.346
+!MESSAGE [Error]	[streamChoices] Request id invalid, should have "completionId" and "created": {
+  headerRequestId: '7c4e62f1-09bc-4cea-8c8d-fdfe149b0c80',
+  completionId: '',
+  created: 0,
+  serverExperiments: '',
+  deploymentId: ''
+}
+
+!ENTRY org.eclipse.lsp4e 4 0 2025-09-02 18:20:45.346
+!MESSAGE [Error]	[streamChoices] Request id invalid, should have "completionId" and "created": {
+  headerRequestId: '7c4e62f1-09bc-4cea-8c8d-fdfe149b0c80',
+  completionId: '',
+  created: 0,
+  serverExperiments: '',
+  deploymentId: ''
+}
+
+!ENTRY org.eclipse.lsp4e 4 0 2025-09-02 18:20:45.346
+!MESSAGE [Error]	[streamChoices] Request id invalid, should have "completionId" and "created": {
+  headerRequestId: '7c4e62f1-09bc-4cea-8c8d-fdfe149b0c80',
+  completionId: '',
+  created: 0,
+  serverExperiments: '',
+  deploymentId: ''
+}
+
+!ENTRY org.eclipse.lsp4e 4 0 2025-09-02 18:20:45.346
+!MESSAGE [Error]	[streamChoices] Request id invalid, should have "completionId" and "created": {
+  headerRequestId: '7c4e62f1-09bc-4cea-8c8d-fdfe149b0c80',
+  completionId: '',
+  created: 0,
+  serverExperiments: '',
+  deploymentId: ''
+}
+
+!ENTRY org.eclipse.lsp4e 4 0 2025-09-02 18:20:45.346
+!MESSAGE [Error]	[streamChoices] Request id invalid, should have "completionId" and "created": {
+  headerRequestId: '7c4e62f1-09bc-4cea-8c8d-fdfe149b0c80',
+  completionId: '',
+  created: 0,
+  serverExperiments: '',
+  deploymentId: ''
+}
+
+!ENTRY org.eclipse.lsp4e 4 0 2025-09-02 18:20:45.347
+!MESSAGE [Error]	[streamChoices] Request id invalid, should have "completionId" and "created": {
+  headerRequestId: '7c4e62f1-09bc-4cea-8c8d-fdfe149b0c80',
+  completionId: '',
+  created: 0,
+  serverExperiments: '',
+  deploymentId: ''
+}
+
+!ENTRY org.eclipse.lsp4e 4 0 2025-09-02 18:20:45.347
+!MESSAGE [Error]	[streamChoices] Request id invalid, should have "completionId" and "created": {
+  headerRequestId: '7c4e62f1-09bc-4cea-8c8d-fdfe149b0c80',
+  completionId: '',
+  created: 0,
+  serverExperiments: '',
+  deploymentId: ''
+}
+
+!ENTRY org.eclipse.lsp4e 4 0 2025-09-02 18:20:45.347
+!MESSAGE [Error]	[streamChoices] Request id invalid, should have "completionId" and "created": {
+  headerRequestId: '7c4e62f1-09bc-4cea-8c8d-fdfe149b0c80',
+  completionId: '',
+  created: 0,
+  serverExperiments: '',
+  deploymentId: ''
+}
+
+!ENTRY org.eclipse.lsp4e 4 0 2025-09-02 18:20:45.347
+!MESSAGE [Error]	[streamChoices] Request id invalid, should have "completionId" and "created": {
+  headerRequestId: '7c4e62f1-09bc-4cea-8c8d-fdfe149b0c80',
+  completionId: '',
+  created: 0,
+  serverExperiments: '',
+  deploymentId: ''
+}
+
+!ENTRY org.eclipse.lsp4e 4 0 2025-09-02 18:20:45.347
+!MESSAGE [Error]	[streamChoices] Request id invalid, should have "completionId" and "created": {
+  headerRequestId: '7c4e62f1-09bc-4cea-8c8d-fdfe149b0c80',
+  completionId: '',
+  created: 0,
+  serverExperiments: '',
+  deploymentId: ''
+}
+
+!ENTRY org.eclipse.lsp4e 4 0 2025-09-02 18:20:45.347
+!MESSAGE [Error]	[streamChoices] Request id invalid, should have "completionId" and "created": {
+  headerRequestId: '7c4e62f1-09bc-4cea-8c8d-fdfe149b0c80',
+  completionId: '',
+  created: 0,
+  serverExperiments: '',
+  deploymentId: ''
+}
+
+!ENTRY org.eclipse.lsp4e 4 0 2025-09-02 18:20:45.348
+!MESSAGE [Error]	[streamChoices] Request id invalid, should have "completionId" and "created": {
+  headerRequestId: '7c4e62f1-09bc-4cea-8c8d-fdfe149b0c80',
+  completionId: '',
+  created: 0,
+  serverExperiments: '',
+  deploymentId: ''
+}
+
+!ENTRY org.eclipse.lsp4e 4 0 2025-09-02 18:20:45.348
+!MESSAGE [Error]	[streamChoices] Request id invalid, should have "completionId" and "created": {
+  headerRequestId: '7c4e62f1-09bc-4cea-8c8d-fdfe149b0c80',
+  completionId: '',
+  created: 0,
+  serverExperiments: '',
+  deploymentId: ''
+}
+
+!ENTRY org.eclipse.lsp4e 4 0 2025-09-02 18:20:45.348
+!MESSAGE [Error]	[streamChoices] Request id invalid, should have "completionId" and "created": {
+  headerRequestId: '7c4e62f1-09bc-4cea-8c8d-fdfe149b0c80',
+  completionId: '',
+  created: 0,
+  serverExperiments: '',
+  deploymentId: ''
+}
+
+!ENTRY org.eclipse.lsp4e 4 0 2025-09-02 18:20:45.348
+!MESSAGE [Error]	[streamChoices] Request id invalid, should have "completionId" and "created": {
+  headerRequestId: '7c4e62f1-09bc-4cea-8c8d-fdfe149b0c80',
+  completionId: '',
+  created: 0,
+  serverExperiments: '',
+  deploymentId: ''
+}
+
+!ENTRY org.eclipse.lsp4e 4 0 2025-09-02 18:20:45.348
+!MESSAGE [Error]	[streamChoices] Request id invalid, should have "completionId" and "created": {
+  headerRequestId: '7c4e62f1-09bc-4cea-8c8d-fdfe149b0c80',
+  completionId: '',
+  created: 0,
+  serverExperiments: '',
+  deploymentId: ''
+}
+
+!ENTRY org.eclipse.lsp4e 4 0 2025-09-02 18:20:45.348
+!MESSAGE [Error]	[streamChoices] Request id invalid, should have "completionId" and "created": {
+  headerRequestId: '7c4e62f1-09bc-4cea-8c8d-fdfe149b0c80',
+  completionId: '',
+  created: 0,
+  serverExperiments: '',
+  deploymentId: ''
+}
+
+!ENTRY org.eclipse.lsp4e 4 0 2025-09-02 18:20:45.348
+!MESSAGE [Error]	[streamChoices] Request id invalid, should have "completionId" and "created": {
+  headerRequestId: '7c4e62f1-09bc-4cea-8c8d-fdfe149b0c80',
+  completionId: '',
+  created: 0,
+  serverExperiments: '',
+  deploymentId: ''
+}
+
+!ENTRY org.eclipse.lsp4e 4 0 2025-09-02 18:20:45.349
+!MESSAGE [Error]	[streamChoices] Request id invalid, should have "completionId" and "created": {
+  headerRequestId: '7c4e62f1-09bc-4cea-8c8d-fdfe149b0c80',
+  completionId: '',
+  created: 0,
+  serverExperiments: '',
+  deploymentId: ''
+}
+
+!ENTRY org.eclipse.lsp4e 4 0 2025-09-02 18:20:45.349
+!MESSAGE [Error]	[streamChoices] Request id invalid, should have "completionId" and "created": {
+  headerRequestId: '7c4e62f1-09bc-4cea-8c8d-fdfe149b0c80',
+  completionId: '',
+  created: 0,
+  serverExperiments: '',
+  deploymentId: ''
+}
+
+!ENTRY org.eclipse.lsp4e 4 0 2025-09-02 18:20:45.349
+!MESSAGE [Error]	[streamChoices] Request id invalid, should have "completionId" and "created": {
+  headerRequestId: '7c4e62f1-09bc-4cea-8c8d-fdfe149b0c80',
+  completionId: '',
+  created: 0,
+  serverExperiments: '',
+  deploymentId: ''
+}
+
+!ENTRY org.eclipse.lsp4e 4 0 2025-09-02 18:20:45.349
+!MESSAGE [Error]	[streamChoices] Request id invalid, should have "completionId" and "created": {
+  headerRequestId: '7c4e62f1-09bc-4cea-8c8d-fdfe149b0c80',
+  completionId: '',
+  created: 0,
+  serverExperiments: '',
+  deploymentId: ''
+}
+
+!ENTRY org.eclipse.lsp4e 1 0 2025-09-02 18:20:45.349
+!MESSAGE [Info]	[streamChoices] solution 0 returned. finish reason: [content_filter]
+
+!ENTRY org.eclipse.lsp4e 1 0 2025-09-02 18:20:51.508
+!MESSAGE [Info]	[fetchCompletions] Request 1b7a8ef1-4d82-4b02-8716-cd31eb2921a8 at <https://proxy.individual.githubcopilot.com/v1/engines/gpt-41-copilot/completions> finished with 200 status after 395.4192629978061ms
+
+!ENTRY org.eclipse.lsp4e 4 0 2025-09-02 18:20:51.509
+!MESSAGE [Error]	[streamChoices] Request id invalid, should have "completionId" and "created": {
+  headerRequestId: '1b7a8ef1-4d82-4b02-8716-cd31eb2921a8',
+  completionId: '',
+  created: 0,
+  serverExperiments: '',
+  deploymentId: ''
+}
+
+!ENTRY org.eclipse.lsp4e 4 0 2025-09-02 18:20:51.719
+!MESSAGE [Error]	[streamChoices] Request id invalid, should have "completionId" and "created": {
+  headerRequestId: '1b7a8ef1-4d82-4b02-8716-cd31eb2921a8',
+  completionId: '',
+  created: 0,
+  serverExperiments: '',
+  deploymentId: ''
+}
+
+!ENTRY org.eclipse.lsp4e 4 0 2025-09-02 18:20:51.719
+!MESSAGE [Error]	[streamChoices] Request id invalid, should have "completionId" and "created": {
+  headerRequestId: '1b7a8ef1-4d82-4b02-8716-cd31eb2921a8',
+  completionId: '',
+  created: 0,
+  serverExperiments: '',
+  deploymentId: ''
+}
+
+!ENTRY org.eclipse.lsp4e 4 0 2025-09-02 18:20:51.720
+!MESSAGE [Error]	[streamChoices] Request id invalid, should have "completionId" and "created": {
+  headerRequestId: '1b7a8ef1-4d82-4b02-8716-cd31eb2921a8',
+  completionId: '',
+  created: 0,
+  serverExperiments: '',
+  deploymentId: ''
+}
+
+!ENTRY org.eclipse.lsp4e 4 0 2025-09-02 18:20:51.720
+!MESSAGE [Error]	[streamChoices] Request id invalid, should have "completionId" and "created": {
+  headerRequestId: '1b7a8ef1-4d82-4b02-8716-cd31eb2921a8',
+  completionId: '',
+  created: 0,
+  serverExperiments: '',
+  deploymentId: ''
+}
+
+!ENTRY org.eclipse.lsp4e 4 0 2025-09-02 18:20:51.721
+!MESSAGE [Error]	[streamChoices] Request id invalid, should have "completionId" and "created": {
+  headerRequestId: '1b7a8ef1-4d82-4b02-8716-cd31eb2921a8',
+  completionId: '',
+  created: 0,
+  serverExperiments: '',
+  deploymentId: ''
+}
+
+!ENTRY org.eclipse.lsp4e 4 0 2025-09-02 18:20:51.721
+!MESSAGE [Error]	[streamChoices] Request id invalid, should have "completionId" and "created": {
+  headerRequestId: '1b7a8ef1-4d82-4b02-8716-cd31eb2921a8',
+  completionId: '',
+  created: 0,
+  serverExperiments: '',
+  deploymentId: ''
+}
+
+!ENTRY org.eclipse.lsp4e 4 0 2025-09-02 18:20:51.721
+!MESSAGE [Error]	[streamChoices] Request id invalid, should have "completionId" and "created": {
+  headerRequestId: '1b7a8ef1-4d82-4b02-8716-cd31eb2921a8',
+  completionId: '',
+  created: 0,
+  serverExperiments: '',
+  deploymentId: ''
+}
+
+!ENTRY org.eclipse.lsp4e 4 0 2025-09-02 18:20:51.721
+!MESSAGE [Error]	[streamChoices] Request id invalid, should have "completionId" and "created": {
+  headerRequestId: '1b7a8ef1-4d82-4b02-8716-cd31eb2921a8',
+  completionId: '',
+  created: 0,
+  serverExperiments: '',
+  deploymentId: ''
+}
+
+!ENTRY org.eclipse.lsp4e 4 0 2025-09-02 18:20:51.721
+!MESSAGE [Error]	[streamChoices] Request id invalid, should have "completionId" and "created": {
+  headerRequestId: '1b7a8ef1-4d82-4b02-8716-cd31eb2921a8',
+  completionId: '',
+  created: 0,
+  serverExperiments: '',
+  deploymentId: ''
+}
+
+!ENTRY org.eclipse.lsp4e 4 0 2025-09-02 18:20:51.721
+!MESSAGE [Error]	[streamChoices] Request id invalid, should have "completionId" and "created": {
+  headerRequestId: '1b7a8ef1-4d82-4b02-8716-cd31eb2921a8',
+  completionId: '',
+  created: 0,
+  serverExperiments: '',
+  deploymentId: ''
+}
+
+!ENTRY org.eclipse.lsp4e 4 0 2025-09-02 18:20:51.722
+!MESSAGE [Error]	[streamChoices] Request id invalid, should have "completionId" and "created": {
+  headerRequestId: '1b7a8ef1-4d82-4b02-8716-cd31eb2921a8',
+  completionId: '',
+  created: 0,
+  serverExperiments: '',
+  deploymentId: ''
+}
+
+!ENTRY org.eclipse.lsp4e 1 0 2025-09-02 18:20:51.722
+!MESSAGE [Info]	[streamChoices] solution 0 returned. finish reason: [stop]
+
+!ENTRY org.eclipse.lsp4e 1 0 2025-09-02 18:20:53.495
+!MESSAGE [Info]	[fetchCompletions] Request 72ade902-e303-4db6-bffe-b67d3e0be9ad at <https://proxy.individual.githubcopilot.com/v1/engines/gpt-41-copilot/completions> finished with 200 status after 401.07360000163317ms
+
+!ENTRY org.eclipse.lsp4e 4 0 2025-09-02 18:20:53.495
+!MESSAGE [Error]	[streamChoices] Request id invalid, should have "completionId" and "created": {
+  headerRequestId: '72ade902-e303-4db6-bffe-b67d3e0be9ad',
+  completionId: '',
+  created: 0,
+  serverExperiments: '',
+  deploymentId: ''
+}
+
+!ENTRY org.eclipse.lsp4e 4 0 2025-09-02 18:20:53.751
+!MESSAGE [Error]	[streamChoices] Request id invalid, should have "completionId" and "created": {
+  headerRequestId: '72ade902-e303-4db6-bffe-b67d3e0be9ad',
+  completionId: '',
+  created: 0,
+  serverExperiments: '',
+  deploymentId: ''
+}
+
+!ENTRY org.eclipse.lsp4e 4 0 2025-09-02 18:20:53.751
+!MESSAGE [Error]	[streamChoices] Request id invalid, should have "completionId" and "created": {
+  headerRequestId: '72ade902-e303-4db6-bffe-b67d3e0be9ad',
+  completionId: '',
+  created: 0,
+  serverExperiments: '',
+  deploymentId: ''
+}
+
+!ENTRY org.eclipse.lsp4e 4 0 2025-09-02 18:20:53.753
+!MESSAGE [Error]	[streamChoices] Request id invalid, should have "completionId" and "created": {
+  headerRequestId: '72ade902-e303-4db6-bffe-b67d3e0be9ad',
+  completionId: '',
+  created: 0,
+  serverExperiments: '',
+  deploymentId: ''
+}
+
+!ENTRY org.eclipse.lsp4e 4 0 2025-09-02 18:20:53.754
+!MESSAGE [Error]	[streamChoices] Request id invalid, should have "completionId" and "created": {
+  headerRequestId: '72ade902-e303-4db6-bffe-b67d3e0be9ad',
+  completionId: '',
+  created: 0,
+  serverExperiments: '',
+  deploymentId: ''
+}
+
+!ENTRY org.eclipse.lsp4e 4 0 2025-09-02 18:20:53.754
+!MESSAGE [Error]	[streamChoices] Request id invalid, should have "completionId" and "created": {
+  headerRequestId: '72ade902-e303-4db6-bffe-b67d3e0be9ad',
+  completionId: '',
+  created: 0,
+  serverExperiments: '',
+  deploymentId: ''
+}
+
+!ENTRY org.eclipse.lsp4e 4 0 2025-09-02 18:20:53.754
+!MESSAGE [Error]	[streamChoices] Request id invalid, should have "completionId" and "created": {
+  headerRequestId: '72ade902-e303-4db6-bffe-b67d3e0be9ad',
+  completionId: '',
+  created: 0,
+  serverExperiments: '',
+  deploymentId: ''
+}
+
+!ENTRY org.eclipse.lsp4e 4 0 2025-09-02 18:20:53.754
+!MESSAGE [Error]	[streamChoices] Request id invalid, should have "completionId" and "created": {
+  headerRequestId: '72ade902-e303-4db6-bffe-b67d3e0be9ad',
+  completionId: '',
+  created: 0,
+  serverExperiments: '',
+  deploymentId: ''
+}
+
+!ENTRY org.eclipse.lsp4e 4 0 2025-09-02 18:20:53.755
+!MESSAGE [Error]	[streamChoices] Request id invalid, should have "completionId" and "created": {
+  headerRequestId: '72ade902-e303-4db6-bffe-b67d3e0be9ad',
+  completionId: '',
+  created: 0,
+  serverExperiments: '',
+  deploymentId: ''
+}
+
+!ENTRY org.eclipse.lsp4e 4 0 2025-09-02 18:20:53.755
+!MESSAGE [Error]	[streamChoices] Request id invalid, should have "completionId" and "created": {
+  headerRequestId: '72ade902-e303-4db6-bffe-b67d3e0be9ad',
+  completionId: '',
+  created: 0,
+  serverExperiments: '',
+  deploymentId: ''
+}
+
+!ENTRY org.eclipse.lsp4e 4 0 2025-09-02 18:20:53.755
+!MESSAGE [Error]	[streamChoices] Request id invalid, should have "completionId" and "created": {
+  headerRequestId: '72ade902-e303-4db6-bffe-b67d3e0be9ad',
+  completionId: '',
+  created: 0,
+  serverExperiments: '',
+  deploymentId: ''
+}
+
+!ENTRY org.eclipse.lsp4e 4 0 2025-09-02 18:20:53.755
+!MESSAGE [Error]	[streamChoices] Request id invalid, should have "completionId" and "created": {
+  headerRequestId: '72ade902-e303-4db6-bffe-b67d3e0be9ad',
+  completionId: '',
+  created: 0,
+  serverExperiments: '',
+  deploymentId: ''
+}
+
+!ENTRY org.eclipse.lsp4e 4 0 2025-09-02 18:20:53.756
+!MESSAGE [Error]	[streamChoices] Request id invalid, should have "completionId" and "created": {
+  headerRequestId: '72ade902-e303-4db6-bffe-b67d3e0be9ad',
+  completionId: '',
+  created: 0,
+  serverExperiments: '',
+  deploymentId: ''
+}
+
+!ENTRY org.eclipse.lsp4e 4 0 2025-09-02 18:20:53.756
+!MESSAGE [Error]	[streamChoices] Request id invalid, should have "completionId" and "created": {
+  headerRequestId: '72ade902-e303-4db6-bffe-b67d3e0be9ad',
+  completionId: '',
+  created: 0,
+  serverExperiments: '',
+  deploymentId: ''
+}
+
+!ENTRY org.eclipse.lsp4e 4 0 2025-09-02 18:20:53.756
+!MESSAGE [Error]	[streamChoices] Request id invalid, should have "completionId" and "created": {
+  headerRequestId: '72ade902-e303-4db6-bffe-b67d3e0be9ad',
+  completionId: '',
+  created: 0,
+  serverExperiments: '',
+  deploymentId: ''
+}
+
+!ENTRY org.eclipse.lsp4e 4 0 2025-09-02 18:20:53.756
+!MESSAGE [Error]	[streamChoices] Request id invalid, should have "completionId" and "created": {
+  headerRequestId: '72ade902-e303-4db6-bffe-b67d3e0be9ad',
+  completionId: '',
+  created: 0,
+  serverExperiments: '',
+  deploymentId: ''
+}
+
+!ENTRY org.eclipse.lsp4e 4 0 2025-09-02 18:20:53.757
+!MESSAGE [Error]	[streamChoices] Request id invalid, should have "completionId" and "created": {
+  headerRequestId: '72ade902-e303-4db6-bffe-b67d3e0be9ad',
+  completionId: '',
+  created: 0,
+  serverExperiments: '',
+  deploymentId: ''
+}
+
+!ENTRY org.eclipse.lsp4e 4 0 2025-09-02 18:20:53.757
+!MESSAGE [Error]	[streamChoices] Request id invalid, should have "completionId" and "created": {
+  headerRequestId: '72ade902-e303-4db6-bffe-b67d3e0be9ad',
+  completionId: '',
+  created: 0,
+  serverExperiments: '',
+  deploymentId: ''
+}
+
+!ENTRY org.eclipse.lsp4e 4 0 2025-09-02 18:20:53.757
+!MESSAGE [Error]	[streamChoices] Request id invalid, should have "completionId" and "created": {
+  headerRequestId: '72ade902-e303-4db6-bffe-b67d3e0be9ad',
+  completionId: '',
+  created: 0,
+  serverExperiments: '',
+  deploymentId: ''
+}
+
+!ENTRY org.eclipse.lsp4e 4 0 2025-09-02 18:20:53.757
+!MESSAGE [Error]	[streamChoices] Request id invalid, should have "completionId" and "created": {
+  headerRequestId: '72ade902-e303-4db6-bffe-b67d3e0be9ad',
+  completionId: '',
+  created: 0,
+  serverExperiments: '',
+  deploymentId: ''
+}
+
+!ENTRY org.eclipse.lsp4e 4 0 2025-09-02 18:20:53.758
+!MESSAGE [Error]	[streamChoices] Request id invalid, should have "completionId" and "created": {
+  headerRequestId: '72ade902-e303-4db6-bffe-b67d3e0be9ad',
+  completionId: '',
+  created: 0,
+  serverExperiments: '',
+  deploymentId: ''
+}
+
+!ENTRY org.eclipse.lsp4e 4 0 2025-09-02 18:20:53.758
+!MESSAGE [Error]	[streamChoices] Request id invalid, should have "completionId" and "created": {
+  headerRequestId: '72ade902-e303-4db6-bffe-b67d3e0be9ad',
+  completionId: '',
+  created: 0,
+  serverExperiments: '',
+  deploymentId: ''
+}
+
+!ENTRY org.eclipse.lsp4e 4 0 2025-09-02 18:20:53.758
+!MESSAGE [Error]	[streamChoices] Request id invalid, should have "completionId" and "created": {
+  headerRequestId: '72ade902-e303-4db6-bffe-b67d3e0be9ad',
+  completionId: '',
+  created: 0,
+  serverExperiments: '',
+  deploymentId: ''
+}
+
+!ENTRY org.eclipse.lsp4e 1 0 2025-09-02 18:20:53.758
+!MESSAGE [Info]	[streamChoices] solution 0 returned. finish reason: [stop]
+
+!ENTRY org.eclipse.lsp4e 1 0 2025-09-02 18:20:55.189
+!MESSAGE [Info]	[fetchCompletions] Request a8ed0b9c-bdd5-425f-a3a7-e537231d75a0 at <https://proxy.individual.githubcopilot.com/v1/engines/gpt-41-copilot/completions> finished with 200 status after 681.2061829939485ms
+
+!ENTRY org.eclipse.lsp4e 4 0 2025-09-02 18:20:55.189
+!MESSAGE [Error]	[streamChoices] Request id invalid, should have "completionId" and "created": {
+  headerRequestId: 'a8ed0b9c-bdd5-425f-a3a7-e537231d75a0',
+  completionId: '',
+  created: 0,
+  serverExperiments: '',
+  deploymentId: ''
+}
+
+!ENTRY org.eclipse.lsp4e 4 0 2025-09-02 18:20:56.022
+!MESSAGE [Error]	[streamChoices] Request id invalid, should have "completionId" and "created": {
+  headerRequestId: 'a8ed0b9c-bdd5-425f-a3a7-e537231d75a0',
+  completionId: '',
+  created: 0,
+  serverExperiments: '',
+  deploymentId: ''
+}
+
+!ENTRY org.eclipse.lsp4e 4 0 2025-09-02 18:20:56.024
+!MESSAGE [Error]	[streamChoices] Request id invalid, should have "completionId" and "created": {
+  headerRequestId: 'a8ed0b9c-bdd5-425f-a3a7-e537231d75a0',
+  completionId: '',
+  created: 0,
+  serverExperiments: '',
+  deploymentId: ''
+}
+
+!ENTRY org.eclipse.lsp4e 4 0 2025-09-02 18:20:56.024
+!MESSAGE [Error]	[streamChoices] Request id invalid, should have "completionId" and "created": {
+  headerRequestId: 'a8ed0b9c-bdd5-425f-a3a7-e537231d75a0',
+  completionId: '',
+  created: 0,
+  serverExperiments: '',
+  deploymentId: ''
+}
+
+!ENTRY org.eclipse.lsp4e 4 0 2025-09-02 18:20:56.024
+!MESSAGE [Error]	[streamChoices] Request id invalid, should have "completionId" and "created": {
+  headerRequestId: 'a8ed0b9c-bdd5-425f-a3a7-e537231d75a0',
+  completionId: '',
+  created: 0,
+  serverExperiments: '',
+  deploymentId: ''
+}
+
+!ENTRY org.eclipse.lsp4e 4 0 2025-09-02 18:20:56.024
+!MESSAGE [Error]	[streamChoices] Request id invalid, should have "completionId" and "created": {
+  headerRequestId: 'a8ed0b9c-bdd5-425f-a3a7-e537231d75a0',
+  completionId: '',
+  created: 0,
+  serverExperiments: '',
+  deploymentId: ''
+}
+
+!ENTRY org.eclipse.lsp4e 4 0 2025-09-02 18:20:56.024
+!MESSAGE [Error]	[streamChoices] Request id invalid, should have "completionId" and "created": {
+  headerRequestId: 'a8ed0b9c-bdd5-425f-a3a7-e537231d75a0',
+  completionId: '',
+  created: 0,
+  serverExperiments: '',
+  deploymentId: ''
+}
+
+!ENTRY org.eclipse.lsp4e 4 0 2025-09-02 18:20:56.025
+!MESSAGE [Error]	[streamChoices] Request id invalid, should have "completionId" and "created": {
+  headerRequestId: 'a8ed0b9c-bdd5-425f-a3a7-e537231d75a0',
+  completionId: '',
+  created: 0,
+  serverExperiments: '',
+  deploymentId: ''
+}
+
+!ENTRY org.eclipse.lsp4e 4 0 2025-09-02 18:20:56.025
+!MESSAGE [Error]	[streamChoices] Request id invalid, should have "completionId" and "created": {
+  headerRequestId: 'a8ed0b9c-bdd5-425f-a3a7-e537231d75a0',
+  completionId: '',
+  created: 0,
+  serverExperiments: '',
+  deploymentId: ''
+}
+
+!ENTRY org.eclipse.lsp4e 4 0 2025-09-02 18:20:56.025
+!MESSAGE [Error]	[streamChoices] Request id invalid, should have "completionId" and "created": {
+  headerRequestId: 'a8ed0b9c-bdd5-425f-a3a7-e537231d75a0',
+  completionId: '',
+  created: 0,
+  serverExperiments: '',
+  deploymentId: ''
+}
+
+!ENTRY org.eclipse.lsp4e 4 0 2025-09-02 18:20:56.025
+!MESSAGE [Error]	[streamChoices] Request id invalid, should have "completionId" and "created": {
+  headerRequestId: 'a8ed0b9c-bdd5-425f-a3a7-e537231d75a0',
+  completionId: '',
+  created: 0,
+  serverExperiments: '',
+  deploymentId: ''
+}
+
+!ENTRY org.eclipse.lsp4e 4 0 2025-09-02 18:20:56.026
+!MESSAGE [Error]	[streamChoices] Request id invalid, should have "completionId" and "created": {
+  headerRequestId: 'a8ed0b9c-bdd5-425f-a3a7-e537231d75a0',
+  completionId: '',
+  created: 0,
+  serverExperiments: '',
+  deploymentId: ''
+}
+
+!ENTRY org.eclipse.lsp4e 4 0 2025-09-02 18:20:56.027
+!MESSAGE [Error]	[streamChoices] Request id invalid, should have "completionId" and "created": {
+  headerRequestId: 'a8ed0b9c-bdd5-425f-a3a7-e537231d75a0',
+  completionId: '',
+  created: 0,
+  serverExperiments: '',
+  deploymentId: ''
+}
+
+!ENTRY org.eclipse.lsp4e 4 0 2025-09-02 18:20:56.028
+!MESSAGE [Error]	[streamChoices] Request id invalid, should have "completionId" and "created": {
+  headerRequestId: 'a8ed0b9c-bdd5-425f-a3a7-e537231d75a0',
+  completionId: '',
+  created: 0,
+  serverExperiments: '',
+  deploymentId: ''
+}
+
+!ENTRY org.eclipse.lsp4e 4 0 2025-09-02 18:20:56.028
+!MESSAGE [Error]	[streamChoices] Request id invalid, should have "completionId" and "created": {
+  headerRequestId: 'a8ed0b9c-bdd5-425f-a3a7-e537231d75a0',
+  completionId: '',
+  created: 0,
+  serverExperiments: '',
+  deploymentId: ''
+}
+
+!ENTRY org.eclipse.lsp4e 4 0 2025-09-02 18:20:56.028
+!MESSAGE [Error]	[streamChoices] Request id invalid, should have "completionId" and "created": {
+  headerRequestId: 'a8ed0b9c-bdd5-425f-a3a7-e537231d75a0',
+  completionId: '',
+  created: 0,
+  serverExperiments: '',
+  deploymentId: ''
+}
+
+!ENTRY org.eclipse.lsp4e 4 0 2025-09-02 18:20:56.028
+!MESSAGE [Error]	[streamChoices] Request id invalid, should have "completionId" and "created": {
+  headerRequestId: 'a8ed0b9c-bdd5-425f-a3a7-e537231d75a0',
+  completionId: '',
+  created: 0,
+  serverExperiments: '',
+  deploymentId: ''
+}
+
+!ENTRY org.eclipse.lsp4e 4 0 2025-09-02 18:20:56.029
+!MESSAGE [Error]	[streamChoices] Request id invalid, should have "completionId" and "created": {
+  headerRequestId: 'a8ed0b9c-bdd5-425f-a3a7-e537231d75a0',
+  completionId: '',
+  created: 0,
+  serverExperiments: '',
+  deploymentId: ''
+}
+
+!ENTRY org.eclipse.lsp4e 4 0 2025-09-02 18:20:56.029
+!MESSAGE [Error]	[streamChoices] Request id invalid, should have "completionId" and "created": {
+  headerRequestId: 'a8ed0b9c-bdd5-425f-a3a7-e537231d75a0',
+  completionId: '',
+  created: 0,
+  serverExperiments: '',
+  deploymentId: ''
+}
+
+!ENTRY org.eclipse.lsp4e 4 0 2025-09-02 18:20:56.029
+!MESSAGE [Error]	[streamChoices] Request id invalid, should have "completionId" and "created": {
+  headerRequestId: 'a8ed0b9c-bdd5-425f-a3a7-e537231d75a0',
+  completionId: '',
+  created: 0,
+  serverExperiments: '',
+  deploymentId: ''
+}
+
+!ENTRY org.eclipse.lsp4e 4 0 2025-09-02 18:20:56.029
+!MESSAGE [Error]	[streamChoices] Request id invalid, should have "completionId" and "created": {
+  headerRequestId: 'a8ed0b9c-bdd5-425f-a3a7-e537231d75a0',
+  completionId: '',
+  created: 0,
+  serverExperiments: '',
+  deploymentId: ''
+}
+
+!ENTRY org.eclipse.lsp4e 4 0 2025-09-02 18:20:56.029
+!MESSAGE [Error]	[streamChoices] Request id invalid, should have "completionId" and "created": {
+  headerRequestId: 'a8ed0b9c-bdd5-425f-a3a7-e537231d75a0',
+  completionId: '',
+  created: 0,
+  serverExperiments: '',
+  deploymentId: ''
+}
+
+!ENTRY org.eclipse.lsp4e 4 0 2025-09-02 18:20:56.030
+!MESSAGE [Error]	[streamChoices] Request id invalid, should have "completionId" and "created": {
+  headerRequestId: 'a8ed0b9c-bdd5-425f-a3a7-e537231d75a0',
+  completionId: '',
+  created: 0,
+  serverExperiments: '',
+  deploymentId: ''
+}
+
+!ENTRY org.eclipse.lsp4e 4 0 2025-09-02 18:20:56.030
+!MESSAGE [Error]	[streamChoices] Request id invalid, should have "completionId" and "created": {
+  headerRequestId: 'a8ed0b9c-bdd5-425f-a3a7-e537231d75a0',
+  completionId: '',
+  created: 0,
+  serverExperiments: '',
+  deploymentId: ''
+}
+
+!ENTRY org.eclipse.lsp4e 4 0 2025-09-02 18:20:56.030
+!MESSAGE [Error]	[streamChoices] Request id invalid, should have "completionId" and "created": {
+  headerRequestId: 'a8ed0b9c-bdd5-425f-a3a7-e537231d75a0',
+  completionId: '',
+  created: 0,
+  serverExperiments: '',
+  deploymentId: ''
+}
+
+!ENTRY org.eclipse.lsp4e 4 0 2025-09-02 18:20:56.030
+!MESSAGE [Error]	[streamChoices] Request id invalid, should have "completionId" and "created": {
+  headerRequestId: 'a8ed0b9c-bdd5-425f-a3a7-e537231d75a0',
+  completionId: '',
+  created: 0,
+  serverExperiments: '',
+  deploymentId: ''
+}
+
+!ENTRY org.eclipse.lsp4e 4 0 2025-09-02 18:20:56.030
+!MESSAGE [Error]	[streamChoices] Request id invalid, should have "completionId" and "created": {
+  headerRequestId: 'a8ed0b9c-bdd5-425f-a3a7-e537231d75a0',
+  completionId: '',
+  created: 0,
+  serverExperiments: '',
+  deploymentId: ''
+}
+
+!ENTRY org.eclipse.lsp4e 4 0 2025-09-02 18:20:56.030
+!MESSAGE [Error]	[streamChoices] Request id invalid, should have "completionId" and "created": {
+  headerRequestId: 'a8ed0b9c-bdd5-425f-a3a7-e537231d75a0',
+  completionId: '',
+  created: 0,
+  serverExperiments: '',
+  deploymentId: ''
+}
+
+!ENTRY org.eclipse.lsp4e 4 0 2025-09-02 18:20:56.031
+!MESSAGE [Error]	[streamChoices] Request id invalid, should have "completionId" and "created": {
+  headerRequestId: 'a8ed0b9c-bdd5-425f-a3a7-e537231d75a0',
+  completionId: '',
+  created: 0,
+  serverExperiments: '',
+  deploymentId: ''
+}
+
+!ENTRY org.eclipse.lsp4e 4 0 2025-09-02 18:20:56.031
+!MESSAGE [Error]	[streamChoices] Request id invalid, should have "completionId" and "created": {
+  headerRequestId: 'a8ed0b9c-bdd5-425f-a3a7-e537231d75a0',
+  completionId: '',
+  created: 0,
+  serverExperiments: '',
+  deploymentId: ''
+}
+
+!ENTRY org.eclipse.lsp4e 4 0 2025-09-02 18:20:56.031
+!MESSAGE [Error]	[streamChoices] Request id invalid, should have "completionId" and "created": {
+  headerRequestId: 'a8ed0b9c-bdd5-425f-a3a7-e537231d75a0',
+  completionId: '',
+  created: 0,
+  serverExperiments: '',
+  deploymentId: ''
+}
+
+!ENTRY org.eclipse.lsp4e 4 0 2025-09-02 18:20:56.031
+!MESSAGE [Error]	[streamChoices] Request id invalid, should have "completionId" and "created": {
+  headerRequestId: 'a8ed0b9c-bdd5-425f-a3a7-e537231d75a0',
+  completionId: '',
+  created: 0,
+  serverExperiments: '',
+  deploymentId: ''
+}
+
+!ENTRY org.eclipse.lsp4e 4 0 2025-09-02 18:20:56.031
+!MESSAGE [Error]	[streamChoices] Request id invalid, should have "completionId" and "created": {
+  headerRequestId: 'a8ed0b9c-bdd5-425f-a3a7-e537231d75a0',
+  completionId: '',
+  created: 0,
+  serverExperiments: '',
+  deploymentId: ''
+}
+
+!ENTRY org.eclipse.lsp4e 4 0 2025-09-02 18:20:56.032
+!MESSAGE [Error]	[streamChoices] Request id invalid, should have "completionId" and "created": {
+  headerRequestId: 'a8ed0b9c-bdd5-425f-a3a7-e537231d75a0',
+  completionId: '',
+  created: 0,
+  serverExperiments: '',
+  deploymentId: ''
+}
+
+!ENTRY org.eclipse.lsp4e 4 0 2025-09-02 18:20:56.032
+!MESSAGE [Error]	[streamChoices] Request id invalid, should have "completionId" and "created": {
+  headerRequestId: 'a8ed0b9c-bdd5-425f-a3a7-e537231d75a0',
+  completionId: '',
+  created: 0,
+  serverExperiments: '',
+  deploymentId: ''
+}
+
+!ENTRY org.eclipse.lsp4e 4 0 2025-09-02 18:20:56.032
+!MESSAGE [Error]	[streamChoices] Request id invalid, should have "completionId" and "created": {
+  headerRequestId: 'a8ed0b9c-bdd5-425f-a3a7-e537231d75a0',
+  completionId: '',
+  created: 0,
+  serverExperiments: '',
+  deploymentId: ''
+}
+
+!ENTRY org.eclipse.lsp4e 4 0 2025-09-02 18:20:56.032
+!MESSAGE [Error]	[streamChoices] Request id invalid, should have "completionId" and "created": {
+  headerRequestId: 'a8ed0b9c-bdd5-425f-a3a7-e537231d75a0',
+  completionId: '',
+  created: 0,
+  serverExperiments: '',
+  deploymentId: ''
+}
+
+!ENTRY org.eclipse.lsp4e 4 0 2025-09-02 18:20:56.032
+!MESSAGE [Error]	[streamChoices] Request id invalid, should have "completionId" and "created": {
+  headerRequestId: 'a8ed0b9c-bdd5-425f-a3a7-e537231d75a0',
+  completionId: '',
+  created: 0,
+  serverExperiments: '',
+  deploymentId: ''
+}
+
+!ENTRY org.eclipse.lsp4e 4 0 2025-09-02 18:20:56.032
+!MESSAGE [Error]	[streamChoices] Request id invalid, should have "completionId" and "created": {
+  headerRequestId: 'a8ed0b9c-bdd5-425f-a3a7-e537231d75a0',
+  completionId: '',
+  created: 0,
+  serverExperiments: '',
+  deploymentId: ''
+}
+
+!ENTRY org.eclipse.lsp4e 4 0 2025-09-02 18:20:56.033
+!MESSAGE [Error]	[streamChoices] Request id invalid, should have "completionId" and "created": {
+  headerRequestId: 'a8ed0b9c-bdd5-425f-a3a7-e537231d75a0',
+  completionId: '',
+  created: 0,
+  serverExperiments: '',
+  deploymentId: ''
+}
+
+!ENTRY org.eclipse.lsp4e 1 0 2025-09-02 18:20:56.033
+!MESSAGE [Info]	[streamChoices] solution 0 returned. finish reason: [stop]
+
+!ENTRY org.eclipse.lsp4e 1 0 2025-09-02 18:20:58.254
+!MESSAGE [Info]	[fetchCompletions] Request 5c8fe41e-707f-4d17-a44d-7d1d8547a7b3 at <https://proxy.individual.githubcopilot.com/v1/engines/gpt-41-copilot/completions> finished with 200 status after 428.98601900041103ms
+
+!ENTRY org.eclipse.lsp4e 4 0 2025-09-02 18:20:58.255
+!MESSAGE [Error]	[streamChoices] Request id invalid, should have "completionId" and "created": {
+  headerRequestId: '5c8fe41e-707f-4d17-a44d-7d1d8547a7b3',
+  completionId: '',
+  created: 0,
+  serverExperiments: '',
+  deploymentId: ''
+}
+
+!ENTRY org.eclipse.lsp4e 4 0 2025-09-02 18:20:58.452
+!MESSAGE [Error]	[streamChoices] Request id invalid, should have "completionId" and "created": {
+  headerRequestId: '5c8fe41e-707f-4d17-a44d-7d1d8547a7b3',
+  completionId: '',
+  created: 0,
+  serverExperiments: '',
+  deploymentId: ''
+}
+
+!ENTRY org.eclipse.lsp4e 1 0 2025-09-02 18:20:58.452
+!MESSAGE [Info]	[streamChoices] solution 0 returned. finish reason: [stop]
+
+!ENTRY org.eclipse.lsp4e 4 0 2025-09-02 18:21:22.540
+!MESSAGE [Error]	[streamChoices] Request id invalid, should have "completionId" and "created": {
+  headerRequestId: 'e570fb1f-bc01-498a-b2e0-fb9800a0e626',
+  completionId: '',
+  created: 0,
+  serverExperiments: '',
+  deploymentId: ''
+}
+
+!ENTRY org.eclipse.lsp4e 4 0 2025-09-02 18:21:22.542
+!MESSAGE [Error]	[streamChoices] Request id invalid, should have "completionId" and "created": {
+  headerRequestId: 'e570fb1f-bc01-498a-b2e0-fb9800a0e626',
+  completionId: '',
+  created: 0,
+  serverExperiments: '',
+  deploymentId: ''
+}
+
+!ENTRY org.eclipse.lsp4e 1 0 2025-09-02 18:21:22.542
+!MESSAGE [Info]	[fetchCompletions] Request e570fb1f-bc01-498a-b2e0-fb9800a0e626 at <https://proxy.individual.githubcopilot.com/v1/engines/gpt-41-copilot/completions> finished with 200 status after 687.9661649987102ms
+
+!ENTRY org.eclipse.lsp4e 4 0 2025-09-02 18:21:22.543
+!MESSAGE [Error]	[streamChoices] Request id invalid, should have "completionId" and "created": {
+  headerRequestId: 'e570fb1f-bc01-498a-b2e0-fb9800a0e626',
+  completionId: '',
+  created: 0,
+  serverExperiments: '',
+  deploymentId: ''
+}
+
+!ENTRY org.eclipse.lsp4e 4 0 2025-09-02 18:21:22.543
+!MESSAGE [Error]	[streamChoices] Request id invalid, should have "completionId" and "created": {
+  headerRequestId: 'e570fb1f-bc01-498a-b2e0-fb9800a0e626',
+  completionId: '',
+  created: 0,
+  serverExperiments: '',
+  deploymentId: ''
+}
+
+!ENTRY org.eclipse.lsp4e 4 0 2025-09-02 18:21:22.543
+!MESSAGE [Error]	[streamChoices] Request id invalid, should have "completionId" and "created": {
+  headerRequestId: 'e570fb1f-bc01-498a-b2e0-fb9800a0e626',
+  completionId: '',
+  created: 0,
+  serverExperiments: '',
+  deploymentId: ''
+}
+
+!ENTRY org.eclipse.lsp4e 4 0 2025-09-02 18:21:22.544
+!MESSAGE [Error]	[streamChoices] Request id invalid, should have "completionId" and "created": {
+  headerRequestId: 'e570fb1f-bc01-498a-b2e0-fb9800a0e626',
+  completionId: '',
+  created: 0,
+  serverExperiments: '',
+  deploymentId: ''
+}
+
+!ENTRY org.eclipse.lsp4e 1 0 2025-09-02 18:21:22.544
+!MESSAGE [Info]	[streamChoices] solution 0 returned. finish reason: [stop]
+
+!ENTRY org.eclipse.lsp4e 4 0 2025-09-02 18:21:22.544
+!MESSAGE [Error]	[streamChoices] Request id invalid, should have "completionId" and "created": {
+  headerRequestId: 'e570fb1f-bc01-498a-b2e0-fb9800a0e626',
+  completionId: '',
+  created: 0,
+  serverExperiments: '',
+  deploymentId: ''
+}
+
+!ENTRY org.eclipse.lsp4e 1 0 2025-09-02 18:21:23.087
+!MESSAGE [Info]	[fetchCompletions] Request 9f9d2bdf-addc-4a55-a138-3d5291b69a25 at <https://proxy.individual.githubcopilot.com/v1/engines/gpt-41-copilot/completions> finished with 200 status after 533.4525089934468ms
+
+!ENTRY org.eclipse.lsp4e 4 0 2025-09-02 18:21:23.088
+!MESSAGE [Error]	[streamChoices] Request id invalid, should have "completionId" and "created": {
+  headerRequestId: '9f9d2bdf-addc-4a55-a138-3d5291b69a25',
+  completionId: '',
+  created: 0,
+  serverExperiments: '',
+  deploymentId: ''
+}
+
+!ENTRY org.eclipse.lsp4e 1 0 2025-09-02 18:21:23.150
+!MESSAGE [Info]	[streamChoices] solution 0 returned. finish reason: [stop]
+
+!ENTRY org.eclipse.lsp4e 4 0 2025-09-02 18:21:23.151
+!MESSAGE [Error]	[streamChoices] Request id invalid, should have "completionId" and "created": {
+  headerRequestId: '9f9d2bdf-addc-4a55-a138-3d5291b69a25',
+  completionId: '',
+  created: 0,
+  serverExperiments: '',
+  deploymentId: ''
+}
+
+!ENTRY org.eclipse.lsp4e 4 0 2025-09-02 18:21:23.156
+!MESSAGE [Error]	[streamChoices] Request id invalid, should have "completionId" and "created": {
+  headerRequestId: '9f9d2bdf-addc-4a55-a138-3d5291b69a25',
+  completionId: '',
+  created: 0,
+  serverExperiments: '',
+  deploymentId: ''
+}
+
+!ENTRY org.eclipse.lsp4e 1 0 2025-09-02 18:21:25.945
+!MESSAGE [Info]	[fetchCompletions] Request 29952740-52f7-430a-a831-2b508eb291aa at <https://proxy.individual.githubcopilot.com/v1/engines/gpt-41-copilot/completions> finished with 200 status after 373.89566600322723ms
+
+!ENTRY org.eclipse.lsp4e 4 0 2025-09-02 18:21:25.948
+!MESSAGE [Error]	[streamChoices] Request id invalid, should have "completionId" and "created": {
+  headerRequestId: '29952740-52f7-430a-a831-2b508eb291aa',
+  completionId: '',
+  created: 0,
+  serverExperiments: '',
+  deploymentId: ''
+}
+
+!ENTRY org.eclipse.lsp4e 4 0 2025-09-02 18:21:26.171
+!MESSAGE [Error]	[streamChoices] Request id invalid, should have "completionId" and "created": {
+  headerRequestId: '29952740-52f7-430a-a831-2b508eb291aa',
+  completionId: '',
+  created: 0,
+  serverExperiments: '',
+  deploymentId: ''
+}
+
+!ENTRY org.eclipse.lsp4e 4 0 2025-09-02 18:21:26.172
+!MESSAGE [Error]	[streamChoices] Request id invalid, should have "completionId" and "created": {
+  headerRequestId: '29952740-52f7-430a-a831-2b508eb291aa',
+  completionId: '',
+  created: 0,
+  serverExperiments: '',
+  deploymentId: ''
+}
+
+!ENTRY org.eclipse.lsp4e 4 0 2025-09-02 18:21:26.173
+!MESSAGE [Error]	[streamChoices] Request id invalid, should have "completionId" and "created": {
+  headerRequestId: '29952740-52f7-430a-a831-2b508eb291aa',
+  completionId: '',
+  created: 0,
+  serverExperiments: '',
+  deploymentId: ''
+}
+
+!ENTRY org.eclipse.lsp4e 1 0 2025-09-02 18:21:26.174
+!MESSAGE [Info]	[streamChoices] solution 0 returned. finish reason: [stop]
+
+!ENTRY org.eclipse.lsp4e 1 0 2025-09-02 18:21:46.084
+!MESSAGE [Info]	[fetchCompletions] Request 23dcaa69-8543-4b52-b5ec-fcbe7138455a at <https://proxy.individual.githubcopilot.com/v1/engines/gpt-41-copilot/completions> finished with 200 status after 434.77675499767065ms
+
+!ENTRY org.eclipse.lsp4e 4 0 2025-09-02 18:21:46.084
+!MESSAGE [Error]	[streamChoices] Request id invalid, should have "completionId" and "created": {
+  headerRequestId: '23dcaa69-8543-4b52-b5ec-fcbe7138455a',
+  completionId: '',
+  created: 0,
+  serverExperiments: '',
+  deploymentId: ''
+}
+
+!ENTRY org.eclipse.lsp4e 4 0 2025-09-02 18:21:46.397
+!MESSAGE [Error]	[streamChoices] Request id invalid, should have "completionId" and "created": {
+  headerRequestId: '23dcaa69-8543-4b52-b5ec-fcbe7138455a',
+  completionId: '',
+  created: 0,
+  serverExperiments: '',
+  deploymentId: ''
+}
+
+!ENTRY org.eclipse.lsp4e 4 0 2025-09-02 18:21:46.397
+!MESSAGE [Error]	[streamChoices] Request id invalid, should have "completionId" and "created": {
+  headerRequestId: '23dcaa69-8543-4b52-b5ec-fcbe7138455a',
+  completionId: '',
+  created: 0,
+  serverExperiments: '',
+  deploymentId: ''
+}
+
+!ENTRY org.eclipse.lsp4e 4 0 2025-09-02 18:21:46.398
+!MESSAGE [Error]	[streamChoices] Request id invalid, should have "completionId" and "created": {
+  headerRequestId: '23dcaa69-8543-4b52-b5ec-fcbe7138455a',
+  completionId: '',
+  created: 0,
+  serverExperiments: '',
+  deploymentId: ''
+}
+
+!ENTRY org.eclipse.lsp4e 4 0 2025-09-02 18:21:46.399
+!MESSAGE [Error]	[streamChoices] Request id invalid, should have "completionId" and "created": {
+  headerRequestId: '23dcaa69-8543-4b52-b5ec-fcbe7138455a',
+  completionId: '',
+  created: 0,
+  serverExperiments: '',
+  deploymentId: ''
+}
+
+!ENTRY org.eclipse.lsp4e 4 0 2025-09-02 18:21:46.399
+!MESSAGE [Error]	[streamChoices] Request id invalid, should have "completionId" and "created": {
+  headerRequestId: '23dcaa69-8543-4b52-b5ec-fcbe7138455a',
+  completionId: '',
+  created: 0,
+  serverExperiments: '',
+  deploymentId: ''
+}
+
+!ENTRY org.eclipse.lsp4e 4 0 2025-09-02 18:21:46.400
+!MESSAGE [Error]	[streamChoices] Request id invalid, should have "completionId" and "created": {
+  headerRequestId: '23dcaa69-8543-4b52-b5ec-fcbe7138455a',
+  completionId: '',
+  created: 0,
+  serverExperiments: '',
+  deploymentId: ''
+}
+
+!ENTRY org.eclipse.lsp4e 4 0 2025-09-02 18:21:46.400
+!MESSAGE [Error]	[streamChoices] Request id invalid, should have "completionId" and "created": {
+  headerRequestId: '23dcaa69-8543-4b52-b5ec-fcbe7138455a',
+  completionId: '',
+  created: 0,
+  serverExperiments: '',
+  deploymentId: ''
+}
+
+!ENTRY org.eclipse.lsp4e 4 0 2025-09-02 18:21:46.400
+!MESSAGE [Error]	[streamChoices] Request id invalid, should have "completionId" and "created": {
+  headerRequestId: '23dcaa69-8543-4b52-b5ec-fcbe7138455a',
+  completionId: '',
+  created: 0,
+  serverExperiments: '',
+  deploymentId: ''
+}
+
+!ENTRY org.eclipse.lsp4e 4 0 2025-09-02 18:21:46.400
+!MESSAGE [Error]	[streamChoices] Request id invalid, should have "completionId" and "created": {
+  headerRequestId: '23dcaa69-8543-4b52-b5ec-fcbe7138455a',
+  completionId: '',
+  created: 0,
+  serverExperiments: '',
+  deploymentId: ''
+}
+
+!ENTRY org.eclipse.lsp4e 4 0 2025-09-02 18:21:46.401
+!MESSAGE [Error]	[streamChoices] Request id invalid, should have "completionId" and "created": {
+  headerRequestId: '23dcaa69-8543-4b52-b5ec-fcbe7138455a',
+  completionId: '',
+  created: 0,
+  serverExperiments: '',
+  deploymentId: ''
+}
+
+!ENTRY org.eclipse.lsp4e 1 0 2025-09-02 18:21:46.401
+!MESSAGE [Info]	[streamChoices] solution 0 returned. finish reason: [stop]
+
+!ENTRY org.eclipse.lsp4e 4 0 2025-09-02 18:21:46.401
+!MESSAGE [Error]	[streamChoices] Request id invalid, should have "completionId" and "created": {
+  headerRequestId: '23dcaa69-8543-4b52-b5ec-fcbe7138455a',
+  completionId: '',
+  created: 0,
+  serverExperiments: '',
+  deploymentId: ''
+}
+
+!ENTRY org.eclipse.lsp4e 1 0 2025-09-02 18:21:52.080
+!MESSAGE [Info]	[fetchCompletions] Request 6f1bc802-a2c7-4721-a8c5-49084bbc2826 at <https://proxy.individual.githubcopilot.com/v1/engines/gpt-41-copilot/completions> finished with 200 status after 621.3710329979658ms
+
+!ENTRY org.eclipse.lsp4e 4 0 2025-09-02 18:21:52.080
+!MESSAGE [Error]	[streamChoices] Request id invalid, should have "completionId" and "created": {
+  headerRequestId: '6f1bc802-a2c7-4721-a8c5-49084bbc2826',
+  completionId: '',
+  created: 0,
+  serverExperiments: '',
+  deploymentId: ''
+}
+
+!ENTRY org.eclipse.lsp4e 4 0 2025-09-02 18:21:52.162
+!MESSAGE [Error]	[streamChoices] Request id invalid, should have "completionId" and "created": {
+  headerRequestId: '6f1bc802-a2c7-4721-a8c5-49084bbc2826',
+  completionId: '',
+  created: 0,
+  serverExperiments: '',
+  deploymentId: ''
+}
+
+!ENTRY org.eclipse.lsp4e 1 0 2025-09-02 18:21:52.162
+!MESSAGE [Info]	[streamChoices] solution 0 returned. finish reason: [stop]
+
+!ENTRY org.eclipse.lsp4e 4 0 2025-09-02 18:21:55.170
+!MESSAGE [Error]	[streamChoices] Request id invalid, should have "completionId" and "created": {
+  headerRequestId: 'd2c9f071-b815-4cae-adeb-3a1ebdcfde94',
+  completionId: '',
+  created: 0,
+  serverExperiments: '',
+  deploymentId: ''
+}
+
+!ENTRY org.eclipse.lsp4e 1 0 2025-09-02 18:21:55.171
+!MESSAGE [Info]	[fetchCompletions] Request d2c9f071-b815-4cae-adeb-3a1ebdcfde94 at <https://proxy.individual.githubcopilot.com/v1/engines/gpt-41-copilot/completions> finished with 200 status after 461.18075999617577ms
+
+!ENTRY org.eclipse.lsp4e 4 0 2025-09-02 18:21:55.177
+!MESSAGE [Error]	[streamChoices] Request id invalid, should have "completionId" and "created": {
+  headerRequestId: 'd2c9f071-b815-4cae-adeb-3a1ebdcfde94',
+  completionId: '',
+  created: 0,
+  serverExperiments: '',
+  deploymentId: ''
+}
+
+!ENTRY org.eclipse.lsp4e 1 0 2025-09-02 18:21:55.178
+!MESSAGE [Info]	[streamChoices] solution 0 returned. finish reason: [stop]
+
+!ENTRY org.eclipse.lsp4e 1 0 2025-09-02 18:21:58.915
+!MESSAGE [Info]	[fetchCompletions] Request 407b8f9b-1902-4ec6-9fed-7980cf24f4b7 at <https://proxy.individual.githubcopilot.com/v1/engines/gpt-41-copilot/completions> finished with 200 status after 373.9223900064826ms
+
+!ENTRY org.eclipse.lsp4e 4 0 2025-09-02 18:21:58.919
+!MESSAGE [Error]	[streamChoices] Request id invalid, should have "completionId" and "created": {
+  headerRequestId: '407b8f9b-1902-4ec6-9fed-7980cf24f4b7',
+  completionId: '',
+  created: 0,
+  serverExperiments: '',
+  deploymentId: ''
+}
+
+!ENTRY org.eclipse.lsp4e 4 0 2025-09-02 18:21:58.959
+!MESSAGE [Error]	[streamChoices] Request id invalid, should have "completionId" and "created": {
+  headerRequestId: '407b8f9b-1902-4ec6-9fed-7980cf24f4b7',
+  completionId: '',
+  created: 0,
+  serverExperiments: '',
+  deploymentId: ''
+}
+
+!ENTRY org.eclipse.lsp4e 4 0 2025-09-02 18:21:58.959
+!MESSAGE [Error]	[streamChoices] Request id invalid, should have "completionId" and "created": {
+  headerRequestId: '407b8f9b-1902-4ec6-9fed-7980cf24f4b7',
+  completionId: '',
+  created: 0,
+  serverExperiments: '',
+  deploymentId: ''
+}
+
+!ENTRY org.eclipse.lsp4e 1 0 2025-09-02 18:21:58.960
+!MESSAGE [Info]	[streamChoices] solution 0 returned. finish reason: [stop]
+
+!ENTRY org.eclipse.lsp4e 1 0 2025-09-02 18:22:02.668
+!MESSAGE [Info]	[fetchCompletions] Request 882b8a13-7261-470f-9be9-0e0308ea5de2 at <https://proxy.individual.githubcopilot.com/v1/engines/gpt-41-copilot/completions> finished with 200 status after 355.06973700225353ms
+
+!ENTRY org.eclipse.lsp4e 4 0 2025-09-02 18:22:02.668
+!MESSAGE [Error]	[streamChoices] Request id invalid, should have "completionId" and "created": {
+  headerRequestId: '882b8a13-7261-470f-9be9-0e0308ea5de2',
+  completionId: '',
+  created: 0,
+  serverExperiments: '',
+  deploymentId: ''
+}
+
+!ENTRY org.eclipse.lsp4e 4 0 2025-09-02 18:22:02.716
+!MESSAGE [Error]	[streamChoices] Request id invalid, should have "completionId" and "created": {
+  headerRequestId: '882b8a13-7261-470f-9be9-0e0308ea5de2',
+  completionId: '',
+  created: 0,
+  serverExperiments: '',
+  deploymentId: ''
+}
+
+!ENTRY org.eclipse.lsp4e 4 0 2025-09-02 18:22:02.717
+!MESSAGE [Error]	[streamChoices] Request id invalid, should have "completionId" and "created": {
+  headerRequestId: '882b8a13-7261-470f-9be9-0e0308ea5de2',
+  completionId: '',
+  created: 0,
+  serverExperiments: '',
+  deploymentId: ''
+}
+
+!ENTRY org.eclipse.lsp4e 1 0 2025-09-02 18:22:02.718
+!MESSAGE [Info]	[streamChoices] solution 0 returned. finish reason: [stop]
+
+!ENTRY org.eclipse.lsp4e 1 0 2025-09-02 18:22:12.605
+!MESSAGE [Info]	[fetchCompletions] Request 671c2952-55b2-4caf-bae1-8ee97bc1d92a at <https://proxy.individual.githubcopilot.com/v1/engines/gpt-41-copilot/completions> finished with 200 status after 670.6309759989381ms
+
+!ENTRY org.eclipse.lsp4e 4 0 2025-09-02 18:22:12.605
+!MESSAGE [Error]	[streamChoices] Request id invalid, should have "completionId" and "created": {
+  headerRequestId: '671c2952-55b2-4caf-bae1-8ee97bc1d92a',
+  completionId: '',
+  created: 0,
+  serverExperiments: '',
+  deploymentId: ''
+}
+
+!ENTRY org.eclipse.lsp4e 4 0 2025-09-02 18:22:12.779
+!MESSAGE [Error]	[streamChoices] Request id invalid, should have "completionId" and "created": {
+  headerRequestId: '671c2952-55b2-4caf-bae1-8ee97bc1d92a',
+  completionId: '',
+  created: 0,
+  serverExperiments: '',
+  deploymentId: ''
+}
+
+!ENTRY org.eclipse.lsp4e 4 0 2025-09-02 18:22:12.780
+!MESSAGE [Error]	[streamChoices] Request id invalid, should have "completionId" and "created": {
+  headerRequestId: '671c2952-55b2-4caf-bae1-8ee97bc1d92a',
+  completionId: '',
+  created: 0,
+  serverExperiments: '',
+  deploymentId: ''
+}
+
+!ENTRY org.eclipse.lsp4e 4 0 2025-09-02 18:22:12.781
+!MESSAGE [Error]	[streamChoices] Request id invalid, should have "completionId" and "created": {
+  headerRequestId: '671c2952-55b2-4caf-bae1-8ee97bc1d92a',
+  completionId: '',
+  created: 0,
+  serverExperiments: '',
+  deploymentId: ''
+}
+
+!ENTRY org.eclipse.lsp4e 1 0 2025-09-02 18:22:12.782
+!MESSAGE [Info]	[streamChoices] solution 0 returned. finish reason: [stop]
+
+!ENTRY org.eclipse.lsp4e 1 0 2025-09-02 18:22:13.233
+!MESSAGE [Info]	[fetchCompletions] Request affcc079-6d39-43a2-995a-4cc7821edc8b at <https://proxy.individual.githubcopilot.com/v1/engines/gpt-41-copilot/completions> finished with 200 status after 436.671641997993ms
+
+!ENTRY org.eclipse.lsp4e 4 0 2025-09-02 18:22:13.233
+!MESSAGE [Error]	[streamChoices] Request id invalid, should have "completionId" and "created": {
+  headerRequestId: 'affcc079-6d39-43a2-995a-4cc7821edc8b',
+  completionId: '',
+  created: 0,
+  serverExperiments: '',
+  deploymentId: ''
+}
+
+!ENTRY org.eclipse.lsp4e 4 0 2025-09-02 18:22:13.517
+!MESSAGE [Error]	[streamChoices] Request id invalid, should have "completionId" and "created": {
+  headerRequestId: 'affcc079-6d39-43a2-995a-4cc7821edc8b',
+  completionId: '',
+  created: 0,
+  serverExperiments: '',
+  deploymentId: ''
+}
+
+!ENTRY org.eclipse.lsp4e 4 0 2025-09-02 18:22:13.517
+!MESSAGE [Error]	[streamChoices] Request id invalid, should have "completionId" and "created": {
+  headerRequestId: 'affcc079-6d39-43a2-995a-4cc7821edc8b',
+  completionId: '',
+  created: 0,
+  serverExperiments: '',
+  deploymentId: ''
+}
+
+!ENTRY org.eclipse.lsp4e 4 0 2025-09-02 18:22:13.518
+!MESSAGE [Error]	[streamChoices] Request id invalid, should have "completionId" and "created": {
+  headerRequestId: 'affcc079-6d39-43a2-995a-4cc7821edc8b',
+  completionId: '',
+  created: 0,
+  serverExperiments: '',
+  deploymentId: ''
+}
+
+!ENTRY org.eclipse.lsp4e 4 0 2025-09-02 18:22:13.519
+!MESSAGE [Error]	[streamChoices] Request id invalid, should have "completionId" and "created": {
+  headerRequestId: 'affcc079-6d39-43a2-995a-4cc7821edc8b',
+  completionId: '',
+  created: 0,
+  serverExperiments: '',
+  deploymentId: ''
+}
+
+!ENTRY org.eclipse.lsp4e 1 0 2025-09-02 18:22:13.519
+!MESSAGE [Info]	[streamChoices] solution 0 returned. finish reason: [stop]
+
+!ENTRY org.eclipse.lsp4e 4 0 2025-09-02 18:22:13.519
+!MESSAGE [Error]	[streamChoices] Request id invalid, should have "completionId" and "created": {
+  headerRequestId: 'affcc079-6d39-43a2-995a-4cc7821edc8b',
+  completionId: '',
+  created: 0,
+  serverExperiments: '',
+  deploymentId: ''
+}
+
+!ENTRY org.eclipse.lsp4e 4 0 2025-09-02 18:22:16.142
+!MESSAGE [Error]	[streamChoices] Request id invalid, should have "completionId" and "created": {
+  headerRequestId: '781243f1-806a-44ec-be39-300a50b78fdd',
+  completionId: '',
+  created: 0,
+  serverExperiments: '',
+  deploymentId: ''
+}
+
+!ENTRY org.eclipse.lsp4e 1 0 2025-09-02 18:22:16.143
+!MESSAGE [Info]	[fetchCompletions] Request 781243f1-806a-44ec-be39-300a50b78fdd at <https://proxy.individual.githubcopilot.com/v1/engines/gpt-41-copilot/completions> finished with 200 status after 2611.8050630018115ms
+
+!ENTRY org.eclipse.lsp4e 4 0 2025-09-02 18:22:16.703
+!MESSAGE [Error]	[streamChoices] Request id invalid, should have "completionId" and "created": {
+  headerRequestId: '781243f1-806a-44ec-be39-300a50b78fdd',
+  completionId: '',
+  created: 0,
+  serverExperiments: '',
+  deploymentId: ''
+}
+
+!ENTRY org.eclipse.lsp4e 4 0 2025-09-02 18:22:16.703
+!MESSAGE [Error]	[streamChoices] Request id invalid, should have "completionId" and "created": {
+  headerRequestId: '781243f1-806a-44ec-be39-300a50b78fdd',
+  completionId: '',
+  created: 0,
+  serverExperiments: '',
+  deploymentId: ''
+}
+
+!ENTRY org.eclipse.lsp4e 4 0 2025-09-02 18:22:16.704
+!MESSAGE [Error]	[streamChoices] Request id invalid, should have "completionId" and "created": {
+  headerRequestId: '781243f1-806a-44ec-be39-300a50b78fdd',
+  completionId: '',
+  created: 0,
+  serverExperiments: '',
+  deploymentId: ''
+}
+
+!ENTRY org.eclipse.lsp4e 1 0 2025-09-02 18:22:16.705
+!MESSAGE [Info]	[streamChoices] solution 0 returned. finish reason: [stop]
+
+!ENTRY org.eclipse.lsp4e 1 0 2025-09-02 18:22:17.181
+!MESSAGE [Info]	[fetchCompletions] Request 4b756b3e-6b25-4b51-906f-64605b3807bf at <https://proxy.individual.githubcopilot.com/v1/engines/gpt-41-copilot/completions> finished with 200 status after 421.4198639988899ms
+
+!ENTRY org.eclipse.lsp4e 4 0 2025-09-02 18:22:17.185
+!MESSAGE [Error]	[streamChoices] Request id invalid, should have "completionId" and "created": {
+  headerRequestId: '4b756b3e-6b25-4b51-906f-64605b3807bf',
+  completionId: '',
+  created: 0,
+  serverExperiments: '',
+  deploymentId: ''
+}
+
+!ENTRY org.eclipse.lsp4e 4 0 2025-09-02 18:22:17.237
+!MESSAGE [Error]	[streamChoices] Request id invalid, should have "completionId" and "created": {
+  headerRequestId: '4b756b3e-6b25-4b51-906f-64605b3807bf',
+  completionId: '',
+  created: 0,
+  serverExperiments: '',
+  deploymentId: ''
+}
+
+!ENTRY org.eclipse.lsp4e 1 0 2025-09-02 18:22:17.238
+!MESSAGE [Info]	[streamChoices] solution 0 returned. finish reason: [stop]
+
+!ENTRY org.eclipse.lsp4e 1 0 2025-09-02 18:22:18.629
+!MESSAGE [Info]	[fetchCompletions] Request 39e5063d-94a9-4393-af0f-8a09035ed33e at <https://proxy.individual.githubcopilot.com/v1/engines/gpt-41-copilot/completions> finished with 200 status after 461.356258995831ms
+
+!ENTRY org.eclipse.lsp4e 4 0 2025-09-02 18:22:18.629
+!MESSAGE [Error]	[streamChoices] Request id invalid, should have "completionId" and "created": {
+  headerRequestId: '39e5063d-94a9-4393-af0f-8a09035ed33e',
+  completionId: '',
+  created: 0,
+  serverExperiments: '',
+  deploymentId: ''
+}
+
+!ENTRY org.eclipse.lsp4e 4 0 2025-09-02 18:22:18.642
+!MESSAGE [Error]	[streamChoices] Request id invalid, should have "completionId" and "created": {
+  headerRequestId: '39e5063d-94a9-4393-af0f-8a09035ed33e',
+  completionId: '',
+  created: 0,
+  serverExperiments: '',
+  deploymentId: ''
+}
+
+!ENTRY org.eclipse.lsp4e 1 0 2025-09-02 18:22:18.643
+!MESSAGE [Info]	[streamChoices] solution 0 returned. finish reason: [stop]
+
+!ENTRY org.eclipse.lsp4e 4 0 2025-09-02 18:45:49.303
+!MESSAGE [Error]	[streamChoices] Request id invalid, should have "completionId" and "created": {
+  headerRequestId: '191f26c9-3482-4458-a1e2-57cc1f1cfe15',
+  completionId: '',
+  created: 0,
+  serverExperiments: '',
+  deploymentId: ''
+}
+
+!ENTRY org.eclipse.lsp4e 1 0 2025-09-02 18:45:49.305
+!MESSAGE [Info]	[fetchCompletions] Request 191f26c9-3482-4458-a1e2-57cc1f1cfe15 at <https://proxy.individual.githubcopilot.com/v1/engines/gpt-41-copilot/completions> finished with 200 status after 773.2314710021019ms
+
+!ENTRY org.eclipse.lsp4e 4 0 2025-09-02 18:45:49.352
+!MESSAGE [Error]	[streamChoices] Request id invalid, should have "completionId" and "created": {
+  headerRequestId: '191f26c9-3482-4458-a1e2-57cc1f1cfe15',
+  completionId: '',
+  created: 0,
+  serverExperiments: '',
+  deploymentId: ''
+}
+
+!ENTRY org.eclipse.lsp4e 4 0 2025-09-02 18:45:49.353
+!MESSAGE [Error]	[streamChoices] Request id invalid, should have "completionId" and "created": {
+  headerRequestId: '191f26c9-3482-4458-a1e2-57cc1f1cfe15',
+  completionId: '',
+  created: 0,
+  serverExperiments: '',
+  deploymentId: ''
+}
+
+!ENTRY org.eclipse.lsp4e 4 0 2025-09-02 18:45:49.353
+!MESSAGE [Error]	[streamChoices] Request id invalid, should have "completionId" and "created": {
+  headerRequestId: '191f26c9-3482-4458-a1e2-57cc1f1cfe15',
+  completionId: '',
+  created: 0,
+  serverExperiments: '',
+  deploymentId: ''
+}
+
+!ENTRY org.eclipse.lsp4e 4 0 2025-09-02 18:45:49.354
+!MESSAGE [Error]	[streamChoices] Request id invalid, should have "completionId" and "created": {
+  headerRequestId: '191f26c9-3482-4458-a1e2-57cc1f1cfe15',
+  completionId: '',
+  created: 0,
+  serverExperiments: '',
+  deploymentId: ''
+}
+
+!ENTRY org.eclipse.lsp4e 1 0 2025-09-02 18:45:49.354
+!MESSAGE [Info]	[streamChoices] solution 0 returned. finish reason: [stop]
+
+!ENTRY org.eclipse.lsp4e 1 0 2025-09-02 18:45:52.380
+!MESSAGE [Info]	[fetchCompletions] Request 53209241-38b5-4d84-8ff4-6bd6733b292e at <https://proxy.individual.githubcopilot.com/v1/engines/gpt-41-copilot/completions> finished with 200 status after 342.226116001606ms
+
+!ENTRY org.eclipse.lsp4e 4 0 2025-09-02 18:45:52.381
+!MESSAGE [Error]	[streamChoices] Request id invalid, should have "completionId" and "created": {
+  headerRequestId: '53209241-38b5-4d84-8ff4-6bd6733b292e',
+  completionId: '',
+  created: 0,
+  serverExperiments: '',
+  deploymentId: ''
+}
+
+!ENTRY org.eclipse.lsp4e 1 0 2025-09-02 18:45:52.420
+!MESSAGE [Info]	[streamChoices] solution 0 returned. finish reason: [stop]
+
+!ENTRY org.eclipse.lsp4e 4 0 2025-09-02 18:45:52.421
+!MESSAGE [Error]	[streamChoices] Request id invalid, should have "completionId" and "created": {
+  headerRequestId: '53209241-38b5-4d84-8ff4-6bd6733b292e',
+  completionId: '',
+  created: 0,
+  serverExperiments: '',
+  deploymentId: ''
+}
+
+!ENTRY org.eclipse.ui 4 0 2025-09-02 18:46:22.799
+!MESSAGE Unhandled event loop exception
+!STACK 0
+java.lang.NullPointerException: Property must not be null: range
+	at org.eclipse.lsp4j.jsonrpc.util.Preconditions.checkNotNull(Preconditions.java:29)
+	at org.eclipse.lsp4j.Location.<init>(Location.java:34)
+	at org.eclipse.lsp4e.LanguageClientImpl.lambda$5(LanguageClientImpl.java:162)
+	at org.eclipse.swt.widgets.RunnableLock.run(RunnableLock.java:40)
+	at org.eclipse.swt.widgets.Synchronizer.runAsyncMessages(Synchronizer.java:132)
+	at org.eclipse.swt.widgets.Display.runAsyncMessages(Display.java:4382)
+	at org.eclipse.swt.widgets.Display.readAndDispatch(Display.java:4005)
+	at org.eclipse.e4.ui.internal.workbench.swt.PartRenderingEngine$5.run(PartRenderingEngine.java:1151)
+	at org.eclipse.core.databinding.observable.Realm.runWithDefault(Realm.java:339)
+	at org.eclipse.e4.ui.internal.workbench.swt.PartRenderingEngine.run(PartRenderingEngine.java:1042)
+	at org.eclipse.e4.ui.internal.workbench.E4Workbench.createAndRunUI(E4Workbench.java:153)
+	at org.eclipse.ui.internal.Workbench.lambda$3(Workbench.java:668)
+	at org.eclipse.core.databinding.observable.Realm.runWithDefault(Realm.java:339)
+	at org.eclipse.ui.internal.Workbench.createAndRunWorkbench(Workbench.java:576)
+	at org.eclipse.ui.PlatformUI.createAndRunWorkbench(PlatformUI.java:173)
+	at org.eclipse.ui.internal.ide.application.IDEApplication.start(IDEApplication.java:178)
+	at org.eclipse.equinox.internal.app.EclipseAppHandle.run(EclipseAppHandle.java:208)
+	at org.eclipse.core.runtime.internal.adaptor.EclipseAppLauncher.runApplication(EclipseAppLauncher.java:149)
+	at org.eclipse.core.runtime.internal.adaptor.EclipseAppLauncher.start(EclipseAppLauncher.java:115)
+	at org.eclipse.core.runtime.adaptor.EclipseStarter.run(EclipseStarter.java:467)
+	at org.eclipse.core.runtime.adaptor.EclipseStarter.run(EclipseStarter.java:298)
+	at java.base/jdk.internal.reflect.DirectMethodHandleAccessor.invoke(DirectMethodHandleAccessor.java:103)
+	at java.base/java.lang.reflect.Method.invoke(Method.java:580)
+	at org.eclipse.equinox.launcher.Main.invokeFramework(Main.java:670)
+	at org.eclipse.equinox.launcher.Main.basicRun(Main.java:607)
+	at org.eclipse.equinox.launcher.Main.run(Main.java:1492)
+
+!ENTRY org.eclipse.lsp4e 1 0 2025-09-02 18:46:43.145
+!MESSAGE [Info]	[fetchCompletions] Request de720b46-4308-457f-9105-d912f024bbe5 at <https://proxy.individual.githubcopilot.com/v1/engines/gpt-41-copilot/completions> finished with 200 status after 460.0066330060363ms
+
+!ENTRY org.eclipse.lsp4e 4 0 2025-09-02 18:46:43.145
+!MESSAGE [Error]	[streamChoices] Request id invalid, should have "completionId" and "created": {
+  headerRequestId: 'de720b46-4308-457f-9105-d912f024bbe5',
+  completionId: '',
+  created: 0,
+  serverExperiments: '',
+  deploymentId: ''
+}
+
+!ENTRY org.eclipse.lsp4e 4 0 2025-09-02 18:46:43.183
+!MESSAGE [Error]	[streamChoices] Request id invalid, should have "completionId" and "created": {
+  headerRequestId: 'de720b46-4308-457f-9105-d912f024bbe5',
+  completionId: '',
+  created: 0,
+  serverExperiments: '',
+  deploymentId: ''
+}
+
+!ENTRY org.eclipse.lsp4e 1 0 2025-09-02 18:46:43.184
+!MESSAGE [Info]	[streamChoices] solution 0 returned. finish reason: [stop]
+
+!ENTRY org.eclipse.lsp4e 4 0 2025-09-02 18:46:43.185
+!MESSAGE [Error]	[streamChoices] Request id invalid, should have "completionId" and "created": {
+  headerRequestId: 'de720b46-4308-457f-9105-d912f024bbe5',
+  completionId: '',
+  created: 0,
+  serverExperiments: '',
+  deploymentId: ''
+}
+
+!ENTRY org.eclipse.lsp4e 1 0 2025-09-02 18:46:43.618
+!MESSAGE [Info]	[fetchCompletions] Request e7dc25da-713a-4495-af94-72a45e55f0f6 at <https://proxy.individual.githubcopilot.com/v1/engines/gpt-41-copilot/completions> finished with 200 status after 417.17235899716616ms
+
+!ENTRY org.eclipse.lsp4e 4 0 2025-09-02 18:46:43.619
+!MESSAGE [Error]	[streamChoices] Request id invalid, should have "completionId" and "created": {
+  headerRequestId: 'e7dc25da-713a-4495-af94-72a45e55f0f6',
+  completionId: '',
+  created: 0,
+  serverExperiments: '',
+  deploymentId: ''
+}
+
+!ENTRY org.eclipse.lsp4e 4 0 2025-09-02 18:46:43.669
+!MESSAGE [Error]	[streamChoices] Request id invalid, should have "completionId" and "created": {
+  headerRequestId: 'e7dc25da-713a-4495-af94-72a45e55f0f6',
+  completionId: '',
+  created: 0,
+  serverExperiments: '',
+  deploymentId: ''
+}
+
+!ENTRY org.eclipse.lsp4e 1 0 2025-09-02 18:46:43.670
+!MESSAGE [Info]	[streamChoices] solution 0 returned. finish reason: [stop]
+
+!ENTRY org.eclipse.lsp4e 4 0 2025-09-02 18:46:43.671
+!MESSAGE [Error]	[streamChoices] Request id invalid, should have "completionId" and "created": {
+  headerRequestId: 'e7dc25da-713a-4495-af94-72a45e55f0f6',
+  completionId: '',
+  created: 0,
+  serverExperiments: '',
+  deploymentId: ''
+}
+
+!ENTRY org.eclipse.lsp4e 1 0 2025-09-02 18:46:44.048
+!MESSAGE [Info]	[fetchCompletions] Request 2f243b18-db42-41d3-bf8e-da64e74a77e3 at <https://proxy.individual.githubcopilot.com/v1/engines/gpt-41-copilot/completions> finished with 200 status after 364.40061800181866ms
+
+!ENTRY org.eclipse.lsp4e 4 0 2025-09-02 18:46:44.049
+!MESSAGE [Error]	[streamChoices] Request id invalid, should have "completionId" and "created": {
+  headerRequestId: '2f243b18-db42-41d3-bf8e-da64e74a77e3',
+  completionId: '',
+  created: 0,
+  serverExperiments: '',
+  deploymentId: ''
+}
+
+!ENTRY org.eclipse.lsp4e 1 0 2025-09-02 18:46:44.149
+!MESSAGE [Info]	[streamChoices] solution 0 returned. finish reason: [stop]
+
+!ENTRY org.eclipse.lsp4e 4 0 2025-09-02 18:46:44.150
+!MESSAGE [Error]	[streamChoices] Request id invalid, should have "completionId" and "created": {
+  headerRequestId: '2f243b18-db42-41d3-bf8e-da64e74a77e3',
+  completionId: '',
+  created: 0,
+  serverExperiments: '',
+  deploymentId: ''
+}
+
+!ENTRY org.eclipse.lsp4e 2 0 2025-09-02 18:46:46.563
+!MESSAGE Could not get code actions due to timeout after 300 milliseconds in `textDocument/codeAction`
+!STACK 0
+java.util.concurrent.TimeoutException
+	at java.base/java.util.concurrent.CompletableFuture.timedGet(CompletableFuture.java:1960)
+	at java.base/java.util.concurrent.CompletableFuture.get(CompletableFuture.java:2095)
+	at org.eclipse.lsp4e.operations.codeactions.LSPCodeActionMarkerResolution.checkMarkerResolution(LSPCodeActionMarkerResolution.java:159)
+	at org.eclipse.lsp4e.operations.codeactions.LSPCodeActionMarkerResolution.getResolutions(LSPCodeActionMarkerResolution.java:105)
+	at org.eclipse.ui.internal.ide.registry.MarkerHelpRegistry.getResolutions(MarkerHelpRegistry.java:393)
+	at org.eclipse.ui.internal.genericeditor.markers.MarkerInformationControl.setInput(MarkerInformationControl.java:107)
+	at org.eclipse.jface.text.AbstractInformationControlManager.internalShowInformationControl(AbstractInformationControlManager.java:1151)
+	at org.eclipse.jface.text.AbstractInformationControlManager.presentInformation(AbstractInformationControlManager.java:1120)
+	at org.eclipse.jface.text.AbstractHoverInformationControlManager.presentInformation(AbstractHoverInformationControlManager.java:884)
+	at org.eclipse.jface.text.TextViewerHoverManager.doPresentInformation(TextViewerHoverManager.java:237)
+	at org.eclipse.jface.text.TextViewerHoverManager.lambda$3(TextViewerHoverManager.java:227)
+	at org.eclipse.swt.widgets.RunnableLock.run(RunnableLock.java:40)
+	at org.eclipse.swt.widgets.Synchronizer.runAsyncMessages(Synchronizer.java:132)
+	at org.eclipse.swt.widgets.Display.runAsyncMessages(Display.java:4382)
+	at org.eclipse.swt.widgets.Display.readAndDispatch(Display.java:4005)
+	at org.eclipse.e4.ui.internal.workbench.swt.PartRenderingEngine$5.run(PartRenderingEngine.java:1151)
+	at org.eclipse.core.databinding.observable.Realm.runWithDefault(Realm.java:339)
+	at org.eclipse.e4.ui.internal.workbench.swt.PartRenderingEngine.run(PartRenderingEngine.java:1042)
+	at org.eclipse.e4.ui.internal.workbench.E4Workbench.createAndRunUI(E4Workbench.java:153)
+	at org.eclipse.ui.internal.Workbench.lambda$3(Workbench.java:668)
+	at org.eclipse.core.databinding.observable.Realm.runWithDefault(Realm.java:339)
+	at org.eclipse.ui.internal.Workbench.createAndRunWorkbench(Workbench.java:576)
+	at org.eclipse.ui.PlatformUI.createAndRunWorkbench(PlatformUI.java:173)
+	at org.eclipse.ui.internal.ide.application.IDEApplication.start(IDEApplication.java:178)
+	at org.eclipse.equinox.internal.app.EclipseAppHandle.run(EclipseAppHandle.java:208)
+	at org.eclipse.core.runtime.internal.adaptor.EclipseAppLauncher.runApplication(EclipseAppLauncher.java:149)
+	at org.eclipse.core.runtime.internal.adaptor.EclipseAppLauncher.start(EclipseAppLauncher.java:115)
+	at org.eclipse.core.runtime.adaptor.EclipseStarter.run(EclipseStarter.java:467)
+	at org.eclipse.core.runtime.adaptor.EclipseStarter.run(EclipseStarter.java:298)
+	at java.base/jdk.internal.reflect.DirectMethodHandleAccessor.invoke(DirectMethodHandleAccessor.java:103)
+	at java.base/java.lang.reflect.Method.invoke(Method.java:580)
+	at org.eclipse.equinox.launcher.Main.invokeFramework(Main.java:670)
+	at org.eclipse.equinox.launcher.Main.basicRun(Main.java:607)
+	at org.eclipse.equinox.launcher.Main.run(Main.java:1492)
+
+!ENTRY org.eclipse.lsp4e 1 0 2025-09-02 18:49:46.272
+!MESSAGE [Info]	[fetchCompletions] Request 2d2a1204-6600-494e-afd5-ecc5ebd59a41 at <https://proxy.individual.githubcopilot.com/v1/engines/gpt-41-copilot/completions> finished with 200 status after 977.7919680029154ms
+
+!ENTRY org.eclipse.lsp4e 4 0 2025-09-02 18:49:46.277
+!MESSAGE [Error]	[streamChoices] Request id invalid, should have "completionId" and "created": {
+  headerRequestId: '2d2a1204-6600-494e-afd5-ecc5ebd59a41',
+  completionId: '',
+  created: 0,
+  serverExperiments: '',
+  deploymentId: ''
+}
+
+!ENTRY org.eclipse.lsp4e 4 0 2025-09-02 18:49:46.359
+!MESSAGE [Error]	[streamChoices] Request id invalid, should have "completionId" and "created": {
+  headerRequestId: '2d2a1204-6600-494e-afd5-ecc5ebd59a41',
+  completionId: '',
+  created: 0,
+  serverExperiments: '',
+  deploymentId: ''
+}
+
+!ENTRY org.eclipse.lsp4e 4 0 2025-09-02 18:49:46.359
+!MESSAGE [Error]	[streamChoices] Request id invalid, should have "completionId" and "created": {
+  headerRequestId: '2d2a1204-6600-494e-afd5-ecc5ebd59a41',
+  completionId: '',
+  created: 0,
+  serverExperiments: '',
+  deploymentId: ''
+}
+
+!ENTRY org.eclipse.lsp4e 4 0 2025-09-02 18:49:46.359
+!MESSAGE [Error]	[streamChoices] Request id invalid, should have "completionId" and "created": {
+  headerRequestId: '2d2a1204-6600-494e-afd5-ecc5ebd59a41',
+  completionId: '',
+  created: 0,
+  serverExperiments: '',
+  deploymentId: ''
+}
+
+!ENTRY org.eclipse.lsp4e 1 0 2025-09-02 18:49:46.359
+!MESSAGE [Info]	[streamChoices] solution 0 returned. finish reason: [stop]
+
+!ENTRY org.eclipse.lsp4e 4 0 2025-09-02 18:55:17.821
+!MESSAGE [Error]	[streamChoices] Request id invalid, should have "completionId" and "created": {
+  headerRequestId: 'e1abc606-a88c-412f-8f0f-429926bc2f6e',
+  completionId: '',
+  created: 0,
+  serverExperiments: '',
+  deploymentId: ''
+}
+
+!ENTRY org.eclipse.lsp4e 1 0 2025-09-02 18:55:17.823
+!MESSAGE [Info]	[fetchCompletions] Request e1abc606-a88c-412f-8f0f-429926bc2f6e at <https://proxy.individual.githubcopilot.com/v1/engines/gpt-41-copilot/completions> finished with 200 status after 810.2904089987278ms
+
+!ENTRY org.eclipse.lsp4e 4 0 2025-09-02 18:55:17.876
+!MESSAGE [Error]	[streamChoices] Request id invalid, should have "completionId" and "created": {
+  headerRequestId: 'e1abc606-a88c-412f-8f0f-429926bc2f6e',
+  completionId: '',
+  created: 0,
+  serverExperiments: '',
+  deploymentId: ''
+}
+
+!ENTRY org.eclipse.lsp4e 1 0 2025-09-02 18:55:17.876
+!MESSAGE [Info]	[streamChoices] solution 0 returned. finish reason: [stop]
+
+!ENTRY org.eclipse.lsp4e 1 0 2025-09-02 18:55:33.184
+!MESSAGE [Info]	[fetchCompletions] Request ab04316c-7d87-4893-9e46-e4f846e75736 at <https://proxy.individual.githubcopilot.com/v1/engines/gpt-41-copilot/completions> finished with 200 status after 373.7421609982848ms
+
+!ENTRY org.eclipse.lsp4e 4 0 2025-09-02 18:55:33.184
+!MESSAGE [Error]	[streamChoices] Request id invalid, should have "completionId" and "created": {
+  headerRequestId: 'ab04316c-7d87-4893-9e46-e4f846e75736',
+  completionId: '',
+  created: 0,
+  serverExperiments: '',
+  deploymentId: ''
+}
+
+!ENTRY org.eclipse.lsp4e 4 0 2025-09-02 18:55:33.225
+!MESSAGE [Error]	[streamChoices] Request id invalid, should have "completionId" and "created": {
+  headerRequestId: 'ab04316c-7d87-4893-9e46-e4f846e75736',
+  completionId: '',
+  created: 0,
+  serverExperiments: '',
+  deploymentId: ''
+}
+
+!ENTRY org.eclipse.lsp4e 1 0 2025-09-02 18:55:33.225
+!MESSAGE [Info]	[streamChoices] solution 0 returned. finish reason: [stop]
+
+!ENTRY org.eclipse.lsp4e 1 0 2025-09-02 18:55:51.115
+!MESSAGE [Info]	[fetchCompletions] Request 91b130fd-179f-40c0-bbb4-5ed373b5f080 at <https://proxy.individual.githubcopilot.com/v1/engines/gpt-41-copilot/completions> finished with 200 status after 306.18505700677633ms
+
+!ENTRY org.eclipse.lsp4e 4 0 2025-09-02 18:55:51.119
+!MESSAGE [Error]	[streamChoices] Request id invalid, should have "completionId" and "created": {
+  headerRequestId: '91b130fd-179f-40c0-bbb4-5ed373b5f080',
+  completionId: '',
+  created: 0,
+  serverExperiments: '',
+  deploymentId: ''
+}
+
+!ENTRY org.eclipse.lsp4e 1 0 2025-09-02 18:55:51.176
+!MESSAGE [Info]	[streamChoices] solution 0 returned. finish reason: [stop]
+
+!ENTRY org.eclipse.lsp4e 4 0 2025-09-02 18:55:51.176
+!MESSAGE [Error]	[streamChoices] Request id invalid, should have "completionId" and "created": {
+  headerRequestId: '91b130fd-179f-40c0-bbb4-5ed373b5f080',
+  completionId: '',
+  created: 0,
+  serverExperiments: '',
+  deploymentId: ''
+}
+
+!ENTRY org.eclipse.lsp4e 1 0 2025-09-02 18:55:55.839
+!MESSAGE [Info]	[fetchCompletions] Request 84d9771d-80b6-4041-8c52-6ea112fd46ea at <https://proxy.individual.githubcopilot.com/v1/engines/gpt-41-copilot/completions> finished with 200 status after 289.77552200108767ms
+
+!ENTRY org.eclipse.lsp4e 4 0 2025-09-02 18:55:55.840
+!MESSAGE [Error]	[streamChoices] Request id invalid, should have "completionId" and "created": {
+  headerRequestId: '84d9771d-80b6-4041-8c52-6ea112fd46ea',
+  completionId: '',
+  created: 0,
+  serverExperiments: '',
+  deploymentId: ''
+}
+
+!ENTRY org.eclipse.lsp4e 4 0 2025-09-02 18:55:55.889
+!MESSAGE [Error]	[streamChoices] Request id invalid, should have "completionId" and "created": {
+  headerRequestId: '84d9771d-80b6-4041-8c52-6ea112fd46ea',
+  completionId: '',
+  created: 0,
+  serverExperiments: '',
+  deploymentId: ''
+}
+
+!ENTRY org.eclipse.lsp4e 4 0 2025-09-02 18:55:55.889
+!MESSAGE [Error]	[streamChoices] Request id invalid, should have "completionId" and "created": {
+  headerRequestId: '84d9771d-80b6-4041-8c52-6ea112fd46ea',
+  completionId: '',
+  created: 0,
+  serverExperiments: '',
+  deploymentId: ''
+}
+
+!ENTRY org.eclipse.lsp4e 1 0 2025-09-02 18:55:55.890
+!MESSAGE [Info]	[streamChoices] solution 0 returned. finish reason: [stop]
+
+!ENTRY org.eclipse.lsp4e 1 0 2025-09-02 18:55:56.514
+!MESSAGE [Info]	[fetchCompletions] Request 841afda6-a688-4d94-9092-40eb32f1f1d7 at <https://proxy.individual.githubcopilot.com/v1/engines/gpt-41-copilot/completions> finished with 200 status after 297.8512820005417ms
+
+!ENTRY org.eclipse.lsp4e 4 0 2025-09-02 18:55:56.514
+!MESSAGE [Error]	[streamChoices] Request id invalid, should have "completionId" and "created": {
+  headerRequestId: '841afda6-a688-4d94-9092-40eb32f1f1d7',
+  completionId: '',
+  created: 0,
+  serverExperiments: '',
+  deploymentId: ''
+}
+
+!ENTRY org.eclipse.lsp4e 4 0 2025-09-02 18:55:56.562
+!MESSAGE [Error]	[streamChoices] Request id invalid, should have "completionId" and "created": {
+  headerRequestId: '841afda6-a688-4d94-9092-40eb32f1f1d7',
+  completionId: '',
+  created: 0,
+  serverExperiments: '',
+  deploymentId: ''
+}
+
+!ENTRY org.eclipse.lsp4e 1 0 2025-09-02 18:55:56.563
+!MESSAGE [Info]	[streamChoices] solution 0 returned. finish reason: [stop]
+
+!ENTRY org.eclipse.lsp4e 4 0 2025-09-02 18:55:56.564
+!MESSAGE [Error]	[streamChoices] Request id invalid, should have "completionId" and "created": {
+  headerRequestId: '841afda6-a688-4d94-9092-40eb32f1f1d7',
+  completionId: '',
+  created: 0,
+  serverExperiments: '',
+  deploymentId: ''
+}
+
+!ENTRY org.eclipse.lsp4e 1 0 2025-09-02 18:55:57.088
+!MESSAGE [Info]	[fetchCompletions] Request f2f9b219-806f-4e54-bb57-080de5aab98a at <https://proxy.individual.githubcopilot.com/v1/engines/gpt-41-copilot/completions> finished with 200 status after 506.5085220038891ms
+
+!ENTRY org.eclipse.lsp4e 4 0 2025-09-02 18:55:57.089
+!MESSAGE [Error]	[streamChoices] Request id invalid, should have "completionId" and "created": {
+  headerRequestId: 'f2f9b219-806f-4e54-bb57-080de5aab98a',
+  completionId: '',
+  created: 0,
+  serverExperiments: '',
+  deploymentId: ''
+}
+
+!ENTRY org.eclipse.lsp4e 4 0 2025-09-02 18:55:57.090
+!MESSAGE [Error]	[streamChoices] Request id invalid, should have "completionId" and "created": {
+  headerRequestId: 'f2f9b219-806f-4e54-bb57-080de5aab98a',
+  completionId: '',
+  created: 0,
+  serverExperiments: '',
+  deploymentId: ''
+}
+
+!ENTRY org.eclipse.lsp4e 1 0 2025-09-02 18:55:57.090
+!MESSAGE [Info]	[streamChoices] solution 0 returned. finish reason: [stop]
+
+!ENTRY org.eclipse.lsp4e 4 0 2025-09-02 18:55:57.091
+!MESSAGE [Error]	[streamChoices] Request id invalid, should have "completionId" and "created": {
+  headerRequestId: 'f2f9b219-806f-4e54-bb57-080de5aab98a',
+  completionId: '',
+  created: 0,
+  serverExperiments: '',
+  deploymentId: ''
+}
+
+!ENTRY org.eclipse.lsp4e 1 0 2025-09-02 18:55:57.522
+!MESSAGE [Info]	[fetchCompletions] Request 48e9f685-64ea-45a1-8830-439a1254d109 at <https://proxy.individual.githubcopilot.com/v1/engines/gpt-41-copilot/completions> finished with 200 status after 419.28001099824905ms
+
+!ENTRY org.eclipse.lsp4e 4 0 2025-09-02 18:55:57.523
+!MESSAGE [Error]	[streamChoices] Request id invalid, should have "completionId" and "created": {
+  headerRequestId: '48e9f685-64ea-45a1-8830-439a1254d109',
+  completionId: '',
+  created: 0,
+  serverExperiments: '',
+  deploymentId: ''
+}
+
+!ENTRY org.eclipse.lsp4e 4 0 2025-09-02 18:55:57.544
+!MESSAGE [Error]	[streamChoices] Request id invalid, should have "completionId" and "created": {
+  headerRequestId: '48e9f685-64ea-45a1-8830-439a1254d109',
+  completionId: '',
+  created: 0,
+  serverExperiments: '',
+  deploymentId: ''
+}
+
+!ENTRY org.eclipse.lsp4e 4 0 2025-09-02 18:55:57.545
+!MESSAGE [Error]	[streamChoices] Request id invalid, should have "completionId" and "created": {
+  headerRequestId: '48e9f685-64ea-45a1-8830-439a1254d109',
+  completionId: '',
+  created: 0,
+  serverExperiments: '',
+  deploymentId: ''
+}
+
+!ENTRY org.eclipse.lsp4e 1 0 2025-09-02 18:55:57.546
+!MESSAGE [Info]	[streamChoices] solution 0 returned. finish reason: [stop]
+
+!ENTRY org.eclipse.lsp4e 4 0 2025-09-02 18:58:44.762
+!MESSAGE Unexpected null value present!
+!STACK 0
+java.lang.IllegalStateException: Unexpected null value present!
+	at org.eclipse.lsp4e.internal.NullSafetyHelper.castNonNull(NullSafetyHelper.java:36)
+	at org.eclipse.lsp4e.operations.semanticTokens.SemanticTokensClient.requestFullSemanticTokens(SemanticTokensClient.java:45)
+	at org.eclipse.lsp4e.operations.semanticTokens.SemanticHighlightReconcilerStrategy.fullReconcile(SemanticHighlightReconcilerStrategy.java:239)
+	at org.eclipse.lsp4e.operations.semanticTokens.SemanticHighlightReconcilerStrategy.initialReconcile(SemanticHighlightReconcilerStrategy.java:258)
+	at org.eclipse.ui.internal.genericeditor.CompositeReconcilerStrategy.initialReconcile(CompositeReconcilerStrategy.java:48)
+	at org.eclipse.jface.text.reconciler.Reconciler.initialProcess(Reconciler.java:223)
+	at org.eclipse.jface.text.reconciler.AbstractReconciler$BackgroundThread.run(AbstractReconciler.java:177)
+
+!ENTRY org.eclipse.lsp4e 1 0 2025-09-02 18:58:52.586
+!MESSAGE [Info]	[fetchCompletions] Request fa6b1b55-75b1-4e9b-abfa-e0e8505f1494 at <https://proxy.individual.githubcopilot.com/v1/engines/gpt-41-copilot/completions> finished with 200 status after 780.954353004694ms
+
+!ENTRY org.eclipse.lsp4e 4 0 2025-09-02 18:58:52.587
+!MESSAGE [Error]	[streamChoices] Request id invalid, should have "completionId" and "created": {
+  headerRequestId: 'fa6b1b55-75b1-4e9b-abfa-e0e8505f1494',
+  completionId: '',
+  created: 0,
+  serverExperiments: '',
+  deploymentId: ''
+}
+
+!ENTRY org.eclipse.lsp4e 1 0 2025-09-02 18:58:52.588
+!MESSAGE [Info]	[streamChoices] solution 0 returned. finish reason: [stop]
+
+!ENTRY org.eclipse.lsp4e 4 0 2025-09-02 18:58:52.588
+!MESSAGE [Error]	[streamChoices] Request id invalid, should have "completionId" and "created": {
+  headerRequestId: 'fa6b1b55-75b1-4e9b-abfa-e0e8505f1494',
+  completionId: '',
+  created: 0,
+  serverExperiments: '',
+  deploymentId: ''
+}
+
+!ENTRY org.eclipse.lsp4e 4 0 2025-09-02 18:59:06.510
+!MESSAGE Unexpected null value present!
+!STACK 0
+java.lang.IllegalStateException: Unexpected null value present!
+	at org.eclipse.lsp4e.internal.NullSafetyHelper.castNonNull(NullSafetyHelper.java:36)
+	at org.eclipse.lsp4e.operations.semanticTokens.SemanticTokensClient.requestFullSemanticTokens(SemanticTokensClient.java:45)
+	at org.eclipse.lsp4e.operations.semanticTokens.SemanticHighlightReconcilerStrategy.fullReconcile(SemanticHighlightReconcilerStrategy.java:239)
+	at org.eclipse.lsp4e.operations.semanticTokens.SemanticHighlightReconcilerStrategy.initialReconcile(SemanticHighlightReconcilerStrategy.java:258)
+	at org.eclipse.ui.internal.genericeditor.CompositeReconcilerStrategy.initialReconcile(CompositeReconcilerStrategy.java:48)
+	at org.eclipse.jface.text.reconciler.Reconciler.initialProcess(Reconciler.java:223)
+	at org.eclipse.jface.text.reconciler.AbstractReconciler$BackgroundThread.run(AbstractReconciler.java:177)
+
+!ENTRY org.eclipse.lsp4e 4 0 2025-09-02 18:59:11.456
+!MESSAGE [Error]	[streamChoices] Request id invalid, should have "completionId" and "created": {
+  headerRequestId: '00e79dfc-7b36-4fcb-a390-d40a754b3744',
+  completionId: '',
+  created: 0,
+  serverExperiments: '',
+  deploymentId: ''
+}
+
+!ENTRY org.eclipse.lsp4e 1 0 2025-09-02 18:59:11.456
+!MESSAGE [Info]	[fetchCompletions] Request 00e79dfc-7b36-4fcb-a390-d40a754b3744 at <https://proxy.individual.githubcopilot.com/v1/engines/gpt-41-copilot/completions> finished with 200 status after 942.7148440033197ms
+
+!ENTRY org.eclipse.lsp4e 4 0 2025-09-02 18:59:11.500
+!MESSAGE [Error]	[streamChoices] Request id invalid, should have "completionId" and "created": {
+  headerRequestId: '00e79dfc-7b36-4fcb-a390-d40a754b3744',
+  completionId: '',
+  created: 0,
+  serverExperiments: '',
+  deploymentId: ''
+}
+
+!ENTRY org.eclipse.lsp4e 4 0 2025-09-02 18:59:11.501
+!MESSAGE [Error]	[streamChoices] Request id invalid, should have "completionId" and "created": {
+  headerRequestId: '00e79dfc-7b36-4fcb-a390-d40a754b3744',
+  completionId: '',
+  created: 0,
+  serverExperiments: '',
+  deploymentId: ''
+}
+
+!ENTRY org.eclipse.lsp4e 4 0 2025-09-02 18:59:11.501
+!MESSAGE [Error]	[streamChoices] Request id invalid, should have "completionId" and "created": {
+  headerRequestId: '00e79dfc-7b36-4fcb-a390-d40a754b3744',
+  completionId: '',
+  created: 0,
+  serverExperiments: '',
+  deploymentId: ''
+}
+
+!ENTRY org.eclipse.lsp4e 1 0 2025-09-02 18:59:11.505
+!MESSAGE [Info]	[streamChoices] solution 0 returned. finish reason: [stop]
+
+!ENTRY org.eclipse.lsp4e 2 0 2025-09-02 19:16:05.588
+!MESSAGE [Warning]	Ignoring CompletionItem without label: {"kind":12,"label":"","insertText":" ","insertTextFormat":2,"documentation":""}
+
+!ENTRY org.eclipse.lsp4e 2 0 2025-09-02 19:16:05.697
+!MESSAGE [Warning]	Ignoring CompletionItem without label: {"kind":12,"label":"","insertText":" ","insertTextFormat":2,"documentation":""}
+
+!ENTRY org.eclipse.lsp4e 2 0 2025-09-02 19:16:05.892
+!MESSAGE [Warning]	Ignoring CompletionItem without label: {"kind":12,"label":"","insertText":" ","insertTextFormat":2,"documentation":""}
+
+!ENTRY org.eclipse.lsp4e 2 0 2025-09-02 19:16:06.168
+!MESSAGE [Warning]	Ignoring CompletionItem without label: {"kind":12,"label":"","insertText":" ","insertTextFormat":2,"documentation":""}
+
+!ENTRY org.eclipse.lsp4e 2 0 2025-09-02 19:16:06.328
+!MESSAGE [Warning]	Ignoring CompletionItem without label: {"kind":12,"label":"","insertText":" ","insertTextFormat":2,"documentation":""}
+
+!ENTRY org.eclipse.lsp4e 2 0 2025-09-02 19:16:06.518
+!MESSAGE [Warning]	Ignoring CompletionItem without label: {"kind":12,"label":"","insertText":" ","insertTextFormat":2,"documentation":""}
+
+!ENTRY org.eclipse.lsp4e 2 0 2025-09-02 19:16:06.700
+!MESSAGE [Warning]	Ignoring CompletionItem without label: {"kind":12,"label":"","insertText":" ","insertTextFormat":2,"documentation":""}
+
+!ENTRY org.eclipse.lsp4e 1 0 2025-09-02 19:16:07.879
+!MESSAGE [Info]	[fetchCompletions] Request eb4b96cd-ced3-4ab8-83a3-4840a3f09fca at <https://proxy.individual.githubcopilot.com/v1/engines/gpt-41-copilot/completions> finished with 200 status after 978.1303669959307ms
+
+!ENTRY org.eclipse.lsp4e 4 0 2025-09-02 19:16:07.880
+!MESSAGE [Error]	[streamChoices] Request id invalid, should have "completionId" and "created": {
+  headerRequestId: 'eb4b96cd-ced3-4ab8-83a3-4840a3f09fca',
+  completionId: '',
+  created: 0,
+  serverExperiments: '',
+  deploymentId: ''
+}
+
+!ENTRY org.eclipse.lsp4e 4 0 2025-09-02 19:16:08.026
+!MESSAGE [Error]	[streamChoices] Request id invalid, should have "completionId" and "created": {
+  headerRequestId: 'eb4b96cd-ced3-4ab8-83a3-4840a3f09fca',
+  completionId: '',
+  created: 0,
+  serverExperiments: '',
+  deploymentId: ''
+}
+
+!ENTRY org.eclipse.lsp4e 4 0 2025-09-02 19:16:08.027
+!MESSAGE [Error]	[streamChoices] Request id invalid, should have "completionId" and "created": {
+  headerRequestId: 'eb4b96cd-ced3-4ab8-83a3-4840a3f09fca',
+  completionId: '',
+  created: 0,
+  serverExperiments: '',
+  deploymentId: ''
+}
+
+!ENTRY org.eclipse.lsp4e 1 0 2025-09-02 19:16:08.028
+!MESSAGE [Info]	[streamChoices] solution 0 returned. finish reason: [stop]
+
+!ENTRY org.eclipse.lsp4e 1 0 2025-09-02 19:16:24.395
+!MESSAGE [Info]	[fetchCompletions] Request 7a1554cc-8e90-4b3a-9194-c216f085763e at <https://proxy.individual.githubcopilot.com/v1/engines/gpt-41-copilot/completions> finished with 200 status after 385.9030610024929ms
+
+!ENTRY org.eclipse.lsp4e 4 0 2025-09-02 19:16:24.397
+!MESSAGE [Error]	[streamChoices] Request id invalid, should have "completionId" and "created": {
+  headerRequestId: '7a1554cc-8e90-4b3a-9194-c216f085763e',
+  completionId: '',
+  created: 0,
+  serverExperiments: '',
+  deploymentId: ''
+}
+
+!ENTRY org.eclipse.lsp4e 4 0 2025-09-02 19:16:24.451
+!MESSAGE [Error]	[streamChoices] Request id invalid, should have "completionId" and "created": {
+  headerRequestId: '7a1554cc-8e90-4b3a-9194-c216f085763e',
+  completionId: '',
+  created: 0,
+  serverExperiments: '',
+  deploymentId: ''
+}
+
+!ENTRY org.eclipse.lsp4e 4 0 2025-09-02 19:16:24.451
+!MESSAGE [Error]	[streamChoices] Request id invalid, should have "completionId" and "created": {
+  headerRequestId: '7a1554cc-8e90-4b3a-9194-c216f085763e',
+  completionId: '',
+  created: 0,
+  serverExperiments: '',
+  deploymentId: ''
+}
+
+!ENTRY org.eclipse.lsp4e 4 0 2025-09-02 19:16:24.452
+!MESSAGE [Error]	[streamChoices] Request id invalid, should have "completionId" and "created": {
+  headerRequestId: '7a1554cc-8e90-4b3a-9194-c216f085763e',
+  completionId: '',
+  created: 0,
+  serverExperiments: '',
+  deploymentId: ''
+}
+
+!ENTRY org.eclipse.lsp4e 1 0 2025-09-02 19:16:24.452
+!MESSAGE [Info]	[streamChoices] solution 0 returned. finish reason: [stop]
+
+!ENTRY org.eclipse.lsp4e 4 0 2025-09-02 19:16:24.453
+!MESSAGE [Error]	[streamChoices] Request id invalid, should have "completionId" and "created": {
+  headerRequestId: '7a1554cc-8e90-4b3a-9194-c216f085763e',
+  completionId: '',
+  created: 0,
+  serverExperiments: '',
+  deploymentId: ''
+}
+
+!ENTRY org.eclipse.lsp4e 1 0 2025-09-02 19:16:24.811
+!MESSAGE [Info]	[fetchCompletions] Request 535483a4-70e7-4c04-abdb-d8cbc028c226 at <https://proxy.individual.githubcopilot.com/v1/engines/gpt-41-copilot/completions> finished with 200 status after 347.06095999479294ms
+
+!ENTRY org.eclipse.lsp4e 4 0 2025-09-02 19:16:24.812
+!MESSAGE [Error]	[streamChoices] Request id invalid, should have "completionId" and "created": {
+  headerRequestId: '535483a4-70e7-4c04-abdb-d8cbc028c226',
+  completionId: '',
+  created: 0,
+  serverExperiments: '',
+  deploymentId: ''
+}
+
+!ENTRY org.eclipse.lsp4e 4 0 2025-09-02 19:16:24.935
+!MESSAGE [Error]	[streamChoices] Request id invalid, should have "completionId" and "created": {
+  headerRequestId: '535483a4-70e7-4c04-abdb-d8cbc028c226',
+  completionId: '',
+  created: 0,
+  serverExperiments: '',
+  deploymentId: ''
+}
+
+!ENTRY org.eclipse.lsp4e 4 0 2025-09-02 19:16:24.936
+!MESSAGE [Error]	[streamChoices] Request id invalid, should have "completionId" and "created": {
+  headerRequestId: '535483a4-70e7-4c04-abdb-d8cbc028c226',
+  completionId: '',
+  created: 0,
+  serverExperiments: '',
+  deploymentId: ''
+}
+
+!ENTRY org.eclipse.lsp4e 4 0 2025-09-02 19:16:24.937
+!MESSAGE [Error]	[streamChoices] Request id invalid, should have "completionId" and "created": {
+  headerRequestId: '535483a4-70e7-4c04-abdb-d8cbc028c226',
+  completionId: '',
+  created: 0,
+  serverExperiments: '',
+  deploymentId: ''
+}
+
+!ENTRY org.eclipse.lsp4e 4 0 2025-09-02 19:16:24.938
+!MESSAGE [Error]	[streamChoices] Request id invalid, should have "completionId" and "created": {
+  headerRequestId: '535483a4-70e7-4c04-abdb-d8cbc028c226',
+  completionId: '',
+  created: 0,
+  serverExperiments: '',
+  deploymentId: ''
+}
+
+!ENTRY org.eclipse.lsp4e 4 0 2025-09-02 19:16:24.938
+!MESSAGE [Error]	[streamChoices] Request id invalid, should have "completionId" and "created": {
+  headerRequestId: '535483a4-70e7-4c04-abdb-d8cbc028c226',
+  completionId: '',
+  created: 0,
+  serverExperiments: '',
+  deploymentId: ''
+}
+
+!ENTRY org.eclipse.lsp4e 1 0 2025-09-02 19:16:24.942
+!MESSAGE [Info]	[streamChoices] solution 0 returned. finish reason: [stop]
+
+!ENTRY org.eclipse.lsp4e 1 0 2025-09-02 19:16:25.696
+!MESSAGE [Info]	[fetchCompletions] Request b46a0ea7-043e-4847-924e-558b392d2ff5 at <https://proxy.individual.githubcopilot.com/v1/engines/gpt-41-copilot/completions> finished with 200 status after 458.44468699395657ms
+
+!ENTRY org.eclipse.lsp4e 4 0 2025-09-02 19:16:25.720
+!MESSAGE [Error]	[streamChoices] Request id invalid, should have "completionId" and "created": {
+  headerRequestId: 'b46a0ea7-043e-4847-924e-558b392d2ff5',
+  completionId: '',
+  created: 0,
+  serverExperiments: '',
+  deploymentId: ''
+}
+
+!ENTRY org.eclipse.lsp4e 4 0 2025-09-02 19:16:25.814
+!MESSAGE [Error]	[streamChoices] Request id invalid, should have "completionId" and "created": {
+  headerRequestId: 'b46a0ea7-043e-4847-924e-558b392d2ff5',
+  completionId: '',
+  created: 0,
+  serverExperiments: '',
+  deploymentId: ''
+}
+
+!ENTRY org.eclipse.lsp4e 4 0 2025-09-02 19:16:25.814
+!MESSAGE [Error]	[streamChoices] Request id invalid, should have "completionId" and "created": {
+  headerRequestId: 'b46a0ea7-043e-4847-924e-558b392d2ff5',
+  completionId: '',
+  created: 0,
+  serverExperiments: '',
+  deploymentId: ''
+}
+
+!ENTRY org.eclipse.lsp4e 4 0 2025-09-02 19:16:25.815
+!MESSAGE [Error]	[streamChoices] Request id invalid, should have "completionId" and "created": {
+  headerRequestId: 'b46a0ea7-043e-4847-924e-558b392d2ff5',
+  completionId: '',
+  created: 0,
+  serverExperiments: '',
+  deploymentId: ''
+}
+
+!ENTRY org.eclipse.lsp4e 4 0 2025-09-02 19:16:25.815
+!MESSAGE [Error]	[streamChoices] Request id invalid, should have "completionId" and "created": {
+  headerRequestId: 'b46a0ea7-043e-4847-924e-558b392d2ff5',
+  completionId: '',
+  created: 0,
+  serverExperiments: '',
+  deploymentId: ''
+}
+
+!ENTRY org.eclipse.lsp4e 4 0 2025-09-02 19:16:25.817
+!MESSAGE [Error]	[streamChoices] Request id invalid, should have "completionId" and "created": {
+  headerRequestId: 'b46a0ea7-043e-4847-924e-558b392d2ff5',
+  completionId: '',
+  created: 0,
+  serverExperiments: '',
+  deploymentId: ''
+}
+
+!ENTRY org.eclipse.lsp4e 4 0 2025-09-02 19:16:25.817
+!MESSAGE [Error]	[streamChoices] Request id invalid, should have "completionId" and "created": {
+  headerRequestId: 'b46a0ea7-043e-4847-924e-558b392d2ff5',
+  completionId: '',
+  created: 0,
+  serverExperiments: '',
+  deploymentId: ''
+}
+
+!ENTRY org.eclipse.lsp4e 4 0 2025-09-02 19:16:25.819
+!MESSAGE [Error]	[streamChoices] Request id invalid, should have "completionId" and "created": {
+  headerRequestId: 'b46a0ea7-043e-4847-924e-558b392d2ff5',
+  completionId: '',
+  created: 0,
+  serverExperiments: '',
+  deploymentId: ''
+}
+
+!ENTRY org.eclipse.lsp4e 1 0 2025-09-02 19:16:25.819
+!MESSAGE [Info]	[streamChoices] solution 0 returned. finish reason: [stop]
+
+!ENTRY org.eclipse.lsp4e 1 0 2025-09-02 19:16:26.280
+!MESSAGE [Info]	[fetchCompletions] Request 8e598c60-f345-4d1b-ac0a-8d5aeed02a05 at <https://proxy.individual.githubcopilot.com/v1/engines/gpt-41-copilot/completions> finished with 200 status after 348.5624080002308ms
+
+!ENTRY org.eclipse.lsp4e 4 0 2025-09-02 19:16:26.280
+!MESSAGE [Error]	[streamChoices] Request id invalid, should have "completionId" and "created": {
+  headerRequestId: '8e598c60-f345-4d1b-ac0a-8d5aeed02a05',
+  completionId: '',
+  created: 0,
+  serverExperiments: '',
+  deploymentId: ''
+}
+
+!ENTRY org.eclipse.lsp4e 4 0 2025-09-02 19:16:26.396
+!MESSAGE [Error]	[streamChoices] Request id invalid, should have "completionId" and "created": {
+  headerRequestId: '8e598c60-f345-4d1b-ac0a-8d5aeed02a05',
+  completionId: '',
+  created: 0,
+  serverExperiments: '',
+  deploymentId: ''
+}
+
+!ENTRY org.eclipse.lsp4e 4 0 2025-09-02 19:16:26.397
+!MESSAGE [Error]	[streamChoices] Request id invalid, should have "completionId" and "created": {
+  headerRequestId: '8e598c60-f345-4d1b-ac0a-8d5aeed02a05',
+  completionId: '',
+  created: 0,
+  serverExperiments: '',
+  deploymentId: ''
+}
+
+!ENTRY org.eclipse.lsp4e 4 0 2025-09-02 19:16:26.398
+!MESSAGE [Error]	[streamChoices] Request id invalid, should have "completionId" and "created": {
+  headerRequestId: '8e598c60-f345-4d1b-ac0a-8d5aeed02a05',
+  completionId: '',
+  created: 0,
+  serverExperiments: '',
+  deploymentId: ''
+}
+
+!ENTRY org.eclipse.lsp4e 4 0 2025-09-02 19:16:26.398
+!MESSAGE [Error]	[streamChoices] Request id invalid, should have "completionId" and "created": {
+  headerRequestId: '8e598c60-f345-4d1b-ac0a-8d5aeed02a05',
+  completionId: '',
+  created: 0,
+  serverExperiments: '',
+  deploymentId: ''
+}
+
+!ENTRY org.eclipse.lsp4e 4 0 2025-09-02 19:16:26.398
+!MESSAGE [Error]	[streamChoices] Request id invalid, should have "completionId" and "created": {
+  headerRequestId: '8e598c60-f345-4d1b-ac0a-8d5aeed02a05',
+  completionId: '',
+  created: 0,
+  serverExperiments: '',
+  deploymentId: ''
+}
+
+!ENTRY org.eclipse.lsp4e 4 0 2025-09-02 19:16:26.406
+!MESSAGE [Error]	[streamChoices] Request id invalid, should have "completionId" and "created": {
+  headerRequestId: '8e598c60-f345-4d1b-ac0a-8d5aeed02a05',
+  completionId: '',
+  created: 0,
+  serverExperiments: '',
+  deploymentId: ''
+}
+
+!ENTRY org.eclipse.lsp4e 4 0 2025-09-02 19:16:26.407
+!MESSAGE [Error]	[streamChoices] Request id invalid, should have "completionId" and "created": {
+  headerRequestId: '8e598c60-f345-4d1b-ac0a-8d5aeed02a05',
+  completionId: '',
+  created: 0,
+  serverExperiments: '',
+  deploymentId: ''
+}
+
+!ENTRY org.eclipse.lsp4e 4 0 2025-09-02 19:16:26.407
+!MESSAGE [Error]	[streamChoices] Request id invalid, should have "completionId" and "created": {
+  headerRequestId: '8e598c60-f345-4d1b-ac0a-8d5aeed02a05',
+  completionId: '',
+  created: 0,
+  serverExperiments: '',
+  deploymentId: ''
+}
+
+!ENTRY org.eclipse.lsp4e 4 0 2025-09-02 19:16:26.407
+!MESSAGE [Error]	[streamChoices] Request id invalid, should have "completionId" and "created": {
+  headerRequestId: '8e598c60-f345-4d1b-ac0a-8d5aeed02a05',
+  completionId: '',
+  created: 0,
+  serverExperiments: '',
+  deploymentId: ''
+}
+
+!ENTRY org.eclipse.lsp4e 1 0 2025-09-02 19:16:26.407
+!MESSAGE [Info]	[streamChoices] solution 0 returned. finish reason: [stop]
+
+!ENTRY org.eclipse.lsp4e 4 0 2025-09-02 19:16:26.408
+!MESSAGE [Error]	[streamChoices] Request id invalid, should have "completionId" and "created": {
+  headerRequestId: '8e598c60-f345-4d1b-ac0a-8d5aeed02a05',
+  completionId: '',
+  created: 0,
+  serverExperiments: '',
+  deploymentId: ''
+}
+
+!ENTRY org.eclipse.lsp4e 4 0 2025-09-02 19:16:26.790
+!MESSAGE [Error]	[streamChoices] Request id invalid, should have "completionId" and "created": {
+  headerRequestId: '16b0ff05-e2d5-408f-bfbd-8cf0ad6776d8',
+  completionId: '',
+  created: 0,
+  serverExperiments: '',
+  deploymentId: ''
+}
+
+!ENTRY org.eclipse.lsp4e 1 0 2025-09-02 19:16:26.791
+!MESSAGE [Info]	[fetchCompletions] Request 16b0ff05-e2d5-408f-bfbd-8cf0ad6776d8 at <https://proxy.individual.githubcopilot.com/v1/engines/gpt-41-copilot/completions> finished with 200 status after 372.8822930008173ms
+
+!ENTRY org.eclipse.lsp4e 2 0 2025-09-02 19:16:26.930
+!MESSAGE [Warning]	Ignoring CompletionItem without label: {"kind":12,"label":"","insertText":" ","insertTextFormat":2,"documentation":""}
+
+!ENTRY org.eclipse.lsp4e 4 0 2025-09-02 19:16:27.157
+!MESSAGE [Error]	[streamChoices] Request id invalid, should have "completionId" and "created": {
+  headerRequestId: '16b0ff05-e2d5-408f-bfbd-8cf0ad6776d8',
+  completionId: '',
+  created: 0,
+  serverExperiments: '',
+  deploymentId: ''
+}
+
+!ENTRY org.eclipse.lsp4e 4 0 2025-09-02 19:16:27.158
+!MESSAGE [Error]	[streamChoices] Request id invalid, should have "completionId" and "created": {
+  headerRequestId: '16b0ff05-e2d5-408f-bfbd-8cf0ad6776d8',
+  completionId: '',
+  created: 0,
+  serverExperiments: '',
+  deploymentId: ''
+}
+
+!ENTRY org.eclipse.lsp4e 4 0 2025-09-02 19:16:27.158
+!MESSAGE [Error]	[streamChoices] Request id invalid, should have "completionId" and "created": {
+  headerRequestId: '16b0ff05-e2d5-408f-bfbd-8cf0ad6776d8',
+  completionId: '',
+  created: 0,
+  serverExperiments: '',
+  deploymentId: ''
+}
+
+!ENTRY org.eclipse.lsp4e 4 0 2025-09-02 19:16:27.158
+!MESSAGE [Error]	[streamChoices] Request id invalid, should have "completionId" and "created": {
+  headerRequestId: '16b0ff05-e2d5-408f-bfbd-8cf0ad6776d8',
+  completionId: '',
+  created: 0,
+  serverExperiments: '',
+  deploymentId: ''
+}
+
+!ENTRY org.eclipse.lsp4e 4 0 2025-09-02 19:16:27.159
+!MESSAGE [Error]	[streamChoices] Request id invalid, should have "completionId" and "created": {
+  headerRequestId: '16b0ff05-e2d5-408f-bfbd-8cf0ad6776d8',
+  completionId: '',
+  created: 0,
+  serverExperiments: '',
+  deploymentId: ''
+}
+
+!ENTRY org.eclipse.lsp4e 1 0 2025-09-02 19:16:27.159
+!MESSAGE [Info]	[streamChoices] solution 0 returned. finish reason: [stop]
+
+!ENTRY org.eclipse.lsp4e 2 0 2025-09-02 19:16:27.253
+!MESSAGE [Warning]	Ignoring CompletionItem without label: {"kind":12,"label":"","insertText":" ","insertTextFormat":2,"documentation":""}
+
+!ENTRY org.eclipse.lsp4e 2 0 2025-09-02 19:16:27.400
+!MESSAGE [Warning]	Ignoring CompletionItem without label: {"kind":12,"label":"","insertText":" ","insertTextFormat":2,"documentation":""}
+
+!ENTRY org.eclipse.lsp4e 2 0 2025-09-02 19:16:27.576
+!MESSAGE [Warning]	Ignoring CompletionItem without label: {"kind":12,"label":"","insertText":" ","insertTextFormat":2,"documentation":""}
+
+!ENTRY org.eclipse.lsp4e 2 0 2025-09-02 19:16:27.698
+!MESSAGE [Warning]	Ignoring CompletionItem without label: {"kind":12,"label":"","insertText":" ","insertTextFormat":2,"documentation":""}
+
+!ENTRY org.eclipse.lsp4e 1 0 2025-09-02 19:16:28.269
+!MESSAGE [Info]	[fetchCompletions] Request 990c9f93-f009-4945-95b8-226e700a784f at <https://proxy.individual.githubcopilot.com/v1/engines/gpt-41-copilot/completions> finished with 200 status after 582.4601799994707ms
+
+!ENTRY org.eclipse.lsp4e 4 0 2025-09-02 19:16:28.269
+!MESSAGE [Error]	[streamChoices] Request id invalid, should have "completionId" and "created": {
+  headerRequestId: '990c9f93-f009-4945-95b8-226e700a784f',
+  completionId: '',
+  created: 0,
+  serverExperiments: '',
+  deploymentId: ''
+}
+
+!ENTRY org.eclipse.lsp4e 4 0 2025-09-02 19:16:28.283
+!MESSAGE [Error]	[streamChoices] Request id invalid, should have "completionId" and "created": {
+  headerRequestId: '990c9f93-f009-4945-95b8-226e700a784f',
+  completionId: '',
+  created: 0,
+  serverExperiments: '',
+  deploymentId: ''
+}
+
+!ENTRY org.eclipse.lsp4e 4 0 2025-09-02 19:16:28.283
+!MESSAGE [Error]	[streamChoices] Request id invalid, should have "completionId" and "created": {
+  headerRequestId: '990c9f93-f009-4945-95b8-226e700a784f',
+  completionId: '',
+  created: 0,
+  serverExperiments: '',
+  deploymentId: ''
+}
+
+!ENTRY org.eclipse.lsp4e 1 0 2025-09-02 19:16:28.284
+!MESSAGE [Info]	[streamChoices] solution 0 returned. finish reason: [stop]
+
+!ENTRY org.eclipse.lsp4e 4 0 2025-09-02 19:16:28.285
+!MESSAGE [Error]	[streamChoices] Request id invalid, should have "completionId" and "created": {
+  headerRequestId: '990c9f93-f009-4945-95b8-226e700a784f',
+  completionId: '',
+  created: 0,
+  serverExperiments: '',
+  deploymentId: ''
+}

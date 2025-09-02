@@ -1,0 +1,10 @@
+spring:
+  application:
+    name: 34-MicroServices-ConfigServer
+  cloud:
+    config:
+       server:
+          git:
+             uri: https://github.com/Ayush13121997/Configuration-Properties
+server:
+    port: 9093
