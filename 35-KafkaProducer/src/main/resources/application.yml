@@ -1,0 +1,5 @@
+spring:
+  application:
+    name: 35-KafkaProducer
+server:
+  port: 9090

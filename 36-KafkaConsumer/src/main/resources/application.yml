@@ -1,0 +1,5 @@
+spring:
+  application:
+    name: 36-KafkaConsumer
+server:
+   port: 7070
