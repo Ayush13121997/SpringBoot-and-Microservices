@@ -1,0 +1,9 @@
+spring:
+  application:
+    name: 37-Redis-Server
+  data:
+    redis:
+      url: redis-18324.c212.ap-south-1-1.ec2.redns.redis-cloud.com
+      port: 18324
+      username: default
+      password: oBEUNYaUnswEM00bE5YN64BOHwfoRxVR
