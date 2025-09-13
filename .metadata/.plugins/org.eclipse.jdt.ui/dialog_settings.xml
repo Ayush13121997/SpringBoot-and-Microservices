@@ -92,12 +92,12 @@
 	</section>
 	<section name="ProblemSeveritiesConfigurationBlock">
 		<item key="expanded0" value="false"/>
-		<item key="expanded1" value="true"/>
+		<item key="expanded1" value="false"/>
 		<item key="expanded2" value="false"/>
 		<item key="expanded3" value="false"/>
 		<item key="expanded4" value="false"/>
 		<item key="expanded5" value="false"/>
-		<item key="expanded6" value="false"/>
+		<item key="expanded6" value="true"/>
 		<item key="expanded7" value="false"/>
 		<item key="expanded8" value="false"/>
 	</section>
@@ -183,5 +183,15 @@
 				<item key="antpath" value="/Users/Ayush/Documents/SBMS/40-FileUploadDownload-RestApi/javadoc.xml"/>
 			</section>
 		</section>
+	</section>
+	<section name="NewRecordCreationWizard.dialogBounds">
+		<item key="DIALOG_X_ORIGIN" value="427"/>
+		<item key="DIALOG_Y_ORIGIN" value="80"/>
+		<item key="DIALOG_WIDTH" value="586"/>
+		<item key="DIALOG_HEIGHT" value="556"/>
+		<item key="DIALOG_FONT_NAME" value="1|.AppleSystemUIFont|11.0|0|COCOA|1|.AppleSystemUIFont"/>
+	</section>
+	<section name="NewRecordWizardPage">
+		<item key="create_unimplemented" value="false"/>
 	</section>
 </section>
