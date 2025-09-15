@@ -9971,3 +9971,638 @@ org.eclipse.core.runtime.CoreException: Could not resolve artifact org.webjars:s
 2025-09-13 11:11:18,357 [Worker-81: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src/main/resources to target/classes
 2025-09-13 11:11:18,424 [Worker-81: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src/main/resources to target/classes
 2025-09-13 11:11:18,435 [Worker-81: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory /Users/Ayush/Documents/SBMS/45-SpringAOP-Demo/src/test/resources
+2025-09-13 20:32:37,846 [Stop Help Server] INFO  org.eclipse.jetty.server.Server - Stopped oejs.Server@7aecac83{STOPPING}[12.0.16,sto=0]
+2025-09-13 20:32:37,868 [Stop Help Server] INFO  o.e.jetty.server.AbstractConnector - Stopped ServerConnector@4ba07897{HTTP/1.1, (http/1.1)}{127.0.0.1:0}
+2025-09-14 09:30:23,032 [Worker-6: Loading available Gradle versions] INFO  o.e.b.c.i.u.g.PublishedGradleVersions - Gradle version information cache is out-of-date. Trying to update.
+2025-09-14 09:32:21,715 [Worker-11: Import Getting Started Content] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: in.SpringLearning:46-SpringSecurity-Basic-App:0.0.1-SNAPSHOT @ /Users/Ayush/Documents/SBMS/46-SpringSecurity-Basic-App/pom.xml.
+2025-09-14 09:32:22,350 [Worker-11: Import Getting Started Content] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/springframework/boot/spring-boot-starter-security/3.5.5/spring-boot-starter-security-3.5.5.pom
+2025-09-14 09:32:22,360 [Worker-11: Import Getting Started Content] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/springframework/boot/spring-boot-starter-security/3.5.5/spring-boot-starter-security-3.5.5.pom
+2025-09-14 09:32:22,610 [Worker-11: Import Getting Started Content] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/springframework/security/spring-security-config/6.5.3/spring-security-config-6.5.3.pom
+2025-09-14 09:32:22,620 [Worker-11: Import Getting Started Content] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/springframework/security/spring-security-config/6.5.3/spring-security-config-6.5.3.pom
+2025-09-14 09:32:22,679 [Worker-11: Import Getting Started Content] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/springframework/security/spring-security-core/6.5.3/spring-security-core-6.5.3.pom
+2025-09-14 09:32:22,686 [Worker-11: Import Getting Started Content] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/springframework/security/spring-security-core/6.5.3/spring-security-core-6.5.3.pom
+2025-09-14 09:32:22,756 [Worker-11: Import Getting Started Content] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/springframework/security/spring-security-web/6.5.3/spring-security-web-6.5.3.pom
+2025-09-14 09:32:22,767 [Worker-11: Import Getting Started Content] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/springframework/security/spring-security-web/6.5.3/spring-security-web-6.5.3.pom
+2025-09-14 09:32:23,162 [Worker-11: Import Getting Started Content] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/springframework/security/spring-security-test/6.5.3/spring-security-test-6.5.3.pom
+2025-09-14 09:32:23,175 [Worker-11: Import Getting Started Content] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/springframework/security/spring-security-test/6.5.3/spring-security-test-6.5.3.pom
+2025-09-14 09:32:23,340 [Worker-11: Import Getting Started Content] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/springframework/boot/spring-boot-starter-security/3.5.5/spring-boot-starter-security-3.5.5.jar
+2025-09-14 09:32:23,344 [Worker-11: Import Getting Started Content] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/springframework/boot/spring-boot-starter-security/3.5.5/spring-boot-starter-security-3.5.5.jar
+2025-09-14 09:32:23,396 [BasicRepositoryConnector-repo.maven.apache.org-0-0] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/springframework/security/spring-security-config/6.5.3/spring-security-config-6.5.3.jar
+2025-09-14 09:32:23,483 [BasicRepositoryConnector-repo.maven.apache.org-0-1] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/springframework/security/spring-security-web/6.5.3/spring-security-web-6.5.3.jar
+2025-09-14 09:32:23,491 [BasicRepositoryConnector-repo.maven.apache.org-0-3] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/springframework/security/spring-security-core/6.5.3/spring-security-core-6.5.3.jar
+2025-09-14 09:32:23,519 [BasicRepositoryConnector-repo.maven.apache.org-0-2] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/springframework/security/spring-security-test/6.5.3/spring-security-test-6.5.3.jar
+2025-09-14 09:32:23,632 [BasicRepositoryConnector-repo.maven.apache.org-0-2] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/springframework/security/spring-security-test/6.5.3/spring-security-test-6.5.3.jar
+2025-09-14 09:32:23,688 [BasicRepositoryConnector-repo.maven.apache.org-0-3] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/springframework/security/spring-security-core/6.5.3/spring-security-core-6.5.3.jar
+2025-09-14 09:32:23,750 [BasicRepositoryConnector-repo.maven.apache.org-0-1] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/springframework/security/spring-security-web/6.5.3/spring-security-web-6.5.3.jar
+2025-09-14 09:32:23,756 [BasicRepositoryConnector-repo.maven.apache.org-0-0] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/springframework/security/spring-security-config/6.5.3/spring-security-config-6.5.3.jar
+2025-09-14 09:32:25,101 [Worker-11: Import Getting Started Content] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /46-SpringSecurity-Basic-App/src/main/java
+2025-09-14 09:32:25,104 [Worker-11: Import Getting Started Content] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /46-SpringSecurity-Basic-App/src/main/resources
+2025-09-14 09:32:25,127 [Worker-11: Import Getting Started Content] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /46-SpringSecurity-Basic-App/src/main/resources
+2025-09-14 09:32:25,139 [Worker-11: Import Getting Started Content] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /46-SpringSecurity-Basic-App/src/test/java
+2025-09-14 09:32:25,141 [Worker-11: Import Getting Started Content] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /46-SpringSecurity-Basic-App/src/test/resources
+2025-09-14 09:32:25,858 [Worker-3: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/springframework/boot/spring-boot-starter-security/3.5.5/spring-boot-starter-security-3.5.5-sources.jar
+2025-09-14 09:32:25,862 [Worker-3: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/springframework/boot/spring-boot-starter-security/3.5.5/spring-boot-starter-security-3.5.5-sources.jar
+2025-09-14 09:32:25,867 [Worker-3: Download sources and javadoc] INFO  o.e.m.j.internal.DownloadSourcesJob - Downloaded sources for org.springframework.boot:spring-boot-starter-security:3.5.5
+2025-09-14 09:32:26,041 [Worker-3: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/springframework/security/spring-security-config/6.5.3/spring-security-config-6.5.3-sources.jar
+2025-09-14 09:32:26,280 [Worker-3: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/springframework/security/spring-security-config/6.5.3/spring-security-config-6.5.3-sources.jar
+2025-09-14 09:32:26,283 [Worker-3: Download sources and javadoc] INFO  o.e.m.j.internal.DownloadSourcesJob - Downloaded sources for org.springframework.security:spring-security-config:6.5.3
+2025-09-14 09:32:26,437 [Worker-3: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/springframework/security/spring-security-web/6.5.3/spring-security-web-6.5.3-sources.jar
+2025-09-14 09:32:26,651 [Worker-3: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/springframework/security/spring-security-web/6.5.3/spring-security-web-6.5.3-sources.jar
+2025-09-14 09:32:26,654 [Worker-3: Download sources and javadoc] INFO  o.e.m.j.internal.DownloadSourcesJob - Downloaded sources for org.springframework.security:spring-security-web:6.5.3
+2025-09-14 09:32:26,841 [Worker-3: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/springframework/security/spring-security-test/6.5.3/spring-security-test-6.5.3-sources.jar
+2025-09-14 09:32:26,909 [Worker-3: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/springframework/security/spring-security-test/6.5.3/spring-security-test-6.5.3-sources.jar
+2025-09-14 09:32:26,913 [Worker-3: Download sources and javadoc] INFO  o.e.m.j.internal.DownloadSourcesJob - Downloaded sources for org.springframework.security:spring-security-test:6.5.3
+2025-09-14 09:32:27,087 [Worker-3: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/springframework/security/spring-security-core/6.5.3/spring-security-core-6.5.3-sources.jar
+2025-09-14 09:32:27,115 [Worker-11: Import Getting Started Content] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Imported and configured 1 project(s) in 7 sec
+2025-09-14 09:32:27,119 [Worker-11: Import Getting Started Content] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Update started
+2025-09-14 09:32:27,271 [Worker-3: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/springframework/security/spring-security-core/6.5.3/spring-security-core-6.5.3-sources.jar
+2025-09-14 09:32:27,275 [Worker-3: Download sources and javadoc] INFO  o.e.m.j.internal.DownloadSourcesJob - Downloaded sources for org.springframework.security:spring-security-core:6.5.3
+2025-09-14 09:32:27,866 [Worker-11: Import Getting Started Content] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: in.SpringLearning:46-SpringSecurity-Basic-App:0.0.1-SNAPSHOT @ /Users/Ayush/Documents/SBMS/46-SpringSecurity-Basic-App/pom.xml.
+2025-09-14 09:32:28,573 [Worker-11: Import Getting Started Content] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /46-SpringSecurity-Basic-App/src/main/java
+2025-09-14 09:32:28,575 [Worker-11: Import Getting Started Content] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /46-SpringSecurity-Basic-App/src/main/resources
+2025-09-14 09:32:28,575 [Worker-11: Import Getting Started Content] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /46-SpringSecurity-Basic-App/src/main/resources
+2025-09-14 09:32:28,576 [Worker-11: Import Getting Started Content] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /46-SpringSecurity-Basic-App/src/test/java
+2025-09-14 09:32:28,577 [Worker-11: Import Getting Started Content] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /46-SpringSecurity-Basic-App/src/test/resources
+2025-09-14 09:32:29,498 [Worker-11: Import Getting Started Content] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Update completed for 1 poms: local refresh takes 0.00 sec, refresh facades takes 1.00 sec, update config takes 0.00 sec 
+2025-09-14 09:32:32,253 [Worker-12: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src/main/resources to target/classes
+2025-09-14 09:32:32,323 [Worker-12: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src/main/resources to target/classes
+2025-09-14 09:32:32,331 [Worker-12: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory /Users/Ayush/Documents/SBMS/46-SpringSecurity-Basic-App/src/test/resources
+2025-09-14 09:34:30,788 [Worker-5: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src/main/resources to target/classes
+2025-09-14 09:34:30,797 [Worker-5: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src/main/resources to target/classes
+2025-09-14 09:34:30,802 [Worker-5: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory /Users/Ayush/Documents/SBMS/46-SpringSecurity-Basic-App/src/test/resources
+2025-09-14 09:34:45,797 [Worker-0: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src/main/resources to target/classes
+2025-09-14 09:34:45,817 [Worker-0: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src/main/resources to target/classes
+2025-09-14 09:34:45,823 [Worker-0: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory /Users/Ayush/Documents/SBMS/46-SpringSecurity-Basic-App/src/test/resources
+2025-09-14 09:35:48,349 [Worker-1: Updating Maven Project] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Update started
+2025-09-14 09:35:49,241 [Worker-1: Updating Maven Project] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: in.SpringLearning:46-SpringSecurity-Basic-App:0.0.1-SNAPSHOT @ /Users/Ayush/Documents/SBMS/46-SpringSecurity-Basic-App/pom.xml.
+2025-09-14 09:35:49,874 [Worker-1: Updating Maven Project] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /46-SpringSecurity-Basic-App/src/main/java
+2025-09-14 09:35:49,874 [Worker-1: Updating Maven Project] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /46-SpringSecurity-Basic-App/src/main/resources
+2025-09-14 09:35:49,875 [Worker-1: Updating Maven Project] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /46-SpringSecurity-Basic-App/src/main/resources
+2025-09-14 09:35:49,876 [Worker-1: Updating Maven Project] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /46-SpringSecurity-Basic-App/src/test/java
+2025-09-14 09:35:49,876 [Worker-1: Updating Maven Project] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /46-SpringSecurity-Basic-App/src/test/resources
+2025-09-14 09:35:50,160 [Worker-1: Updating Maven Project] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Update completed for 1 poms: local refresh takes 0.00 sec, refresh facades takes 1.00 sec, update config takes 0.00 sec 
+2025-09-14 09:35:50,604 [Worker-9: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src/main/resources to target/classes
+2025-09-14 09:35:50,640 [Worker-9: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src/main/resources to target/classes
+2025-09-14 09:35:50,646 [Worker-9: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory /Users/Ayush/Documents/SBMS/46-SpringSecurity-Basic-App/src/test/resources
+2025-09-14 09:36:19,523 [Worker-0: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src/main/resources to target/classes
+2025-09-14 09:36:19,594 [Worker-0: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src/main/resources to target/classes
+2025-09-14 09:36:19,604 [Worker-0: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory /Users/Ayush/Documents/SBMS/46-SpringSecurity-Basic-App/src/test/resources
+2025-09-14 09:37:24,598 [Worker-0: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src/main/resources to target/classes
+2025-09-14 09:37:24,611 [Worker-0: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src/main/resources to target/classes
+2025-09-14 09:37:24,622 [Worker-0: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory /Users/Ayush/Documents/SBMS/46-SpringSecurity-Basic-App/src/test/resources
+2025-09-14 09:38:30,995 [Worker-6: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src/main/resources to target/classes
+2025-09-14 09:38:31,015 [Worker-6: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src/main/resources to target/classes
+2025-09-14 09:38:31,019 [Worker-6: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory /Users/Ayush/Documents/SBMS/46-SpringSecurity-Basic-App/src/test/resources
+2025-09-14 09:38:41,252 [Worker-10: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src/main/resources to target/classes
+2025-09-14 09:38:41,258 [Worker-10: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src/main/resources to target/classes
+2025-09-14 09:38:41,263 [Worker-10: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory /Users/Ayush/Documents/SBMS/46-SpringSecurity-Basic-App/src/test/resources
+2025-09-14 09:39:25,303 [Worker-8: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src/main/resources to target/classes
+2025-09-14 09:39:25,316 [Worker-8: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src/main/resources to target/classes
+2025-09-14 09:39:25,320 [Worker-8: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory /Users/Ayush/Documents/SBMS/46-SpringSecurity-Basic-App/src/test/resources
+2025-09-14 09:39:41,155 [Worker-0: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src/main/resources to target/classes
+2025-09-14 09:39:41,162 [Worker-0: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src/main/resources to target/classes
+2025-09-14 09:39:41,166 [Worker-0: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory /Users/Ayush/Documents/SBMS/46-SpringSecurity-Basic-App/src/test/resources
+2025-09-14 09:42:47,626 [Worker-9: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src/main/resources to target/classes
+2025-09-14 09:42:47,629 [Worker-9: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src/main/resources to target/classes
+2025-09-14 09:42:47,632 [Worker-9: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory /Users/Ayush/Documents/SBMS/46-SpringSecurity-Basic-App/src/test/resources
+2025-09-14 09:42:54,605 [Worker-8: Updating Maven Project] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Update started
+2025-09-14 09:42:55,181 [Worker-8: Updating Maven Project] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: in.SpringLearning:46-SpringSecurity-Basic-App:0.0.1-SNAPSHOT @ /Users/Ayush/Documents/SBMS/46-SpringSecurity-Basic-App/pom.xml.
+2025-09-14 09:42:55,713 [Worker-8: Updating Maven Project] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /46-SpringSecurity-Basic-App/src/main/java
+2025-09-14 09:42:55,713 [Worker-8: Updating Maven Project] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /46-SpringSecurity-Basic-App/src/main/resources
+2025-09-14 09:42:55,714 [Worker-8: Updating Maven Project] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /46-SpringSecurity-Basic-App/src/main/resources
+2025-09-14 09:42:55,714 [Worker-8: Updating Maven Project] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /46-SpringSecurity-Basic-App/src/test/java
+2025-09-14 09:42:55,715 [Worker-8: Updating Maven Project] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /46-SpringSecurity-Basic-App/src/test/resources
+2025-09-14 09:42:55,940 [Worker-8: Updating Maven Project] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Update completed for 1 poms: local refresh takes 0.00 sec, refresh facades takes 1.00 sec, update config takes 0.00 sec 
+2025-09-14 09:42:56,446 [Worker-9: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src/main/resources to target/classes
+2025-09-14 09:42:56,489 [Worker-9: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src/main/resources to target/classes
+2025-09-14 09:42:56,496 [Worker-9: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory /Users/Ayush/Documents/SBMS/46-SpringSecurity-Basic-App/src/test/resources
+2025-09-14 09:49:52,356 [Worker-7: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src/main/resources to target/classes
+2025-09-14 09:49:52,365 [Worker-7: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src/main/resources to target/classes
+2025-09-14 09:49:52,370 [Worker-7: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory /Users/Ayush/Documents/SBMS/46-SpringSecurity-Basic-App/src/test/resources
+2025-09-14 09:53:55,427 [Worker-6: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src/main/resources to target/classes
+2025-09-14 09:53:55,538 [Worker-6: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src/main/resources to target/classes
+2025-09-14 09:53:55,542 [Worker-6: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory /Users/Ayush/Documents/SBMS/46-SpringSecurity-Basic-App/src/test/resources
+2025-09-14 09:57:05,065 [Worker-9: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src/main/resources to target/classes
+2025-09-14 09:57:05,075 [Worker-9: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src/main/resources to target/classes
+2025-09-14 09:57:05,080 [Worker-9: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory /Users/Ayush/Documents/SBMS/46-SpringSecurity-Basic-App/src/test/resources
+2025-09-14 09:58:28,176 [Worker-2: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src/main/resources to target/classes
+2025-09-14 09:58:28,183 [Worker-2: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src/main/resources to target/classes
+2025-09-14 09:58:28,186 [Worker-2: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory /Users/Ayush/Documents/SBMS/46-SpringSecurity-Basic-App/src/test/resources
+2025-09-14 09:59:32,365 [Worker-0: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src/main/resources to target/classes
+2025-09-14 09:59:32,372 [Worker-0: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src/main/resources to target/classes
+2025-09-14 09:59:32,376 [Worker-0: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory /Users/Ayush/Documents/SBMS/46-SpringSecurity-Basic-App/src/test/resources
+2025-09-14 09:59:39,107 [Worker-8: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src/main/resources to target/classes
+2025-09-14 09:59:39,112 [Worker-8: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src/main/resources to target/classes
+2025-09-14 09:59:39,117 [Worker-8: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory /Users/Ayush/Documents/SBMS/46-SpringSecurity-Basic-App/src/test/resources
+2025-09-14 09:59:41,227 [Worker-12: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src/main/resources to target/classes
+2025-09-14 09:59:41,232 [Worker-12: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src/main/resources to target/classes
+2025-09-14 09:59:41,236 [Worker-12: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory /Users/Ayush/Documents/SBMS/46-SpringSecurity-Basic-App/src/test/resources
+2025-09-14 10:03:16,016 [Worker-13: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src/main/resources to target/classes
+2025-09-14 10:03:16,024 [Worker-13: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src/main/resources to target/classes
+2025-09-14 10:03:16,029 [Worker-13: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory /Users/Ayush/Documents/SBMS/46-SpringSecurity-Basic-App/src/test/resources
+2025-09-14 10:04:27,807 [Worker-6: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src/main/resources to target/classes
+2025-09-14 10:04:27,815 [Worker-6: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src/main/resources to target/classes
+2025-09-14 10:04:27,821 [Worker-6: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory /Users/Ayush/Documents/SBMS/46-SpringSecurity-Basic-App/src/test/resources
+2025-09-14 10:04:58,110 [Worker-8: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src/main/resources to target/classes
+2025-09-14 10:04:58,118 [Worker-8: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src/main/resources to target/classes
+2025-09-14 10:04:58,120 [Worker-8: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory /Users/Ayush/Documents/SBMS/46-SpringSecurity-Basic-App/src/test/resources
+2025-09-14 10:05:05,457 [Worker-7: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src/main/resources to target/classes
+2025-09-14 10:05:05,462 [Worker-7: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src/main/resources to target/classes
+2025-09-14 10:05:05,466 [Worker-7: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory /Users/Ayush/Documents/SBMS/46-SpringSecurity-Basic-App/src/test/resources
+2025-09-14 10:06:29,661 [Worker-1: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src/main/resources to target/classes
+2025-09-14 10:06:29,669 [Worker-1: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src/main/resources to target/classes
+2025-09-14 10:06:29,672 [Worker-1: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory /Users/Ayush/Documents/SBMS/46-SpringSecurity-Basic-App/src/test/resources
+2025-09-14 10:06:37,214 [Worker-0: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src/main/resources to target/classes
+2025-09-14 10:06:37,225 [Worker-0: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src/main/resources to target/classes
+2025-09-14 10:06:37,228 [Worker-0: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory /Users/Ayush/Documents/SBMS/46-SpringSecurity-Basic-App/src/test/resources
+2025-09-14 10:06:54,369 [Worker-11: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src/main/resources to target/classes
+2025-09-14 10:06:54,388 [Worker-11: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src/main/resources to target/classes
+2025-09-14 10:06:54,393 [Worker-11: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory /Users/Ayush/Documents/SBMS/46-SpringSecurity-Basic-App/src/test/resources
+2025-09-14 10:07:11,730 [Worker-10: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src/main/resources to target/classes
+2025-09-14 10:07:11,739 [Worker-10: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src/main/resources to target/classes
+2025-09-14 10:07:11,742 [Worker-10: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory /Users/Ayush/Documents/SBMS/46-SpringSecurity-Basic-App/src/test/resources
+2025-09-14 10:07:18,110 [Worker-10: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src/main/resources to target/classes
+2025-09-14 10:07:18,114 [Worker-10: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src/main/resources to target/classes
+2025-09-14 10:07:18,119 [Worker-10: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory /Users/Ayush/Documents/SBMS/46-SpringSecurity-Basic-App/src/test/resources
+2025-09-14 10:08:33,830 [Worker-0: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src/main/resources to target/classes
+2025-09-14 10:08:33,836 [Worker-0: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src/main/resources to target/classes
+2025-09-14 10:08:33,842 [Worker-0: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory /Users/Ayush/Documents/SBMS/46-SpringSecurity-Basic-App/src/test/resources
+2025-09-14 10:09:43,596 [Start Help Server] INFO  org.eclipse.jetty.server.Server - jetty-12.0.16; built: 2024-12-09T21:02:54.535Z; git: c3f88bafb4e393f23204dc14dc57b042e84debc7; jvm 21.0.6+7-LTS
+2025-09-14 10:09:43,727 [Start Help Server] INFO  o.e.j.server.handler.ContextHandler - Started oeje8n.ContextHandler$CoreContextHandler@6c83d2d2{/help,/help,b=null,a=AVAILABLE,h=oeje8n.ContextHandler$CoreContextHandler$CoreToNestedHandler@65f4ab75{STARTED}}
+2025-09-14 10:09:43,728 [Start Help Server] INFO  o.e.j.s.DefaultSessionIdManager - Session workerName=node0
+2025-09-14 10:09:43,754 [Start Help Server] INFO  o.e.jetty.server.AbstractConnector - Started ServerConnector@42a16b6f{HTTP/1.1, (http/1.1)}{127.0.0.1:50320}
+2025-09-14 10:09:43,782 [Start Help Server] INFO  org.eclipse.jetty.server.Server - Started oejs.Server@568f274c{STARTING}[12.0.16,sto=0] @2442647ms
+2025-09-14 10:10:14,229 [Worker-14: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src/main/resources to target/classes
+2025-09-14 10:10:14,243 [Worker-14: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src/main/resources to target/classes
+2025-09-14 10:10:14,246 [Worker-14: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory /Users/Ayush/Documents/SBMS/46-SpringSecurity-Basic-App/src/test/resources
+2025-09-14 10:22:05,859 [Worker-0: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src/main/resources to target/classes
+2025-09-14 10:22:06,013 [Worker-0: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src/main/resources to target/classes
+2025-09-14 10:22:06,019 [Worker-0: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory /Users/Ayush/Documents/SBMS/46-SpringSecurity-Basic-App/src/test/resources
+2025-09-14 10:23:40,194 [Worker-15: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src/main/resources to target/classes
+2025-09-14 10:23:40,269 [Worker-15: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src/main/resources to target/classes
+2025-09-14 10:23:40,273 [Worker-15: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory /Users/Ayush/Documents/SBMS/46-SpringSecurity-Basic-App/src/test/resources
+2025-09-14 10:25:29,848 [Worker-10: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src/main/resources to target/classes
+2025-09-14 10:25:29,918 [Worker-10: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src/main/resources to target/classes
+2025-09-14 10:25:29,922 [Worker-10: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory /Users/Ayush/Documents/SBMS/46-SpringSecurity-Basic-App/src/test/resources
+2025-09-14 10:26:03,905 [Worker-5: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src/main/resources to target/classes
+2025-09-14 10:26:03,934 [Worker-5: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src/main/resources to target/classes
+2025-09-14 10:26:03,942 [Worker-5: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory /Users/Ayush/Documents/SBMS/46-SpringSecurity-Basic-App/src/test/resources
+2025-09-14 10:27:30,229 [Worker-10: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src/main/resources to target/classes
+2025-09-14 10:27:30,306 [Worker-10: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src/main/resources to target/classes
+2025-09-14 10:27:30,310 [Worker-10: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory /Users/Ayush/Documents/SBMS/46-SpringSecurity-Basic-App/src/test/resources
+2025-09-14 10:43:17,354 [Worker-3: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src/main/resources to target/classes
+2025-09-14 10:43:17,456 [Worker-3: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src/main/resources to target/classes
+2025-09-14 10:43:17,460 [Worker-3: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory /Users/Ayush/Documents/SBMS/46-SpringSecurity-Basic-App/src/test/resources
+2025-09-14 10:43:33,462 [Worker-2: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src/main/resources to target/classes
+2025-09-14 10:43:33,472 [Worker-2: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src/main/resources to target/classes
+2025-09-14 10:43:33,481 [Worker-2: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory /Users/Ayush/Documents/SBMS/46-SpringSecurity-Basic-App/src/test/resources
+2025-09-14 10:44:07,492 [Worker-5: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src/main/resources to target/classes
+2025-09-14 10:44:07,541 [Worker-5: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src/main/resources to target/classes
+2025-09-14 10:44:07,543 [Worker-5: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory /Users/Ayush/Documents/SBMS/46-SpringSecurity-Basic-App/src/test/resources
+2025-09-14 10:44:19,595 [Worker-10: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src/main/resources to target/classes
+2025-09-14 10:44:19,814 [Worker-10: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src/main/resources to target/classes
+2025-09-14 10:44:19,818 [Worker-10: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory /Users/Ayush/Documents/SBMS/46-SpringSecurity-Basic-App/src/test/resources
+2025-09-14 10:44:37,415 [Worker-1: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src/main/resources to target/classes
+2025-09-14 10:44:37,472 [Worker-1: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src/main/resources to target/classes
+2025-09-14 10:44:37,476 [Worker-1: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory /Users/Ayush/Documents/SBMS/46-SpringSecurity-Basic-App/src/test/resources
+2025-09-14 10:44:48,679 [Worker-5: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src/main/resources to target/classes
+2025-09-14 10:44:48,730 [Worker-5: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src/main/resources to target/classes
+2025-09-14 10:44:48,733 [Worker-5: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory /Users/Ayush/Documents/SBMS/46-SpringSecurity-Basic-App/src/test/resources
+2025-09-14 10:45:03,143 [Worker-17: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src/main/resources to target/classes
+2025-09-14 10:45:03,169 [Worker-17: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src/main/resources to target/classes
+2025-09-14 10:45:03,173 [Worker-17: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory /Users/Ayush/Documents/SBMS/46-SpringSecurity-Basic-App/src/test/resources
+2025-09-14 10:45:44,653 [Worker-16: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src/main/resources to target/classes
+2025-09-14 10:45:44,743 [Worker-16: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src/main/resources to target/classes
+2025-09-14 10:45:44,753 [Worker-16: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory /Users/Ayush/Documents/SBMS/46-SpringSecurity-Basic-App/src/test/resources
+2025-09-14 10:47:10,983 [Worker-6: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src/main/resources to target/classes
+2025-09-14 10:47:11,022 [Worker-6: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src/main/resources to target/classes
+2025-09-14 10:47:11,030 [Worker-6: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory /Users/Ayush/Documents/SBMS/46-SpringSecurity-Basic-App/src/test/resources
+2025-09-14 10:47:18,397 [Worker-7: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src/main/resources to target/classes
+2025-09-14 10:47:18,402 [Worker-7: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src/main/resources to target/classes
+2025-09-14 10:47:18,409 [Worker-7: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory /Users/Ayush/Documents/SBMS/46-SpringSecurity-Basic-App/src/test/resources
+2025-09-14 10:47:23,201 [Worker-3: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src/main/resources to target/classes
+2025-09-14 10:47:23,220 [Worker-3: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src/main/resources to target/classes
+2025-09-14 10:47:23,227 [Worker-3: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory /Users/Ayush/Documents/SBMS/46-SpringSecurity-Basic-App/src/test/resources
+2025-09-14 10:47:30,073 [Worker-7: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src/main/resources to target/classes
+2025-09-14 10:47:30,080 [Worker-7: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src/main/resources to target/classes
+2025-09-14 10:47:30,083 [Worker-7: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory /Users/Ayush/Documents/SBMS/46-SpringSecurity-Basic-App/src/test/resources
+2025-09-14 10:47:37,956 [Worker-1: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src/main/resources to target/classes
+2025-09-14 10:47:37,964 [Worker-1: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src/main/resources to target/classes
+2025-09-14 10:47:37,967 [Worker-1: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory /Users/Ayush/Documents/SBMS/46-SpringSecurity-Basic-App/src/test/resources
+2025-09-14 10:50:00,496 [Worker-5: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src/main/resources to target/classes
+2025-09-14 10:50:00,504 [Worker-5: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src/main/resources to target/classes
+2025-09-14 10:50:00,507 [Worker-5: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory /Users/Ayush/Documents/SBMS/46-SpringSecurity-Basic-App/src/test/resources
+2025-09-14 10:51:14,439 [Worker-3: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src/main/resources to target/classes
+2025-09-14 10:51:14,459 [Worker-3: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src/main/resources to target/classes
+2025-09-14 10:51:14,467 [Worker-3: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory /Users/Ayush/Documents/SBMS/46-SpringSecurity-Basic-App/src/test/resources
+2025-09-14 10:56:20,503 [Worker-3: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src/main/resources to target/classes
+2025-09-14 10:56:20,528 [Worker-3: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src/main/resources to target/classes
+2025-09-14 10:56:20,531 [Worker-3: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory /Users/Ayush/Documents/SBMS/46-SpringSecurity-Basic-App/src/test/resources
+2025-09-14 10:56:25,143 [Worker-16: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src/main/resources to target/classes
+2025-09-14 10:56:25,156 [Worker-16: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src/main/resources to target/classes
+2025-09-14 10:56:25,160 [Worker-16: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory /Users/Ayush/Documents/SBMS/46-SpringSecurity-Basic-App/src/test/resources
+2025-09-14 10:57:38,312 [Worker-1: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src/main/resources to target/classes
+2025-09-14 10:57:38,334 [Worker-1: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src/main/resources to target/classes
+2025-09-14 10:57:38,338 [Worker-1: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory /Users/Ayush/Documents/SBMS/46-SpringSecurity-Basic-App/src/test/resources
+2025-09-14 10:58:05,092 [Worker-16: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src/main/resources to target/classes
+2025-09-14 10:58:05,112 [Worker-16: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src/main/resources to target/classes
+2025-09-14 10:58:05,123 [Worker-16: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory /Users/Ayush/Documents/SBMS/46-SpringSecurity-Basic-App/src/test/resources
+2025-09-14 10:58:30,137 [Worker-19: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src/main/resources to target/classes
+2025-09-14 10:58:30,143 [Worker-19: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src/main/resources to target/classes
+2025-09-14 10:58:30,146 [Worker-19: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory /Users/Ayush/Documents/SBMS/46-SpringSecurity-Basic-App/src/test/resources
+2025-09-14 10:59:14,321 [Worker-19: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src/main/resources to target/classes
+2025-09-14 10:59:14,329 [Worker-19: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src/main/resources to target/classes
+2025-09-14 10:59:14,331 [Worker-19: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory /Users/Ayush/Documents/SBMS/46-SpringSecurity-Basic-App/src/test/resources
+2025-09-14 11:01:05,583 [Worker-17: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src/main/resources to target/classes
+2025-09-14 11:01:05,607 [Worker-17: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src/main/resources to target/classes
+2025-09-14 11:01:05,611 [Worker-17: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory /Users/Ayush/Documents/SBMS/46-SpringSecurity-Basic-App/src/test/resources
+2025-09-14 11:01:36,338 [Worker-8: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src/main/resources to target/classes
+2025-09-14 11:01:36,343 [Worker-8: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src/main/resources to target/classes
+2025-09-14 11:01:36,346 [Worker-8: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory /Users/Ayush/Documents/SBMS/46-SpringSecurity-Basic-App/src/test/resources
+2025-09-14 11:03:30,165 [Worker-8: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src/main/resources to target/classes
+2025-09-14 11:03:30,182 [Worker-8: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src/main/resources to target/classes
+2025-09-14 11:03:30,189 [Worker-8: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory /Users/Ayush/Documents/SBMS/46-SpringSecurity-Basic-App/src/test/resources
+2025-09-14 11:04:11,908 [Worker-8: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src/main/resources to target/classes
+2025-09-14 11:04:11,923 [Worker-8: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src/main/resources to target/classes
+2025-09-14 11:04:11,926 [Worker-8: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory /Users/Ayush/Documents/SBMS/46-SpringSecurity-Basic-App/src/test/resources
+2025-09-14 11:04:20,176 [Worker-23: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src/main/resources to target/classes
+2025-09-14 11:04:20,212 [Worker-23: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src/main/resources to target/classes
+2025-09-14 11:04:20,217 [Worker-23: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory /Users/Ayush/Documents/SBMS/46-SpringSecurity-Basic-App/src/test/resources
+2025-09-14 11:05:10,073 [Worker-23: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src/main/resources to target/classes
+2025-09-14 11:05:10,081 [Worker-23: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src/main/resources to target/classes
+2025-09-14 11:05:10,084 [Worker-23: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory /Users/Ayush/Documents/SBMS/46-SpringSecurity-Basic-App/src/test/resources
+2025-09-14 11:07:03,590 [Worker-24: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src/main/resources to target/classes
+2025-09-14 11:07:03,653 [Worker-24: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src/main/resources to target/classes
+2025-09-14 11:07:03,655 [Worker-24: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory /Users/Ayush/Documents/SBMS/46-SpringSecurity-Basic-App/src/test/resources
+2025-09-14 11:08:53,041 [Worker-24: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src/main/resources to target/classes
+2025-09-14 11:08:53,070 [Worker-24: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src/main/resources to target/classes
+2025-09-14 11:08:53,076 [Worker-24: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory /Users/Ayush/Documents/SBMS/46-SpringSecurity-Basic-App/src/test/resources
+2025-09-14 11:09:41,878 [Worker-26: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src/main/resources to target/classes
+2025-09-14 11:09:41,953 [Worker-26: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src/main/resources to target/classes
+2025-09-14 11:09:41,955 [Worker-26: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory /Users/Ayush/Documents/SBMS/46-SpringSecurity-Basic-App/src/test/resources
+2025-09-14 11:09:56,517 [Worker-22: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src/main/resources to target/classes
+2025-09-14 11:09:56,561 [Worker-22: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src/main/resources to target/classes
+2025-09-14 11:09:56,564 [Worker-22: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory /Users/Ayush/Documents/SBMS/46-SpringSecurity-Basic-App/src/test/resources
+2025-09-14 11:55:56,367 [Worker-26: Import Getting Started Content] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: in.SpringLearning:47-SpringSecurity-CosumerApp:0.0.1-SNAPSHOT @ /Users/Ayush/Documents/SBMS/47-SpringSecurity-CosumerApp/pom.xml.
+2025-09-14 11:55:57,311 [Worker-26: Import Getting Started Content] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /47-SpringSecurity-CosumerApp/src/main/java
+2025-09-14 11:55:57,311 [Worker-26: Import Getting Started Content] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /47-SpringSecurity-CosumerApp/src/main/resources
+2025-09-14 11:55:57,316 [Worker-26: Import Getting Started Content] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /47-SpringSecurity-CosumerApp/src/main/resources
+2025-09-14 11:55:57,321 [Worker-26: Import Getting Started Content] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /47-SpringSecurity-CosumerApp/src/test/java
+2025-09-14 11:55:57,321 [Worker-26: Import Getting Started Content] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /47-SpringSecurity-CosumerApp/src/test/resources
+2025-09-14 11:55:57,596 [Worker-26: Import Getting Started Content] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Imported and configured 1 project(s) in 2 sec
+2025-09-14 11:55:57,597 [Worker-26: Import Getting Started Content] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Update started
+2025-09-14 11:55:58,098 [Worker-26: Import Getting Started Content] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: in.SpringLearning:47-SpringSecurity-CosumerApp:0.0.1-SNAPSHOT @ /Users/Ayush/Documents/SBMS/47-SpringSecurity-CosumerApp/pom.xml.
+2025-09-14 11:55:58,667 [Worker-26: Import Getting Started Content] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /47-SpringSecurity-CosumerApp/src/main/java
+2025-09-14 11:55:58,669 [Worker-26: Import Getting Started Content] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /47-SpringSecurity-CosumerApp/src/main/resources
+2025-09-14 11:55:58,669 [Worker-26: Import Getting Started Content] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /47-SpringSecurity-CosumerApp/src/main/resources
+2025-09-14 11:55:58,669 [Worker-26: Import Getting Started Content] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /47-SpringSecurity-CosumerApp/src/test/java
+2025-09-14 11:55:58,670 [Worker-26: Import Getting Started Content] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /47-SpringSecurity-CosumerApp/src/test/resources
+2025-09-14 11:55:58,982 [Worker-26: Import Getting Started Content] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Update completed for 1 poms: local refresh takes 0.00 sec, refresh facades takes 0.00 sec, update config takes 0.00 sec 
+2025-09-14 11:55:59,733 [Worker-21: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src/main/resources to target/classes
+2025-09-14 11:55:59,784 [Worker-21: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src/main/resources to target/classes
+2025-09-14 11:55:59,793 [Worker-21: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory /Users/Ayush/Documents/SBMS/47-SpringSecurity-CosumerApp/src/test/resources
+2025-09-14 16:07:06,827 [Worker-29: Building] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: in.SpringLearning:47-SpringSecurity-CosumerApp:0.0.1-SNAPSHOT @ /Users/Ayush/Documents/SBMS/47-SpringSecurity-ConsumerApp/pom.xml.
+2025-09-14 16:07:07,818 [Worker-29: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src/main/resources to target/classes
+2025-09-14 16:07:07,868 [Worker-29: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src/main/resources to target/classes
+2025-09-14 16:07:07,875 [Worker-29: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory /Users/Ayush/Documents/SBMS/47-SpringSecurity-ConsumerApp/src/test/resources
+2025-09-14 16:07:08,151 [Worker-27: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src/main/resources to target/classes
+2025-09-14 16:07:08,153 [Worker-27: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src/main/resources to target/classes
+2025-09-14 16:07:08,164 [Worker-27: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory /Users/Ayush/Documents/SBMS/47-SpringSecurity-ConsumerApp/src/test/resources
+2025-09-14 16:07:52,815 [Worker-32: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src/main/resources to target/classes
+2025-09-14 16:07:52,980 [Worker-32: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src/main/resources to target/classes
+2025-09-14 16:07:52,983 [Worker-32: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory /Users/Ayush/Documents/SBMS/47-SpringSecurity-ConsumerApp/src/test/resources
+2025-09-14 16:10:06,312 [Worker-33: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src/main/resources to target/classes
+2025-09-14 16:10:06,407 [Worker-33: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src/main/resources to target/classes
+2025-09-14 16:10:06,410 [Worker-33: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory /Users/Ayush/Documents/SBMS/47-SpringSecurity-ConsumerApp/src/test/resources
+2025-09-14 16:15:21,183 [Worker-30: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src/main/resources to target/classes
+2025-09-14 16:15:21,222 [Worker-30: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src/main/resources to target/classes
+2025-09-14 16:15:21,225 [Worker-30: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory /Users/Ayush/Documents/SBMS/47-SpringSecurity-ConsumerApp/src/test/resources
+2025-09-14 16:16:47,197 [Worker-31: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src/main/resources to target/classes
+2025-09-14 16:16:47,210 [Worker-31: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src/main/resources to target/classes
+2025-09-14 16:16:47,214 [Worker-31: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory /Users/Ayush/Documents/SBMS/47-SpringSecurity-ConsumerApp/src/test/resources
+2025-09-14 16:17:37,883 [Worker-32: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src/main/resources to target/classes
+2025-09-14 16:17:38,198 [Worker-32: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src/main/resources to target/classes
+2025-09-14 16:17:38,214 [Worker-32: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory /Users/Ayush/Documents/SBMS/47-SpringSecurity-ConsumerApp/src/test/resources
+2025-09-14 16:18:56,231 [Worker-30: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src/main/resources to target/classes
+2025-09-14 16:18:56,358 [Worker-30: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src/main/resources to target/classes
+2025-09-14 16:18:56,371 [Worker-30: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory /Users/Ayush/Documents/SBMS/47-SpringSecurity-ConsumerApp/src/test/resources
+2025-09-14 16:19:11,852 [Worker-35: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src/main/resources to target/classes
+2025-09-14 16:19:11,864 [Worker-35: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src/main/resources to target/classes
+2025-09-14 16:19:11,868 [Worker-35: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory /Users/Ayush/Documents/SBMS/47-SpringSecurity-ConsumerApp/src/test/resources
+2025-09-14 16:19:31,042 [Worker-30: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src/main/resources to target/classes
+2025-09-14 16:19:31,196 [Worker-30: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src/main/resources to target/classes
+2025-09-14 16:19:31,199 [Worker-30: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory /Users/Ayush/Documents/SBMS/47-SpringSecurity-ConsumerApp/src/test/resources
+2025-09-14 16:20:37,555 [Worker-33: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src/main/resources to target/classes
+2025-09-14 16:20:37,599 [Worker-33: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src/main/resources to target/classes
+2025-09-14 16:20:37,602 [Worker-33: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory /Users/Ayush/Documents/SBMS/47-SpringSecurity-ConsumerApp/src/test/resources
+2025-09-14 16:21:47,246 [Worker-34: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src/main/resources to target/classes
+2025-09-14 16:21:47,321 [Worker-34: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src/main/resources to target/classes
+2025-09-14 16:21:47,323 [Worker-34: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory /Users/Ayush/Documents/SBMS/47-SpringSecurity-ConsumerApp/src/test/resources
+2025-09-14 16:22:43,000 [Worker-34: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src/main/resources to target/classes
+2025-09-14 16:22:43,072 [Worker-34: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src/main/resources to target/classes
+2025-09-14 16:22:43,076 [Worker-34: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory /Users/Ayush/Documents/SBMS/47-SpringSecurity-ConsumerApp/src/test/resources
+2025-09-14 16:23:17,198 [Worker-34: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src/main/resources to target/classes
+2025-09-14 16:23:17,339 [Worker-34: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src/main/resources to target/classes
+2025-09-14 16:23:17,347 [Worker-34: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory /Users/Ayush/Documents/SBMS/47-SpringSecurity-ConsumerApp/src/test/resources
+2025-09-14 16:26:47,832 [Worker-31: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src/main/resources to target/classes
+2025-09-14 16:26:47,906 [Worker-31: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src/main/resources to target/classes
+2025-09-14 16:26:47,911 [Worker-31: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory /Users/Ayush/Documents/SBMS/47-SpringSecurity-ConsumerApp/src/test/resources
+2025-09-14 16:27:42,306 [Worker-36: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src/main/resources to target/classes
+2025-09-14 16:27:42,411 [Worker-36: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src/main/resources to target/classes
+2025-09-14 16:27:42,415 [Worker-36: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory /Users/Ayush/Documents/SBMS/47-SpringSecurity-ConsumerApp/src/test/resources
+2025-09-14 16:27:53,357 [Worker-8: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src/main/resources to target/classes
+2025-09-14 16:27:53,364 [Worker-8: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src/main/resources to target/classes
+2025-09-14 16:27:53,380 [Worker-8: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory /Users/Ayush/Documents/SBMS/47-SpringSecurity-ConsumerApp/src/test/resources
+2025-09-14 16:28:15,317 [Worker-37: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src/main/resources to target/classes
+2025-09-14 16:28:15,348 [Worker-37: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src/main/resources to target/classes
+2025-09-14 16:28:15,351 [Worker-37: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory /Users/Ayush/Documents/SBMS/47-SpringSecurity-ConsumerApp/src/test/resources
+2025-09-14 16:28:24,774 [Worker-33: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src/main/resources to target/classes
+2025-09-14 16:28:24,812 [Worker-33: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src/main/resources to target/classes
+2025-09-14 16:28:24,817 [Worker-33: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory /Users/Ayush/Documents/SBMS/47-SpringSecurity-ConsumerApp/src/test/resources
+2025-09-14 16:29:48,106 [Worker-32: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src/main/resources to target/classes
+2025-09-14 16:29:48,145 [Worker-32: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src/main/resources to target/classes
+2025-09-14 16:29:48,152 [Worker-32: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory /Users/Ayush/Documents/SBMS/47-SpringSecurity-ConsumerApp/src/test/resources
+2025-09-14 16:30:15,747 [Worker-33: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src/main/resources to target/classes
+2025-09-14 16:30:15,760 [Worker-33: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src/main/resources to target/classes
+2025-09-14 16:30:15,763 [Worker-33: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory /Users/Ayush/Documents/SBMS/47-SpringSecurity-ConsumerApp/src/test/resources
+2025-09-14 16:30:57,332 [Worker-35: Updating Maven Project] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Update started
+2025-09-14 16:30:57,747 [Worker-35: Updating Maven Project] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: in.SpringLearning:47-SpringSecurity-CosumerApp:0.0.1-SNAPSHOT @ /Users/Ayush/Documents/SBMS/47-SpringSecurity-ConsumerApp/pom.xml.
+2025-09-14 16:30:58,159 [Worker-35: Updating Maven Project] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /47-SpringSecurity-ConsumerApp/src/main/java
+2025-09-14 16:30:58,159 [Worker-35: Updating Maven Project] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /47-SpringSecurity-ConsumerApp/src/main/resources
+2025-09-14 16:30:58,160 [Worker-35: Updating Maven Project] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /47-SpringSecurity-ConsumerApp/src/main/resources
+2025-09-14 16:30:58,160 [Worker-35: Updating Maven Project] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /47-SpringSecurity-ConsumerApp/src/test/java
+2025-09-14 16:30:58,160 [Worker-35: Updating Maven Project] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /47-SpringSecurity-ConsumerApp/src/test/resources
+2025-09-14 16:30:58,355 [Worker-35: Updating Maven Project] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Update completed for 1 poms: local refresh takes 0.00 sec, refresh facades takes 0.00 sec, update config takes 0.00 sec 
+2025-09-14 16:30:58,695 [Worker-27: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src/main/resources to target/classes
+2025-09-14 16:30:58,733 [Worker-27: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src/main/resources to target/classes
+2025-09-14 16:30:58,739 [Worker-27: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory /Users/Ayush/Documents/SBMS/47-SpringSecurity-ConsumerApp/src/test/resources
+2025-09-14 16:32:55,961 [Stop Help Server] INFO  org.eclipse.jetty.server.Server - Stopped oejs.Server@568f274c{STOPPING}[12.0.16,sto=0]
+2025-09-14 16:32:55,970 [Stop Help Server] INFO  o.e.jetty.server.AbstractConnector - Stopped ServerConnector@42a16b6f{HTTP/1.1, (http/1.1)}{127.0.0.1:0}
+2025-09-14 16:33:57,079 [Worker-6: Loading available Gradle versions] INFO  o.e.b.c.i.u.g.PublishedGradleVersions - Gradle version information cache is up-to-date. Trying to read.
+2025-09-14 16:36:41,206 [Worker-2: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src/main/resources to target/classes
+2025-09-14 16:36:41,325 [Worker-2: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src/main/resources to target/classes
+2025-09-14 16:36:41,335 [Worker-2: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory /Users/Ayush/Documents/SBMS/47-SpringSecurity-ConsumerApp/src/test/resources
+2025-09-14 16:37:05,575 [Worker-10: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src/main/resources to target/classes
+2025-09-14 16:37:05,586 [Worker-10: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src/main/resources to target/classes
+2025-09-14 16:37:05,590 [Worker-10: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory /Users/Ayush/Documents/SBMS/47-SpringSecurity-ConsumerApp/src/test/resources
+2025-09-14 16:38:51,828 [Worker-3: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src/main/resources to target/classes
+2025-09-14 16:38:51,853 [Worker-3: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src/main/resources to target/classes
+2025-09-14 16:38:51,858 [Worker-3: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory /Users/Ayush/Documents/SBMS/47-SpringSecurity-ConsumerApp/src/test/resources
+2025-09-14 16:40:24,103 [Worker-19: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src/main/resources to target/classes
+2025-09-14 16:40:24,111 [Worker-19: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src/main/resources to target/classes
+2025-09-14 16:40:24,115 [Worker-19: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory /Users/Ayush/Documents/SBMS/47-SpringSecurity-ConsumerApp/src/test/resources
+2025-09-14 16:42:40,982 [Worker-5: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src/main/resources to target/classes
+2025-09-14 16:42:41,067 [Worker-5: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src/main/resources to target/classes
+2025-09-14 16:42:41,071 [Worker-5: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory /Users/Ayush/Documents/SBMS/47-SpringSecurity-ConsumerApp/src/test/resources
+2025-09-14 17:00:55,129 [Worker-17: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src/main/resources to target/classes
+2025-09-14 17:00:55,195 [Worker-17: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src/main/resources to target/classes
+2025-09-14 17:00:55,200 [Worker-17: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory /Users/Ayush/Documents/SBMS/47-SpringSecurity-ConsumerApp/src/test/resources
+2025-09-14 17:06:30,452 [Worker-12: Building] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: in.SpringLearning:47-SpringSecurity-CosumerApp:0.0.1-SNAPSHOT @ /Users/Ayush/Documents/SBMS/47-SpringSecurity-ConsumerApp/pom.xml.
+2025-09-14 17:06:31,479 [Worker-12: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src/main/resources to target/classes
+2025-09-14 17:06:31,479 [Worker-12: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src/main/resources to target/classes
+2025-09-14 17:06:31,485 [Worker-12: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory /Users/Ayush/Documents/SBMS/47-SpringSecurity-ConsumerApp/src/test/resources
+2025-09-14 17:06:33,561 [Worker-22: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src/main/resources to target/classes
+2025-09-14 17:06:33,805 [Worker-22: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src/main/resources to target/classes
+2025-09-14 17:06:33,816 [Worker-22: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory /Users/Ayush/Documents/SBMS/47-SpringSecurity-ConsumerApp/src/test/resources
+2025-09-14 17:06:54,411 [Worker-8: Updating Maven Project] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Update started
+2025-09-14 17:06:54,846 [Worker-8: Updating Maven Project] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: in.SpringLearning:47-SpringSecurity-CosumerApp:0.0.1-SNAPSHOT @ /Users/Ayush/Documents/SBMS/47-SpringSecurity-ConsumerApp/pom.xml.
+2025-09-14 17:06:55,598 [Worker-8: Updating Maven Project] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /47-SpringSecurity-ConsumerApp/src/main/java
+2025-09-14 17:06:55,601 [Worker-8: Updating Maven Project] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /47-SpringSecurity-ConsumerApp/src/main/resources
+2025-09-14 17:06:55,602 [Worker-8: Updating Maven Project] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /47-SpringSecurity-ConsumerApp/src/main/resources
+2025-09-14 17:06:55,603 [Worker-8: Updating Maven Project] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /47-SpringSecurity-ConsumerApp/src/test/java
+2025-09-14 17:06:55,604 [Worker-8: Updating Maven Project] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /47-SpringSecurity-ConsumerApp/src/test/resources
+2025-09-14 17:06:55,895 [Worker-8: Updating Maven Project] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Update completed for 1 poms: local refresh takes 0.00 sec, refresh facades takes 1.00 sec, update config takes 0.00 sec 
+2025-09-14 17:06:56,306 [Worker-8: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src/main/resources to target/classes
+2025-09-14 17:06:56,346 [Worker-8: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src/main/resources to target/classes
+2025-09-14 17:06:56,355 [Worker-8: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory /Users/Ayush/Documents/SBMS/47-SpringSecurity-ConsumerApp/src/test/resources
+2025-09-14 17:07:27,420 [Worker-7: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src/main/resources to target/classes
+2025-09-14 17:07:27,427 [Worker-7: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src/main/resources to target/classes
+2025-09-14 17:07:27,431 [Worker-7: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory /Users/Ayush/Documents/SBMS/47-SpringSecurity-ConsumerApp/src/test/resources
+2025-09-14 17:09:30,273 [Worker-20: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src/main/resources to target/classes
+2025-09-14 17:09:30,281 [Worker-20: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src/main/resources to target/classes
+2025-09-14 17:09:30,287 [Worker-20: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory /Users/Ayush/Documents/SBMS/47-SpringSecurity-ConsumerApp/src/test/resources
+2025-09-14 17:09:54,786 [Worker-20: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src/main/resources to target/classes
+2025-09-14 17:09:54,797 [Worker-20: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src/main/resources to target/classes
+2025-09-14 17:09:54,801 [Worker-20: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory /Users/Ayush/Documents/SBMS/47-SpringSecurity-ConsumerApp/src/test/resources
+2025-09-14 17:11:40,547 [Worker-0: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src/main/resources to target/classes
+2025-09-14 17:11:40,578 [Worker-0: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src/main/resources to target/classes
+2025-09-14 17:11:40,581 [Worker-0: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory /Users/Ayush/Documents/SBMS/47-SpringSecurity-ConsumerApp/src/test/resources
+2025-09-14 17:11:44,491 [Worker-25: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src/main/resources to target/classes
+2025-09-14 17:11:44,540 [Worker-25: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src/main/resources to target/classes
+2025-09-14 17:11:44,546 [Worker-25: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory /Users/Ayush/Documents/SBMS/47-SpringSecurity-ConsumerApp/src/test/resources
+2025-09-14 17:12:16,327 [Worker-18: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src/main/resources to target/classes
+2025-09-14 17:12:16,339 [Worker-18: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src/main/resources to target/classes
+2025-09-14 17:12:16,343 [Worker-18: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory /Users/Ayush/Documents/SBMS/47-SpringSecurity-ConsumerApp/src/test/resources
+2025-09-14 17:13:46,159 [Worker-20: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src/main/resources to target/classes
+2025-09-14 17:13:46,324 [Worker-20: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src/main/resources to target/classes
+2025-09-14 17:13:46,328 [Worker-20: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory /Users/Ayush/Documents/SBMS/47-SpringSecurity-ConsumerApp/src/test/resources
+2025-09-14 17:13:59,570 [Worker-11: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src/main/resources to target/classes
+2025-09-14 17:13:59,584 [Worker-11: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src/main/resources to target/classes
+2025-09-14 17:13:59,587 [Worker-11: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory /Users/Ayush/Documents/SBMS/47-SpringSecurity-ConsumerApp/src/test/resources
+2025-09-14 17:14:46,127 [Worker-18: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src/main/resources to target/classes
+2025-09-14 17:14:46,135 [Worker-18: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src/main/resources to target/classes
+2025-09-14 17:14:46,139 [Worker-18: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory /Users/Ayush/Documents/SBMS/47-SpringSecurity-ConsumerApp/src/test/resources
+2025-09-14 17:14:49,125 [Worker-14: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src/main/resources to target/classes
+2025-09-14 17:14:49,163 [Worker-14: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src/main/resources to target/classes
+2025-09-14 17:14:49,167 [Worker-14: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory /Users/Ayush/Documents/SBMS/47-SpringSecurity-ConsumerApp/src/test/resources
+2025-09-14 18:03:16,729 [Worker-14: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src/main/resources to target/classes
+2025-09-14 18:03:16,858 [Worker-14: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src/main/resources to target/classes
+2025-09-14 18:03:16,862 [Worker-14: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory /Users/Ayush/Documents/SBMS/47-SpringSecurity-ConsumerApp/src/test/resources
+2025-09-14 18:03:23,619 [Worker-8: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src/main/resources to target/classes
+2025-09-14 18:03:23,793 [Worker-8: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src/main/resources to target/classes
+2025-09-14 18:03:23,797 [Worker-8: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory /Users/Ayush/Documents/SBMS/47-SpringSecurity-ConsumerApp/src/test/resources
+2025-09-14 18:20:42,639 [Worker-16: Import Getting Started Content] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: in.SpringLearning:48-SpringSecurity-RegisterLoginApp:0.0.1-SNAPSHOT @ /Users/Ayush/Documents/SBMS/48-SpringSecurity-RegisterLoginApp/pom.xml.
+2025-09-14 18:20:44,002 [Worker-16: Import Getting Started Content] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /48-SpringSecurity-RegisterLoginApp/src/main/java
+2025-09-14 18:20:44,002 [Worker-16: Import Getting Started Content] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /48-SpringSecurity-RegisterLoginApp/src/main/resources
+2025-09-14 18:20:44,007 [Worker-16: Import Getting Started Content] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /48-SpringSecurity-RegisterLoginApp/src/main/resources
+2025-09-14 18:20:44,010 [Worker-16: Import Getting Started Content] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /48-SpringSecurity-RegisterLoginApp/src/test/java
+2025-09-14 18:20:44,010 [Worker-16: Import Getting Started Content] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /48-SpringSecurity-RegisterLoginApp/src/test/resources
+2025-09-14 18:20:44,282 [Worker-16: Import Getting Started Content] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Imported and configured 1 project(s) in 2 sec
+2025-09-14 18:20:44,286 [Worker-16: Import Getting Started Content] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Update started
+2025-09-14 18:20:44,686 [Worker-16: Import Getting Started Content] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: in.SpringLearning:48-SpringSecurity-RegisterLoginApp:0.0.1-SNAPSHOT @ /Users/Ayush/Documents/SBMS/48-SpringSecurity-RegisterLoginApp/pom.xml.
+2025-09-14 18:20:45,276 [Worker-16: Import Getting Started Content] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /48-SpringSecurity-RegisterLoginApp/src/main/java
+2025-09-14 18:20:45,276 [Worker-16: Import Getting Started Content] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /48-SpringSecurity-RegisterLoginApp/src/main/resources
+2025-09-14 18:20:45,276 [Worker-16: Import Getting Started Content] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /48-SpringSecurity-RegisterLoginApp/src/main/resources
+2025-09-14 18:20:45,277 [Worker-16: Import Getting Started Content] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /48-SpringSecurity-RegisterLoginApp/src/test/java
+2025-09-14 18:20:45,277 [Worker-16: Import Getting Started Content] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /48-SpringSecurity-RegisterLoginApp/src/test/resources
+2025-09-14 18:20:46,187 [Worker-16: Import Getting Started Content] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Update completed for 1 poms: local refresh takes 0.00 sec, refresh facades takes 0.00 sec, update config takes 0.00 sec 
+2025-09-14 18:20:46,973 [Worker-13: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src/main/resources to target/classes
+2025-09-14 18:20:47,015 [Worker-13: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src/main/resources to target/classes
+2025-09-14 18:20:47,025 [Worker-13: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory /Users/Ayush/Documents/SBMS/48-SpringSecurity-RegisterLoginApp/src/test/resources
+2025-09-14 18:22:32,862 [Worker-25: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src/main/resources to target/classes
+2025-09-14 18:22:32,879 [Worker-25: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src/main/resources to target/classes
+2025-09-14 18:22:32,885 [Worker-25: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory /Users/Ayush/Documents/SBMS/48-SpringSecurity-RegisterLoginApp/src/test/resources
+2025-09-14 18:23:13,008 [Worker-0: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src/main/resources to target/classes
+2025-09-14 18:23:13,015 [Worker-0: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src/main/resources to target/classes
+2025-09-14 18:23:13,018 [Worker-0: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory /Users/Ayush/Documents/SBMS/48-SpringSecurity-RegisterLoginApp/src/test/resources
+2025-09-14 18:23:20,897 [Worker-3: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src/main/resources to target/classes
+2025-09-14 18:23:20,907 [Worker-3: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src/main/resources to target/classes
+2025-09-14 18:23:20,911 [Worker-3: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory /Users/Ayush/Documents/SBMS/48-SpringSecurity-RegisterLoginApp/src/test/resources
+2025-09-14 18:24:01,660 [Worker-17: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src/main/resources to target/classes
+2025-09-14 18:24:01,692 [Worker-17: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src/main/resources to target/classes
+2025-09-14 18:24:01,696 [Worker-17: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory /Users/Ayush/Documents/SBMS/48-SpringSecurity-RegisterLoginApp/src/test/resources
+2025-09-14 18:24:59,828 [Worker-14: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src/main/resources to target/classes
+2025-09-14 18:24:59,857 [Worker-14: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src/main/resources to target/classes
+2025-09-14 18:24:59,862 [Worker-14: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory /Users/Ayush/Documents/SBMS/48-SpringSecurity-RegisterLoginApp/src/test/resources
+2025-09-14 18:25:20,105 [Start Help Server] INFO  org.eclipse.jetty.server.Server - jetty-12.0.16; built: 2024-12-09T21:02:54.535Z; git: c3f88bafb4e393f23204dc14dc57b042e84debc7; jvm 21.0.6+7-LTS
+2025-09-14 18:25:20,250 [Start Help Server] INFO  o.e.j.server.handler.ContextHandler - Started oeje8n.ContextHandler$CoreContextHandler@65deb3eb{/help,/help,b=null,a=AVAILABLE,h=oeje8n.ContextHandler$CoreContextHandler$CoreToNestedHandler@2ab23d1{STARTED}}
+2025-09-14 18:25:20,251 [Start Help Server] INFO  o.e.j.s.DefaultSessionIdManager - Session workerName=node0
+2025-09-14 18:25:20,282 [Start Help Server] INFO  o.e.jetty.server.AbstractConnector - Started ServerConnector@619a4c38{HTTP/1.1, (http/1.1)}{127.0.0.1:52534}
+2025-09-14 18:25:20,306 [Start Help Server] INFO  org.eclipse.jetty.server.Server - Started oejs.Server@1bd23120{STARTING}[12.0.16,sto=0] @6740082ms
+2025-09-14 18:26:03,858 [Worker-23: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src/main/resources to target/classes
+2025-09-14 18:26:03,929 [Worker-23: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src/main/resources to target/classes
+2025-09-14 18:26:03,944 [Worker-23: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory /Users/Ayush/Documents/SBMS/48-SpringSecurity-RegisterLoginApp/src/test/resources
+2025-09-14 18:26:18,137 [Worker-11: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src/main/resources to target/classes
+2025-09-14 18:26:18,190 [Worker-11: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src/main/resources to target/classes
+2025-09-14 18:26:18,192 [Worker-11: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory /Users/Ayush/Documents/SBMS/48-SpringSecurity-RegisterLoginApp/src/test/resources
+2025-09-14 18:27:20,339 [Worker-8: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src/main/resources to target/classes
+2025-09-14 18:27:20,347 [Worker-8: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src/main/resources to target/classes
+2025-09-14 18:27:20,350 [Worker-8: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory /Users/Ayush/Documents/SBMS/48-SpringSecurity-RegisterLoginApp/src/test/resources
+2025-09-14 18:27:49,809 [Worker-14: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src/main/resources to target/classes
+2025-09-14 18:27:49,824 [Worker-14: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src/main/resources to target/classes
+2025-09-14 18:27:49,828 [Worker-14: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory /Users/Ayush/Documents/SBMS/48-SpringSecurity-RegisterLoginApp/src/test/resources
+2025-09-14 18:28:10,928 [Worker-25: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src/main/resources to target/classes
+2025-09-14 18:28:10,954 [Worker-25: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src/main/resources to target/classes
+2025-09-14 18:28:10,957 [Worker-25: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory /Users/Ayush/Documents/SBMS/48-SpringSecurity-RegisterLoginApp/src/test/resources
+2025-09-14 18:28:47,063 [Worker-5: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src/main/resources to target/classes
+2025-09-14 18:28:47,076 [Worker-5: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src/main/resources to target/classes
+2025-09-14 18:28:47,079 [Worker-5: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory /Users/Ayush/Documents/SBMS/48-SpringSecurity-RegisterLoginApp/src/test/resources
+2025-09-14 18:30:21,725 [Worker-17: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src/main/resources to target/classes
+2025-09-14 18:30:21,753 [Worker-17: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src/main/resources to target/classes
+2025-09-14 18:30:21,757 [Worker-17: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory /Users/Ayush/Documents/SBMS/48-SpringSecurity-RegisterLoginApp/src/test/resources
+2025-09-14 18:31:35,774 [Worker-16: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src/main/resources to target/classes
+2025-09-14 18:31:35,783 [Worker-16: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src/main/resources to target/classes
+2025-09-14 18:31:35,786 [Worker-16: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory /Users/Ayush/Documents/SBMS/48-SpringSecurity-RegisterLoginApp/src/test/resources
+2025-09-14 18:32:33,181 [Worker-17: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src/main/resources to target/classes
+2025-09-14 18:32:33,191 [Worker-17: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src/main/resources to target/classes
+2025-09-14 18:32:33,203 [Worker-17: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory /Users/Ayush/Documents/SBMS/48-SpringSecurity-RegisterLoginApp/src/test/resources
+2025-09-14 18:34:30,316 [Worker-17: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src/main/resources to target/classes
+2025-09-14 18:34:30,330 [Worker-17: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src/main/resources to target/classes
+2025-09-14 18:34:30,337 [Worker-17: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory /Users/Ayush/Documents/SBMS/48-SpringSecurity-RegisterLoginApp/src/test/resources
+2025-09-14 18:37:28,799 [Worker-28: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src/main/resources to target/classes
+2025-09-14 18:37:28,843 [Worker-28: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src/main/resources to target/classes
+2025-09-14 18:37:28,848 [Worker-28: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory /Users/Ayush/Documents/SBMS/48-SpringSecurity-RegisterLoginApp/src/test/resources
+2025-09-14 18:38:22,005 [Worker-14: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src/main/resources to target/classes
+2025-09-14 18:38:22,018 [Worker-14: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src/main/resources to target/classes
+2025-09-14 18:38:22,023 [Worker-14: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory /Users/Ayush/Documents/SBMS/48-SpringSecurity-RegisterLoginApp/src/test/resources
+2025-09-14 18:38:57,353 [Worker-28: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src/main/resources to target/classes
+2025-09-14 18:38:57,374 [Worker-28: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src/main/resources to target/classes
+2025-09-14 18:38:57,378 [Worker-28: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory /Users/Ayush/Documents/SBMS/48-SpringSecurity-RegisterLoginApp/src/test/resources
+2025-09-14 18:41:52,155 [Worker-14: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src/main/resources to target/classes
+2025-09-14 18:41:52,166 [Worker-14: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src/main/resources to target/classes
+2025-09-14 18:41:52,169 [Worker-14: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory /Users/Ayush/Documents/SBMS/48-SpringSecurity-RegisterLoginApp/src/test/resources
+2025-09-14 18:47:30,155 [Worker-14: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src/main/resources to target/classes
+2025-09-14 18:47:30,185 [Worker-14: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src/main/resources to target/classes
+2025-09-14 18:47:30,188 [Worker-14: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory /Users/Ayush/Documents/SBMS/48-SpringSecurity-RegisterLoginApp/src/test/resources
+2025-09-14 18:51:33,561 [Worker-23: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src/main/resources to target/classes
+2025-09-14 18:51:33,570 [Worker-23: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src/main/resources to target/classes
+2025-09-14 18:51:33,574 [Worker-23: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory /Users/Ayush/Documents/SBMS/48-SpringSecurity-RegisterLoginApp/src/test/resources
+2025-09-14 18:51:34,661 [Worker-28: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src/main/resources to target/classes
+2025-09-14 18:51:34,685 [Worker-28: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src/main/resources to target/classes
+2025-09-14 18:51:34,690 [Worker-28: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory /Users/Ayush/Documents/SBMS/48-SpringSecurity-RegisterLoginApp/src/test/resources
+2025-09-14 18:51:46,830 [Worker-28: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src/main/resources to target/classes
+2025-09-14 18:51:46,855 [Worker-28: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src/main/resources to target/classes
+2025-09-14 18:51:46,859 [Worker-28: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory /Users/Ayush/Documents/SBMS/48-SpringSecurity-RegisterLoginApp/src/test/resources
+2025-09-14 18:51:58,113 [Worker-14: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src/main/resources to target/classes
+2025-09-14 18:51:58,122 [Worker-14: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src/main/resources to target/classes
+2025-09-14 18:51:58,125 [Worker-14: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory /Users/Ayush/Documents/SBMS/48-SpringSecurity-RegisterLoginApp/src/test/resources
+2025-09-14 18:52:17,420 [Worker-14: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src/main/resources to target/classes
+2025-09-14 18:52:17,427 [Worker-14: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src/main/resources to target/classes
+2025-09-14 18:52:17,431 [Worker-14: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory /Users/Ayush/Documents/SBMS/48-SpringSecurity-RegisterLoginApp/src/test/resources
+2025-09-14 18:53:04,050 [Worker-28: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src/main/resources to target/classes
+2025-09-14 18:53:04,080 [Worker-28: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src/main/resources to target/classes
+2025-09-14 18:53:04,083 [Worker-28: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory /Users/Ayush/Documents/SBMS/48-SpringSecurity-RegisterLoginApp/src/test/resources
+2025-09-14 18:53:14,651 [Worker-27: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src/main/resources to target/classes
+2025-09-14 18:53:14,662 [Worker-27: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src/main/resources to target/classes
+2025-09-14 18:53:14,666 [Worker-27: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory /Users/Ayush/Documents/SBMS/48-SpringSecurity-RegisterLoginApp/src/test/resources
+2025-09-14 18:55:02,764 [Worker-27: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src/main/resources to target/classes
+2025-09-14 18:55:02,781 [Worker-27: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src/main/resources to target/classes
+2025-09-14 18:55:02,790 [Worker-27: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory /Users/Ayush/Documents/SBMS/48-SpringSecurity-RegisterLoginApp/src/test/resources
+2025-09-14 18:56:35,884 [Worker-23: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src/main/resources to target/classes
+2025-09-14 18:56:35,916 [Worker-23: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src/main/resources to target/classes
+2025-09-14 18:56:35,919 [Worker-23: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory /Users/Ayush/Documents/SBMS/48-SpringSecurity-RegisterLoginApp/src/test/resources
+2025-09-14 18:58:18,901 [Worker-27: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src/main/resources to target/classes
+2025-09-14 18:58:18,908 [Worker-27: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src/main/resources to target/classes
+2025-09-14 18:58:18,910 [Worker-27: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory /Users/Ayush/Documents/SBMS/48-SpringSecurity-RegisterLoginApp/src/test/resources
+2025-09-14 18:58:59,360 [Worker-27: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src/main/resources to target/classes
+2025-09-14 18:58:59,435 [Worker-27: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src/main/resources to target/classes
+2025-09-14 18:58:59,439 [Worker-27: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory /Users/Ayush/Documents/SBMS/48-SpringSecurity-RegisterLoginApp/src/test/resources
+2025-09-14 18:59:11,144 [Worker-23: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src/main/resources to target/classes
+2025-09-14 18:59:11,154 [Worker-23: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src/main/resources to target/classes
+2025-09-14 18:59:11,157 [Worker-23: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory /Users/Ayush/Documents/SBMS/48-SpringSecurity-RegisterLoginApp/src/test/resources
+2025-09-14 18:59:33,663 [Worker-14: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src/main/resources to target/classes
+2025-09-14 18:59:33,683 [Worker-14: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src/main/resources to target/classes
+2025-09-14 18:59:33,690 [Worker-14: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory /Users/Ayush/Documents/SBMS/48-SpringSecurity-RegisterLoginApp/src/test/resources
+2025-09-14 18:59:51,008 [Worker-28: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src/main/resources to target/classes
+2025-09-14 18:59:51,012 [Worker-28: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src/main/resources to target/classes
+2025-09-14 18:59:51,015 [Worker-28: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory /Users/Ayush/Documents/SBMS/48-SpringSecurity-RegisterLoginApp/src/test/resources
+2025-09-14 19:01:00,288 [Worker-8: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src/main/resources to target/classes
+2025-09-14 19:01:00,328 [Worker-8: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src/main/resources to target/classes
+2025-09-14 19:01:00,335 [Worker-8: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory /Users/Ayush/Documents/SBMS/48-SpringSecurity-RegisterLoginApp/src/test/resources
+2025-09-14 19:04:55,039 [Worker-23: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src/main/resources to target/classes
+2025-09-14 19:04:55,067 [Worker-23: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src/main/resources to target/classes
+2025-09-14 19:04:55,076 [Worker-23: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory /Users/Ayush/Documents/SBMS/48-SpringSecurity-RegisterLoginApp/src/test/resources
+2025-09-14 19:08:13,898 [Worker-27: Launching 13-SpringWebMvc-Session] INFO  o.eclipse.m2e.core.internal.Bundles - getClasspathEntries(Bundle=org.eclipse.m2e.maven.runtime_3.9.900.20250220-2013 [359])
+2025-09-14 19:08:13,905 [Worker-27: Launching 13-SpringWebMvc-Session] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: /Applications/SpringToolsForEclipse.app/Contents/Eclipse/plugins/org.eclipse.m2e.maven.runtime_3.9.900.20250220-2013
+2025-09-14 19:08:13,906 [Worker-27: Launching 13-SpringWebMvc-Session] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: /Applications/SpringToolsForEclipse.app/Contents/Eclipse/plugins/org.eclipse.m2e.maven.runtime_3.9.900.20250220-2013/jars/aopalliance-1.0.jar
+2025-09-14 19:08:13,906 [Worker-27: Launching 13-SpringWebMvc-Session] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: /Applications/SpringToolsForEclipse.app/Contents/Eclipse/plugins/org.eclipse.m2e.maven.runtime_3.9.900.20250220-2013/jars/guice-5.1.0.jar
+2025-09-14 19:08:13,906 [Worker-27: Launching 13-SpringWebMvc-Session] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: /Applications/SpringToolsForEclipse.app/Contents/Eclipse/plugins/org.eclipse.m2e.maven.runtime_3.9.900.20250220-2013/jars/httpclient-4.5.14.jar
+2025-09-14 19:08:13,906 [Worker-27: Launching 13-SpringWebMvc-Session] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: /Applications/SpringToolsForEclipse.app/Contents/Eclipse/plugins/org.eclipse.m2e.maven.runtime_3.9.900.20250220-2013/jars/httpcore-4.4.16.jar
+2025-09-14 19:08:13,907 [Worker-27: Launching 13-SpringWebMvc-Session] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: /Applications/SpringToolsForEclipse.app/Contents/Eclipse/plugins/org.eclipse.m2e.maven.runtime_3.9.900.20250220-2013/jars/jansi-2.4.1.jar
+2025-09-14 19:08:13,907 [Worker-27: Launching 13-SpringWebMvc-Session] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: /Applications/SpringToolsForEclipse.app/Contents/Eclipse/plugins/org.eclipse.m2e.maven.runtime_3.9.900.20250220-2013/jars/jcl-over-slf4j-1.7.36.jar
+2025-09-14 19:08:13,907 [Worker-27: Launching 13-SpringWebMvc-Session] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: /Applications/SpringToolsForEclipse.app/Contents/Eclipse/plugins/org.eclipse.m2e.maven.runtime_3.9.900.20250220-2013/jars/maven-artifact-3.9.9.jar
+2025-09-14 19:08:13,907 [Worker-27: Launching 13-SpringWebMvc-Session] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: /Applications/SpringToolsForEclipse.app/Contents/Eclipse/plugins/org.eclipse.m2e.maven.runtime_3.9.900.20250220-2013/jars/maven-builder-support-3.9.9.jar
+2025-09-14 19:08:13,907 [Worker-27: Launching 13-SpringWebMvc-Session] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: /Applications/SpringToolsForEclipse.app/Contents/Eclipse/plugins/org.eclipse.m2e.maven.runtime_3.9.900.20250220-2013/jars/maven-compat-3.9.9.jar
+2025-09-14 19:08:13,907 [Worker-27: Launching 13-SpringWebMvc-Session] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: /Applications/SpringToolsForEclipse.app/Contents/Eclipse/plugins/org.eclipse.m2e.maven.runtime_3.9.900.20250220-2013/jars/maven-core-3.9.9.jar
+2025-09-14 19:08:13,907 [Worker-27: Launching 13-SpringWebMvc-Session] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: /Applications/SpringToolsForEclipse.app/Contents/Eclipse/plugins/org.eclipse.m2e.maven.runtime_3.9.900.20250220-2013/jars/maven-embedder-3.9.9.jar
+2025-09-14 19:08:13,907 [Worker-27: Launching 13-SpringWebMvc-Session] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: /Applications/SpringToolsForEclipse.app/Contents/Eclipse/plugins/org.eclipse.m2e.maven.runtime_3.9.900.20250220-2013/jars/maven-model-3.9.9.jar
+2025-09-14 19:08:13,908 [Worker-27: Launching 13-SpringWebMvc-Session] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: /Applications/SpringToolsForEclipse.app/Contents/Eclipse/plugins/org.eclipse.m2e.maven.runtime_3.9.900.20250220-2013/jars/maven-model-builder-3.9.9.jar
+2025-09-14 19:08:13,908 [Worker-27: Launching 13-SpringWebMvc-Session] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: /Applications/SpringToolsForEclipse.app/Contents/Eclipse/plugins/org.eclipse.m2e.maven.runtime_3.9.900.20250220-2013/jars/maven-plugin-api-3.9.9.jar
+2025-09-14 19:08:13,908 [Worker-27: Launching 13-SpringWebMvc-Session] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: /Applications/SpringToolsForEclipse.app/Contents/Eclipse/plugins/org.eclipse.m2e.maven.runtime_3.9.900.20250220-2013/jars/maven-repository-metadata-3.9.9.jar
+2025-09-14 19:08:13,908 [Worker-27: Launching 13-SpringWebMvc-Session] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: /Applications/SpringToolsForEclipse.app/Contents/Eclipse/plugins/org.eclipse.m2e.maven.runtime_3.9.900.20250220-2013/jars/maven-resolver-api-1.9.22.jar
+2025-09-14 19:08:13,908 [Worker-27: Launching 13-SpringWebMvc-Session] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: /Applications/SpringToolsForEclipse.app/Contents/Eclipse/plugins/org.eclipse.m2e.maven.runtime_3.9.900.20250220-2013/jars/maven-resolver-connector-basic-1.9.22.jar
+2025-09-14 19:08:13,908 [Worker-27: Launching 13-SpringWebMvc-Session] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: /Applications/SpringToolsForEclipse.app/Contents/Eclipse/plugins/org.eclipse.m2e.maven.runtime_3.9.900.20250220-2013/jars/maven-resolver-impl-1.9.22.jar
+2025-09-14 19:08:13,909 [Worker-27: Launching 13-SpringWebMvc-Session] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: /Applications/SpringToolsForEclipse.app/Contents/Eclipse/plugins/org.eclipse.m2e.maven.runtime_3.9.900.20250220-2013/jars/maven-resolver-named-locks-1.9.22.jar
+2025-09-14 19:08:13,909 [Worker-27: Launching 13-SpringWebMvc-Session] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: /Applications/SpringToolsForEclipse.app/Contents/Eclipse/plugins/org.eclipse.m2e.maven.runtime_3.9.900.20250220-2013/jars/maven-resolver-provider-3.9.9.jar
+2025-09-14 19:08:13,909 [Worker-27: Launching 13-SpringWebMvc-Session] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: /Applications/SpringToolsForEclipse.app/Contents/Eclipse/plugins/org.eclipse.m2e.maven.runtime_3.9.900.20250220-2013/jars/maven-resolver-spi-1.9.22.jar
+2025-09-14 19:08:13,909 [Worker-27: Launching 13-SpringWebMvc-Session] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: /Applications/SpringToolsForEclipse.app/Contents/Eclipse/plugins/org.eclipse.m2e.maven.runtime_3.9.900.20250220-2013/jars/maven-resolver-transport-file-1.9.22.jar
+2025-09-14 19:08:13,909 [Worker-27: Launching 13-SpringWebMvc-Session] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: /Applications/SpringToolsForEclipse.app/Contents/Eclipse/plugins/org.eclipse.m2e.maven.runtime_3.9.900.20250220-2013/jars/maven-resolver-transport-http-1.9.22.jar
+2025-09-14 19:08:13,909 [Worker-27: Launching 13-SpringWebMvc-Session] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: /Applications/SpringToolsForEclipse.app/Contents/Eclipse/plugins/org.eclipse.m2e.maven.runtime_3.9.900.20250220-2013/jars/maven-resolver-transport-wagon-1.9.22.jar
+2025-09-14 19:08:13,909 [Worker-27: Launching 13-SpringWebMvc-Session] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: /Applications/SpringToolsForEclipse.app/Contents/Eclipse/plugins/org.eclipse.m2e.maven.runtime_3.9.900.20250220-2013/jars/maven-resolver-util-1.9.22.jar
+2025-09-14 19:08:13,910 [Worker-27: Launching 13-SpringWebMvc-Session] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: /Applications/SpringToolsForEclipse.app/Contents/Eclipse/plugins/org.eclipse.m2e.maven.runtime_3.9.900.20250220-2013/jars/maven-settings-3.9.9.jar
+2025-09-14 19:08:13,910 [Worker-27: Launching 13-SpringWebMvc-Session] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: /Applications/SpringToolsForEclipse.app/Contents/Eclipse/plugins/org.eclipse.m2e.maven.runtime_3.9.900.20250220-2013/jars/maven-settings-builder-3.9.9.jar
+2025-09-14 19:08:13,910 [Worker-27: Launching 13-SpringWebMvc-Session] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: /Applications/SpringToolsForEclipse.app/Contents/Eclipse/plugins/org.eclipse.m2e.maven.runtime_3.9.900.20250220-2013/jars/maven-shared-utils-3.4.2.jar
+2025-09-14 19:08:13,910 [Worker-27: Launching 13-SpringWebMvc-Session] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: /Applications/SpringToolsForEclipse.app/Contents/Eclipse/plugins/org.eclipse.m2e.maven.runtime_3.9.900.20250220-2013/jars/org.eclipse.sisu.inject-0.9.0.M3.jar
+2025-09-14 19:08:13,910 [Worker-27: Launching 13-SpringWebMvc-Session] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: /Applications/SpringToolsForEclipse.app/Contents/Eclipse/plugins/org.eclipse.m2e.maven.runtime_3.9.900.20250220-2013/jars/org.eclipse.sisu.plexus-0.9.0.M3.jar
+2025-09-14 19:08:13,911 [Worker-27: Launching 13-SpringWebMvc-Session] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: /Applications/SpringToolsForEclipse.app/Contents/Eclipse/plugins/org.eclipse.m2e.maven.runtime_3.9.900.20250220-2013/jars/plexus-build-api-0.0.7.jar
+2025-09-14 19:08:13,911 [Worker-27: Launching 13-SpringWebMvc-Session] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: /Applications/SpringToolsForEclipse.app/Contents/Eclipse/plugins/org.eclipse.m2e.maven.runtime_3.9.900.20250220-2013/jars/plexus-build-api-1.2.0.jar
+2025-09-14 19:08:13,911 [Worker-27: Launching 13-SpringWebMvc-Session] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: /Applications/SpringToolsForEclipse.app/Contents/Eclipse/plugins/org.eclipse.m2e.maven.runtime_3.9.900.20250220-2013/jars/plexus-cipher-2.0.jar
+2025-09-14 19:08:13,911 [Worker-27: Launching 13-SpringWebMvc-Session] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: /Applications/SpringToolsForEclipse.app/Contents/Eclipse/plugins/org.eclipse.m2e.maven.runtime_3.9.900.20250220-2013/jars/plexus-classworlds-2.8.0.jar
+2025-09-14 19:08:13,911 [Worker-27: Launching 13-SpringWebMvc-Session] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: /Applications/SpringToolsForEclipse.app/Contents/Eclipse/plugins/org.eclipse.m2e.maven.runtime_3.9.900.20250220-2013/jars/plexus-component-annotations-2.1.0.jar
+2025-09-14 19:08:13,911 [Worker-27: Launching 13-SpringWebMvc-Session] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: /Applications/SpringToolsForEclipse.app/Contents/Eclipse/plugins/org.eclipse.m2e.maven.runtime_3.9.900.20250220-2013/jars/plexus-interpolation-1.27.jar
+2025-09-14 19:08:13,911 [Worker-27: Launching 13-SpringWebMvc-Session] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: /Applications/SpringToolsForEclipse.app/Contents/Eclipse/plugins/org.eclipse.m2e.maven.runtime_3.9.900.20250220-2013/jars/plexus-sec-dispatcher-2.0.jar
+2025-09-14 19:08:13,911 [Worker-27: Launching 13-SpringWebMvc-Session] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: /Applications/SpringToolsForEclipse.app/Contents/Eclipse/plugins/org.eclipse.m2e.maven.runtime_3.9.900.20250220-2013/jars/plexus-utils-3.5.1.jar
+2025-09-14 19:08:13,911 [Worker-27: Launching 13-SpringWebMvc-Session] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: /Applications/SpringToolsForEclipse.app/Contents/Eclipse/plugins/org.eclipse.m2e.maven.runtime_3.9.900.20250220-2013/jars/plexus-xml-3.0.1.jar
+2025-09-14 19:08:13,911 [Worker-27: Launching 13-SpringWebMvc-Session] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: /Applications/SpringToolsForEclipse.app/Contents/Eclipse/plugins/org.eclipse.m2e.maven.runtime_3.9.900.20250220-2013/jars/wagon-file-3.5.3.jar
+2025-09-14 19:08:13,911 [Worker-27: Launching 13-SpringWebMvc-Session] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: /Applications/SpringToolsForEclipse.app/Contents/Eclipse/plugins/org.eclipse.m2e.maven.runtime_3.9.900.20250220-2013/jars/wagon-http-3.5.3.jar
+2025-09-14 19:08:13,911 [Worker-27: Launching 13-SpringWebMvc-Session] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: /Applications/SpringToolsForEclipse.app/Contents/Eclipse/plugins/org.eclipse.m2e.maven.runtime_3.9.900.20250220-2013/jars/wagon-http-shared-3.5.3.jar
+2025-09-14 19:08:13,912 [Worker-27: Launching 13-SpringWebMvc-Session] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: /Applications/SpringToolsForEclipse.app/Contents/Eclipse/plugins/org.eclipse.m2e.maven.runtime_3.9.900.20250220-2013/jars/wagon-provider-api-3.5.3.jar
+2025-09-14 19:08:13,914 [Worker-27: Launching 13-SpringWebMvc-Session] INFO  o.eclipse.m2e.core.internal.Bundles - getClasspathEntries(Bundle=com.google.guava_33.4.0.jre [29])
+2025-09-14 19:08:13,914 [Worker-27: Launching 13-SpringWebMvc-Session] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: /Applications/SpringToolsForEclipse.app/Contents/Eclipse/plugins/com.google.guava_33.4.0.jre.jar
+2025-09-14 19:08:13,914 [Worker-27: Launching 13-SpringWebMvc-Session] INFO  o.eclipse.m2e.core.internal.Bundles - getClasspathEntries(Bundle=slf4j.api_2.0.17 [606])
+2025-09-14 19:08:13,914 [Worker-27: Launching 13-SpringWebMvc-Session] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: /Applications/SpringToolsForEclipse.app/Contents/Eclipse/plugins/slf4j.api_2.0.17.jar
+2025-09-14 19:08:13,914 [Worker-27: Launching 13-SpringWebMvc-Session] INFO  o.eclipse.m2e.core.internal.Bundles - getClasspathEntries(Bundle=jakarta.inject.jakarta.inject-api_1.0.5 [45])
+2025-09-14 19:08:13,914 [Worker-27: Launching 13-SpringWebMvc-Session] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: /Applications/SpringToolsForEclipse.app/Contents/Eclipse/plugins/jakarta.inject.jakarta.inject-api_1.0.5.jar
+2025-09-14 19:08:13,914 [Worker-27: Launching 13-SpringWebMvc-Session] INFO  o.eclipse.m2e.core.internal.Bundles - getClasspathEntries(Bundle=jakarta.annotation-api_1.3.5 [41])
+2025-09-14 19:08:13,914 [Worker-27: Launching 13-SpringWebMvc-Session] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: /Applications/SpringToolsForEclipse.app/Contents/Eclipse/plugins/jakarta.annotation-api_1.3.5.jar
+2025-09-14 19:08:13,915 [Worker-27: Launching 13-SpringWebMvc-Session] INFO  o.eclipse.m2e.core.internal.Bundles - getClasspathEntries(Bundle=org.apache.commons.cli_1.9.0 [77])
+2025-09-14 19:08:13,915 [Worker-27: Launching 13-SpringWebMvc-Session] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: /Applications/SpringToolsForEclipse.app/Contents/Eclipse/plugins/org.apache.commons.cli_1.9.0.jar
+2025-09-14 19:08:13,915 [Worker-27: Launching 13-SpringWebMvc-Session] INFO  o.eclipse.m2e.core.internal.Bundles - getClasspathEntries(Bundle=org.apache.commons.commons-codec_1.16.0 [79])
+2025-09-14 19:08:13,915 [Worker-27: Launching 13-SpringWebMvc-Session] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: /Applications/SpringToolsForEclipse.app/Contents/Eclipse/plugins/org.apache.commons.commons-codec_1.16.0.jar
+2025-09-14 19:08:13,915 [Worker-27: Launching 13-SpringWebMvc-Session] INFO  o.eclipse.m2e.core.internal.Bundles - getClasspathEntries(Bundle=com.google.guava.failureaccess_1.0.2 [30])
+2025-09-14 19:08:13,915 [Worker-27: Launching 13-SpringWebMvc-Session] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: /Applications/SpringToolsForEclipse.app/Contents/Eclipse/plugins/com.google.guava.failureaccess_1.0.2.jar
+2025-09-14 19:08:13,930 [Worker-27: Launching 13-SpringWebMvc-Session] INFO  o.e.m.i.launch.MavenLaunchDelegate - Run build in "/Users/Ayush/Documents/SBMS/13-SpringWebMvc-Session":
+2025-09-14 19:08:13,931 [Worker-27: Launching 13-SpringWebMvc-Session] INFO  o.e.m.i.launch.MavenLaunchDelegate -  mvn  -Ppom.xml -B -Dstyle.color=always 
+2025-09-15 08:57:09,792 [Worker-37: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src/main/resources to target/classes
+2025-09-15 08:57:09,870 [Worker-37: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src/main/resources to target/classes
+2025-09-15 08:57:09,877 [Worker-37: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory /Users/Ayush/Documents/SBMS/48-SpringSecurity-RegisterLoginApp/src/test/resources

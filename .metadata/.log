@@ -13643,3 +13643,1958 @@ java.util.concurrent.TimeoutException
   serverExperiments: '',
   deploymentId: ''
 }
+!SESSION 2025-09-14 09:29:01.631 -----------------------------------------------
+eclipse.buildId=4.35.0.202504180233
+java.version=21.0.6
+java.vendor=Eclipse Adoptium
+BootLoader constants: OS=macosx, ARCH=x86_64, WS=cocoa, NL=en_IN
+Framework arguments:  -product org.springframework.boot.ide.branding.sts4 -keyring /Users/Ayush/.eclipse_keyring
+Command-line arguments:  -os macosx -ws cocoa -arch x86_64 -product org.springframework.boot.ide.branding.sts4 -keyring /Users/Ayush/.eclipse_keyring
+
+!ENTRY ch.qos.logback.classic 1 0 2025-09-14 09:29:08.906
+!MESSAGE Activated before the state location was initialized. Retry after the state location is initialized.
+
+!ENTRY org.eclipse.lemminx.uber-jar 4 0 2025-09-14 09:29:09.473
+!MESSAGE bundle org.eclipse.lemminx.uber-jar:0.29.0 (326) Component descriptor entry 'OSGI-INF/*.xml' not found
+
+!ENTRY ch.qos.logback.classic 1 0 2025-09-14 09:30:14.316
+!MESSAGE Logback config file: /Users/Ayush/Documents/SBMS/.metadata/.plugins/org.eclipse.m2e.logback/logback.2.7.0.20241001-1350.xml
+
+!ENTRY org.eclipse.ui 2 0 2025-09-14 09:30:15.258
+!MESSAGE Warnings while parsing the commands from the 'org.eclipse.ui.commands' and 'org.eclipse.ui.actionDefinitions' extension points.
+!SUBENTRY 1 org.eclipse.ui 2 0 2025-09-14 09:30:15.258
+!MESSAGE Commands should really have a category: plug-in='org.springframework.tooling.boot.ls', id='spring.initializr.addStarters', categoryId='org.eclipse.lsp4e.commandCategory'
+
+!ENTRY org.eclipse.ui 2 0 2025-09-14 09:30:16.045
+!MESSAGE Warnings while parsing the commands from the 'org.eclipse.ui.commands' and 'org.eclipse.ui.actionDefinitions' extension points.
+!SUBENTRY 1 org.eclipse.ui 2 0 2025-09-14 09:30:16.045
+!MESSAGE Commands should really have a category: plug-in='org.springframework.tooling.boot.ls', id='spring.initializr.addStarters', categoryId='org.eclipse.lsp4e.commandCategory'
+
+!ENTRY com.microsoft.copilot.eclipse 1 0 2025-09-14 09:30:23.602
+!MESSAGE [Info] Starting language server with binary lsp agent.
+
+!ENTRY com.microsoft.copilot.eclipse 1 0 2025-09-14 09:30:23.864
+!MESSAGE [Info] Lsp agent started successfully.
+
+!ENTRY org.eclipse.lsp4e 1 0 2025-09-14 09:30:29.104
+!MESSAGE [Info]	[lsp] GitHub Copilot Language Server 1.335.0 initialized
+
+!ENTRY org.eclipse.lsp4e 1 0 2025-09-14 09:30:29.924
+!MESSAGE [Info]	[certificates] Removed 15 expired certificates
+
+!ENTRY org.eclipse.jface 2 0 2025-09-14 09:34:17.646
+!MESSAGE Keybinding conflicts occurred.  They may interfere with normal accelerator operation.
+!SUBENTRY 1 org.eclipse.jface 2 0 2025-09-14 09:34:17.646
+!MESSAGE A conflict occurred for COMMAND+SHIFT+T:
+Binding(COMMAND+SHIFT+T,
+	ParameterizedCommand(Command(org.eclipse.jdt.ui.navigate.open.type,Open Type,
+		Open a type in a Java editor,
+		Category(org.eclipse.ui.category.navigate,Navigate,null,true),
+		WorkbenchHandlerServiceHandler("org.eclipse.jdt.ui.navigate.open.type"),
+		,,true),null),
+	org.eclipse.ui.defaultAcceleratorConfiguration,
+	org.eclipse.ui.contexts.window,,,system)
+Binding(COMMAND+SHIFT+T,
+	ParameterizedCommand(Command(org.eclipse.lsp4e.symbolInWorkspace,Go to Symbol in Workspace,
+		,
+		Category(org.eclipse.lsp4e.category,Language Servers,null,true),
+		WorkbenchHandlerServiceHandler("org.eclipse.lsp4e.symbolInWorkspace"),
+		,,true),null),
+	org.eclipse.ui.defaultAcceleratorConfiguration,
+	org.eclipse.ui.contexts.window,,,system)
+
+!ENTRY com.microsoft.copilot.eclipse 1 0 2025-09-14 09:34:20.558
+!MESSAGE [Info] Language ID not found for extension: properties
+
+!ENTRY org.eclipse.lsp4e 1 0 2025-09-14 09:34:21.871
+!MESSAGE [Info]	[default] Context provider relatedFilesShim exceeded time budget of 150ms
+
+!ENTRY org.eclipse.lsp4e 1 0 2025-09-14 09:34:23.552
+!MESSAGE [Info]	[fetchCompletions] Request 75b3154f-a604-4ae0-b76d-31dac2a22e2b at <https://proxy.individual.githubcopilot.com/v1/engines/gpt-41-copilot/completions> finished with 200 status after 1681.0098639999924ms
+
+!ENTRY org.eclipse.lsp4e 4 0 2025-09-14 09:34:23.560
+!MESSAGE [Error]	[streamChoices] Request id invalid, should have "completionId" and "created": {
+  headerRequestId: '75b3154f-a604-4ae0-b76d-31dac2a22e2b',
+  completionId: '',
+  created: 0,
+  serverExperiments: '',
+  deploymentId: ''
+}
+
+!ENTRY org.eclipse.lsp4e 4 0 2025-09-14 09:34:23.630
+!MESSAGE [Error]	[streamChoices] Request id invalid, should have "completionId" and "created": {
+  headerRequestId: '75b3154f-a604-4ae0-b76d-31dac2a22e2b',
+  completionId: '',
+  created: 0,
+  serverExperiments: '',
+  deploymentId: ''
+}
+
+!ENTRY org.eclipse.lsp4e 4 0 2025-09-14 09:34:23.632
+!MESSAGE [Error]	[streamChoices] Request id invalid, should have "completionId" and "created": {
+  headerRequestId: '75b3154f-a604-4ae0-b76d-31dac2a22e2b',
+  completionId: '',
+  created: 0,
+  serverExperiments: '',
+  deploymentId: ''
+}
+
+!ENTRY org.eclipse.lsp4e 4 0 2025-09-14 09:34:23.632
+!MESSAGE [Error]	[streamChoices] Request id invalid, should have "completionId" and "created": {
+  headerRequestId: '75b3154f-a604-4ae0-b76d-31dac2a22e2b',
+  completionId: '',
+  created: 0,
+  serverExperiments: '',
+  deploymentId: ''
+}
+
+!ENTRY org.eclipse.lsp4e 4 0 2025-09-14 09:34:23.634
+!MESSAGE [Error]	[streamChoices] Request id invalid, should have "completionId" and "created": {
+  headerRequestId: '75b3154f-a604-4ae0-b76d-31dac2a22e2b',
+  completionId: '',
+  created: 0,
+  serverExperiments: '',
+  deploymentId: ''
+}
+
+!ENTRY org.eclipse.lsp4e 1 0 2025-09-14 09:34:23.635
+!MESSAGE [Info]	[streamChoices] solution 0 returned. finish reason: [stop]
+
+!ENTRY org.eclipse.lsp4e 4 0 2025-09-14 09:34:23.638
+!MESSAGE [Error]	[streamChoices] Request id invalid, should have "completionId" and "created": {
+  headerRequestId: '75b3154f-a604-4ae0-b76d-31dac2a22e2b',
+  completionId: '',
+  created: 0,
+  serverExperiments: '',
+  deploymentId: ''
+}
+
+!ENTRY org.eclipse.lsp4e 4 0 2025-09-14 09:34:23.638
+!MESSAGE [Error]	[streamChoices] Request id invalid, should have "completionId" and "created": {
+  headerRequestId: '75b3154f-a604-4ae0-b76d-31dac2a22e2b',
+  completionId: '',
+  created: 0,
+  serverExperiments: '',
+  deploymentId: ''
+}
+
+!ENTRY org.eclipse.lsp4e 1 0 2025-09-14 09:34:24.030
+!MESSAGE [Info]	[fetchCompletions] Request 4478fbf8-84a0-4c77-9f68-d780b770fc68 at <https://proxy.individual.githubcopilot.com/v1/engines/gpt-41-copilot/completions> finished with 200 status after 370.55282300000545ms
+
+!ENTRY org.eclipse.lsp4e 4 0 2025-09-14 09:34:24.031
+!MESSAGE [Error]	[streamChoices] Request id invalid, should have "completionId" and "created": {
+  headerRequestId: '4478fbf8-84a0-4c77-9f68-d780b770fc68',
+  completionId: '',
+  created: 0,
+  serverExperiments: '',
+  deploymentId: ''
+}
+
+!ENTRY org.eclipse.lsp4e 4 0 2025-09-14 09:34:24.082
+!MESSAGE [Error]	[streamChoices] Request id invalid, should have "completionId" and "created": {
+  headerRequestId: '4478fbf8-84a0-4c77-9f68-d780b770fc68',
+  completionId: '',
+  created: 0,
+  serverExperiments: '',
+  deploymentId: ''
+}
+
+!ENTRY org.eclipse.lsp4e 4 0 2025-09-14 09:34:24.083
+!MESSAGE [Error]	[streamChoices] Request id invalid, should have "completionId" and "created": {
+  headerRequestId: '4478fbf8-84a0-4c77-9f68-d780b770fc68',
+  completionId: '',
+  created: 0,
+  serverExperiments: '',
+  deploymentId: ''
+}
+
+!ENTRY org.eclipse.lsp4e 4 0 2025-09-14 09:34:24.084
+!MESSAGE [Error]	[streamChoices] Request id invalid, should have "completionId" and "created": {
+  headerRequestId: '4478fbf8-84a0-4c77-9f68-d780b770fc68',
+  completionId: '',
+  created: 0,
+  serverExperiments: '',
+  deploymentId: ''
+}
+
+!ENTRY org.eclipse.lsp4e 4 0 2025-09-14 09:34:24.085
+!MESSAGE [Error]	[streamChoices] Request id invalid, should have "completionId" and "created": {
+  headerRequestId: '4478fbf8-84a0-4c77-9f68-d780b770fc68',
+  completionId: '',
+  created: 0,
+  serverExperiments: '',
+  deploymentId: ''
+}
+
+!ENTRY org.eclipse.lsp4e 4 0 2025-09-14 09:34:24.085
+!MESSAGE [Error]	[streamChoices] Request id invalid, should have "completionId" and "created": {
+  headerRequestId: '4478fbf8-84a0-4c77-9f68-d780b770fc68',
+  completionId: '',
+  created: 0,
+  serverExperiments: '',
+  deploymentId: ''
+}
+
+!ENTRY org.eclipse.lsp4e 1 0 2025-09-14 09:34:24.086
+!MESSAGE [Info]	[streamChoices] solution 0 returned. finish reason: [stop]
+
+!ENTRY org.eclipse.lsp4e 1 0 2025-09-14 09:34:24.465
+!MESSAGE [Info]	[fetchCompletions] Request c342527d-ae62-4cbb-adb6-3ae18270033a at <https://proxy.individual.githubcopilot.com/v1/engines/gpt-41-copilot/completions> finished with 200 status after 349.0224579999922ms
+
+!ENTRY org.eclipse.lsp4e 4 0 2025-09-14 09:34:24.470
+!MESSAGE [Error]	[streamChoices] Request id invalid, should have "completionId" and "created": {
+  headerRequestId: 'c342527d-ae62-4cbb-adb6-3ae18270033a',
+  completionId: '',
+  created: 0,
+  serverExperiments: '',
+  deploymentId: ''
+}
+
+!ENTRY org.eclipse.lsp4e 4 0 2025-09-14 09:34:24.538
+!MESSAGE [Error]	[streamChoices] Request id invalid, should have "completionId" and "created": {
+  headerRequestId: 'c342527d-ae62-4cbb-adb6-3ae18270033a',
+  completionId: '',
+  created: 0,
+  serverExperiments: '',
+  deploymentId: ''
+}
+
+!ENTRY org.eclipse.lsp4e 4 0 2025-09-14 09:34:24.539
+!MESSAGE [Error]	[streamChoices] Request id invalid, should have "completionId" and "created": {
+  headerRequestId: 'c342527d-ae62-4cbb-adb6-3ae18270033a',
+  completionId: '',
+  created: 0,
+  serverExperiments: '',
+  deploymentId: ''
+}
+
+!ENTRY org.eclipse.lsp4e 4 0 2025-09-14 09:34:24.540
+!MESSAGE [Error]	[streamChoices] Request id invalid, should have "completionId" and "created": {
+  headerRequestId: 'c342527d-ae62-4cbb-adb6-3ae18270033a',
+  completionId: '',
+  created: 0,
+  serverExperiments: '',
+  deploymentId: ''
+}
+
+!ENTRY org.eclipse.lsp4e 1 0 2025-09-14 09:34:24.541
+!MESSAGE [Info]	[streamChoices] solution 0 returned. finish reason: [stop]
+
+!ENTRY org.eclipse.lsp4e 4 0 2025-09-14 09:34:24.541
+!MESSAGE [Error]	[streamChoices] Request id invalid, should have "completionId" and "created": {
+  headerRequestId: 'c342527d-ae62-4cbb-adb6-3ae18270033a',
+  completionId: '',
+  created: 0,
+  serverExperiments: '',
+  deploymentId: ''
+}
+
+!ENTRY org.eclipse.lsp4e 4 0 2025-09-14 09:34:24.544
+!MESSAGE [Error]	[streamChoices] Request id invalid, should have "completionId" and "created": {
+  headerRequestId: 'c342527d-ae62-4cbb-adb6-3ae18270033a',
+  completionId: '',
+  created: 0,
+  serverExperiments: '',
+  deploymentId: ''
+}
+
+!ENTRY org.eclipse.lsp4e 1 0 2025-09-14 09:34:29.465
+!MESSAGE [Info]	[fetchCompletions] Request 1275d068-64a4-447b-a10c-84eb5d143357 at <https://proxy.individual.githubcopilot.com/v1/engines/gpt-41-copilot/completions> finished with 200 status after 429.22927000001073ms
+
+!ENTRY org.eclipse.lsp4e 4 0 2025-09-14 09:34:29.466
+!MESSAGE [Error]	[streamChoices] Request id invalid, should have "completionId" and "created": {
+  headerRequestId: '1275d068-64a4-447b-a10c-84eb5d143357',
+  completionId: '',
+  created: 0,
+  serverExperiments: '',
+  deploymentId: ''
+}
+
+!ENTRY org.eclipse.lsp4e 4 0 2025-09-14 09:34:29.503
+!MESSAGE [Error]	[streamChoices] Request id invalid, should have "completionId" and "created": {
+  headerRequestId: '1275d068-64a4-447b-a10c-84eb5d143357',
+  completionId: '',
+  created: 0,
+  serverExperiments: '',
+  deploymentId: ''
+}
+
+!ENTRY org.eclipse.lsp4e 1 0 2025-09-14 09:34:29.504
+!MESSAGE [Info]	[streamChoices] solution 0 returned. finish reason: [stop]
+
+!ENTRY org.eclipse.lsp4e 1 0 2025-09-14 09:34:34.068
+!MESSAGE [Info]	[fetchCompletions] Request 1d483839-e6d5-44a6-9628-55328859a419 at <https://proxy.individual.githubcopilot.com/v1/engines/gpt-41-copilot/completions> finished with 200 status after 365.2316010000068ms
+
+!ENTRY org.eclipse.lsp4e 4 0 2025-09-14 09:34:34.069
+!MESSAGE [Error]	[streamChoices] Request id invalid, should have "completionId" and "created": {
+  headerRequestId: '1d483839-e6d5-44a6-9628-55328859a419',
+  completionId: '',
+  created: 0,
+  serverExperiments: '',
+  deploymentId: ''
+}
+
+!ENTRY org.eclipse.lsp4e 4 0 2025-09-14 09:34:34.108
+!MESSAGE [Error]	[streamChoices] Request id invalid, should have "completionId" and "created": {
+  headerRequestId: '1d483839-e6d5-44a6-9628-55328859a419',
+  completionId: '',
+  created: 0,
+  serverExperiments: '',
+  deploymentId: ''
+}
+
+!ENTRY org.eclipse.lsp4e 1 0 2025-09-14 09:34:34.109
+!MESSAGE [Info]	[streamChoices] solution 0 returned. finish reason: [stop]
+
+!ENTRY org.eclipse.lsp4e 1 0 2025-09-14 09:34:34.471
+!MESSAGE [Info]	[fetchCompletions] Request 71bda4c9-183d-479a-8dbd-87040b17c26a at <https://proxy.individual.githubcopilot.com/v1/engines/gpt-41-copilot/completions> finished with 200 status after 348.8979099999997ms
+
+!ENTRY org.eclipse.lsp4e 4 0 2025-09-14 09:34:34.472
+!MESSAGE [Error]	[streamChoices] Request id invalid, should have "completionId" and "created": {
+  headerRequestId: '71bda4c9-183d-479a-8dbd-87040b17c26a',
+  completionId: '',
+  created: 0,
+  serverExperiments: '',
+  deploymentId: ''
+}
+
+!ENTRY org.eclipse.lsp4e 4 0 2025-09-14 09:34:34.520
+!MESSAGE [Error]	[streamChoices] Request id invalid, should have "completionId" and "created": {
+  headerRequestId: '71bda4c9-183d-479a-8dbd-87040b17c26a',
+  completionId: '',
+  created: 0,
+  serverExperiments: '',
+  deploymentId: ''
+}
+
+!ENTRY org.eclipse.lsp4e 1 0 2025-09-14 09:34:34.520
+!MESSAGE [Info]	[streamChoices] solution 0 returned. finish reason: [stop]
+
+!ENTRY org.eclipse.lsp4e 1 0 2025-09-14 09:34:34.873
+!MESSAGE [Info]	[fetchCompletions] Request fd5a7c42-d31d-41bd-a2fe-a8de93665103 at <https://proxy.individual.githubcopilot.com/v1/engines/gpt-41-copilot/completions> finished with 200 status after 337.8982060000126ms
+
+!ENTRY org.eclipse.lsp4e 4 0 2025-09-14 09:34:34.874
+!MESSAGE [Error]	[streamChoices] Request id invalid, should have "completionId" and "created": {
+  headerRequestId: 'fd5a7c42-d31d-41bd-a2fe-a8de93665103',
+  completionId: '',
+  created: 0,
+  serverExperiments: '',
+  deploymentId: ''
+}
+
+!ENTRY org.eclipse.lsp4e 4 0 2025-09-14 09:34:34.918
+!MESSAGE [Error]	[streamChoices] Request id invalid, should have "completionId" and "created": {
+  headerRequestId: 'fd5a7c42-d31d-41bd-a2fe-a8de93665103',
+  completionId: '',
+  created: 0,
+  serverExperiments: '',
+  deploymentId: ''
+}
+
+!ENTRY org.eclipse.lsp4e 1 0 2025-09-14 09:34:34.918
+!MESSAGE [Info]	[streamChoices] solution 0 returned. finish reason: [stop]
+
+!ENTRY org.eclipse.lsp4e 1 0 2025-09-14 09:34:35.285
+!MESSAGE [Info]	[fetchCompletions] Request ba63a689-4b37-44e7-9f0b-3ad5a10a49e7 at <https://proxy.individual.githubcopilot.com/v1/engines/gpt-41-copilot/completions> finished with 200 status after 347.6966769999999ms
+
+!ENTRY org.eclipse.lsp4e 4 0 2025-09-14 09:34:35.285
+!MESSAGE [Error]	[streamChoices] Request id invalid, should have "completionId" and "created": {
+  headerRequestId: 'ba63a689-4b37-44e7-9f0b-3ad5a10a49e7',
+  completionId: '',
+  created: 0,
+  serverExperiments: '',
+  deploymentId: ''
+}
+
+!ENTRY org.eclipse.lsp4e 4 0 2025-09-14 09:34:35.328
+!MESSAGE [Error]	[streamChoices] Request id invalid, should have "completionId" and "created": {
+  headerRequestId: 'ba63a689-4b37-44e7-9f0b-3ad5a10a49e7',
+  completionId: '',
+  created: 0,
+  serverExperiments: '',
+  deploymentId: ''
+}
+
+!ENTRY org.eclipse.lsp4e 1 0 2025-09-14 09:34:35.328
+!MESSAGE [Info]	[streamChoices] solution 0 returned. finish reason: [stop]
+
+!ENTRY org.eclipse.lsp4e 1 0 2025-09-14 09:34:35.966
+!MESSAGE [Info]	[fetchCompletions] Request 059ef52a-9d28-4a5c-8bb7-e5f5fff3c570 at <https://proxy.individual.githubcopilot.com/v1/engines/gpt-41-copilot/completions> finished with 200 status after 364.03206900000805ms
+
+!ENTRY org.eclipse.lsp4e 4 0 2025-09-14 09:34:35.967
+!MESSAGE [Error]	[streamChoices] Request id invalid, should have "completionId" and "created": {
+  headerRequestId: '059ef52a-9d28-4a5c-8bb7-e5f5fff3c570',
+  completionId: '',
+  created: 0,
+  serverExperiments: '',
+  deploymentId: ''
+}
+
+!ENTRY org.eclipse.lsp4e 4 0 2025-09-14 09:34:36.049
+!MESSAGE [Error]	[streamChoices] Request id invalid, should have "completionId" and "created": {
+  headerRequestId: '059ef52a-9d28-4a5c-8bb7-e5f5fff3c570',
+  completionId: '',
+  created: 0,
+  serverExperiments: '',
+  deploymentId: ''
+}
+
+!ENTRY org.eclipse.lsp4e 4 0 2025-09-14 09:34:36.050
+!MESSAGE [Error]	[streamChoices] Request id invalid, should have "completionId" and "created": {
+  headerRequestId: '059ef52a-9d28-4a5c-8bb7-e5f5fff3c570',
+  completionId: '',
+  created: 0,
+  serverExperiments: '',
+  deploymentId: ''
+}
+
+!ENTRY org.eclipse.lsp4e 4 0 2025-09-14 09:34:36.051
+!MESSAGE [Error]	[streamChoices] Request id invalid, should have "completionId" and "created": {
+  headerRequestId: '059ef52a-9d28-4a5c-8bb7-e5f5fff3c570',
+  completionId: '',
+  created: 0,
+  serverExperiments: '',
+  deploymentId: ''
+}
+
+!ENTRY org.eclipse.lsp4e 4 0 2025-09-14 09:34:36.051
+!MESSAGE [Error]	[streamChoices] Request id invalid, should have "completionId" and "created": {
+  headerRequestId: '059ef52a-9d28-4a5c-8bb7-e5f5fff3c570',
+  completionId: '',
+  created: 0,
+  serverExperiments: '',
+  deploymentId: ''
+}
+
+!ENTRY org.eclipse.lsp4e 4 0 2025-09-14 09:34:36.052
+!MESSAGE [Error]	[streamChoices] Request id invalid, should have "completionId" and "created": {
+  headerRequestId: '059ef52a-9d28-4a5c-8bb7-e5f5fff3c570',
+  completionId: '',
+  created: 0,
+  serverExperiments: '',
+  deploymentId: ''
+}
+
+!ENTRY org.eclipse.lsp4e 4 0 2025-09-14 09:34:36.052
+!MESSAGE [Error]	[streamChoices] Request id invalid, should have "completionId" and "created": {
+  headerRequestId: '059ef52a-9d28-4a5c-8bb7-e5f5fff3c570',
+  completionId: '',
+  created: 0,
+  serverExperiments: '',
+  deploymentId: ''
+}
+
+!ENTRY org.eclipse.lsp4e 4 0 2025-09-14 09:34:36.052
+!MESSAGE [Error]	[streamChoices] Request id invalid, should have "completionId" and "created": {
+  headerRequestId: '059ef52a-9d28-4a5c-8bb7-e5f5fff3c570',
+  completionId: '',
+  created: 0,
+  serverExperiments: '',
+  deploymentId: ''
+}
+
+!ENTRY org.eclipse.lsp4e 4 0 2025-09-14 09:34:36.052
+!MESSAGE [Error]	[streamChoices] Request id invalid, should have "completionId" and "created": {
+  headerRequestId: '059ef52a-9d28-4a5c-8bb7-e5f5fff3c570',
+  completionId: '',
+  created: 0,
+  serverExperiments: '',
+  deploymentId: ''
+}
+
+!ENTRY org.eclipse.lsp4e 1 0 2025-09-14 09:34:36.053
+!MESSAGE [Info]	[streamChoices] solution 0 returned. finish reason: [stop]
+
+!ENTRY org.eclipse.lsp4e 4 0 2025-09-14 09:34:37.537
+!MESSAGE [Error]	[streamChoices] Request id invalid, should have "completionId" and "created": {
+  headerRequestId: '64c8cca8-4c52-4af4-afc2-e9305e4d7e0b',
+  completionId: '',
+  created: 0,
+  serverExperiments: '',
+  deploymentId: ''
+}
+
+!ENTRY org.eclipse.lsp4e 1 0 2025-09-14 09:34:37.538
+!MESSAGE [Info]	[fetchCompletions] Request 64c8cca8-4c52-4af4-afc2-e9305e4d7e0b at <https://proxy.individual.githubcopilot.com/v1/engines/gpt-41-copilot/completions> finished with 200 status after 349.01317600000766ms
+
+!ENTRY org.eclipse.lsp4e 4 0 2025-09-14 09:34:37.579
+!MESSAGE [Error]	[streamChoices] Request id invalid, should have "completionId" and "created": {
+  headerRequestId: '64c8cca8-4c52-4af4-afc2-e9305e4d7e0b',
+  completionId: '',
+  created: 0,
+  serverExperiments: '',
+  deploymentId: ''
+}
+
+!ENTRY org.eclipse.lsp4e 1 0 2025-09-14 09:34:37.580
+!MESSAGE [Info]	[streamChoices] solution 0 returned. finish reason: [stop]
+
+!ENTRY org.eclipse.lsp4e 1 0 2025-09-14 09:34:39.962
+!MESSAGE [Info]	[fetchCompletions] Request fb05ebad-8fe6-489e-9a22-221a244ec0c8 at <https://proxy.individual.githubcopilot.com/v1/engines/gpt-41-copilot/completions> finished with 200 status after 360.6387049999903ms
+
+!ENTRY org.eclipse.lsp4e 4 0 2025-09-14 09:34:39.964
+!MESSAGE [Error]	[streamChoices] Request id invalid, should have "completionId" and "created": {
+  headerRequestId: 'fb05ebad-8fe6-489e-9a22-221a244ec0c8',
+  completionId: '',
+  created: 0,
+  serverExperiments: '',
+  deploymentId: ''
+}
+
+!ENTRY org.eclipse.lsp4e 4 0 2025-09-14 09:34:40.005
+!MESSAGE [Error]	[streamChoices] Request id invalid, should have "completionId" and "created": {
+  headerRequestId: 'fb05ebad-8fe6-489e-9a22-221a244ec0c8',
+  completionId: '',
+  created: 0,
+  serverExperiments: '',
+  deploymentId: ''
+}
+
+!ENTRY org.eclipse.lsp4e 1 0 2025-09-14 09:34:40.006
+!MESSAGE [Info]	[streamChoices] solution 0 returned. finish reason: [stop]
+
+!ENTRY org.eclipse.lsp4e 1 0 2025-09-14 09:34:41.414
+!MESSAGE [Info]	[fetchCompletions] Request 28764e32-4c02-450f-99ef-60b504e57f6f at <https://proxy.individual.githubcopilot.com/v1/engines/gpt-41-copilot/completions> finished with 200 status after 370.15039699999033ms
+
+!ENTRY org.eclipse.lsp4e 4 0 2025-09-14 09:34:41.415
+!MESSAGE [Error]	[streamChoices] Request id invalid, should have "completionId" and "created": {
+  headerRequestId: '28764e32-4c02-450f-99ef-60b504e57f6f',
+  completionId: '',
+  created: 0,
+  serverExperiments: '',
+  deploymentId: ''
+}
+
+!ENTRY org.eclipse.lsp4e 4 0 2025-09-14 09:34:41.454
+!MESSAGE [Error]	[streamChoices] Request id invalid, should have "completionId" and "created": {
+  headerRequestId: '28764e32-4c02-450f-99ef-60b504e57f6f',
+  completionId: '',
+  created: 0,
+  serverExperiments: '',
+  deploymentId: ''
+}
+
+!ENTRY org.eclipse.lsp4e 1 0 2025-09-14 09:34:41.456
+!MESSAGE [Info]	[streamChoices] solution 0 returned. finish reason: [stop]
+
+!ENTRY org.eclipse.lsp4e 1 0 2025-09-14 09:34:42.449
+!MESSAGE [Info]	[fetchCompletions] Request 24d9f506-eb70-42d2-87ff-28a47a30014f at <https://proxy.individual.githubcopilot.com/v1/engines/gpt-41-copilot/completions> finished with 200 status after 394.6376739999978ms
+
+!ENTRY org.eclipse.lsp4e 4 0 2025-09-14 09:34:42.450
+!MESSAGE [Error]	[streamChoices] Request id invalid, should have "completionId" and "created": {
+  headerRequestId: '24d9f506-eb70-42d2-87ff-28a47a30014f',
+  completionId: '',
+  created: 0,
+  serverExperiments: '',
+  deploymentId: ''
+}
+
+!ENTRY org.eclipse.lsp4e 1 0 2025-09-14 09:34:42.496
+!MESSAGE [Info]	[streamChoices] solution 0 returned. finish reason: [stop]
+
+!ENTRY org.eclipse.lsp4e 4 0 2025-09-14 09:34:42.496
+!MESSAGE [Error]	[streamChoices] Request id invalid, should have "completionId" and "created": {
+  headerRequestId: '24d9f506-eb70-42d2-87ff-28a47a30014f',
+  completionId: '',
+  created: 0,
+  serverExperiments: '',
+  deploymentId: ''
+}
+
+!ENTRY org.eclipse.lsp4e 1 0 2025-09-14 09:34:44.183
+!MESSAGE [Info]	[fetchCompletions] Request 155761ab-65de-4fc9-9c54-dc7eaa15e52e at <https://proxy.individual.githubcopilot.com/v1/engines/gpt-41-copilot/completions> finished with 200 status after 375.6801339999947ms
+
+!ENTRY org.eclipse.lsp4e 4 0 2025-09-14 09:34:44.183
+!MESSAGE [Error]	[streamChoices] Request id invalid, should have "completionId" and "created": {
+  headerRequestId: '155761ab-65de-4fc9-9c54-dc7eaa15e52e',
+  completionId: '',
+  created: 0,
+  serverExperiments: '',
+  deploymentId: ''
+}
+
+!ENTRY org.eclipse.lsp4e 1 0 2025-09-14 09:34:44.223
+!MESSAGE [Info]	[streamChoices] solution 0 returned. finish reason: [stop]
+
+!ENTRY org.eclipse.lsp4e 4 0 2025-09-14 09:34:44.223
+!MESSAGE [Error]	[streamChoices] Request id invalid, should have "completionId" and "created": {
+  headerRequestId: '155761ab-65de-4fc9-9c54-dc7eaa15e52e',
+  completionId: '',
+  created: 0,
+  serverExperiments: '',
+  deploymentId: ''
+}
+
+!ENTRY org.eclipse.lsp4e 1 0 2025-09-14 09:34:44.572
+!MESSAGE [Info]	[fetchCompletions] Request 86770825-050a-4455-bfaf-6e34e5e967f0 at <https://proxy.individual.githubcopilot.com/v1/engines/gpt-41-copilot/completions> finished with 200 status after 333.90611400001217ms
+
+!ENTRY org.eclipse.lsp4e 4 0 2025-09-14 09:34:44.573
+!MESSAGE [Error]	[streamChoices] Request id invalid, should have "completionId" and "created": {
+  headerRequestId: '86770825-050a-4455-bfaf-6e34e5e967f0',
+  completionId: '',
+  created: 0,
+  serverExperiments: '',
+  deploymentId: ''
+}
+
+!ENTRY org.eclipse.lsp4e 1 0 2025-09-14 09:34:44.611
+!MESSAGE [Info]	[streamChoices] solution 0 returned. finish reason: [stop]
+
+!ENTRY org.eclipse.lsp4e 4 0 2025-09-14 09:34:44.611
+!MESSAGE [Error]	[streamChoices] Request id invalid, should have "completionId" and "created": {
+  headerRequestId: '86770825-050a-4455-bfaf-6e34e5e967f0',
+  completionId: '',
+  created: 0,
+  serverExperiments: '',
+  deploymentId: ''
+}
+
+!ENTRY org.eclipse.lsp4e 2 0 2025-09-14 09:49:45.104
+!MESSAGE Could not resolve completion items due to timeout after 500 milliseconds in `completionItem/resolve`
+!STACK 0
+java.util.concurrent.TimeoutException
+	at java.base/java.util.concurrent.CompletableFuture.timedGet(CompletableFuture.java:1960)
+	at java.base/java.util.concurrent.CompletableFuture.get(CompletableFuture.java:2095)
+	at org.eclipse.lsp4e.operations.completion.LSCompletionProposal.resolveItem(LSCompletionProposal.java:398)
+	at org.eclipse.lsp4e.operations.completion.LSCompletionProposal.getAdditionalProposalInfo(LSCompletionProposal.java:364)
+	at org.eclipse.jface.text.contentassist.AdditionalInfoController$Timer$2$1.run(AdditionalInfoController.java:116)
+	at org.eclipse.core.internal.jobs.Worker.run(Worker.java:63)
+
+!ENTRY org.eclipse.lsp4e 2 0 2025-09-14 09:49:45.218
+!MESSAGE Could not resolve completion items due to timeout after 500 milliseconds in `completionItem/resolve`
+!STACK 0
+java.util.concurrent.TimeoutException
+	at java.base/java.util.concurrent.CompletableFuture.timedGet(CompletableFuture.java:1960)
+	at java.base/java.util.concurrent.CompletableFuture.get(CompletableFuture.java:2095)
+	at org.eclipse.lsp4e.operations.completion.LSCompletionProposal.resolveItem(LSCompletionProposal.java:398)
+	at org.eclipse.lsp4e.operations.completion.LSCompletionProposal.getAdditionalProposalInfo(LSCompletionProposal.java:364)
+	at org.eclipse.jface.text.contentassist.AdditionalInfoController$Timer$2$1.run(AdditionalInfoController.java:116)
+	at org.eclipse.core.internal.jobs.Worker.run(Worker.java:63)
+
+!ENTRY org.eclipse.lsp4e 2 0 2025-09-14 09:49:45.271
+!MESSAGE Could not resolve completion items due to timeout after 500 milliseconds in `completionItem/resolve`
+!STACK 0
+java.util.concurrent.TimeoutException
+	at java.base/java.util.concurrent.CompletableFuture.timedGet(CompletableFuture.java:1960)
+	at java.base/java.util.concurrent.CompletableFuture.get(CompletableFuture.java:2095)
+	at org.eclipse.lsp4e.operations.completion.LSCompletionProposal.resolveItem(LSCompletionProposal.java:398)
+	at org.eclipse.lsp4e.operations.completion.LSCompletionProposal.getAdditionalProposalInfo(LSCompletionProposal.java:364)
+	at org.eclipse.jface.text.contentassist.AdditionalInfoController$Timer$2$1.run(AdditionalInfoController.java:116)
+	at org.eclipse.core.internal.jobs.Worker.run(Worker.java:63)
+
+!ENTRY org.eclipse.lsp4e 2 0 2025-09-14 09:49:45.359
+!MESSAGE Could not resolve completion items due to timeout after 500 milliseconds in `completionItem/resolve`
+!STACK 0
+java.util.concurrent.TimeoutException
+	at java.base/java.util.concurrent.CompletableFuture.timedGet(CompletableFuture.java:1960)
+	at java.base/java.util.concurrent.CompletableFuture.get(CompletableFuture.java:2095)
+	at org.eclipse.lsp4e.operations.completion.LSCompletionProposal.resolveItem(LSCompletionProposal.java:398)
+	at org.eclipse.lsp4e.operations.completion.LSCompletionProposal.getAdditionalProposalInfo(LSCompletionProposal.java:364)
+	at org.eclipse.jface.text.contentassist.AdditionalInfoController$Timer$2$1.run(AdditionalInfoController.java:116)
+	at org.eclipse.core.internal.jobs.Worker.run(Worker.java:63)
+
+!ENTRY org.eclipse.lsp4e 2 0 2025-09-14 09:49:45.449
+!MESSAGE Could not resolve completion items due to timeout after 500 milliseconds in `completionItem/resolve`
+!STACK 0
+java.util.concurrent.TimeoutException
+	at java.base/java.util.concurrent.CompletableFuture.timedGet(CompletableFuture.java:1960)
+	at java.base/java.util.concurrent.CompletableFuture.get(CompletableFuture.java:2095)
+	at org.eclipse.lsp4e.operations.completion.LSCompletionProposal.resolveItem(LSCompletionProposal.java:398)
+	at org.eclipse.lsp4e.operations.completion.LSCompletionProposal.getAdditionalProposalInfo(LSCompletionProposal.java:364)
+	at org.eclipse.jface.text.contentassist.AdditionalInfoController$Timer$2$1.run(AdditionalInfoController.java:116)
+	at org.eclipse.core.internal.jobs.Worker.run(Worker.java:63)
+
+!ENTRY org.eclipse.lsp4e 2 0 2025-09-14 09:49:45.527
+!MESSAGE Could not resolve completion items due to timeout after 500 milliseconds in `completionItem/resolve`
+!STACK 0
+java.util.concurrent.TimeoutException
+	at java.base/java.util.concurrent.CompletableFuture.timedGet(CompletableFuture.java:1960)
+	at java.base/java.util.concurrent.CompletableFuture.get(CompletableFuture.java:2095)
+	at org.eclipse.lsp4e.operations.completion.LSCompletionProposal.resolveItem(LSCompletionProposal.java:398)
+	at org.eclipse.lsp4e.operations.completion.LSCompletionProposal.getAdditionalProposalInfo(LSCompletionProposal.java:364)
+	at org.eclipse.jface.text.contentassist.AdditionalInfoController$Timer$2$1.run(AdditionalInfoController.java:116)
+	at org.eclipse.core.internal.jobs.Worker.run(Worker.java:63)
+
+!ENTRY org.eclipse.lsp4e 2 0 2025-09-14 09:49:45.609
+!MESSAGE Could not resolve completion items due to timeout after 500 milliseconds in `completionItem/resolve`
+!STACK 0
+java.util.concurrent.TimeoutException
+	at java.base/java.util.concurrent.CompletableFuture.timedGet(CompletableFuture.java:1960)
+	at java.base/java.util.concurrent.CompletableFuture.get(CompletableFuture.java:2095)
+	at org.eclipse.lsp4e.operations.completion.LSCompletionProposal.resolveItem(LSCompletionProposal.java:398)
+	at org.eclipse.lsp4e.operations.completion.LSCompletionProposal.getAdditionalProposalInfo(LSCompletionProposal.java:364)
+	at org.eclipse.jface.text.contentassist.AdditionalInfoController$Timer$2$1.run(AdditionalInfoController.java:116)
+	at org.eclipse.core.internal.jobs.Worker.run(Worker.java:63)
+
+!ENTRY org.eclipse.lsp4e 2 0 2025-09-14 09:49:45.688
+!MESSAGE Could not resolve completion items due to timeout after 500 milliseconds in `completionItem/resolve`
+!STACK 0
+java.util.concurrent.TimeoutException
+	at java.base/java.util.concurrent.CompletableFuture.timedGet(CompletableFuture.java:1960)
+	at java.base/java.util.concurrent.CompletableFuture.get(CompletableFuture.java:2095)
+	at org.eclipse.lsp4e.operations.completion.LSCompletionProposal.resolveItem(LSCompletionProposal.java:398)
+	at org.eclipse.lsp4e.operations.completion.LSCompletionProposal.getAdditionalProposalInfo(LSCompletionProposal.java:364)
+	at org.eclipse.jface.text.contentassist.AdditionalInfoController$Timer$2$1.run(AdditionalInfoController.java:116)
+	at org.eclipse.core.internal.jobs.Worker.run(Worker.java:63)
+
+!ENTRY org.eclipse.lsp4e 2 0 2025-09-14 09:49:45.774
+!MESSAGE Could not resolve completion items due to timeout after 500 milliseconds in `completionItem/resolve`
+!STACK 0
+java.util.concurrent.TimeoutException
+	at java.base/java.util.concurrent.CompletableFuture.timedGet(CompletableFuture.java:1960)
+	at java.base/java.util.concurrent.CompletableFuture.get(CompletableFuture.java:2095)
+	at org.eclipse.lsp4e.operations.completion.LSCompletionProposal.resolveItem(LSCompletionProposal.java:398)
+	at org.eclipse.lsp4e.operations.completion.LSCompletionProposal.getAdditionalProposalInfo(LSCompletionProposal.java:364)
+	at org.eclipse.jface.text.contentassist.AdditionalInfoController$Timer$2$1.run(AdditionalInfoController.java:116)
+	at org.eclipse.core.internal.jobs.Worker.run(Worker.java:63)
+
+!ENTRY org.eclipse.lsp4e 1 0 2025-09-14 10:01:30.798
+!MESSAGE [Info]	[fetchChat] Request 3531e19f-f193-4964-936a-88c4431199bc at <https://api.individual.githubcopilot.com/chat/completions> finished with 200 status after 781.3777850000188ms
+
+!ENTRY org.eclipse.lsp4e 1 0 2025-09-14 10:01:30.849
+!MESSAGE [Info]	[streamMessages] message 0 returned. finish reason: [stop]
+
+!ENTRY org.eclipse.lsp4e 1 0 2025-09-14 10:01:31.204
+!MESSAGE [Info]	[fetchChat] Request 03ea2fe4-1523-4d50-b2d7-3de1a172f221 at <https://api.individual.githubcopilot.com/chat/completions> finished with 400 status after 313.6958469999954ms
+
+!ENTRY com.microsoft.copilot.eclipse 4 0 2025-09-14 10:01:31.205
+!MESSAGE [Error] Turn step failed, title=Generating response
+!STACK 0
+java.lang.IllegalStateException: Turn step failed, title=Generating response
+	at com.microsoft.copilot.eclipse.ui.chat.ChatView.onChatProgress(ChatView.java:343)
+	at com.microsoft.copilot.eclipse.core.chat.ChatEventsManager.notifyProgress(ChatEventsManager.java:53)
+	at com.microsoft.copilot.eclipse.core.lsp.CopilotLanguageClient.notifyProgress(CopilotLanguageClient.java:184)
+	at java.base/jdk.internal.reflect.DirectMethodHandleAccessor.invoke(DirectMethodHandleAccessor.java:103)
+	at java.base/java.lang.reflect.Method.invoke(Method.java:580)
+	at org.eclipse.lsp4j.jsonrpc.services.GenericEndpoint.lambda$recursiveFindRpcMethods$0(GenericEndpoint.java:65)
+	at org.eclipse.lsp4j.jsonrpc.services.GenericEndpoint.notify(GenericEndpoint.java:160)
+	at org.eclipse.lsp4j.jsonrpc.RemoteEndpoint.handleNotification(RemoteEndpoint.java:231)
+	at org.eclipse.lsp4j.jsonrpc.RemoteEndpoint.consume(RemoteEndpoint.java:198)
+	at org.eclipse.lsp4e.LanguageServerWrapper.lambda$3(LanguageServerWrapper.java:356)
+	at org.eclipse.lsp4j.jsonrpc.json.StreamMessageProducer.handleMessage(StreamMessageProducer.java:185)
+	at org.eclipse.lsp4j.jsonrpc.json.StreamMessageProducer.listen(StreamMessageProducer.java:97)
+	at org.eclipse.lsp4j.jsonrpc.json.ConcurrentMessageProcessor.run(ConcurrentMessageProcessor.java:114)
+	at java.base/java.util.concurrent.Executors$RunnableAdapter.call(Executors.java:572)
+	at java.base/java.util.concurrent.FutureTask.run(FutureTask.java:317)
+	at java.base/java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1144)
+	at java.base/java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:642)
+	at java.base/java.lang.Thread.run(Thread.java:1583)
+
+!ENTRY org.eclipse.lsp4e 1 0 2025-09-14 10:02:06.063
+!MESSAGE [Info]	[fetchChat] Request 9c26dfe7-5cf7-4d61-b971-791444987fa2 at <https://api.individual.githubcopilot.com/chat/completions> finished with 200 status after 466.3782760000322ms
+
+!ENTRY org.eclipse.lsp4e 1 0 2025-09-14 10:02:06.117
+!MESSAGE [Info]	[streamMessages] message 0 returned. finish reason: [stop]
+
+!ENTRY org.eclipse.lsp4e 1 0 2025-09-14 10:02:06.653
+!MESSAGE [Info]	[fetchChat] Request 4bed38be-2f12-41b0-a2aa-b1bec50109a6 at <https://api.individual.githubcopilot.com/chat/completions> finished with 200 status after 524.8628730000928ms
+
+!ENTRY org.eclipse.lsp4e 1 0 2025-09-14 10:02:08.074
+!MESSAGE [Info]	[streamMessages] message 0 returned. finish reason: [stop]
+
+!ENTRY org.eclipse.lsp4e 1 0 2025-09-14 10:02:08.538
+!MESSAGE [Info]	[fetchChat] Request d1edab6d-d9cf-497d-acc8-74b88bd0fc38 at <https://api.individual.githubcopilot.com/chat/completions> finished with 200 status after 487.9659240001347ms
+
+!ENTRY org.eclipse.lsp4e 1 0 2025-09-14 10:02:08.698
+!MESSAGE [Info]	[streamMessages] message 0 returned. finish reason: [stop]
+
+!ENTRY org.eclipse.lsp4e 1 0 2025-09-14 10:20:59.038
+!MESSAGE [Info]	[fetchChat] Request ed3fb1fd-2a30-4adb-8812-c0ca57ea4a18 at <https://api.individual.githubcopilot.com/chat/completions> finished with 200 status after 1472.667014000006ms
+
+!ENTRY org.eclipse.lsp4e 1 0 2025-09-14 10:20:59.179
+!MESSAGE [Info]	[streamMessages] message 0 returned. finish reason: [stop]
+
+!ENTRY org.eclipse.lsp4e 1 0 2025-09-14 10:20:59.713
+!MESSAGE [Info]	[fetchChat] Request 4f6f8513-bacd-49e6-ae06-d0571267d85e at <https://api.individual.githubcopilot.com/chat/completions> finished with 200 status after 520.0807250002399ms
+
+!ENTRY org.eclipse.lsp4e 1 0 2025-09-14 10:21:01.083
+!MESSAGE [Info]	[streamMessages] message 0 returned. finish reason: [stop]
+
+!ENTRY org.eclipse.lsp4e 1 0 2025-09-14 10:21:01.571
+!MESSAGE [Info]	[fetchChat] Request d174e819-e890-4f4d-8f73-fdcea0901768 at <https://api.individual.githubcopilot.com/chat/completions> finished with 200 status after 464.3695720001124ms
+
+!ENTRY org.eclipse.lsp4e 1 0 2025-09-14 10:21:01.714
+!MESSAGE [Info]	[streamMessages] message 0 returned. finish reason: [stop]
+
+!ENTRY org.eclipse.jdt.ui 4 10001 2025-09-14 10:21:51.892
+!MESSAGE Cannot find semantic highlighting for SemanticToken[ofset=319, length=7, tokenType=METHOD]
+
+!ENTRY org.eclipse.jdt.ui 4 10001 2025-09-14 10:21:52.672
+!MESSAGE Cannot find semantic highlighting for SemanticToken[ofset=319, length=7, tokenType=METHOD]
+
+!ENTRY org.eclipse.jdt.ui 4 10001 2025-09-14 10:21:53.466
+!MESSAGE Cannot find semantic highlighting for SemanticToken[ofset=319, length=7, tokenType=METHOD]
+
+!ENTRY org.eclipse.jdt.ui 4 10001 2025-09-14 10:21:54.284
+!MESSAGE Cannot find semantic highlighting for SemanticToken[ofset=319, length=7, tokenType=METHOD]
+
+!ENTRY org.eclipse.jdt.ui 4 10001 2025-09-14 10:21:59.828
+!MESSAGE Cannot find semantic highlighting for SemanticToken[ofset=319, length=7, tokenType=METHOD]
+
+!ENTRY org.eclipse.jdt.ui 4 10001 2025-09-14 10:22:00.730
+!MESSAGE Cannot find semantic highlighting for SemanticToken[ofset=319, length=7, tokenType=METHOD]
+
+!ENTRY org.eclipse.jdt.ui 4 10001 2025-09-14 10:22:01.485
+!MESSAGE Cannot find semantic highlighting for SemanticToken[ofset=319, length=7, tokenType=METHOD]
+
+!ENTRY org.eclipse.jdt.ui 4 10001 2025-09-14 10:22:03.358
+!MESSAGE Cannot find semantic highlighting for SemanticToken[ofset=319, length=7, tokenType=METHOD]
+
+!ENTRY org.eclipse.jdt.ui 4 10001 2025-09-14 10:22:03.889
+!MESSAGE Cannot find semantic highlighting for SemanticToken[ofset=319, length=7, tokenType=METHOD]
+
+!ENTRY org.eclipse.jdt.ui 4 10001 2025-09-14 10:22:06.573
+!MESSAGE Cannot find semantic highlighting for SemanticToken[ofset=319, length=7, tokenType=METHOD]
+
+!ENTRY org.eclipse.jdt.ui 4 10001 2025-09-14 10:23:35.915
+!MESSAGE Cannot find semantic highlighting for SemanticToken[ofset=319, length=7, tokenType=METHOD]
+
+!ENTRY org.eclipse.jdt.ui 4 10001 2025-09-14 10:23:36.355
+!MESSAGE Cannot find semantic highlighting for SemanticToken[ofset=319, length=7, tokenType=METHOD]
+
+!ENTRY org.eclipse.jdt.ui 4 10001 2025-09-14 10:23:37.618
+!MESSAGE Cannot find semantic highlighting for SemanticToken[ofset=319, length=7, tokenType=METHOD]
+
+!ENTRY org.eclipse.jdt.ui 4 10001 2025-09-14 10:23:38.118
+!MESSAGE Cannot find semantic highlighting for SemanticToken[ofset=319, length=7, tokenType=METHOD]
+
+!ENTRY org.eclipse.jdt.ui 4 10001 2025-09-14 10:23:38.619
+!MESSAGE Cannot find semantic highlighting for SemanticToken[ofset=319, length=7, tokenType=METHOD]
+
+!ENTRY org.eclipse.jdt.ui 4 10001 2025-09-14 10:23:40.831
+!MESSAGE Cannot find semantic highlighting for SemanticToken[ofset=319, length=7, tokenType=METHOD]
+
+!ENTRY org.eclipse.lsp4e 1 0 2025-09-14 10:24:11.649
+!MESSAGE [Info]	[fetchChat] Request b4cc1f3d-bf2c-49f1-a3f8-d143c5abf079 at <https://api.individual.githubcopilot.com/chat/completions> finished with 200 status after 1346.4130259999074ms
+
+!ENTRY org.eclipse.lsp4e 1 0 2025-09-14 10:24:11.673
+!MESSAGE [Info]	[streamMessages] message 0 returned. finish reason: [stop]
+
+!ENTRY org.eclipse.lsp4e 1 0 2025-09-14 10:24:12.441
+!MESSAGE [Info]	[fetchChat] Request 6b29306f-114d-4a09-a6a4-de216b860854 at <https://api.individual.githubcopilot.com/chat/completions> finished with 200 status after 747.3914979998954ms
+
+!ENTRY org.eclipse.lsp4e 1 0 2025-09-14 10:24:12.970
+!MESSAGE [Info]	[streamMessages] message 0 returned. finish reason: [stop]
+
+!ENTRY org.eclipse.lsp4e 1 0 2025-09-14 10:24:13.436
+!MESSAGE [Info]	[fetchChat] Request af5fa3bc-f9ae-49ff-912e-e7ae12386b3b at <https://api.individual.githubcopilot.com/chat/completions> finished with 200 status after 486.9461349998601ms
+
+!ENTRY org.eclipse.lsp4e 1 0 2025-09-14 10:24:13.591
+!MESSAGE [Info]	[streamMessages] message 0 returned. finish reason: [stop]
+
+!ENTRY org.eclipse.jdt.ui 4 10001 2025-09-14 10:25:58.450
+!MESSAGE Cannot find semantic highlighting for SemanticToken[ofset=319, length=7, tokenType=METHOD]
+
+!ENTRY org.eclipse.jdt.ui 4 10001 2025-09-14 10:25:58.938
+!MESSAGE Cannot find semantic highlighting for SemanticToken[ofset=319, length=7, tokenType=METHOD]
+
+!ENTRY org.eclipse.jdt.ui 4 10001 2025-09-14 10:25:59.444
+!MESSAGE Cannot find semantic highlighting for SemanticToken[ofset=319, length=7, tokenType=METHOD]
+
+!ENTRY org.eclipse.jdt.ui 4 10001 2025-09-14 10:26:00.938
+!MESSAGE Cannot find semantic highlighting for SemanticToken[ofset=319, length=7, tokenType=METHOD]
+
+!ENTRY org.eclipse.jdt.ui 4 10001 2025-09-14 10:26:01.434
+!MESSAGE Cannot find semantic highlighting for SemanticToken[ofset=319, length=7, tokenType=METHOD]
+
+!ENTRY org.eclipse.jdt.ui 4 10001 2025-09-14 10:26:01.930
+!MESSAGE Cannot find semantic highlighting for SemanticToken[ofset=319, length=7, tokenType=METHOD]
+
+!ENTRY org.eclipse.jdt.ui 4 10001 2025-09-14 10:26:02.640
+!MESSAGE Cannot find semantic highlighting for SemanticToken[ofset=319, length=7, tokenType=METHOD]
+
+!ENTRY org.eclipse.jdt.ui 4 10001 2025-09-14 10:26:03.135
+!MESSAGE Cannot find semantic highlighting for SemanticToken[ofset=319, length=7, tokenType=METHOD]
+
+!ENTRY org.eclipse.jdt.ui 4 10001 2025-09-14 10:26:03.634
+!MESSAGE Cannot find semantic highlighting for SemanticToken[ofset=319, length=7, tokenType=METHOD]
+
+!ENTRY org.eclipse.jdt.ui 4 10001 2025-09-14 10:26:04.773
+!MESSAGE Cannot find semantic highlighting for SemanticToken[ofset=319, length=7, tokenType=METHOD]
+
+!ENTRY org.eclipse.lsp4e 1 0 2025-09-14 10:26:59.912
+!MESSAGE [Info]	[fetchChat] Request 8ee0761d-b8e8-48f8-865d-c032af6cc936 at <https://api.individual.githubcopilot.com/chat/completions> finished with 200 status after 1234.0165559998713ms
+
+!ENTRY org.eclipse.lsp4e 1 0 2025-09-14 10:26:59.955
+!MESSAGE [Info]	[streamMessages] message 0 returned. finish reason: [stop]
+
+!ENTRY org.eclipse.lsp4e 1 0 2025-09-14 10:27:00.742
+!MESSAGE [Info]	[fetchChat] Request 36d59020-7167-4172-b9b8-9a2b557c9a16 at <https://api.individual.githubcopilot.com/chat/completions> finished with 200 status after 520.0408969996497ms
+
+!ENTRY org.eclipse.lsp4e 1 0 2025-09-14 10:27:01.681
+!MESSAGE [Info]	[streamMessages] message 0 returned. finish reason: [stop]
+
+!ENTRY org.eclipse.lsp4e 1 0 2025-09-14 10:27:02.286
+!MESSAGE [Info]	[fetchChat] Request e7c24719-01d8-458b-b688-658e8998cb99 at <https://api.individual.githubcopilot.com/chat/completions> finished with 200 status after 614.865249000024ms
+
+!ENTRY org.eclipse.lsp4e 1 0 2025-09-14 10:27:02.423
+!MESSAGE [Info]	[streamMessages] message 0 returned. finish reason: [stop]
+
+!ENTRY org.eclipse.jdt.ui 4 10001 2025-09-14 10:32:51.882
+!MESSAGE Cannot find semantic highlighting for SemanticToken[ofset=319, length=7, tokenType=METHOD]
+
+!ENTRY org.eclipse.jdt.ui 4 10001 2025-09-14 10:42:35.420
+!MESSAGE Cannot find semantic highlighting for SemanticToken[ofset=319, length=7, tokenType=METHOD]
+
+!ENTRY org.eclipse.jdt.ui 4 10001 2025-09-14 10:42:35.956
+!MESSAGE Cannot find semantic highlighting for SemanticToken[ofset=319, length=7, tokenType=METHOD]
+
+!ENTRY org.eclipse.jdt.ui 4 10001 2025-09-14 10:42:36.916
+!MESSAGE Cannot find semantic highlighting for SemanticToken[ofset=319, length=7, tokenType=METHOD]
+
+!ENTRY org.eclipse.jdt.ui 4 10001 2025-09-14 10:42:37.436
+!MESSAGE Cannot find semantic highlighting for SemanticToken[ofset=319, length=7, tokenType=METHOD]
+
+!ENTRY org.eclipse.jdt.ui 4 10001 2025-09-14 10:42:37.916
+!MESSAGE Cannot find semantic highlighting for SemanticToken[ofset=319, length=7, tokenType=METHOD]
+
+!ENTRY org.eclipse.jdt.ui 4 10001 2025-09-14 10:42:38.413
+!MESSAGE Cannot find semantic highlighting for SemanticToken[ofset=319, length=7, tokenType=METHOD]
+
+!ENTRY org.eclipse.jdt.ui 4 10001 2025-09-14 10:42:40.055
+!MESSAGE Cannot find semantic highlighting for SemanticToken[ofset=319, length=7, tokenType=METHOD]
+
+!ENTRY org.eclipse.jdt.ui 4 10001 2025-09-14 10:42:40.555
+!MESSAGE Cannot find semantic highlighting for SemanticToken[ofset=319, length=7, tokenType=METHOD]
+
+!ENTRY org.eclipse.jdt.ui 4 10001 2025-09-14 10:42:41.065
+!MESSAGE Cannot find semantic highlighting for SemanticToken[ofset=319, length=7, tokenType=METHOD]
+
+!ENTRY org.eclipse.jdt.ui 4 10001 2025-09-14 10:42:41.555
+!MESSAGE Cannot find semantic highlighting for SemanticToken[ofset=319, length=7, tokenType=METHOD]
+
+!ENTRY org.eclipse.jdt.ui 4 10001 2025-09-14 10:42:42.562
+!MESSAGE Cannot find semantic highlighting for SemanticToken[ofset=319, length=7, tokenType=METHOD]
+
+!ENTRY org.eclipse.jdt.ui 4 10001 2025-09-14 10:42:45.592
+!MESSAGE Cannot find semantic highlighting for SemanticToken[ofset=319, length=7, tokenType=METHOD]
+
+!ENTRY org.eclipse.jdt.ui 4 10001 2025-09-14 10:42:46.096
+!MESSAGE Cannot find semantic highlighting for SemanticToken[ofset=319, length=7, tokenType=METHOD]
+
+!ENTRY org.eclipse.jdt.ui 4 10001 2025-09-14 10:42:46.589
+!MESSAGE Cannot find semantic highlighting for SemanticToken[ofset=319, length=7, tokenType=METHOD]
+
+!ENTRY org.eclipse.jdt.ui 4 10001 2025-09-14 10:42:47.679
+!MESSAGE Cannot find semantic highlighting for SemanticToken[ofset=319, length=7, tokenType=METHOD]
+
+!ENTRY org.eclipse.jdt.ui 4 10001 2025-09-14 10:42:49.239
+!MESSAGE Cannot find semantic highlighting for SemanticToken[ofset=319, length=7, tokenType=METHOD]
+
+!ENTRY org.eclipse.jdt.ui 4 10001 2025-09-14 10:42:52.062
+!MESSAGE Cannot find semantic highlighting for SemanticToken[ofset=319, length=7, tokenType=METHOD]
+
+!ENTRY org.eclipse.jdt.ui 4 10001 2025-09-14 10:42:52.564
+!MESSAGE Cannot find semantic highlighting for SemanticToken[ofset=319, length=7, tokenType=METHOD]
+
+!ENTRY org.eclipse.jdt.ui 4 10001 2025-09-14 10:42:54.359
+!MESSAGE Cannot find semantic highlighting for SemanticToken[ofset=319, length=7, tokenType=METHOD]
+
+!ENTRY org.eclipse.jdt.ui 4 10001 2025-09-14 10:42:55.351
+!MESSAGE Cannot find semantic highlighting for SemanticToken[ofset=319, length=7, tokenType=METHOD]
+
+!ENTRY org.eclipse.jdt.ui 4 10001 2025-09-14 10:42:55.801
+!MESSAGE Cannot find semantic highlighting for SemanticToken[ofset=319, length=7, tokenType=METHOD]
+
+!ENTRY org.eclipse.jdt.ui 4 10001 2025-09-14 10:42:56.305
+!MESSAGE Cannot find semantic highlighting for SemanticToken[ofset=319, length=7, tokenType=METHOD]
+
+!ENTRY org.eclipse.jdt.ui 4 10001 2025-09-14 10:42:58.473
+!MESSAGE Cannot find semantic highlighting for SemanticToken[ofset=319, length=7, tokenType=METHOD]
+
+!ENTRY org.eclipse.jdt.ui 4 10001 2025-09-14 10:42:59.491
+!MESSAGE Cannot find semantic highlighting for SemanticToken[ofset=319, length=7, tokenType=METHOD]
+
+!ENTRY org.eclipse.jdt.ui 4 10001 2025-09-14 10:43:01.187
+!MESSAGE Cannot find semantic highlighting for SemanticToken[ofset=319, length=7, tokenType=METHOD]
+
+!ENTRY org.eclipse.jdt.ui 4 10001 2025-09-14 10:43:01.579
+!MESSAGE Cannot find semantic highlighting for SemanticToken[ofset=319, length=7, tokenType=METHOD]
+
+!ENTRY org.eclipse.jdt.ui 4 10001 2025-09-14 10:43:02.097
+!MESSAGE Cannot find semantic highlighting for SemanticToken[ofset=319, length=7, tokenType=METHOD]
+
+!ENTRY org.eclipse.jdt.ui 4 10001 2025-09-14 10:43:03.082
+!MESSAGE Cannot find semantic highlighting for SemanticToken[ofset=319, length=7, tokenType=METHOD]
+
+!ENTRY org.eclipse.jdt.ui 4 10001 2025-09-14 10:43:03.583
+!MESSAGE Cannot find semantic highlighting for SemanticToken[ofset=319, length=7, tokenType=METHOD]
+
+!ENTRY org.eclipse.jdt.ui 4 10001 2025-09-14 10:43:04.906
+!MESSAGE Cannot find semantic highlighting for SemanticToken[ofset=319, length=7, tokenType=METHOD]
+
+!ENTRY org.eclipse.jdt.ui 4 10001 2025-09-14 10:43:06.021
+!MESSAGE Cannot find semantic highlighting for SemanticToken[ofset=319, length=7, tokenType=METHOD]
+
+!ENTRY org.eclipse.jdt.ui 4 10001 2025-09-14 10:43:08.932
+!MESSAGE Cannot find semantic highlighting for SemanticToken[ofset=319, length=7, tokenType=METHOD]
+
+!ENTRY org.eclipse.jdt.ui 4 10001 2025-09-14 10:43:10.110
+!MESSAGE Cannot find semantic highlighting for SemanticToken[ofset=319, length=7, tokenType=METHOD]
+
+!ENTRY org.eclipse.jdt.ui 4 10001 2025-09-14 10:43:11.769
+!MESSAGE Cannot find semantic highlighting for SemanticToken[ofset=319, length=7, tokenType=METHOD]
+
+!ENTRY org.eclipse.jdt.ui 4 10001 2025-09-14 10:43:13.270
+!MESSAGE Cannot find semantic highlighting for SemanticToken[ofset=319, length=7, tokenType=METHOD]
+
+!ENTRY org.eclipse.jdt.ui 4 10001 2025-09-14 10:43:15.723
+!MESSAGE Cannot find semantic highlighting for SemanticToken[ofset=319, length=7, tokenType=METHOD]
+
+!ENTRY org.eclipse.jdt.ui 4 10001 2025-09-14 10:43:18.031
+!MESSAGE Cannot find semantic highlighting for SemanticToken[ofset=319, length=7, tokenType=METHOD]
+
+!ENTRY org.eclipse.jdt.ui 4 10001 2025-09-14 10:43:21.537
+!MESSAGE Cannot find semantic highlighting for SemanticToken[ofset=319, length=7, tokenType=METHOD]
+
+!ENTRY org.eclipse.jdt.ui 4 10001 2025-09-14 10:43:22.054
+!MESSAGE Cannot find semantic highlighting for SemanticToken[ofset=319, length=7, tokenType=METHOD]
+
+!ENTRY org.eclipse.jdt.ui 4 10001 2025-09-14 10:43:23.834
+!MESSAGE Cannot find semantic highlighting for SemanticToken[ofset=319, length=7, tokenType=METHOD]
+
+!ENTRY org.eclipse.jdt.ui 4 10001 2025-09-14 10:43:24.337
+!MESSAGE Cannot find semantic highlighting for SemanticToken[ofset=319, length=7, tokenType=METHOD]
+
+!ENTRY org.eclipse.jdt.ui 4 10001 2025-09-14 10:43:25.142
+!MESSAGE Cannot find semantic highlighting for SemanticToken[ofset=319, length=7, tokenType=METHOD]
+
+!ENTRY org.eclipse.jdt.ui 4 10001 2025-09-14 10:43:25.598
+!MESSAGE Cannot find semantic highlighting for SemanticToken[ofset=319, length=7, tokenType=METHOD]
+
+!ENTRY org.eclipse.jdt.ui 4 10001 2025-09-14 10:43:27.175
+!MESSAGE Cannot find semantic highlighting for SemanticToken[ofset=319, length=7, tokenType=METHOD]
+
+!ENTRY org.eclipse.jdt.ui 4 10001 2025-09-14 10:43:28.206
+!MESSAGE Cannot find semantic highlighting for SemanticToken[ofset=319, length=7, tokenType=METHOD]
+
+!ENTRY org.eclipse.jdt.ui 4 10001 2025-09-14 10:43:29.570
+!MESSAGE Cannot find semantic highlighting for SemanticToken[ofset=319, length=7, tokenType=METHOD]
+
+!ENTRY org.eclipse.jdt.ui 4 10001 2025-09-14 10:43:30.741
+!MESSAGE Cannot find semantic highlighting for SemanticToken[ofset=319, length=7, tokenType=METHOD]
+
+!ENTRY org.eclipse.jdt.ui 4 10001 2025-09-14 10:43:31.430
+!MESSAGE Cannot find semantic highlighting for SemanticToken[ofset=319, length=7, tokenType=METHOD]
+
+!ENTRY org.eclipse.jdt.ui 4 10001 2025-09-14 10:43:31.934
+!MESSAGE Cannot find semantic highlighting for SemanticToken[ofset=319, length=7, tokenType=METHOD]
+
+!ENTRY org.eclipse.jdt.ui 4 10001 2025-09-14 10:43:34.399
+!MESSAGE Cannot find semantic highlighting for SemanticToken[ofset=319, length=7, tokenType=METHOD]
+
+!ENTRY org.eclipse.jdt.ui 4 10001 2025-09-14 10:43:34.976
+!MESSAGE Cannot find semantic highlighting for SemanticToken[ofset=319, length=7, tokenType=METHOD]
+
+!ENTRY org.eclipse.jdt.ui 4 10001 2025-09-14 10:43:42.870
+!MESSAGE Cannot find semantic highlighting for SemanticToken[ofset=319, length=7, tokenType=METHOD]
+
+!ENTRY org.eclipse.jdt.ui 4 10001 2025-09-14 10:43:43.373
+!MESSAGE Cannot find semantic highlighting for SemanticToken[ofset=319, length=7, tokenType=METHOD]
+
+!ENTRY org.eclipse.jdt.ui 4 10001 2025-09-14 10:43:43.874
+!MESSAGE Cannot find semantic highlighting for SemanticToken[ofset=319, length=7, tokenType=METHOD]
+
+!ENTRY org.eclipse.jdt.ui 4 10001 2025-09-14 10:43:44.379
+!MESSAGE Cannot find semantic highlighting for SemanticToken[ofset=319, length=7, tokenType=METHOD]
+
+!ENTRY org.eclipse.jdt.ui 4 10001 2025-09-14 10:43:45.062
+!MESSAGE Cannot find semantic highlighting for SemanticToken[ofset=319, length=7, tokenType=METHOD]
+
+!ENTRY org.eclipse.jdt.ui 4 10001 2025-09-14 10:43:45.575
+!MESSAGE Cannot find semantic highlighting for SemanticToken[ofset=319, length=7, tokenType=METHOD]
+
+!ENTRY org.eclipse.jdt.ui 4 10001 2025-09-14 10:43:46.064
+!MESSAGE Cannot find semantic highlighting for SemanticToken[ofset=319, length=7, tokenType=METHOD]
+
+!ENTRY org.eclipse.jdt.ui 4 10001 2025-09-14 10:43:46.568
+!MESSAGE Cannot find semantic highlighting for SemanticToken[ofset=319, length=7, tokenType=METHOD]
+
+!ENTRY org.eclipse.jdt.ui 4 10001 2025-09-14 10:43:47.205
+!MESSAGE Cannot find semantic highlighting for SemanticToken[ofset=319, length=7, tokenType=METHOD]
+
+!ENTRY org.eclipse.jdt.ui 4 10001 2025-09-14 10:43:47.706
+!MESSAGE Cannot find semantic highlighting for SemanticToken[ofset=319, length=7, tokenType=METHOD]
+
+!ENTRY org.eclipse.jdt.ui 4 10001 2025-09-14 10:43:48.711
+!MESSAGE Cannot find semantic highlighting for SemanticToken[ofset=319, length=7, tokenType=METHOD]
+
+!ENTRY org.eclipse.jdt.ui 4 10001 2025-09-14 10:43:49.259
+!MESSAGE Cannot find semantic highlighting for SemanticToken[ofset=319, length=7, tokenType=METHOD]
+
+!ENTRY org.eclipse.jdt.ui 4 10001 2025-09-14 10:43:50.570
+!MESSAGE Cannot find semantic highlighting for SemanticToken[ofset=319, length=7, tokenType=METHOD]
+
+!ENTRY org.eclipse.jdt.ui 4 10001 2025-09-14 10:43:52.564
+!MESSAGE Cannot find semantic highlighting for SemanticToken[ofset=319, length=7, tokenType=METHOD]
+
+!ENTRY org.eclipse.jdt.ui 4 10001 2025-09-14 10:43:53.068
+!MESSAGE Cannot find semantic highlighting for SemanticToken[ofset=319, length=7, tokenType=METHOD]
+
+!ENTRY org.eclipse.jdt.ui 4 10001 2025-09-14 10:43:54.794
+!MESSAGE Cannot find semantic highlighting for SemanticToken[ofset=319, length=7, tokenType=METHOD]
+
+!ENTRY org.eclipse.jdt.ui 4 10001 2025-09-14 10:43:55.696
+!MESSAGE Cannot find semantic highlighting for SemanticToken[ofset=319, length=7, tokenType=METHOD]
+
+!ENTRY org.eclipse.jdt.ui 4 10001 2025-09-14 10:43:56.200
+!MESSAGE Cannot find semantic highlighting for SemanticToken[ofset=319, length=7, tokenType=METHOD]
+
+!ENTRY org.eclipse.jdt.ui 4 10001 2025-09-14 10:43:56.700
+!MESSAGE Cannot find semantic highlighting for SemanticToken[ofset=319, length=7, tokenType=METHOD]
+
+!ENTRY org.eclipse.jdt.ui 4 10001 2025-09-14 10:43:58.138
+!MESSAGE Cannot find semantic highlighting for SemanticToken[ofset=319, length=7, tokenType=METHOD]
+
+!ENTRY org.eclipse.jdt.ui 4 10001 2025-09-14 10:43:58.841
+!MESSAGE Cannot find semantic highlighting for SemanticToken[ofset=319, length=7, tokenType=METHOD]
+
+!ENTRY org.eclipse.jdt.ui 4 10001 2025-09-14 10:43:59.857
+!MESSAGE Cannot find semantic highlighting for SemanticToken[ofset=319, length=7, tokenType=METHOD]
+
+!ENTRY org.eclipse.jdt.ui 4 10001 2025-09-14 10:44:00.362
+!MESSAGE Cannot find semantic highlighting for SemanticToken[ofset=319, length=7, tokenType=METHOD]
+
+!ENTRY org.eclipse.jdt.ui 4 10001 2025-09-14 10:44:00.860
+!MESSAGE Cannot find semantic highlighting for SemanticToken[ofset=319, length=7, tokenType=METHOD]
+
+!ENTRY org.eclipse.jdt.ui 4 10001 2025-09-14 10:44:01.363
+!MESSAGE Cannot find semantic highlighting for SemanticToken[ofset=319, length=7, tokenType=METHOD]
+
+!ENTRY org.eclipse.jdt.ui 4 10001 2025-09-14 10:44:01.940
+!MESSAGE Cannot find semantic highlighting for SemanticToken[ofset=319, length=7, tokenType=METHOD]
+
+!ENTRY org.eclipse.jdt.ui 4 10001 2025-09-14 10:44:02.366
+!MESSAGE Cannot find semantic highlighting for SemanticToken[ofset=319, length=7, tokenType=METHOD]
+
+!ENTRY org.eclipse.jdt.ui 4 10001 2025-09-14 10:44:04.167
+!MESSAGE Cannot find semantic highlighting for SemanticToken[ofset=319, length=7, tokenType=METHOD]
+
+!ENTRY org.eclipse.jdt.ui 4 10001 2025-09-14 10:44:05.977
+!MESSAGE Cannot find semantic highlighting for SemanticToken[ofset=319, length=7, tokenType=METHOD]
+
+!ENTRY org.eclipse.jdt.ui 4 10001 2025-09-14 10:44:08.097
+!MESSAGE Cannot find semantic highlighting for SemanticToken[ofset=319, length=7, tokenType=METHOD]
+
+!ENTRY org.eclipse.jdt.ui 4 10001 2025-09-14 10:44:09.601
+!MESSAGE Cannot find semantic highlighting for SemanticToken[ofset=319, length=7, tokenType=METHOD]
+
+!ENTRY org.eclipse.jdt.ui 4 10001 2025-09-14 10:44:10.103
+!MESSAGE Cannot find semantic highlighting for SemanticToken[ofset=319, length=7, tokenType=METHOD]
+
+!ENTRY org.eclipse.jdt.ui 4 10001 2025-09-14 10:44:11.219
+!MESSAGE Cannot find semantic highlighting for SemanticToken[ofset=319, length=7, tokenType=METHOD]
+
+!ENTRY org.eclipse.jdt.ui 4 10001 2025-09-14 10:44:11.722
+!MESSAGE Cannot find semantic highlighting for SemanticToken[ofset=319, length=7, tokenType=METHOD]
+
+!ENTRY org.eclipse.jdt.ui 4 10001 2025-09-14 10:44:12.223
+!MESSAGE Cannot find semantic highlighting for SemanticToken[ofset=319, length=7, tokenType=METHOD]
+
+!ENTRY org.eclipse.jdt.ui 4 10001 2025-09-14 10:44:13.278
+!MESSAGE Cannot find semantic highlighting for SemanticToken[ofset=319, length=7, tokenType=METHOD]
+
+!ENTRY org.eclipse.jdt.ui 4 10001 2025-09-14 10:44:14.300
+!MESSAGE Cannot find semantic highlighting for SemanticToken[ofset=319, length=7, tokenType=METHOD]
+
+!ENTRY org.eclipse.jdt.ui 4 10001 2025-09-14 10:44:16.105
+!MESSAGE Cannot find semantic highlighting for SemanticToken[ofset=319, length=7, tokenType=METHOD]
+
+!ENTRY org.eclipse.jdt.ui 4 10001 2025-09-14 10:44:18.107
+!MESSAGE Cannot find semantic highlighting for SemanticToken[ofset=319, length=7, tokenType=METHOD]
+
+!ENTRY org.eclipse.jdt.ui 4 10001 2025-09-14 10:44:18.609
+!MESSAGE Cannot find semantic highlighting for SemanticToken[ofset=319, length=7, tokenType=METHOD]
+
+!ENTRY org.eclipse.jdt.ui 4 10001 2025-09-14 10:44:19.110
+!MESSAGE Cannot find semantic highlighting for SemanticToken[ofset=319, length=7, tokenType=METHOD]
+
+!ENTRY org.eclipse.jdt.ui 4 10001 2025-09-14 10:44:20.378
+!MESSAGE Cannot find semantic highlighting for SemanticToken[ofset=319, length=7, tokenType=METHOD]
+
+!ENTRY org.eclipse.jdt.ui 4 10001 2025-09-14 10:44:53.781
+!MESSAGE Cannot find semantic highlighting for SemanticToken[ofset=319, length=7, tokenType=METHOD]
+
+!ENTRY org.eclipse.jdt.ui 4 10001 2025-09-14 10:44:57.982
+!MESSAGE Cannot find semantic highlighting for SemanticToken[ofset=319, length=7, tokenType=METHOD]
+
+!ENTRY org.eclipse.jdt.ui 4 10001 2025-09-14 10:44:58.489
+!MESSAGE Cannot find semantic highlighting for SemanticToken[ofset=319, length=7, tokenType=METHOD]
+
+!ENTRY org.eclipse.jdt.ui 4 10001 2025-09-14 10:45:00.582
+!MESSAGE Cannot find semantic highlighting for SemanticToken[ofset=319, length=7, tokenType=METHOD]
+
+!ENTRY org.eclipse.jdt.ui 4 10001 2025-09-14 10:45:02.404
+!MESSAGE Cannot find semantic highlighting for SemanticToken[ofset=319, length=7, tokenType=METHOD]
+
+!ENTRY org.eclipse.jdt.ui 4 10001 2025-09-14 10:45:03.726
+!MESSAGE Cannot find semantic highlighting for SemanticToken[ofset=319, length=7, tokenType=METHOD]
+
+!ENTRY org.eclipse.lsp4e 1 0 2025-09-14 11:00:44.157
+!MESSAGE [Info]	[fetchChat] Request 09f4f993-9d5b-40ae-96dc-66abf5681e26 at <https://api.individual.githubcopilot.com/chat/completions> finished with 200 status after 1539.98283599969ms
+
+!ENTRY org.eclipse.lsp4e 1 0 2025-09-14 11:00:44.162
+!MESSAGE [Info]	[streamMessages] message 0 returned. finish reason: [stop]
+
+!ENTRY org.eclipse.lsp4e 1 0 2025-09-14 11:00:44.688
+!MESSAGE [Info]	[fetchChat] Request fab824ff-4fc4-4730-9b1c-d529bd76ca59 at <https://api.individual.githubcopilot.com/chat/completions> finished with 200 status after 511.9585179993883ms
+
+!ENTRY org.eclipse.lsp4e 1 0 2025-09-14 11:00:46.015
+!MESSAGE [Info]	[streamMessages] message 0 returned. finish reason: [stop]
+
+!ENTRY org.eclipse.lsp4e 1 0 2025-09-14 11:00:46.472
+!MESSAGE [Info]	[fetchChat] Request 45b2a090-c924-4a58-88ba-e526dbabf561 at <https://api.individual.githubcopilot.com/chat/completions> finished with 200 status after 459.13824000023305ms
+
+!ENTRY org.eclipse.lsp4e 1 0 2025-09-14 11:00:46.652
+!MESSAGE [Info]	[streamMessages] message 0 returned. finish reason: [stop]
+
+!ENTRY org.eclipse.jdt.ui 4 10001 2025-09-14 11:01:38.585
+!MESSAGE Cannot find semantic highlighting for SemanticToken[ofset=319, length=7, tokenType=METHOD]
+
+!ENTRY org.eclipse.lsp4e 1 0 2025-09-14 11:10:56.902
+!MESSAGE [Info]	[fetchChat] Request cfe38818-e91f-49ff-9004-e2112dd06e4d at <https://api.individual.githubcopilot.com/chat/completions> finished with 200 status after 455.49182700086385ms
+
+!ENTRY org.eclipse.lsp4e 1 0 2025-09-14 11:10:57.158
+!MESSAGE [Info]	[streamMessages] message 0 returned. finish reason: [stop]
+
+!ENTRY org.eclipse.lsp4e 1 0 2025-09-14 11:10:57.706
+!MESSAGE [Info]	[fetchChat] Request b34484e3-ec62-4f03-9027-0143b39c1a9c at <https://api.individual.githubcopilot.com/chat/completions> finished with 200 status after 522.442905000411ms
+
+!ENTRY org.eclipse.lsp4e 1 0 2025-09-14 11:11:02.229
+!MESSAGE [Info]	[streamMessages] message 0 returned. finish reason: [stop]
+
+!ENTRY org.eclipse.lsp4e 1 0 2025-09-14 11:11:02.645
+!MESSAGE [Info]	[fetchChat] Request b24ce3a8-18a1-4cc9-bef5-3afd5dfec2c7 at <https://api.individual.githubcopilot.com/chat/completions> finished with 200 status after 582.9531420003623ms
+
+!ENTRY org.eclipse.lsp4e 1 0 2025-09-14 11:11:02.905
+!MESSAGE [Info]	[streamMessages] message 0 returned. finish reason: [stop]
+
+!ENTRY org.eclipse.lsp4e 1 0 2025-09-14 11:14:25.503
+!MESSAGE [Info]	[fetchChat] Request 61bc18bc-2c0c-4cb6-a07b-b72605e386db at <https://api.individual.githubcopilot.com/chat/completions> finished with 200 status after 1652.4489759998396ms
+
+!ENTRY org.eclipse.lsp4e 1 0 2025-09-14 11:14:25.543
+!MESSAGE [Info]	[streamMessages] message 0 returned. finish reason: [stop]
+
+!ENTRY org.eclipse.lsp4e 1 0 2025-09-14 11:14:26.400
+!MESSAGE [Info]	[fetchChat] Request d76823f0-a509-4d0c-9ff7-ddf9e53622e6 at <https://api.individual.githubcopilot.com/chat/completions> finished with 200 status after 584.5201330007985ms
+
+!ENTRY org.eclipse.lsp4e 1 0 2025-09-14 11:14:29.084
+!MESSAGE [Info]	[streamMessages] message 0 returned. finish reason: [stop]
+
+!ENTRY org.eclipse.lsp4e 1 0 2025-09-14 11:14:29.587
+!MESSAGE [Info]	[fetchChat] Request 4c0c3cef-8fd5-40bb-8f02-cf16813b49f9 at <https://api.individual.githubcopilot.com/chat/completions> finished with 200 status after 517.9579349998385ms
+
+!ENTRY org.eclipse.lsp4e 1 0 2025-09-14 11:14:29.735
+!MESSAGE [Info]	[streamMessages] message 0 returned. finish reason: [stop]
+
+!ENTRY org.eclipse.lsp4e 1 0 2025-09-14 11:17:48.400
+!MESSAGE [Info]	[fetchChat] Request 222fb2db-f251-40be-8371-356384a15199 at <https://api.individual.githubcopilot.com/chat/completions> finished with 200 status after 1346.0400629993528ms
+
+!ENTRY org.eclipse.lsp4e 1 0 2025-09-14 11:17:48.456
+!MESSAGE [Info]	[streamMessages] message 0 returned. finish reason: [stop]
+
+!ENTRY org.eclipse.lsp4e 1 0 2025-09-14 11:17:49.029
+!MESSAGE [Info]	[fetchChat] Request ecb867ca-8405-427f-b01d-4695f43379f9 at <https://api.individual.githubcopilot.com/chat/completions> finished with 200 status after 512.1876860000193ms
+
+!ENTRY org.eclipse.lsp4e 1 0 2025-09-14 11:17:52.151
+!MESSAGE [Info]	[streamMessages] message 0 returned. finish reason: [stop]
+
+!ENTRY org.eclipse.lsp4e 1 0 2025-09-14 11:17:52.499
+!MESSAGE [Info]	[fetchChat] Request 5001686a-c8f2-469a-bcee-cef561e5f8d9 at <https://api.individual.githubcopilot.com/chat/completions> finished with 200 status after 461.236585999839ms
+
+!ENTRY org.eclipse.lsp4e 1 0 2025-09-14 11:17:52.638
+!MESSAGE [Info]	[streamMessages] message 0 returned. finish reason: [stop]
+
+!ENTRY org.eclipse.lsp4e 1 0 2025-09-14 11:19:15.923
+!MESSAGE [Info]	[fetchChat] Request 8b18a70b-0d4d-4edd-aa6e-be53eb2f54fa at <https://api.individual.githubcopilot.com/chat/completions> finished with 200 status after 439.9756829999387ms
+
+!ENTRY org.eclipse.lsp4e 1 0 2025-09-14 11:19:15.988
+!MESSAGE [Info]	[streamMessages] message 0 returned. finish reason: [stop]
+
+!ENTRY org.eclipse.lsp4e 1 0 2025-09-14 11:19:16.547
+!MESSAGE [Info]	[fetchChat] Request 68681693-a1dc-4b5a-85b0-eee952268a56 at <https://api.individual.githubcopilot.com/chat/completions> finished with 200 status after 546.2481850003824ms
+
+!ENTRY org.eclipse.lsp4e 1 0 2025-09-14 11:19:18.334
+!MESSAGE [Info]	[streamMessages] message 0 returned. finish reason: [stop]
+
+!ENTRY org.eclipse.lsp4e 1 0 2025-09-14 11:19:18.807
+!MESSAGE [Info]	[fetchChat] Request 9f8655da-32c5-4ae1-b630-9b79b5a00e19 at <https://api.individual.githubcopilot.com/chat/completions> finished with 200 status after 488.1640860000625ms
+
+!ENTRY org.eclipse.lsp4e 1 0 2025-09-14 11:19:18.981
+!MESSAGE [Info]	[streamMessages] message 0 returned. finish reason: [stop]
+
+!ENTRY org.eclipse.lsp4e 2 0 2025-09-14 11:54:21.435
+!MESSAGE Javadoc unavailable. Failed to obtain it.
+!STACK 0
+java.lang.InterruptedException
+	at java.base/java.util.concurrent.CompletableFuture.reportGet(CompletableFuture.java:386)
+	at java.base/java.util.concurrent.CompletableFuture.get(CompletableFuture.java:2096)
+	at org.eclipse.lsp4e.jdt.LSJavaHoverProvider.getHoverInfo2(LSJavaHoverProvider.java:66)
+	at org.eclipse.jdt.internal.ui.text.java.hover.BestMatchHover.getHoverInfo2(BestMatchHover.java:165)
+	at org.eclipse.jdt.internal.ui.text.java.hover.BestMatchHover.getHoverInfo2(BestMatchHover.java:131)
+	at org.eclipse.jdt.internal.ui.text.java.hover.JavaEditorTextHoverProxy.getHoverInfo2(JavaEditorTextHoverProxy.java:89)
+	at org.eclipse.jface.text.TextViewerHoverManager$1.run(TextViewerHoverManager.java:155)
+
+!ENTRY org.eclipse.jdt.ui 4 2 2025-09-14 16:10:55.038
+!MESSAGE Problems occurred when invoking code from plug-in: "org.eclipse.jdt.ui".
+!STACK 0
+java.lang.RuntimeException: RuntimeException loading =47-SpringSecurity-ConsumerApp/\/Applications\/SpringToolsForEclipse.app\/Contents\/Eclipse\/plugins\/org.eclipse.justj.openjdk.hotspot.jre.full.macosx.x86_64_21.0.6.v20250130-0529\/jre\/lib\/jrt-fs.jar`java.base=/javadoc_location=/https:\/\/docs.oracle.com\/en\/java\/javase\/21\/docs\/api\/=/=/maven.pomderived=/true=/|java/time/ZonedDateTime.class
+	at org.eclipse.jdt.internal.compiler.lookup.BinaryTypeBinding.cachePartsFrom(BinaryTypeBinding.java:444)
+	at org.eclipse.jdt.internal.compiler.lookup.LookupEnvironment.createBinaryTypeFrom(LookupEnvironment.java:1090)
+	at org.eclipse.jdt.internal.compiler.lookup.LookupEnvironment.createBinaryTypeFrom(LookupEnvironment.java:1076)
+	at org.eclipse.jdt.internal.compiler.lookup.LookupEnvironment.createBinaryTypeFrom(LookupEnvironment.java:1071)
+	at org.eclipse.jdt.internal.codeassist.impl.Engine.accept(Engine.java:79)
+	at org.eclipse.jdt.internal.compiler.lookup.LookupEnvironment.askForType(LookupEnvironment.java:303)
+	at org.eclipse.jdt.internal.compiler.lookup.UnresolvedReferenceBinding.resolve(UnresolvedReferenceBinding.java:116)
+	at org.eclipse.jdt.internal.compiler.lookup.BinaryTypeBinding.resolveType(BinaryTypeBinding.java:241)
+	at org.eclipse.jdt.internal.compiler.lookup.BinaryTypeBinding.resolveTypesFor(BinaryTypeBinding.java:1952)
+	at org.eclipse.jdt.internal.compiler.lookup.BinaryTypeBinding.availableMethods(BinaryTypeBinding.java:427)
+	at org.eclipse.jdt.internal.codeassist.CompletionEngine.findFieldsAndMethodsFromFavorites(CompletionEngine.java:8030)
+	at org.eclipse.jdt.internal.codeassist.CompletionEngine.findVariablesAndMethods(CompletionEngine.java:13417)
+	at org.eclipse.jdt.internal.codeassist.CompletionEngine.completionOnSingleNameReference(CompletionEngine.java:3888)
+	at org.eclipse.jdt.internal.codeassist.CompletionEngine.complete(CompletionEngine.java:1856)
+	at org.eclipse.jdt.internal.codeassist.CompletionEngine.complete(CompletionEngine.java:2206)
+	at org.eclipse.jdt.internal.core.Openable.codeComplete(Openable.java:139)
+	at org.eclipse.jdt.internal.core.CompilationUnit.codeComplete(CompilationUnit.java:450)
+	at org.eclipse.jdt.internal.core.CompilationUnit.codeComplete(CompilationUnit.java:440)
+	at org.eclipse.jdt.internal.corext.util.StaticImportFavoritesCompletionInvoker.getStaticImportFavorites(StaticImportFavoritesCompletionInvoker.java:82)
+	at org.eclipse.jdt.internal.corext.util.JavaModelUtil.getStaticImportFavorites(JavaModelUtil.java:1252)
+	at org.eclipse.jdt.internal.ui.text.correction.UnresolvedElementsBaseSubProcessor.addStaticImportFavoriteProposals(UnresolvedElementsBaseSubProcessor.java:1521)
+	at org.eclipse.jdt.internal.ui.text.correction.UnresolvedElementsBaseSubProcessor.collectVariableProposals(UnresolvedElementsBaseSubProcessor.java:352)
+	at org.eclipse.jdt.internal.ui.text.correction.UnresolvedElementsSubProcessor.getVariableProposals(UnresolvedElementsSubProcessor.java:138)
+	at org.eclipse.jdt.internal.ui.text.correction.QuickFixProcessor.process(QuickFixProcessor.java:422)
+	at org.eclipse.jdt.internal.ui.text.correction.QuickFixProcessor.getCorrections(QuickFixProcessor.java:378)
+	at org.eclipse.jdt.internal.ui.text.correction.JavaCorrectionProcessor$SafeCorrectionCollector.safeRun(JavaCorrectionProcessor.java:381)
+	at org.eclipse.jdt.internal.ui.text.correction.JavaCorrectionProcessor$SafeCorrectionProcessorAccess.run(JavaCorrectionProcessor.java:341)
+	at org.eclipse.core.runtime.SafeRunner.run(SafeRunner.java:47)
+	at org.eclipse.jdt.internal.ui.text.correction.JavaCorrectionProcessor$SafeCorrectionProcessorAccess.process(JavaCorrectionProcessor.java:336)
+	at org.eclipse.jdt.internal.ui.text.correction.JavaCorrectionProcessor.collectCorrections(JavaCorrectionProcessor.java:465)
+	at org.eclipse.jdt.internal.ui.text.java.hover.ProblemHover$ProblemInfo.getJavaAnnotationFixes(ProblemHover.java:115)
+	at org.eclipse.jdt.internal.ui.text.java.hover.ProblemHover$ProblemInfo.computeCompletionProposals(ProblemHover.java:89)
+	at org.eclipse.jdt.internal.ui.text.java.hover.ProblemHover$ProblemInfo.<init>(ProblemHover.java:74)
+	at org.eclipse.jdt.internal.ui.text.java.hover.ProblemHover.createAnnotationInfo(ProblemHover.java:178)
+	at org.eclipse.jdt.internal.ui.text.java.hover.AbstractAnnotationHover.getHoverInfo2(AbstractAnnotationHover.java:754)
+	at org.eclipse.jdt.internal.ui.text.java.hover.BestMatchHover.getHoverInfo2(BestMatchHover.java:165)
+	at org.eclipse.jdt.internal.ui.text.java.hover.BestMatchHover.getHoverInfo2(BestMatchHover.java:131)
+	at org.eclipse.jdt.internal.ui.text.java.hover.JavaEditorTextHoverProxy.getHoverInfo2(JavaEditorTextHoverProxy.java:89)
+	at org.eclipse.jface.text.TextViewerHoverManager$1.run(TextViewerHoverManager.java:155)
+Caused by: org.eclipse.core.runtime.OperationCanceledException
+	at org.eclipse.jdt.internal.core.AbstractClassFile.getClassFileContent(AbstractClassFile.java:239)
+	at org.eclipse.jdt.internal.core.ClassFile.getJarBinaryTypeInfo(ClassFile.java:225)
+	at org.eclipse.jdt.internal.core.ClassFile.existsUsingJarTypeCache(ClassFile.java:147)
+	at org.eclipse.jdt.internal.core.NameLookup.seekTypesInBinaryPackage(NameLookup.java:1475)
+	at org.eclipse.jdt.internal.core.NameLookup.seekTypes(NameLookup.java:1442)
+	at org.eclipse.jdt.internal.core.NameLookup.findType(NameLookup.java:988)
+	at org.eclipse.jdt.internal.core.NameLookup.findType(NameLookup.java:815)
+	at org.eclipse.jdt.internal.core.NameLookup.findType(NameLookup.java:734)
+	at org.eclipse.jdt.internal.core.SearchableEnvironment.find(SearchableEnvironment.java:192)
+	at org.eclipse.jdt.internal.core.SearchableEnvironment.findType(SearchableEnvironment.java:566)
+	at org.eclipse.jdt.internal.compiler.lookup.LookupEnvironment.fromSplitPackageOrOracle(LookupEnvironment.java:470)
+	at org.eclipse.jdt.internal.compiler.lookup.LookupEnvironment.lambda$1(LookupEnvironment.java:343)
+	at org.eclipse.jdt.internal.compiler.lookup.LookupEnvironment.askForTypeFromModules(LookupEnvironment.java:437)
+	at org.eclipse.jdt.internal.compiler.lookup.LookupEnvironment.askForType(LookupEnvironment.java:342)
+	at org.eclipse.jdt.internal.compiler.lookup.PackageBinding.getType(PackageBinding.java:194)
+	at org.eclipse.jdt.internal.compiler.lookup.PackageBinding.isViewedAsDeprecated(PackageBinding.java:313)
+	at org.eclipse.jdt.internal.compiler.lookup.ReferenceBinding.isViewedAsDeprecated(ReferenceBinding.java:1799)
+	at org.eclipse.jdt.internal.compiler.lookup.BinaryTypeBinding.cachePartsFrom2(BinaryTypeBinding.java:600)
+	at org.eclipse.jdt.internal.compiler.lookup.BinaryTypeBinding.cachePartsFrom(BinaryTypeBinding.java:440)
+	... 38 more
+
+!ENTRY org.eclipse.lsp4e 2 0 2025-09-14 16:12:22.780
+!MESSAGE Could not resolve completion items due to timeout after 500 milliseconds in `completionItem/resolve`
+!STACK 0
+java.util.concurrent.TimeoutException
+	at java.base/java.util.concurrent.CompletableFuture.timedGet(CompletableFuture.java:1960)
+	at java.base/java.util.concurrent.CompletableFuture.get(CompletableFuture.java:2095)
+	at org.eclipse.lsp4e.operations.completion.LSCompletionProposal.resolveItem(LSCompletionProposal.java:398)
+	at org.eclipse.lsp4e.operations.completion.LSCompletionProposal.getAdditionalProposalInfo(LSCompletionProposal.java:364)
+	at org.eclipse.jface.text.contentassist.AdditionalInfoController$Timer$2$1.run(AdditionalInfoController.java:116)
+	at org.eclipse.core.internal.jobs.Worker.run(Worker.java:63)
+
+!ENTRY org.eclipse.lsp4e 2 0 2025-09-14 16:30:11.894
+!MESSAGE Could not resolve completion items due to timeout after 500 milliseconds in `completionItem/resolve`
+!STACK 0
+java.util.concurrent.TimeoutException
+	at java.base/java.util.concurrent.CompletableFuture.timedGet(CompletableFuture.java:1960)
+	at java.base/java.util.concurrent.CompletableFuture.get(CompletableFuture.java:2095)
+	at org.eclipse.lsp4e.operations.completion.LSCompletionProposal.resolveItem(LSCompletionProposal.java:398)
+	at org.eclipse.lsp4e.operations.completion.LSCompletionProposal.getAdditionalProposalInfo(LSCompletionProposal.java:364)
+	at org.eclipse.jface.text.contentassist.AdditionalInfoController$Timer$2$1.run(AdditionalInfoController.java:116)
+	at org.eclipse.core.internal.jobs.Worker.run(Worker.java:63)
+!SESSION 2025-09-14 16:33:00.432 -----------------------------------------------
+eclipse.buildId=4.35.0.202504180233
+java.version=21.0.6
+java.vendor=Eclipse Adoptium
+BootLoader constants: OS=macosx, ARCH=x86_64, WS=cocoa, NL=en_IN
+Framework arguments:  -product org.springframework.boot.ide.branding.sts4 -keyring /Users/Ayush/.eclipse_keyring
+Command-line arguments:  -os macosx -ws cocoa -arch x86_64 -product org.springframework.boot.ide.branding.sts4 -keyring /Users/Ayush/.eclipse_keyring
+
+!ENTRY ch.qos.logback.classic 1 0 2025-09-14 16:33:06.023
+!MESSAGE Activated before the state location was initialized. Retry after the state location is initialized.
+
+!ENTRY org.eclipse.lemminx.uber-jar 4 0 2025-09-14 16:33:06.570
+!MESSAGE bundle org.eclipse.lemminx.uber-jar:0.29.0 (326) Component descriptor entry 'OSGI-INF/*.xml' not found
+
+!ENTRY ch.qos.logback.classic 1 0 2025-09-14 16:33:43.503
+!MESSAGE Logback config file: /Users/Ayush/Documents/SBMS/.metadata/.plugins/org.eclipse.m2e.logback/logback.2.7.0.20241001-1350.xml
+
+!ENTRY org.eclipse.ui 2 0 2025-09-14 16:33:44.571
+!MESSAGE Warnings while parsing the commands from the 'org.eclipse.ui.commands' and 'org.eclipse.ui.actionDefinitions' extension points.
+!SUBENTRY 1 org.eclipse.ui 2 0 2025-09-14 16:33:44.571
+!MESSAGE Commands should really have a category: plug-in='org.springframework.tooling.boot.ls', id='spring.initializr.addStarters', categoryId='org.eclipse.lsp4e.commandCategory'
+
+!ENTRY org.eclipse.ui 2 0 2025-09-14 16:33:45.423
+!MESSAGE Warnings while parsing the commands from the 'org.eclipse.ui.commands' and 'org.eclipse.ui.actionDefinitions' extension points.
+!SUBENTRY 1 org.eclipse.ui 2 0 2025-09-14 16:33:45.423
+!MESSAGE Commands should really have a category: plug-in='org.springframework.tooling.boot.ls', id='spring.initializr.addStarters', categoryId='org.eclipse.lsp4e.commandCategory'
+
+!ENTRY com.microsoft.copilot.eclipse 1 0 2025-09-14 16:33:57.113
+!MESSAGE [Info] Starting language server with binary lsp agent.
+
+!ENTRY com.microsoft.copilot.eclipse 1 0 2025-09-14 16:33:57.420
+!MESSAGE [Info] Lsp agent started successfully.
+
+!ENTRY org.eclipse.lsp4e 2 0 2025-09-14 16:34:01.999
+!MESSAGE Timed out after waiting for 300ms for semantic tokens from Language Servers
+!STACK 0
+java.util.concurrent.TimeoutException
+	at java.base/java.util.concurrent.CompletableFuture.timedGet(CompletableFuture.java:1960)
+	at java.base/java.util.concurrent.CompletableFuture.get(CompletableFuture.java:2095)
+	at org.eclipse.lsp4e.jdt.LSJavaSemanticTokensProvider.computeSemanticTokens(LSJavaSemanticTokensProvider.java:68)
+	at org.eclipse.jdt.internal.ui.javaeditor.SemanticHighlightingReconciler.getContributedSemanticTokens(SemanticHighlightingReconciler.java:423)
+	at org.eclipse.jdt.internal.ui.javaeditor.SemanticHighlightingReconciler.reconciled(SemanticHighlightingReconciler.java:470)
+	at org.eclipse.jdt.internal.ui.javaeditor.CompilationUnitEditor.reconciled(CompilationUnitEditor.java:1674)
+	at org.eclipse.jdt.internal.ui.text.java.JavaReconcilingStrategy.reconciled(JavaReconcilingStrategy.java:228)
+	at org.eclipse.jdt.internal.ui.text.JavaCompositeReconcilingStrategy.reconciled(JavaCompositeReconcilingStrategy.java:171)
+	at org.eclipse.jdt.internal.ui.text.JavaCompositeReconcilingStrategy.initialReconcile(JavaCompositeReconcilingStrategy.java:147)
+	at org.eclipse.jface.text.reconciler.MonoReconciler.initialProcess(MonoReconciler.java:100)
+	at org.eclipse.jdt.internal.ui.text.JavaReconciler.initialProcess(JavaReconciler.java:421)
+	at org.eclipse.jface.text.reconciler.AbstractReconciler$BackgroundThread.run(AbstractReconciler.java:177)
+
+!ENTRY org.eclipse.lsp4e 1 0 2025-09-14 16:34:04.413
+!MESSAGE [Info]	[lsp] GitHub Copilot Language Server 1.335.0 initialized
+
+!ENTRY org.eclipse.lsp4e 1 0 2025-09-14 16:34:08.969
+!MESSAGE [Info]	[certificates] Removed 15 expired certificates
+
+!ENTRY org.eclipse.jface 2 0 2025-09-14 16:35:59.400
+!MESSAGE Keybinding conflicts occurred.  They may interfere with normal accelerator operation.
+!SUBENTRY 1 org.eclipse.jface 2 0 2025-09-14 16:35:59.400
+!MESSAGE A conflict occurred for COMMAND+SHIFT+T:
+Binding(COMMAND+SHIFT+T,
+	ParameterizedCommand(Command(org.eclipse.jdt.ui.navigate.open.type,Open Type,
+		Open a type in a Java editor,
+		Category(org.eclipse.ui.category.navigate,Navigate,null,true),
+		WorkbenchHandlerServiceHandler("org.eclipse.jdt.ui.navigate.open.type"),
+		,,true),null),
+	org.eclipse.ui.defaultAcceleratorConfiguration,
+	org.eclipse.ui.contexts.window,,,system)
+Binding(COMMAND+SHIFT+T,
+	ParameterizedCommand(Command(org.eclipse.lsp4e.symbolInWorkspace,Go to Symbol in Workspace,
+		,
+		Category(org.eclipse.lsp4e.category,Language Servers,null,true),
+		WorkbenchHandlerServiceHandler("org.eclipse.lsp4e.symbolInWorkspace"),
+		,,true),null),
+	org.eclipse.ui.defaultAcceleratorConfiguration,
+	org.eclipse.ui.contexts.window,,,system)
+
+!ENTRY org.eclipse.lsp4e 2 0 2025-09-14 16:36:09.612
+!MESSAGE Javadoc unavailable. Failed to obtain it.
+!STACK 0
+java.lang.InterruptedException
+	at java.base/java.util.concurrent.CompletableFuture.reportGet(CompletableFuture.java:386)
+	at java.base/java.util.concurrent.CompletableFuture.get(CompletableFuture.java:2096)
+	at org.eclipse.lsp4e.jdt.LSJavaHoverProvider.getHoverInfo2(LSJavaHoverProvider.java:66)
+	at org.eclipse.jdt.internal.ui.text.java.hover.BestMatchHover.getHoverInfo2(BestMatchHover.java:165)
+	at org.eclipse.jdt.internal.ui.text.java.hover.BestMatchHover.getHoverInfo2(BestMatchHover.java:131)
+	at org.eclipse.jdt.internal.ui.text.java.hover.JavaEditorTextHoverProxy.getHoverInfo2(JavaEditorTextHoverProxy.java:89)
+	at org.eclipse.jface.text.TextViewerHoverManager$1.run(TextViewerHoverManager.java:155)
+
+!ENTRY com.microsoft.copilot.eclipse 1 0 2025-09-14 16:36:38.825
+!MESSAGE [Info] Language ID not found for extension: properties
+
+!ENTRY org.eclipse.lsp4e 1 0 2025-09-14 16:36:40.335
+!MESSAGE [Info]	[default] Context provider relatedFilesShim exceeded time budget of 150ms
+
+!ENTRY org.eclipse.lsp4e 1 0 2025-09-14 16:36:41.837
+!MESSAGE [Info]	[fetchCompletions] Request b6384c4b-df29-45b3-9996-6e0bb12a7d71 at <https://proxy.individual.githubcopilot.com/v1/engines/gpt-41-copilot/completions> finished with 200 status after 1487.8932989999885ms
+
+!ENTRY org.eclipse.lsp4e 4 0 2025-09-14 16:36:41.838
+!MESSAGE [Error]	[streamChoices] Request id invalid, should have "completionId" and "created": {
+  headerRequestId: 'b6384c4b-df29-45b3-9996-6e0bb12a7d71',
+  completionId: '',
+  created: 0,
+  serverExperiments: '',
+  deploymentId: ''
+}
+
+!ENTRY org.eclipse.lsp4e 4 0 2025-09-14 16:36:41.869
+!MESSAGE [Error]	[streamChoices] Request id invalid, should have "completionId" and "created": {
+  headerRequestId: 'b6384c4b-df29-45b3-9996-6e0bb12a7d71',
+  completionId: '',
+  created: 0,
+  serverExperiments: '',
+  deploymentId: ''
+}
+
+!ENTRY org.eclipse.lsp4e 1 0 2025-09-14 16:36:41.870
+!MESSAGE [Info]	[streamChoices] solution 0 returned. finish reason: [stop]
+
+!ENTRY org.eclipse.lsp4e 1 0 2025-09-14 16:36:55.532
+!MESSAGE [Info]	[fetchCompletions] Request 3485667e-f953-43c2-869e-3759c0067423 at <https://proxy.individual.githubcopilot.com/v1/engines/gpt-41-copilot/completions> finished with 200 status after 394.81110400002217ms
+
+!ENTRY org.eclipse.lsp4e 4 0 2025-09-14 16:36:55.534
+!MESSAGE [Error]	[streamChoices] Request id invalid, should have "completionId" and "created": {
+  headerRequestId: '3485667e-f953-43c2-869e-3759c0067423',
+  completionId: '',
+  created: 0,
+  serverExperiments: '',
+  deploymentId: ''
+}
+
+!ENTRY org.eclipse.lsp4e 4 0 2025-09-14 16:36:55.535
+!MESSAGE [Error]	[streamChoices] Request id invalid, should have "completionId" and "created": {
+  headerRequestId: '3485667e-f953-43c2-869e-3759c0067423',
+  completionId: '',
+  created: 0,
+  serverExperiments: '',
+  deploymentId: ''
+}
+
+!ENTRY org.eclipse.lsp4e 1 0 2025-09-14 16:36:55.535
+!MESSAGE [Info]	[streamChoices] solution 0 returned. finish reason: [stop]
+
+!ENTRY org.eclipse.lsp4e 1 0 2025-09-14 16:37:04.332
+!MESSAGE [Info]	[fetchCompletions] Request 70bd888c-e15e-48b1-8d06-d7319bad82a7 at <https://proxy.individual.githubcopilot.com/v1/engines/gpt-41-copilot/completions> finished with 200 status after 389.48194100000546ms
+
+!ENTRY org.eclipse.lsp4e 4 0 2025-09-14 16:37:04.334
+!MESSAGE [Error]	[streamChoices] Request id invalid, should have "completionId" and "created": {
+  headerRequestId: '70bd888c-e15e-48b1-8d06-d7319bad82a7',
+  completionId: '',
+  created: 0,
+  serverExperiments: '',
+  deploymentId: ''
+}
+
+!ENTRY org.eclipse.lsp4e 4 0 2025-09-14 16:37:04.353
+!MESSAGE [Error]	[streamChoices] Request id invalid, should have "completionId" and "created": {
+  headerRequestId: '70bd888c-e15e-48b1-8d06-d7319bad82a7',
+  completionId: '',
+  created: 0,
+  serverExperiments: '',
+  deploymentId: ''
+}
+
+!ENTRY org.eclipse.lsp4e 1 0 2025-09-14 16:37:04.353
+!MESSAGE [Info]	[streamChoices] solution 0 returned. finish reason: [stop]
+
+!ENTRY org.eclipse.jdt.ui 4 10001 2025-09-14 16:37:30.376
+!MESSAGE Cannot find semantic highlighting for SemanticToken[ofset=319, length=7, tokenType=METHOD]
+
+!ENTRY org.eclipse.lsp4e 1 0 2025-09-14 16:38:48.526
+!MESSAGE [Info]	[default] Context provider relatedFilesShim exceeded time budget of 150ms
+
+!ENTRY org.eclipse.lsp4e 4 0 2025-09-14 16:40:13.684
+!MESSAGE [Error]	[streamChoices] Request id invalid, should have "completionId" and "created": {
+  headerRequestId: '928b69dc-1a05-4877-bbb0-e4fe1efb8752',
+  completionId: '',
+  created: 0,
+  serverExperiments: '',
+  deploymentId: ''
+}
+
+!ENTRY org.eclipse.lsp4e 1 0 2025-09-14 16:40:13.688
+!MESSAGE [Info]	[fetchCompletions] Request 928b69dc-1a05-4877-bbb0-e4fe1efb8752 at <https://proxy.individual.githubcopilot.com/v1/engines/gpt-41-copilot/completions> finished with 200 status after 1837.640943000035ms
+
+!ENTRY org.eclipse.lsp4e 1 0 2025-09-14 16:40:13.722
+!MESSAGE [Info]	[streamChoices] solution 0 returned. finish reason: [stop]
+
+!ENTRY org.eclipse.lsp4e 4 0 2025-09-14 16:40:13.722
+!MESSAGE [Error]	[streamChoices] Request id invalid, should have "completionId" and "created": {
+  headerRequestId: '928b69dc-1a05-4877-bbb0-e4fe1efb8752',
+  completionId: '',
+  created: 0,
+  serverExperiments: '',
+  deploymentId: ''
+}
+
+!ENTRY org.eclipse.lsp4e 1 0 2025-09-14 16:40:14.702
+!MESSAGE [Info]	[fetchCompletions] Request 363ef4bb-d93c-41bb-b150-6b10e945ed14 at <https://proxy.individual.githubcopilot.com/v1/engines/gpt-41-copilot/completions> finished with 200 status after 460.5331609999994ms
+
+!ENTRY org.eclipse.lsp4e 4 0 2025-09-14 16:40:14.703
+!MESSAGE [Error]	[streamChoices] Request id invalid, should have "completionId" and "created": {
+  headerRequestId: '363ef4bb-d93c-41bb-b150-6b10e945ed14',
+  completionId: '',
+  created: 0,
+  serverExperiments: '',
+  deploymentId: ''
+}
+
+!ENTRY org.eclipse.lsp4e 4 0 2025-09-14 16:40:14.703
+!MESSAGE [Error]	[streamChoices] Request id invalid, should have "completionId" and "created": {
+  headerRequestId: '363ef4bb-d93c-41bb-b150-6b10e945ed14',
+  completionId: '',
+  created: 0,
+  serverExperiments: '',
+  deploymentId: ''
+}
+
+!ENTRY org.eclipse.lsp4e 1 0 2025-09-14 16:40:14.704
+!MESSAGE [Info]	[streamChoices] solution 0 returned. finish reason: [stop]
+
+!ENTRY org.eclipse.lsp4e 1 0 2025-09-14 16:40:20.484
+!MESSAGE [Info]	[fetchCompletions] Request 367d3352-d43d-43a6-b592-a66e2fdd7771 at <https://proxy.individual.githubcopilot.com/v1/engines/gpt-41-copilot/completions> finished with 200 status after 415.20597000001ms
+
+!ENTRY org.eclipse.lsp4e 4 0 2025-09-14 16:40:20.485
+!MESSAGE [Error]	[streamChoices] Request id invalid, should have "completionId" and "created": {
+  headerRequestId: '367d3352-d43d-43a6-b592-a66e2fdd7771',
+  completionId: '',
+  created: 0,
+  serverExperiments: '',
+  deploymentId: ''
+}
+
+!ENTRY org.eclipse.lsp4e 1 0 2025-09-14 16:40:20.573
+!MESSAGE [Info]	[streamChoices] solution 0 returned. finish reason: [stop]
+
+!ENTRY org.eclipse.lsp4e 4 0 2025-09-14 16:40:20.574
+!MESSAGE [Error]	[streamChoices] Request id invalid, should have "completionId" and "created": {
+  headerRequestId: '367d3352-d43d-43a6-b592-a66e2fdd7771',
+  completionId: '',
+  created: 0,
+  serverExperiments: '',
+  deploymentId: ''
+}
+
+!ENTRY org.eclipse.lsp4e 4 0 2025-09-14 16:59:40.011
+!MESSAGE [Error]	[streamChoices] Request id invalid, should have "completionId" and "created": {
+  headerRequestId: '00ec2983-3eb6-4eca-bb62-402c735b0099',
+  completionId: '',
+  created: 0,
+  serverExperiments: '',
+  deploymentId: ''
+}
+
+!ENTRY org.eclipse.lsp4e 4 0 2025-09-14 16:59:40.014
+!MESSAGE [Error]	[streamChoices] Request id invalid, should have "completionId" and "created": {
+  headerRequestId: '00ec2983-3eb6-4eca-bb62-402c735b0099',
+  completionId: '',
+  created: 0,
+  serverExperiments: '',
+  deploymentId: ''
+}
+
+!ENTRY org.eclipse.lsp4e 1 0 2025-09-14 16:59:40.014
+!MESSAGE [Info]	[fetchCompletions] Request 00ec2983-3eb6-4eca-bb62-402c735b0099 at <https://proxy.individual.githubcopilot.com/v1/engines/gpt-41-copilot/completions> finished with 200 status after 1118.3034880000632ms
+
+!ENTRY org.eclipse.lsp4e 1 0 2025-09-14 16:59:40.014
+!MESSAGE [Info]	[streamChoices] solution 0 returned. finish reason: [stop]
+
+!ENTRY org.eclipse.lsp4e 1 0 2025-09-14 16:59:40.694
+!MESSAGE [Info]	[fetchCompletions] Request 911678ca-f3f0-4a22-857d-1825b7a7869a at <https://proxy.individual.githubcopilot.com/v1/engines/gpt-41-copilot/completions> finished with 200 status after 638.8462300000247ms
+
+!ENTRY org.eclipse.lsp4e 4 0 2025-09-14 16:59:40.695
+!MESSAGE [Error]	[streamChoices] Request id invalid, should have "completionId" and "created": {
+  headerRequestId: '911678ca-f3f0-4a22-857d-1825b7a7869a',
+  completionId: '',
+  created: 0,
+  serverExperiments: '',
+  deploymentId: ''
+}
+
+!ENTRY org.eclipse.lsp4e 4 0 2025-09-14 16:59:40.699
+!MESSAGE [Error]	[streamChoices] Request id invalid, should have "completionId" and "created": {
+  headerRequestId: '911678ca-f3f0-4a22-857d-1825b7a7869a',
+  completionId: '',
+  created: 0,
+  serverExperiments: '',
+  deploymentId: ''
+}
+
+!ENTRY org.eclipse.lsp4e 1 0 2025-09-14 16:59:40.700
+!MESSAGE [Info]	[streamChoices] solution 0 returned. finish reason: [stop]
+
+!ENTRY org.eclipse.lsp4e 1 0 2025-09-14 16:59:41.600
+!MESSAGE [Info]	[fetchCompletions] Request 82700bc5-3a29-4a2c-b379-eb2f013c0b93 at <https://proxy.individual.githubcopilot.com/v1/engines/gpt-41-copilot/completions> finished with 200 status after 401.18192199990153ms
+
+!ENTRY org.eclipse.lsp4e 4 0 2025-09-14 16:59:41.601
+!MESSAGE [Error]	[streamChoices] Request id invalid, should have "completionId" and "created": {
+  headerRequestId: '82700bc5-3a29-4a2c-b379-eb2f013c0b93',
+  completionId: '',
+  created: 0,
+  serverExperiments: '',
+  deploymentId: ''
+}
+
+!ENTRY org.eclipse.lsp4e 4 0 2025-09-14 16:59:41.721
+!MESSAGE [Error]	[streamChoices] Request id invalid, should have "completionId" and "created": {
+  headerRequestId: '82700bc5-3a29-4a2c-b379-eb2f013c0b93',
+  completionId: '',
+  created: 0,
+  serverExperiments: '',
+  deploymentId: ''
+}
+
+!ENTRY org.eclipse.lsp4e 4 0 2025-09-14 16:59:41.722
+!MESSAGE [Error]	[streamChoices] Request id invalid, should have "completionId" and "created": {
+  headerRequestId: '82700bc5-3a29-4a2c-b379-eb2f013c0b93',
+  completionId: '',
+  created: 0,
+  serverExperiments: '',
+  deploymentId: ''
+}
+
+!ENTRY org.eclipse.lsp4e 4 0 2025-09-14 16:59:41.722
+!MESSAGE [Error]	[streamChoices] Request id invalid, should have "completionId" and "created": {
+  headerRequestId: '82700bc5-3a29-4a2c-b379-eb2f013c0b93',
+  completionId: '',
+  created: 0,
+  serverExperiments: '',
+  deploymentId: ''
+}
+
+!ENTRY org.eclipse.lsp4e 4 0 2025-09-14 16:59:41.723
+!MESSAGE [Error]	[streamChoices] Request id invalid, should have "completionId" and "created": {
+  headerRequestId: '82700bc5-3a29-4a2c-b379-eb2f013c0b93',
+  completionId: '',
+  created: 0,
+  serverExperiments: '',
+  deploymentId: ''
+}
+
+!ENTRY org.eclipse.lsp4e 4 0 2025-09-14 16:59:41.723
+!MESSAGE [Error]	[streamChoices] Request id invalid, should have "completionId" and "created": {
+  headerRequestId: '82700bc5-3a29-4a2c-b379-eb2f013c0b93',
+  completionId: '',
+  created: 0,
+  serverExperiments: '',
+  deploymentId: ''
+}
+
+!ENTRY org.eclipse.lsp4e 4 0 2025-09-14 16:59:41.723
+!MESSAGE [Error]	[streamChoices] Request id invalid, should have "completionId" and "created": {
+  headerRequestId: '82700bc5-3a29-4a2c-b379-eb2f013c0b93',
+  completionId: '',
+  created: 0,
+  serverExperiments: '',
+  deploymentId: ''
+}
+
+!ENTRY org.eclipse.lsp4e 4 0 2025-09-14 16:59:41.724
+!MESSAGE [Error]	[streamChoices] Request id invalid, should have "completionId" and "created": {
+  headerRequestId: '82700bc5-3a29-4a2c-b379-eb2f013c0b93',
+  completionId: '',
+  created: 0,
+  serverExperiments: '',
+  deploymentId: ''
+}
+
+!ENTRY org.eclipse.lsp4e 4 0 2025-09-14 16:59:41.724
+!MESSAGE [Error]	[streamChoices] Request id invalid, should have "completionId" and "created": {
+  headerRequestId: '82700bc5-3a29-4a2c-b379-eb2f013c0b93',
+  completionId: '',
+  created: 0,
+  serverExperiments: '',
+  deploymentId: ''
+}
+
+!ENTRY org.eclipse.lsp4e 4 0 2025-09-14 16:59:41.725
+!MESSAGE [Error]	[streamChoices] Request id invalid, should have "completionId" and "created": {
+  headerRequestId: '82700bc5-3a29-4a2c-b379-eb2f013c0b93',
+  completionId: '',
+  created: 0,
+  serverExperiments: '',
+  deploymentId: ''
+}
+
+!ENTRY org.eclipse.lsp4e 4 0 2025-09-14 16:59:41.725
+!MESSAGE [Error]	[streamChoices] Request id invalid, should have "completionId" and "created": {
+  headerRequestId: '82700bc5-3a29-4a2c-b379-eb2f013c0b93',
+  completionId: '',
+  created: 0,
+  serverExperiments: '',
+  deploymentId: ''
+}
+
+!ENTRY org.eclipse.lsp4e 4 0 2025-09-14 16:59:41.726
+!MESSAGE [Error]	[streamChoices] Request id invalid, should have "completionId" and "created": {
+  headerRequestId: '82700bc5-3a29-4a2c-b379-eb2f013c0b93',
+  completionId: '',
+  created: 0,
+  serverExperiments: '',
+  deploymentId: ''
+}
+
+!ENTRY org.eclipse.lsp4e 4 0 2025-09-14 16:59:41.726
+!MESSAGE [Error]	[streamChoices] Request id invalid, should have "completionId" and "created": {
+  headerRequestId: '82700bc5-3a29-4a2c-b379-eb2f013c0b93',
+  completionId: '',
+  created: 0,
+  serverExperiments: '',
+  deploymentId: ''
+}
+
+!ENTRY org.eclipse.lsp4e 1 0 2025-09-14 16:59:41.727
+!MESSAGE [Info]	[streamChoices] solution 0 returned. finish reason: [stop]
+
+!ENTRY org.eclipse.lsp4e 4 0 2025-09-14 17:03:51.940
+!MESSAGE Unexpected null value present!
+!STACK 0
+java.lang.IllegalStateException: Unexpected null value present!
+	at org.eclipse.lsp4e.internal.NullSafetyHelper.castNonNull(NullSafetyHelper.java:36)
+	at org.eclipse.lsp4e.operations.semanticTokens.SemanticTokensClient.requestFullSemanticTokens(SemanticTokensClient.java:45)
+	at org.eclipse.lsp4e.operations.semanticTokens.SemanticHighlightReconcilerStrategy.fullReconcile(SemanticHighlightReconcilerStrategy.java:239)
+	at org.eclipse.lsp4e.operations.semanticTokens.SemanticHighlightReconcilerStrategy.initialReconcile(SemanticHighlightReconcilerStrategy.java:258)
+	at org.eclipse.ui.internal.genericeditor.CompositeReconcilerStrategy.initialReconcile(CompositeReconcilerStrategy.java:48)
+	at org.eclipse.jface.text.reconciler.Reconciler.initialProcess(Reconciler.java:223)
+	at org.eclipse.jface.text.reconciler.AbstractReconciler$BackgroundThread.run(AbstractReconciler.java:177)
+
+!ENTRY org.eclipse.jdt.ui 4 2 2025-09-14 18:03:15.022
+!MESSAGE Problems occurred when invoking code from plug-in: "org.eclipse.jdt.ui".
+!STACK 0
+java.lang.RuntimeException: RuntimeException loading =47-SpringSecurity-ConsumerApp/\/Applications\/SpringToolsForEclipse.app\/Contents\/Eclipse\/plugins\/org.eclipse.justj.openjdk.hotspot.jre.full.macosx.x86_64_21.0.6.v20250130-0529\/jre\/lib\/jrt-fs.jar`java.base=/javadoc_location=/https:\/\/docs.oracle.com\/en\/java\/javase\/21\/docs\/api\/=/=/maven.pomderived=/true=/|java/util/concurrent/atomic/AtomicBoolean.class
+	at org.eclipse.jdt.internal.compiler.lookup.BinaryTypeBinding.cachePartsFrom(BinaryTypeBinding.java:444)
+	at org.eclipse.jdt.internal.compiler.lookup.LookupEnvironment.createBinaryTypeFrom(LookupEnvironment.java:1090)
+	at org.eclipse.jdt.internal.compiler.lookup.LookupEnvironment.createBinaryTypeFrom(LookupEnvironment.java:1076)
+	at org.eclipse.jdt.internal.compiler.lookup.LookupEnvironment.createBinaryTypeFrom(LookupEnvironment.java:1071)
+	at org.eclipse.jdt.internal.codeassist.impl.Engine.accept(Engine.java:79)
+	at org.eclipse.jdt.internal.compiler.lookup.LookupEnvironment.askForType(LookupEnvironment.java:303)
+	at org.eclipse.jdt.internal.compiler.lookup.UnresolvedReferenceBinding.resolve(UnresolvedReferenceBinding.java:116)
+	at org.eclipse.jdt.internal.compiler.lookup.BinaryTypeBinding.resolveType(BinaryTypeBinding.java:241)
+	at org.eclipse.jdt.internal.compiler.lookup.BinaryTypeBinding.resolveTypesFor(BinaryTypeBinding.java:1952)
+	at org.eclipse.jdt.internal.compiler.lookup.BinaryTypeBinding.availableMethods(BinaryTypeBinding.java:427)
+	at org.eclipse.jdt.internal.codeassist.CompletionEngine.findFieldsAndMethodsFromFavorites(CompletionEngine.java:8030)
+	at org.eclipse.jdt.internal.codeassist.CompletionEngine.findVariablesAndMethods(CompletionEngine.java:13417)
+	at org.eclipse.jdt.internal.codeassist.CompletionEngine.completionOnSingleNameReference(CompletionEngine.java:3888)
+	at org.eclipse.jdt.internal.codeassist.CompletionEngine.complete(CompletionEngine.java:1856)
+	at org.eclipse.jdt.internal.codeassist.CompletionEngine.complete(CompletionEngine.java:2206)
+	at org.eclipse.jdt.internal.core.Openable.codeComplete(Openable.java:139)
+	at org.eclipse.jdt.internal.core.CompilationUnit.codeComplete(CompilationUnit.java:450)
+	at org.eclipse.jdt.internal.core.CompilationUnit.codeComplete(CompilationUnit.java:440)
+	at org.eclipse.jdt.internal.corext.util.StaticImportFavoritesCompletionInvoker.getStaticImportFavorites(StaticImportFavoritesCompletionInvoker.java:82)
+	at org.eclipse.jdt.internal.corext.util.JavaModelUtil.getStaticImportFavorites(JavaModelUtil.java:1252)
+	at org.eclipse.jdt.internal.ui.text.correction.UnresolvedElementsBaseSubProcessor.addStaticImportFavoriteProposals(UnresolvedElementsBaseSubProcessor.java:1521)
+	at org.eclipse.jdt.internal.ui.text.correction.UnresolvedElementsBaseSubProcessor.collectVariableProposals(UnresolvedElementsBaseSubProcessor.java:352)
+	at org.eclipse.jdt.internal.ui.text.correction.UnresolvedElementsSubProcessor.getVariableProposals(UnresolvedElementsSubProcessor.java:138)
+	at org.eclipse.jdt.internal.ui.text.correction.QuickFixProcessor.process(QuickFixProcessor.java:422)
+	at org.eclipse.jdt.internal.ui.text.correction.QuickFixProcessor.getCorrections(QuickFixProcessor.java:378)
+	at org.eclipse.jdt.internal.ui.text.correction.JavaCorrectionProcessor$SafeCorrectionCollector.safeRun(JavaCorrectionProcessor.java:381)
+	at org.eclipse.jdt.internal.ui.text.correction.JavaCorrectionProcessor$SafeCorrectionProcessorAccess.run(JavaCorrectionProcessor.java:341)
+	at org.eclipse.core.runtime.SafeRunner.run(SafeRunner.java:47)
+	at org.eclipse.jdt.internal.ui.text.correction.JavaCorrectionProcessor$SafeCorrectionProcessorAccess.process(JavaCorrectionProcessor.java:336)
+	at org.eclipse.jdt.internal.ui.text.correction.JavaCorrectionProcessor.collectCorrections(JavaCorrectionProcessor.java:465)
+	at org.eclipse.jdt.internal.ui.text.java.hover.ProblemHover$ProblemInfo.getJavaAnnotationFixes(ProblemHover.java:115)
+	at org.eclipse.jdt.internal.ui.text.java.hover.ProblemHover$ProblemInfo.computeCompletionProposals(ProblemHover.java:89)
+	at org.eclipse.jdt.internal.ui.text.java.hover.ProblemHover$ProblemInfo.<init>(ProblemHover.java:74)
+	at org.eclipse.jdt.internal.ui.text.java.hover.ProblemHover.createAnnotationInfo(ProblemHover.java:178)
+	at org.eclipse.jdt.internal.ui.text.java.hover.AbstractAnnotationHover.getHoverInfo2(AbstractAnnotationHover.java:754)
+	at org.eclipse.jdt.internal.ui.text.java.hover.BestMatchHover.getHoverInfo2(BestMatchHover.java:165)
+	at org.eclipse.jdt.internal.ui.text.java.hover.BestMatchHover.getHoverInfo2(BestMatchHover.java:131)
+	at org.eclipse.jdt.internal.ui.text.java.hover.JavaEditorTextHoverProxy.getHoverInfo2(JavaEditorTextHoverProxy.java:89)
+	at org.eclipse.jface.text.TextViewerHoverManager$1.run(TextViewerHoverManager.java:155)
+Caused by: org.eclipse.core.runtime.OperationCanceledException
+	at org.eclipse.jdt.internal.core.AbstractClassFile.getClassFileContent(AbstractClassFile.java:239)
+	at org.eclipse.jdt.internal.core.ClassFile.getJarBinaryTypeInfo(ClassFile.java:225)
+	at org.eclipse.jdt.internal.core.ClassFile.existsUsingJarTypeCache(ClassFile.java:147)
+	at org.eclipse.jdt.internal.core.NameLookup.seekTypesInBinaryPackage(NameLookup.java:1475)
+	at org.eclipse.jdt.internal.core.NameLookup.seekTypes(NameLookup.java:1442)
+	at org.eclipse.jdt.internal.core.NameLookup.findType(NameLookup.java:988)
+	at org.eclipse.jdt.internal.core.NameLookup.findType(NameLookup.java:815)
+	at org.eclipse.jdt.internal.core.NameLookup.findType(NameLookup.java:734)
+	at org.eclipse.jdt.internal.core.SearchableEnvironment.find(SearchableEnvironment.java:192)
+	at org.eclipse.jdt.internal.core.SearchableEnvironment.findType(SearchableEnvironment.java:566)
+	at org.eclipse.jdt.internal.compiler.lookup.LookupEnvironment.fromSplitPackageOrOracle(LookupEnvironment.java:470)
+	at org.eclipse.jdt.internal.compiler.lookup.LookupEnvironment.lambda$1(LookupEnvironment.java:343)
+	at org.eclipse.jdt.internal.compiler.lookup.LookupEnvironment.askForTypeFromModules(LookupEnvironment.java:437)
+	at org.eclipse.jdt.internal.compiler.lookup.LookupEnvironment.askForType(LookupEnvironment.java:342)
+	at org.eclipse.jdt.internal.compiler.lookup.PackageBinding.getType(PackageBinding.java:194)
+	at org.eclipse.jdt.internal.compiler.lookup.PackageBinding.isViewedAsDeprecated(PackageBinding.java:313)
+	at org.eclipse.jdt.internal.compiler.lookup.ReferenceBinding.isViewedAsDeprecated(ReferenceBinding.java:1799)
+	at org.eclipse.jdt.internal.compiler.lookup.BinaryTypeBinding.cachePartsFrom2(BinaryTypeBinding.java:600)
+	at org.eclipse.jdt.internal.compiler.lookup.BinaryTypeBinding.cachePartsFrom(BinaryTypeBinding.java:440)
+	... 38 more
+
+!ENTRY org.eclipse.lsp4e 2 0 2025-09-14 18:03:17.820
+!MESSAGE Timed out after waiting for 300ms for semantic tokens from Language Servers
+!STACK 0
+java.util.concurrent.TimeoutException
+	at java.base/java.util.concurrent.CompletableFuture.timedGet(CompletableFuture.java:1960)
+	at java.base/java.util.concurrent.CompletableFuture.get(CompletableFuture.java:2095)
+	at org.eclipse.lsp4e.jdt.LSJavaSemanticTokensProvider.computeSemanticTokens(LSJavaSemanticTokensProvider.java:68)
+	at org.eclipse.jdt.internal.ui.javaeditor.SemanticHighlightingReconciler.getContributedSemanticTokens(SemanticHighlightingReconciler.java:423)
+	at org.eclipse.jdt.internal.ui.javaeditor.SemanticHighlightingReconciler.reconciled(SemanticHighlightingReconciler.java:470)
+	at org.eclipse.jdt.internal.ui.javaeditor.CompilationUnitEditor.reconciled(CompilationUnitEditor.java:1674)
+	at org.eclipse.jdt.internal.ui.text.java.JavaReconcilingStrategy.reconciled(JavaReconcilingStrategy.java:228)
+	at org.eclipse.jdt.internal.ui.text.JavaCompositeReconcilingStrategy.reconciled(JavaCompositeReconcilingStrategy.java:171)
+	at org.eclipse.jdt.internal.ui.text.JavaCompositeReconcilingStrategy.reconcile(JavaCompositeReconcilingStrategy.java:115)
+	at org.eclipse.jface.text.reconciler.MonoReconciler.process(MonoReconciler.java:78)
+	at org.eclipse.jface.text.reconciler.AbstractReconciler$BackgroundThread.run(AbstractReconciler.java:207)
+
+!ENTRY org.eclipse.lsp4e 4 0 2025-09-14 18:21:19.084
+!MESSAGE Unexpected null value present!
+!STACK 0
+java.lang.IllegalStateException: Unexpected null value present!
+	at org.eclipse.lsp4e.internal.NullSafetyHelper.castNonNull(NullSafetyHelper.java:36)
+	at org.eclipse.lsp4e.operations.semanticTokens.SemanticTokensClient.requestFullSemanticTokens(SemanticTokensClient.java:45)
+	at org.eclipse.lsp4e.operations.semanticTokens.SemanticHighlightReconcilerStrategy.fullReconcile(SemanticHighlightReconcilerStrategy.java:239)
+	at org.eclipse.lsp4e.operations.semanticTokens.SemanticHighlightReconcilerStrategy.initialReconcile(SemanticHighlightReconcilerStrategy.java:258)
+	at org.eclipse.ui.internal.genericeditor.CompositeReconcilerStrategy.initialReconcile(CompositeReconcilerStrategy.java:48)
+	at org.eclipse.jface.text.reconciler.Reconciler.initialProcess(Reconciler.java:223)
+	at org.eclipse.jface.text.reconciler.AbstractReconciler$BackgroundThread.run(AbstractReconciler.java:177)
+
+!ENTRY com.microsoft.copilot.eclipse 1 0 2025-09-14 18:28:10.603
+!MESSAGE [Info] Completion handler is refreshed for the document: file:///Users/Ayush/Documents/SBMS/48-SpringSecurity-RegisterLoginApp/src/main/java/in/SpringLearning/repo/CustomerRepo.java
+
+!ENTRY org.eclipse.lsp4e 2 0 2025-09-14 18:31:38.311
+!MESSAGE Javadoc unavailable. Failed to obtain it.
+!STACK 0
+java.lang.InterruptedException
+	at java.base/java.util.concurrent.CompletableFuture.reportGet(CompletableFuture.java:386)
+	at java.base/java.util.concurrent.CompletableFuture.get(CompletableFuture.java:2096)
+	at org.eclipse.lsp4e.jdt.LSJavaHoverProvider.getHoverInfo2(LSJavaHoverProvider.java:66)
+	at org.eclipse.jdt.internal.ui.text.java.hover.BestMatchHover.getHoverInfo2(BestMatchHover.java:165)
+	at org.eclipse.jdt.internal.ui.text.java.hover.BestMatchHover.getHoverInfo2(BestMatchHover.java:131)
+	at org.eclipse.jdt.internal.ui.text.java.hover.JavaEditorTextHoverProxy.getHoverInfo2(JavaEditorTextHoverProxy.java:89)
+	at org.eclipse.jface.text.TextViewerHoverManager$1.run(TextViewerHoverManager.java:155)
+
+!ENTRY org.eclipse.lsp4e 2 0 2025-09-14 18:49:57.737
+!MESSAGE Javadoc unavailable. Failed to obtain it.
+!STACK 0
+java.lang.InterruptedException
+	at java.base/java.util.concurrent.CompletableFuture.reportGet(CompletableFuture.java:386)
+	at java.base/java.util.concurrent.CompletableFuture.get(CompletableFuture.java:2096)
+	at org.eclipse.lsp4e.jdt.LSJavaHoverProvider.getHoverInfo2(LSJavaHoverProvider.java:66)
+	at org.eclipse.jdt.internal.ui.text.java.hover.BestMatchHover.getHoverInfo2(BestMatchHover.java:165)
+	at org.eclipse.jdt.internal.ui.text.java.hover.BestMatchHover.getHoverInfo2(BestMatchHover.java:131)
+	at org.eclipse.jdt.internal.ui.text.java.hover.JavaEditorTextHoverProxy.getHoverInfo2(JavaEditorTextHoverProxy.java:89)
+	at org.eclipse.jface.text.TextViewerHoverManager$1.run(TextViewerHoverManager.java:155)
+
+!ENTRY org.eclipse.lsp4e 2 0 2025-09-14 18:52:10.954
+!MESSAGE Javadoc unavailable. Failed to obtain it.
+!STACK 0
+java.lang.InterruptedException
+	at java.base/java.util.concurrent.CompletableFuture.reportGet(CompletableFuture.java:386)
+	at java.base/java.util.concurrent.CompletableFuture.get(CompletableFuture.java:2096)
+	at org.eclipse.lsp4e.jdt.LSJavaHoverProvider.getHoverInfo2(LSJavaHoverProvider.java:66)
+	at org.eclipse.jdt.internal.ui.text.java.hover.BestMatchHover.getHoverInfo2(BestMatchHover.java:165)
+	at org.eclipse.jdt.internal.ui.text.java.hover.BestMatchHover.getHoverInfo2(BestMatchHover.java:131)
+	at org.eclipse.jdt.internal.ui.text.java.hover.JavaEditorTextHoverProxy.getHoverInfo2(JavaEditorTextHoverProxy.java:89)
+	at org.eclipse.jface.text.TextViewerHoverManager$1.run(TextViewerHoverManager.java:155)
+
+!ENTRY org.eclipse.lsp4e 1 0 2025-09-14 19:06:59.838
+!MESSAGE [Info]	[fetchChat] Request 639663b5-6b74-4e02-9587-7ee5502f4dc4 at <https://api.individual.githubcopilot.com/chat/completions> finished with 200 status after 521.091003999114ms
+
+!ENTRY org.eclipse.lsp4e 1 0 2025-09-14 19:06:59.882
+!MESSAGE [Info]	[streamMessages] message 0 returned. finish reason: [stop]
+
+!ENTRY org.eclipse.lsp4e 1 0 2025-09-14 19:07:00.693
+!MESSAGE [Info]	[fetchChat] Request 1e8e1058-9323-4cfd-b9f5-057b0db1f545 at <https://api.individual.githubcopilot.com/chat/completions> finished with 200 status after 742.9025560002774ms
+
+!ENTRY org.eclipse.lsp4e 1 0 2025-09-14 19:07:05.632
+!MESSAGE [Info]	[streamMessages] message 0 returned. finish reason: [stop]
+
+!ENTRY org.eclipse.lsp4e 1 0 2025-09-14 19:07:06.221
+!MESSAGE [Info]	[fetchChat] Request ded868e3-d5f4-4346-8d41-4d17c469ac30 at <https://api.individual.githubcopilot.com/chat/completions> finished with 200 status after 704.8851059991866ms
+
+!ENTRY org.eclipse.lsp4e 1 0 2025-09-14 19:07:06.355
+!MESSAGE [Info]	[streamMessages] message 0 returned. finish reason: [stop]
