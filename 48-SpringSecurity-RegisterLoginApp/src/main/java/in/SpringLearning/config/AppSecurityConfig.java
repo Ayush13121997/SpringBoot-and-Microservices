@@ -22,6 +22,7 @@ import in.SpringLearning.repo.CustomerService;
 @EnableWebSecurity
 public class AppSecurityConfig {
 	
+	
 	@Autowired
 	CustomerService customerService;
 	
